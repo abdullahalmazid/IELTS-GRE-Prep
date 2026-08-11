@@ -1,0 +1,1911 @@
+[
+ {
+  "word": "abandon",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To leave permanently or give up completely.",
+  "syn": [
+   "forsake",
+   "relinquish",
+   "desert"
+  ],
+  "ant": [
+   "retain",
+   "maintain"
+  ],
+  "ex": "The plan was abandoned after the funding collapsed.",
+  "id": 1
+ },
+ {
+  "word": "abate",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To become less intense or widespread.",
+  "syn": [
+   "subside",
+   "diminish",
+   "wane"
+  ],
+  "ant": [
+   "intensify",
+   "escalate"
+  ],
+  "ex": "The storm abated shortly before dawn.",
+  "id": 2
+ },
+ {
+  "word": "aberration",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "A departure from what is normal or expected.",
+  "syn": [
+   "anomaly",
+   "deviation",
+   "oddity"
+  ],
+  "ant": [
+   "norm",
+   "regularity"
+  ],
+  "ex": "The result was an aberration, not a trend.",
+  "id": 3
+ },
+ {
+  "word": "abeyance",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "A state of temporary suspension or inactivity.",
+  "syn": [
+   "suspension",
+   "dormancy",
+   "latency"
+  ],
+  "ant": [
+   "continuation",
+   "operation"
+  ],
+  "ex": "The rule was held in abeyance pending review.",
+  "id": 4
+ },
+ {
+  "word": "abjure",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To renounce a belief or claim formally.",
+  "syn": [
+   "renounce",
+   "forswear",
+   "repudiate"
+  ],
+  "ant": [
+   "embrace",
+   "affirm"
+  ],
+  "ex": "He abjured his earlier position under pressure.",
+  "id": 5
+ },
+ {
+  "word": "abrupt",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Sudden and unexpected; also curt in manner.",
+  "syn": [
+   "sudden",
+   "precipitous",
+   "curt"
+  ],
+  "ant": [
+   "gradual",
+   "gentle"
+  ],
+  "ex": "There was an abrupt halt in production.",
+  "id": 6
+ },
+ {
+  "word": "abscond",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To leave secretly to avoid arrest or obligation.",
+  "syn": [
+   "flee",
+   "decamp",
+   "bolt"
+  ],
+  "ant": [
+   "remain",
+   "surrender"
+  ],
+  "ex": "The treasurer absconded with the funds.",
+  "id": 7
+ },
+ {
+  "word": "abstract",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Existing as an idea rather than a physical thing.",
+  "syn": [
+   "theoretical",
+   "conceptual",
+   "intangible"
+  ],
+  "ant": [
+   "concrete",
+   "tangible"
+  ],
+  "ex": "Justice is an abstract concept.",
+  "id": 8
+ },
+ {
+  "word": "abstruse",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Difficult to understand; obscure.",
+  "syn": [
+   "arcane",
+   "recondite",
+   "esoteric"
+  ],
+  "ant": [
+   "accessible",
+   "lucid"
+  ],
+  "ex": "The paper is abstruse even to specialists.",
+  "id": 9
+ },
+ {
+  "word": "access",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The right or opportunity to use or enter something.",
+  "syn": [
+   "entry",
+   "admission",
+   "availability"
+  ],
+  "ant": [
+   "exclusion",
+   "denial"
+  ],
+  "ex": "Rural areas still lack access to broadband.",
+  "id": 10
+ },
+ {
+  "word": "accolade",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "An award or expression of praise.",
+  "syn": [
+   "honour",
+   "commendation",
+   "tribute"
+  ],
+  "ant": [
+   "criticism",
+   "censure"
+  ],
+  "ex": "The film collected accolades at every festival.",
+  "id": 11
+ },
+ {
+  "word": "accommodation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A place to live or stay; also, an adjustment to suit others.",
+  "syn": [
+   "lodging",
+   "housing",
+   "compromise"
+  ],
+  "ant": [
+   "homelessness"
+  ],
+  "ex": "Student accommodation is scarce and costly.",
+  "id": 12
+ },
+ {
+  "word": "accompany",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To go somewhere with someone, or to occur alongside something.",
+  "syn": [
+   "escort",
+   "attend",
+   "coincide with"
+  ],
+  "ant": [
+   "abandon",
+   "leave"
+  ],
+  "ex": "Fever often accompanies infection.",
+  "id": 13
+ },
+ {
+  "word": "accumulation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A gradual gathering or increase of something.",
+  "syn": [
+   "build-up",
+   "aggregation",
+   "amassing"
+  ],
+  "ant": [
+   "depletion",
+   "dispersal"
+  ],
+  "ex": "The accumulation of plastic in the ocean is accelerating.",
+  "id": 14
+ },
+ {
+  "word": "accurate",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Correct in every detail.",
+  "syn": [
+   "precise",
+   "exact",
+   "faithful"
+  ],
+  "ant": [
+   "inaccurate",
+   "erroneous"
+  ],
+  "ex": "Accurate data is essential for forecasting.",
+  "id": 15
+ },
+ {
+  "word": "acerbic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Sharp and cutting in tone or manner.",
+  "syn": [
+   "caustic",
+   "biting",
+   "trenchant"
+  ],
+  "ant": [
+   "gentle",
+   "mild"
+  ],
+  "ex": "Her acerbic review ended the play's run.",
+  "id": 16
+ },
+ {
+  "word": "achieve",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To successfully reach a goal through effort or skill.",
+  "syn": [
+   "accomplish",
+   "attain",
+   "realize"
+  ],
+  "ant": [
+   "fail",
+   "forfeit"
+  ],
+  "ex": "She achieved a band 8 after six months of study.",
+  "id": 17
+ },
+ {
+  "word": "acknowledge",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To accept or admit the truth or existence of something.",
+  "syn": [
+   "admit",
+   "concede",
+   "recognise"
+  ],
+  "ant": [
+   "deny",
+   "dismiss"
+  ],
+  "ex": "The report acknowledges serious shortcomings.",
+  "id": 18
+ },
+ {
+  "word": "acquiesce",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To accept something reluctantly but without protest.",
+  "syn": [
+   "comply",
+   "assent",
+   "yield"
+  ],
+  "ant": [
+   "resist",
+   "object"
+  ],
+  "ex": "The board acquiesced to the merger.",
+  "id": 19
+ },
+ {
+  "word": "acquisition",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "The act of gaining possession of something, or learning a skill.",
+  "syn": [
+   "procurement",
+   "attainment",
+   "takeover"
+  ],
+  "ant": [
+   "loss",
+   "disposal"
+  ],
+  "ex": "Language acquisition is fastest before age seven.",
+  "id": 20
+ },
+ {
+  "word": "acrimonious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Angry and bitter in tone.",
+  "syn": [
+   "rancorous",
+   "caustic",
+   "vitriolic"
+  ],
+  "ant": [
+   "amicable",
+   "cordial"
+  ],
+  "ex": "The negotiations grew acrimonious.",
+  "id": 21
+ },
+ {
+  "word": "activity",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Something done for a purpose; a state of being busy.",
+  "syn": [
+   "action",
+   "pursuit",
+   "occupation"
+  ],
+  "ant": [
+   "inactivity",
+   "idleness"
+  ],
+  "ex": "Physical activity lowers the risk of diabetes.",
+  "id": 22
+ },
+ {
+  "word": "adamant",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Refusing to change one's mind.",
+  "syn": [
+   "unyielding",
+   "resolute",
+   "obdurate"
+  ],
+  "ant": [
+   "flexible",
+   "yielding"
+  ],
+  "ex": "She was adamant that no exception be made.",
+  "id": 23
+ },
+ {
+  "word": "adaptation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A change made to suit new conditions.",
+  "syn": [
+   "adjustment",
+   "modification",
+   "acclimatisation"
+  ],
+  "ant": [
+   "rigidity",
+   "stagnation"
+  ],
+  "ex": "Adaptation to warmer climates is now unavoidable.",
+  "id": 24
+ },
+ {
+  "word": "adequate",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Satisfactory in quality or quantity, though not outstanding.",
+  "syn": [
+   "sufficient",
+   "acceptable",
+   "passable"
+  ],
+  "ant": [
+   "inadequate",
+   "deficient"
+  ],
+  "ex": "The housing was barely adequate for a family.",
+  "id": 25
+ },
+ {
+  "word": "adjacent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Next to or adjoining something else.",
+  "syn": [
+   "neighbouring",
+   "contiguous",
+   "abutting"
+  ],
+  "ant": [
+   "distant",
+   "remote"
+  ],
+  "ex": "The lab is adjacent to the main library.",
+  "id": 26
+ },
+ {
+  "word": "adjust",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To alter slightly to achieve a better fit or result.",
+  "syn": [
+   "adapt",
+   "modify",
+   "fine-tune"
+  ],
+  "ant": [
+   "disturb",
+   "leave alone"
+  ],
+  "ex": "Prices are adjusted for inflation.",
+  "id": 27
+ },
+ {
+  "word": "administration",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The process of managing an organisation, or the people who do so.",
+  "syn": [
+   "management",
+   "governance",
+   "bureaucracy"
+  ],
+  "ant": [
+   "mismanagement"
+  ],
+  "ex": "Hospital administration absorbs a large share of the budget.",
+  "id": 28
+ },
+ {
+  "word": "admonish",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To warn or reprimand firmly but not harshly.",
+  "syn": [
+   "reprove",
+   "caution",
+   "rebuke"
+  ],
+  "ant": [
+   "praise",
+   "commend"
+  ],
+  "ex": "The judge admonished counsel for interrupting.",
+  "id": 29
+ },
+ {
+  "word": "adult",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A fully grown person or animal.",
+  "syn": [
+   "grown-up",
+   "mature individual"
+  ],
+  "ant": [
+   "child",
+   "juvenile"
+  ],
+  "ex": "One in four adults reports chronic stress.",
+  "id": 30
+ },
+ {
+  "word": "adulterate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To make something impure by adding inferior substances.",
+  "syn": [
+   "contaminate",
+   "dilute",
+   "debase"
+  ],
+  "ant": [
+   "purify",
+   "refine"
+  ],
+  "ex": "Honey is frequently adulterated with syrup.",
+  "id": 31
+ },
+ {
+  "word": "adumbrate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To outline faintly or foreshadow.",
+  "syn": [
+   "sketch",
+   "foreshadow",
+   "intimate"
+  ],
+  "ant": [
+   "detail",
+   "spell out"
+  ],
+  "ex": "The preface adumbrates the book's central claim.",
+  "id": 32
+ },
+ {
+  "word": "advance",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Forward movement or progress; an improvement.",
+  "syn": [
+   "progress",
+   "breakthrough",
+   "headway"
+  ],
+  "ant": [
+   "retreat",
+   "regression"
+  ],
+  "ex": "Recent advances in genetics are astonishing.",
+  "id": 33
+ },
+ {
+  "word": "advocate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To publicly recommend or support something.",
+  "syn": [
+   "champion",
+   "endorse",
+   "promote"
+  ],
+  "ant": [
+   "oppose",
+   "denounce"
+  ],
+  "ex": "Campaigners advocate a total ban on the pesticide.",
+  "id": 34
+ },
+ {
+  "word": "aesthetic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Concerned with beauty or artistic taste.",
+  "syn": [
+   "artistic",
+   "tasteful",
+   "visual"
+  ],
+  "ant": [
+   "utilitarian",
+   "unattractive"
+  ],
+  "ex": "The changes were aesthetic rather than functional.",
+  "id": 35
+ },
+ {
+  "word": "affable",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Friendly, good-natured and easy to talk to.",
+  "syn": [
+   "genial",
+   "amiable",
+   "cordial"
+  ],
+  "ant": [
+   "surly",
+   "aloof"
+  ],
+  "ex": "An affable host puts guests at ease.",
+  "id": 36
+ },
+ {
+  "word": "affect",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To influence or produce a change in something.",
+  "syn": [
+   "influence",
+   "impact",
+   "alter"
+  ],
+  "ant": [
+   "preserve",
+   "leave unchanged"
+  ],
+  "ex": "Rising fuel prices affect every sector of the economy.",
+  "id": 37
+ },
+ {
+  "word": "affinity",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "A natural liking or close relationship.",
+  "syn": [
+   "rapport",
+   "kinship",
+   "attraction"
+  ],
+  "ant": [
+   "aversion",
+   "antipathy"
+  ],
+  "ex": "She has an affinity for languages.",
+  "id": 38
+ },
+ {
+  "word": "aggrandize",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To increase power, wealth or reputation, often unjustly.",
+  "syn": [
+   "exalt",
+   "magnify",
+   "enlarge"
+  ],
+  "ant": [
+   "belittle",
+   "diminish"
+  ],
+  "ex": "The war served only to aggrandize the general.",
+  "id": 39
+ },
+ {
+  "word": "aggregate",
+  "pos": "noun",
+  "level": "BOTH",
+  "list": 5,
+  "def": "A total formed by combining several separate amounts.",
+  "syn": [
+   "total",
+   "sum",
+   "composite"
+  ],
+  "ant": [
+   "component",
+   "individual"
+  ],
+  "ex": "In aggregate, output rose by 6 percent.",
+  "id": 40
+ },
+ {
+  "word": "aid",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Help, especially money or supplies given to those in need.",
+  "syn": [
+   "assistance",
+   "relief",
+   "support"
+  ],
+  "ant": [
+   "hindrance",
+   "obstruction"
+  ],
+  "ex": "Foreign aid accounts for a fifth of the budget.",
+  "id": 41
+ },
+ {
+  "word": "alacrity",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Cheerful readiness and speed.",
+  "syn": [
+   "eagerness",
+   "promptness",
+   "enthusiasm"
+  ],
+  "ant": [
+   "reluctance",
+   "sluggishness"
+  ],
+  "ex": "He accepted the post with alacrity.",
+  "id": 42
+ },
+ {
+  "word": "albeit",
+  "pos": "conjunction",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Although; even though.",
+  "syn": [
+   "though",
+   "even if",
+   "notwithstanding"
+  ],
+  "ant": [],
+  "ex": "The scheme worked, albeit at enormous cost.",
+  "id": 43
+ },
+ {
+  "word": "alleviate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To make suffering or a problem less severe.",
+  "syn": [
+   "mitigate",
+   "ease",
+   "assuage"
+  ],
+  "ant": [
+   "aggravate",
+   "worsen"
+  ],
+  "ex": "Aid alleviated the worst of the famine.",
+  "id": 44
+ },
+ {
+  "word": "aloof",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Distant and uninvolved emotionally.",
+  "syn": [
+   "detached",
+   "remote",
+   "standoffish"
+  ],
+  "ant": [
+   "friendly",
+   "engaged"
+  ],
+  "ex": "He remained aloof from office politics.",
+  "id": 45
+ },
+ {
+  "word": "alter",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To change something, usually slightly.",
+  "syn": [
+   "modify",
+   "amend",
+   "adjust"
+  ],
+  "ant": [
+   "preserve",
+   "retain"
+  ],
+  "ex": "Rising temperatures alter migration patterns.",
+  "id": 46
+ },
+ {
+  "word": "alternative",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "One of two or more possible choices.",
+  "syn": [
+   "option",
+   "substitute",
+   "other choice"
+  ],
+  "ant": [
+   "necessity",
+   "only option"
+  ],
+  "ex": "Cycling is a cheap alternative to driving.",
+  "id": 47
+ },
+ {
+  "word": "amalgamate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To combine into one unified whole.",
+  "syn": [
+   "merge",
+   "fuse",
+   "unite"
+  ],
+  "ant": [
+   "separate",
+   "dissolve"
+  ],
+  "ex": "The unions amalgamated in 1998.",
+  "id": 48
+ },
+ {
+  "word": "ambiguous",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Open to more than one interpretation; unclear.",
+  "syn": [
+   "equivocal",
+   "vague",
+   "cryptic"
+  ],
+  "ant": [
+   "unambiguous",
+   "explicit"
+  ],
+  "ex": "The wording is dangerously ambiguous.",
+  "id": 49
+ },
+ {
+  "word": "ameliorate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To make a bad situation better.",
+  "syn": [
+   "improve",
+   "ease",
+   "remedy"
+  ],
+  "ant": [
+   "exacerbate",
+   "worsen"
+  ],
+  "ex": "Subsidies ameliorated but did not solve poverty.",
+  "id": 50
+ },
+ {
+  "word": "amendment",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A change made to a law, document or agreement.",
+  "syn": [
+   "revision",
+   "modification",
+   "alteration"
+  ],
+  "ant": [
+   "retention"
+  ],
+  "ex": "The amendment passed by a narrow margin.",
+  "id": 51
+ },
+ {
+  "word": "anachronism",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Something placed in the wrong historical period.",
+  "syn": [
+   "misplacement",
+   "incongruity",
+   "relic"
+  ],
+  "ant": [],
+  "ex": "The clock in Caesar's tent is a famous anachronism.",
+  "id": 52
+ },
+ {
+  "word": "analogous",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Similar in a way that allows comparison.",
+  "syn": [
+   "comparable",
+   "parallel",
+   "akin"
+  ],
+  "ant": [
+   "dissimilar",
+   "unrelated"
+  ],
+  "ex": "The brain is often described as analogous to a computer.",
+  "id": 53
+ },
+ {
+  "word": "analysis",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A detailed examination of something in order to understand its parts.",
+  "syn": [
+   "examination",
+   "scrutiny",
+   "breakdown"
+  ],
+  "ant": [
+   "synthesis",
+   "guesswork"
+  ],
+  "ex": "The analysis revealed a clear seasonal pattern.",
+  "id": 54
+ },
+ {
+  "word": "anathema",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Something intensely disliked or cursed.",
+  "syn": [
+   "abomination",
+   "bane",
+   "taboo"
+  ],
+  "ant": [
+   "favourite",
+   "blessing"
+  ],
+  "ex": "Censorship is anathema to journalists.",
+  "id": 55
+ },
+ {
+  "word": "ancestor",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A person from whom one is descended.",
+  "syn": [
+   "forebear",
+   "forefather",
+   "progenitor"
+  ],
+  "ant": [
+   "descendant",
+   "offspring"
+  ],
+  "ex": "Our ancestors migrated out of Africa.",
+  "id": 56
+ },
+ {
+  "word": "annual",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Happening once every year.",
+  "syn": [
+   "yearly",
+   "per annum"
+  ],
+  "ant": [
+   "daily",
+   "perpetual"
+  ],
+  "ex": "The company publishes an annual report.",
+  "id": 57
+ },
+ {
+  "word": "anomalous",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Deviating from what is standard or expected.",
+  "syn": [
+   "irregular",
+   "atypical",
+   "aberrant"
+  ],
+  "ant": [
+   "normal",
+   "typical"
+  ],
+  "ex": "The reading was anomalous and was discarded.",
+  "id": 58
+ },
+ {
+  "word": "anticipate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To expect something and prepare for it.",
+  "syn": [
+   "foresee",
+   "expect",
+   "forestall"
+  ],
+  "ant": [
+   "overlook",
+   "be surprised by"
+  ],
+  "ex": "Planners failed to anticipate the population surge.",
+  "id": 59
+ },
+ {
+  "word": "antipathy",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "A deep-seated dislike.",
+  "syn": [
+   "hostility",
+   "aversion",
+   "enmity"
+  ],
+  "ant": [
+   "affinity",
+   "fondness"
+  ],
+  "ex": "There is mutual antipathy between the factions.",
+  "id": 60
+ },
+ {
+  "word": "apathy",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Lack of interest, enthusiasm or concern.",
+  "syn": [
+   "indifference",
+   "listlessness",
+   "torpor"
+  ],
+  "ant": [
+   "enthusiasm",
+   "zeal"
+  ],
+  "ex": "Voter apathy favours incumbents.",
+  "id": 61
+ },
+ {
+  "word": "aplomb",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Self-confidence and poise in difficult situations.",
+  "syn": [
+   "composure",
+   "poise",
+   "assurance"
+  ],
+  "ant": [
+   "panic",
+   "awkwardness"
+  ],
+  "ex": "She handled the hostile questions with aplomb.",
+  "id": 62
+ },
+ {
+  "word": "apocryphal",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Widely circulated but probably untrue.",
+  "syn": [
+   "spurious",
+   "unsubstantiated",
+   "legendary"
+  ],
+  "ant": [
+   "authenticated",
+   "factual"
+  ],
+  "ex": "The quotation is almost certainly apocryphal.",
+  "id": 63
+ },
+ {
+  "word": "apparent",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Clearly visible or seeming to be true.",
+  "syn": [
+   "evident",
+   "obvious",
+   "ostensible"
+  ],
+  "ant": [
+   "hidden",
+   "obscure"
+  ],
+  "ex": "The benefits soon became apparent.",
+  "id": 64
+ },
+ {
+  "word": "appease",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To pacify someone by giving in to demands.",
+  "syn": [
+   "placate",
+   "mollify",
+   "conciliate"
+  ],
+  "ant": [
+   "provoke",
+   "antagonise"
+  ],
+  "ex": "Concessions failed to appease the protesters.",
+  "id": 65
+ },
+ {
+  "word": "appendix",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Supplementary material added at the end of a document.",
+  "syn": [
+   "addendum",
+   "supplement",
+   "annexe"
+  ],
+  "ant": [
+   "main text"
+  ],
+  "ex": "Full data appear in Appendix B.",
+  "id": 66
+ },
+ {
+  "word": "application",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A formal request, or the practical use of something.",
+  "syn": [
+   "request",
+   "use",
+   "implementation"
+  ],
+  "ant": [
+   "misuse",
+   "withdrawal"
+  ],
+  "ex": "The theory has few practical applications.",
+  "id": 67
+ },
+ {
+  "word": "appreciate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To recognise the value of something; to increase in value.",
+  "syn": [
+   "value",
+   "esteem",
+   "rise"
+  ],
+  "ant": [
+   "disparage",
+   "depreciate"
+  ],
+  "ex": "Property in the area has appreciated sharply.",
+  "id": 68
+ },
+ {
+  "word": "approach",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A particular way of dealing with a problem or task.",
+  "syn": [
+   "method",
+   "strategy",
+   "tactic"
+  ],
+  "ant": [
+   "avoidance"
+  ],
+  "ex": "A gradual approach to reform proved more effective.",
+  "id": 69
+ },
+ {
+  "word": "approbation",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Approval or praise, often official.",
+  "syn": [
+   "endorsement",
+   "commendation",
+   "sanction"
+  ],
+  "ant": [
+   "disapproval",
+   "censure"
+  ],
+  "ex": "The plan won the committee's approbation.",
+  "id": 70
+ },
+ {
+  "word": "appropriate",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Suitable or fitting for a particular situation.",
+  "syn": [
+   "suitable",
+   "fitting",
+   "apt"
+  ],
+  "ant": [
+   "inappropriate",
+   "unsuitable"
+  ],
+  "ex": "Formal language is appropriate in academic writing.",
+  "id": 71
+ },
+ {
+  "word": "approximate",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Close to but not exactly correct.",
+  "syn": [
+   "rough",
+   "estimated",
+   "near"
+  ],
+  "ant": [
+   "exact",
+   "precise"
+  ],
+  "ex": "Give an approximate figure if you are unsure.",
+  "id": 72
+ },
+ {
+  "word": "arbitrary",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Based on personal whim rather than reason or system.",
+  "syn": [
+   "random",
+   "capricious",
+   "whimsical"
+  ],
+  "ant": [
+   "reasoned",
+   "systematic"
+  ],
+  "ex": "The cut-off date seems entirely arbitrary.",
+  "id": 73
+ },
+ {
+  "word": "arcane",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Known only to a few; mysterious.",
+  "syn": [
+   "esoteric",
+   "obscure",
+   "recondite"
+  ],
+  "ant": [
+   "common",
+   "well-known"
+  ],
+  "ex": "The rules of the ritual are deliberately arcane.",
+  "id": 74
+ },
+ {
+  "word": "ardent",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Very enthusiastic or passionate.",
+  "syn": [
+   "fervent",
+   "zealous",
+   "impassioned"
+  ],
+  "ant": [
+   "indifferent",
+   "apathetic"
+  ],
+  "ex": "He is an ardent defender of press freedom.",
+  "id": 75
+ },
+ {
+  "word": "arduous",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Requiring great effort; difficult and tiring.",
+  "syn": [
+   "strenuous",
+   "laborious",
+   "gruelling"
+  ],
+  "ant": [
+   "easy",
+   "effortless"
+  ],
+  "ex": "The ascent proved more arduous than expected.",
+  "id": 76
+ },
+ {
+  "word": "area",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A region, or a particular subject or field of activity.",
+  "syn": [
+   "region",
+   "zone",
+   "field"
+  ],
+  "ant": [
+   "whole",
+   "entirety"
+  ],
+  "ex": "Renewable energy is a growing area of research.",
+  "id": 77
+ },
+ {
+  "word": "articulate",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Able to express ideas fluently and clearly.",
+  "syn": [
+   "eloquent",
+   "fluent",
+   "lucid"
+  ],
+  "ant": [
+   "inarticulate",
+   "incoherent"
+  ],
+  "ex": "She is the movement's most articulate spokesperson.",
+  "id": 78
+ },
+ {
+  "word": "artificial",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Made by humans rather than occurring naturally.",
+  "syn": [
+   "synthetic",
+   "man-made",
+   "simulated"
+  ],
+  "ant": [
+   "natural",
+   "genuine"
+  ],
+  "ex": "Artificial lighting disrupts insect behaviour.",
+  "id": 79
+ },
+ {
+  "word": "artless",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Simple and natural, without deceit.",
+  "syn": [
+   "ingenuous",
+   "guileless",
+   "candid"
+  ],
+  "ant": [
+   "cunning",
+   "contrived"
+  ],
+  "ex": "His artless honesty disarmed the interviewer.",
+  "id": 80
+ },
+ {
+  "word": "ascetic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Practising severe self-discipline and abstinence.",
+  "syn": [
+   "austere",
+   "abstemious",
+   "self-denying"
+  ],
+  "ant": [
+   "indulgent",
+   "hedonistic"
+  ],
+  "ex": "He led an ascetic life in the mountains.",
+  "id": 81
+ },
+ {
+  "word": "aspect",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "One particular part or feature of a situation or idea.",
+  "syn": [
+   "facet",
+   "element",
+   "dimension"
+  ],
+  "ant": [
+   "whole"
+  ],
+  "ex": "Cost is only one aspect of the problem.",
+  "id": 82
+ },
+ {
+  "word": "assembly",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A gathering of people, or the act of putting parts together.",
+  "syn": [
+   "gathering",
+   "congregation",
+   "construction"
+  ],
+  "ant": [
+   "dispersal",
+   "dismantling"
+  ],
+  "ex": "The right of assembly is constitutionally protected.",
+  "id": 83
+ },
+ {
+  "word": "assessment",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "An evaluation of the nature or quality of something.",
+  "syn": [
+   "appraisal",
+   "evaluation",
+   "judgement"
+  ],
+  "ant": [
+   "disregard"
+  ],
+  "ex": "An environmental assessment is required by law.",
+  "id": 84
+ },
+ {
+  "word": "assiduous",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Showing great care and persistent effort.",
+  "syn": [
+   "diligent",
+   "sedulous",
+   "industrious"
+  ],
+  "ant": [
+   "negligent",
+   "lazy"
+  ],
+  "ex": "Assiduous record-keeping saved the case.",
+  "id": 85
+ },
+ {
+  "word": "assign",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To allocate a task or resource to someone.",
+  "syn": [
+   "allocate",
+   "designate",
+   "apportion"
+  ],
+  "ant": [
+   "withhold",
+   "revoke"
+  ],
+  "ex": "Each student was assigned a supervisor.",
+  "id": 86
+ },
+ {
+  "word": "assistance",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Help or support given to someone.",
+  "syn": [
+   "aid",
+   "support",
+   "help"
+  ],
+  "ant": [
+   "hindrance",
+   "obstruction"
+  ],
+  "ex": "Financial assistance is available to low-income students.",
+  "id": 87
+ },
+ {
+  "word": "assuage",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To make an unpleasant feeling less intense.",
+  "syn": [
+   "soothe",
+   "alleviate",
+   "allay"
+  ],
+  "ant": [
+   "intensify",
+   "aggravate"
+  ],
+  "ex": "Nothing could assuage their anxiety.",
+  "id": 88
+ },
+ {
+  "word": "assume",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To accept something as true without proof; to take on a role.",
+  "syn": [
+   "presume",
+   "suppose",
+   "postulate"
+  ],
+  "ant": [
+   "verify",
+   "doubt"
+  ],
+  "ex": "Many people assume that technology always improves life.",
+  "id": 89
+ },
+ {
+  "word": "assure",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To tell someone confidently that something is true.",
+  "syn": [
+   "reassure",
+   "promise",
+   "convince"
+  ],
+  "ant": [
+   "alarm",
+   "doubt"
+  ],
+  "ex": "Officials assured residents the water was safe.",
+  "id": 90
+ },
+ {
+  "word": "astute",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Showing sharp judgement, especially to one's advantage.",
+  "syn": [
+   "shrewd",
+   "perceptive",
+   "canny"
+  ],
+  "ant": [
+   "obtuse",
+   "naive"
+  ],
+  "ex": "An astute investor sold before the crash.",
+  "id": 91
+ },
+ {
+  "word": "attain",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To reach or achieve something after effort.",
+  "syn": [
+   "achieve",
+   "accomplish",
+   "secure"
+  ],
+  "ant": [
+   "fail",
+   "forfeit"
+  ],
+  "ex": "Few attain fluency without immersion.",
+  "id": 92
+ },
+ {
+  "word": "attenuate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To reduce the force, effect or thickness of something.",
+  "syn": [
+   "weaken",
+   "dilute",
+   "lessen"
+  ],
+  "ant": [
+   "strengthen",
+   "intensify"
+  ],
+  "ex": "Distance attenuates the signal.",
+  "id": 93
+ },
+ {
+  "word": "attitude",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A settled way of thinking or feeling about something.",
+  "syn": [
+   "outlook",
+   "stance",
+   "disposition"
+  ],
+  "ant": [
+   "indifference"
+  ],
+  "ex": "Public attitudes towards recycling have shifted.",
+  "id": 94
+ },
+ {
+  "word": "attribute",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To regard something as being caused by a person or thing.",
+  "syn": [
+   "ascribe",
+   "credit",
+   "assign"
+  ],
+  "ant": [
+   "dissociate"
+  ],
+  "ex": "The decline is attributed to habitat loss.",
+  "id": 95
+ },
+ {
+  "word": "audacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Willing to take bold risks; also impudent.",
+  "syn": [
+   "daring",
+   "intrepid",
+   "brazen"
+  ],
+  "ant": [
+   "timid",
+   "cautious"
+  ],
+  "ex": "It was an audacious plan with no fallback.",
+  "id": 96
+ },
+ {
+  "word": "augment",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To make something greater by adding to it.",
+  "syn": [
+   "increase",
+   "supplement",
+   "amplify"
+  ],
+  "ant": [
+   "reduce",
+   "curtail"
+  ],
+  "ex": "She augmented her income with freelance work.",
+  "id": 97
+ },
+ {
+  "word": "auspicious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Suggesting a good chance of future success.",
+  "syn": [
+   "promising",
+   "favourable",
+   "propitious"
+  ],
+  "ant": [
+   "ominous",
+   "inauspicious"
+  ],
+  "ex": "The launch made an auspicious start.",
+  "id": 98
+ },
+ {
+  "word": "austere",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Severely plain; strict and without comfort.",
+  "syn": [
+   "stark",
+   "spartan",
+   "stern"
+  ],
+  "ant": [
+   "lavish",
+   "ornate"
+  ],
+  "ex": "The room was austere but immaculate.",
+  "id": 99
+ },
+ {
+  "word": "author",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A writer of a book or article; the originator of an idea.",
+  "syn": [
+   "writer",
+   "originator",
+   "creator"
+  ],
+  "ant": [
+   "reader",
+   "copier"
+  ],
+  "ex": "The author cites forty separate studies.",
+  "id": 100
+ },
+ {
+  "word": "authority",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The power to give orders or make decisions, or an expert in a field.",
+  "syn": [
+   "power",
+   "jurisdiction",
+   "expert"
+  ],
+  "ant": [
+   "powerlessness",
+   "subordination"
+  ],
+  "ex": "Local authorities control planning permission.",
+  "id": 101
+ },
+ {
+  "word": "automatically",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Done by machine, or happening without conscious thought.",
+  "syn": [
+   "mechanically",
+   "involuntarily",
+   "spontaneously"
+  ],
+  "ant": [
+   "manually",
+   "deliberately"
+  ],
+  "ex": "Payments are deducted automatically.",
+  "id": 102
+ },
+ {
+  "word": "available",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Able to be used or obtained.",
+  "syn": [
+   "accessible",
+   "obtainable",
+   "at hand"
+  ],
+  "ant": [
+   "unavailable",
+   "inaccessible"
+  ],
+  "ex": "Clean water is not available to millions of people.",
+  "id": 103
+ },
+ {
+  "word": "avarice",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Extreme greed for wealth.",
+  "syn": [
+   "greed",
+   "cupidity",
+   "rapacity"
+  ],
+  "ant": [
+   "generosity",
+   "altruism"
+  ],
+  "ex": "Avarice drove the speculative bubble.",
+  "id": 104
+ },
+ {
+  "word": "aver",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To state firmly as true.",
+  "syn": [
+   "assert",
+   "affirm",
+   "declare"
+  ],
+  "ant": [
+   "deny",
+   "retract"
+  ],
+  "ex": "He averred that he had never met the man.",
+  "id": 105
+ },
+ {
+  "word": "avert",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To prevent something bad from happening, or to turn away.",
+  "syn": [
+   "prevent",
+   "forestall",
+   "deflect"
+  ],
+  "ant": [
+   "cause",
+   "provoke"
+  ],
+  "ex": "Swift action averted a full-scale crisis.",
+  "id": 106
+ },
+ {
+  "word": "aware",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Having knowledge or perception of a situation.",
+  "syn": [
+   "conscious",
+   "cognisant",
+   "mindful"
+  ],
+  "ant": [
+   "oblivious",
+   "ignorant"
+  ],
+  "ex": "Consumers are more aware of packaging waste.",
+  "id": 107
+ }
+]

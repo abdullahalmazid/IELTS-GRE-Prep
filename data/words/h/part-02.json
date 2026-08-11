@@ -1,0 +1,288 @@
+[
+ {
+  "word": "hackneyed",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Overused to the point of being meaningless.",
+  "syn": [
+   "trite",
+   "banal",
+   "clichéd"
+  ],
+  "ant": [
+   "original",
+   "fresh"
+  ],
+  "ex": "A hackneyed metaphor about journeys.",
+  "id": 682,
+  "list": 6
+ },
+ {
+  "word": "halcyon",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Idyllically calm and prosperous, usually in memory.",
+  "syn": [
+   "tranquil",
+   "golden",
+   "serene"
+  ],
+  "ant": [
+   "turbulent",
+   "troubled"
+  ],
+  "ex": "The halcyon years before the crash.",
+  "id": 683,
+  "list": 6
+ },
+ {
+  "word": "hamper",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To hinder the movement or progress of something.",
+  "syn": [
+   "impede",
+   "obstruct",
+   "encumber"
+  ],
+  "ant": [
+   "assist",
+   "facilitate"
+  ],
+  "ex": "Snow hampered the rescue effort.",
+  "id": 684,
+  "list": 6
+ },
+ {
+  "word": "haphazard",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Lacking any plan or order.",
+  "syn": [
+   "random",
+   "disorganised",
+   "slapdash"
+  ],
+  "ant": [
+   "systematic",
+   "methodical"
+  ],
+  "ex": "Records were kept in a haphazard fashion.",
+  "id": 685,
+  "list": 6
+ },
+ {
+  "word": "harangue",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A lengthy, aggressive lecture.",
+  "syn": [
+   "tirade",
+   "diatribe",
+   "rant"
+  ],
+  "ant": [
+   "compliment",
+   "praise"
+  ],
+  "ex": "The meeting became a harangue against staff.",
+  "id": 686,
+  "list": 6
+ },
+ {
+  "word": "harbinger",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A sign that something is about to happen.",
+  "syn": [
+   "forerunner",
+   "portent",
+   "precursor"
+  ],
+  "ant": [
+   "aftermath",
+   "result"
+  ],
+  "ex": "Falling orders were a harbinger of recession.",
+  "id": 687,
+  "list": 6
+ },
+ {
+  "word": "haughty",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Arrogantly superior towards others.",
+  "syn": [
+   "disdainful",
+   "supercilious",
+   "imperious"
+  ],
+  "ant": [
+   "humble",
+   "modest"
+  ],
+  "ex": "A haughty dismissal of the objection.",
+  "id": 688,
+  "list": 6
+ },
+ {
+  "word": "hedonist",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person devoted to pleasure.",
+  "syn": [
+   "sensualist",
+   "pleasure-seeker"
+  ],
+  "ant": [
+   "ascetic",
+   "puritan"
+  ],
+  "ex": "The novel follows an unrepentant hedonist.",
+  "id": 689,
+  "list": 6
+ },
+ {
+  "word": "hegemony",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Dominance of one group or state over others.",
+  "syn": [
+   "dominance",
+   "supremacy",
+   "ascendancy"
+  ],
+  "ant": [
+   "subordination",
+   "parity"
+  ],
+  "ex": "Naval hegemony underwrote the empire.",
+  "id": 690,
+  "list": 6
+ },
+ {
+  "word": "heresy",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A belief that contradicts established doctrine.",
+  "syn": [
+   "dissent",
+   "heterodoxy",
+   "apostasy"
+  ],
+  "ant": [
+   "orthodoxy",
+   "conformity"
+  ],
+  "ex": "Questioning growth was economic heresy.",
+  "id": 691,
+  "list": 6
+ },
+ {
+  "word": "heterogeneous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Made up of parts that differ from one another.",
+  "syn": [
+   "diverse",
+   "varied",
+   "mixed"
+  ],
+  "ant": [
+   "homogeneous",
+   "uniform"
+  ],
+  "ex": "A heterogeneous sample across six countries.",
+  "id": 692,
+  "list": 6
+ },
+ {
+  "word": "hiatus",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A pause or gap in a continuous sequence.",
+  "syn": [
+   "break",
+   "interruption",
+   "lull"
+  ],
+  "ant": [
+   "continuation",
+   "continuity"
+  ],
+  "ex": "The band returned after a decade's hiatus.",
+  "id": 693,
+  "list": 6
+ },
+ {
+  "word": "hinder",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To make an action slower or more difficult.",
+  "syn": [
+   "impede",
+   "obstruct",
+   "hamper"
+  ],
+  "ant": [
+   "aid",
+   "expedite"
+  ],
+  "ex": "Poor signage hinders navigation.",
+  "id": 694,
+  "list": 6
+ },
+ {
+  "word": "homage",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Public respect or honour shown to someone.",
+  "syn": [
+   "tribute",
+   "reverence",
+   "respect"
+  ],
+  "ant": [
+   "disrespect",
+   "contempt"
+  ],
+  "ex": "The film pays homage to early documentary.",
+  "id": 695,
+  "list": 6
+ },
+ {
+  "word": "hubris",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Excessive pride that invites downfall.",
+  "syn": [
+   "arrogance",
+   "conceit",
+   "presumption"
+  ],
+  "ant": [
+   "humility",
+   "modesty"
+  ],
+  "ex": "Hubris, not bad luck, sank the venture.",
+  "id": 696,
+  "list": 6
+ },
+ {
+  "word": "hyperbole",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Deliberate exaggeration for effect.",
+  "syn": [
+   "overstatement",
+   "embellishment"
+  ],
+  "ant": [
+   "understatement",
+   "litotes"
+  ],
+  "ex": "The claim is hyperbole dressed as data.",
+  "id": 697,
+  "list": 6
+ }
+]

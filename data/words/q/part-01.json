@@ -1,0 +1,20 @@
+[
+ {
+  "word": "qualitative",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Relating to quality or description rather than numbers.",
+  "syn": [
+   "descriptive",
+   "interpretive",
+   "non-numerical"
+  ],
+  "ant": [
+   "quantitative",
+   "numerical"
+  ],
+  "ex": "Qualitative interviews complemented the survey.",
+  "id": 510
+ }
+]

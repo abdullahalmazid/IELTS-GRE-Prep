@@ -1,0 +1,886 @@
+[
+ {
+  "word": "identical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Exactly the same in every detail.",
+  "syn": [
+   "indistinguishable",
+   "matching",
+   "equivalent"
+  ],
+  "ant": [
+   "different",
+   "distinct"
+  ],
+  "ex": "The two samples produced identical results.",
+  "id": 367
+ },
+ {
+  "word": "identify",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To recognise or establish what something is.",
+  "syn": [
+   "recognise",
+   "pinpoint",
+   "determine"
+  ],
+  "ant": [
+   "overlook",
+   "confuse"
+  ],
+  "ex": "Researchers identified three distinct causes.",
+  "id": 368
+ },
+ {
+  "word": "ignorance",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Lack of knowledge or awareness.",
+  "syn": [
+   "unawareness",
+   "inexperience",
+   "nescience"
+  ],
+  "ant": [
+   "knowledge",
+   "erudition"
+  ],
+  "ex": "Ignorance of the law is no defence.",
+  "id": 369
+ },
+ {
+  "word": "illustrate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To explain something by giving examples or pictures.",
+  "syn": [
+   "exemplify",
+   "demonstrate",
+   "depict"
+  ],
+  "ant": [
+   "obscure",
+   "confuse"
+  ],
+  "ex": "The graph illustrates the seasonal variation.",
+  "id": 370
+ },
+ {
+  "word": "image",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A visual representation, or the impression people have of something.",
+  "syn": [
+   "picture",
+   "depiction",
+   "reputation"
+  ],
+  "ant": [],
+  "ex": "The brand rebuilt its public image.",
+  "id": 371
+ },
+ {
+  "word": "immigration",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The movement of people into a country to settle there.",
+  "syn": [
+   "migration",
+   "settlement",
+   "influx"
+  ],
+  "ant": [
+   "emigration",
+   "exodus"
+  ],
+  "ex": "Immigration has offset the falling birth rate.",
+  "id": 372
+ },
+ {
+  "word": "impact",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A strong effect or influence.",
+  "syn": [
+   "effect",
+   "influence",
+   "consequence"
+  ],
+  "ant": [
+   "irrelevance"
+  ],
+  "ex": "Tourism has a significant impact on local culture.",
+  "id": 373
+ },
+ {
+  "word": "implement",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To put a plan or decision into effect.",
+  "syn": [
+   "execute",
+   "enact",
+   "apply"
+  ],
+  "ant": [
+   "abandon",
+   "repeal"
+  ],
+  "ex": "The reforms were implemented in stages.",
+  "id": 374
+ },
+ {
+  "word": "implicit",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Suggested but not directly expressed.",
+  "syn": [
+   "implied",
+   "tacit",
+   "unspoken"
+  ],
+  "ant": [
+   "explicit",
+   "stated"
+  ],
+  "ex": "There is an implicit assumption of good faith.",
+  "id": 375
+ },
+ {
+  "word": "imply",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To suggest something indirectly rather than state it.",
+  "syn": [
+   "suggest",
+   "insinuate",
+   "intimate"
+  ],
+  "ant": [
+   "state",
+   "declare"
+  ],
+  "ex": "The data imply a causal link, but do not prove one.",
+  "id": 376
+ },
+ {
+  "word": "incentive",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Something that motivates a person to act.",
+  "syn": [
+   "inducement",
+   "stimulus",
+   "motivation"
+  ],
+  "ant": [
+   "deterrent",
+   "disincentive"
+  ],
+  "ex": "Tax incentives encouraged solar installation.",
+  "id": 377
+ },
+ {
+  "word": "inclination",
+  "pos": "noun",
+  "level": "BOTH",
+  "list": 5,
+  "def": "A natural tendency to act or feel a certain way.",
+  "syn": [
+   "tendency",
+   "propensity",
+   "predisposition"
+  ],
+  "ant": [
+   "aversion",
+   "disinclination"
+  ],
+  "ex": "He showed little inclination to compromise.",
+  "id": 378
+ },
+ {
+  "word": "income",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Money received from work or investments.",
+  "syn": [
+   "earnings",
+   "revenue",
+   "salary"
+  ],
+  "ant": [
+   "expenditure",
+   "outlay"
+  ],
+  "ex": "Household income has stagnated for a decade.",
+  "id": 379
+ },
+ {
+  "word": "incompatible",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Unable to exist or work together.",
+  "syn": [
+   "conflicting",
+   "irreconcilable",
+   "mismatched"
+  ],
+  "ant": [
+   "compatible",
+   "harmonious"
+  ],
+  "ex": "The two goals are fundamentally incompatible.",
+  "id": 380
+ },
+ {
+  "word": "incorporated",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Included as part of a whole; formed into a legal company.",
+  "syn": [
+   "integrated",
+   "absorbed",
+   "merged"
+  ],
+  "ant": [
+   "excluded",
+   "separate"
+  ],
+  "ex": "Feedback was incorporated into the final design.",
+  "id": 381
+ },
+ {
+  "word": "index",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "An alphabetical list, or a measure showing change in values.",
+  "syn": [
+   "list",
+   "indicator",
+   "gauge"
+  ],
+  "ant": [],
+  "ex": "The consumer price index rose by 3 percent.",
+  "id": 382
+ },
+ {
+  "word": "indicate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To point out or show that something is likely true.",
+  "syn": [
+   "suggest",
+   "signal",
+   "denote"
+  ],
+  "ant": [
+   "conceal",
+   "obscure"
+  ],
+  "ex": "Early results indicate a modest improvement.",
+  "id": 383
+ },
+ {
+  "word": "individual",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A single person considered separately from a group.",
+  "syn": [
+   "person",
+   "single",
+   "sole"
+  ],
+  "ant": [
+   "group",
+   "collective"
+  ],
+  "ex": "Each individual reacts differently to stress.",
+  "id": 384
+ },
+ {
+  "word": "induce",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To persuade someone to act, or to bring about a state.",
+  "syn": [
+   "prompt",
+   "provoke",
+   "elicit"
+  ],
+  "ant": [
+   "deter",
+   "prevent"
+  ],
+  "ex": "The drug induces drowsiness.",
+  "id": 385
+ },
+ {
+  "word": "indulge",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To allow oneself or another to enjoy something, often excessively.",
+  "syn": [
+   "gratify",
+   "pamper",
+   "humour"
+  ],
+  "ant": [
+   "deprive",
+   "restrain"
+  ],
+  "ex": "Parents who indulge every whim undermine discipline.",
+  "id": 386
+ },
+ {
+  "word": "inevitably",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "In a way that cannot be avoided.",
+  "syn": [
+   "unavoidably",
+   "necessarily",
+   "certainly"
+  ],
+  "ant": [
+   "possibly",
+   "avoidably"
+  ],
+  "ex": "Automation will inevitably displace some workers.",
+  "id": 387
+ },
+ {
+  "word": "infer",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To reach a conclusion from evidence rather than explicit statement.",
+  "syn": [
+   "deduce",
+   "surmise",
+   "conclude"
+  ],
+  "ant": [
+   "state",
+   "assert"
+  ],
+  "ex": "We can infer intent from the pattern of purchases.",
+  "id": 388
+ },
+ {
+  "word": "infrastructure",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The basic physical systems a country needs to function.",
+  "syn": [
+   "framework",
+   "facilities",
+   "installations"
+  ],
+  "ant": [],
+  "ex": "Ageing infrastructure requires urgent investment.",
+  "id": 389
+ },
+ {
+  "word": "inherent",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Existing as a natural and permanent quality.",
+  "syn": [
+   "intrinsic",
+   "innate",
+   "built-in"
+  ],
+  "ant": [
+   "acquired",
+   "extrinsic"
+  ],
+  "ex": "There are risks inherent in any surgery.",
+  "id": 390
+ },
+ {
+  "word": "inhibition",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A feeling or process that restrains an action.",
+  "syn": [
+   "restraint",
+   "suppression",
+   "hindrance"
+  ],
+  "ant": [
+   "freedom",
+   "encouragement"
+  ],
+  "ex": "Alcohol lowers inhibition and impairs judgement.",
+  "id": 391
+ },
+ {
+  "word": "initial",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Occurring at the beginning.",
+  "syn": [
+   "first",
+   "opening",
+   "preliminary"
+  ],
+  "ant": [
+   "final",
+   "concluding"
+  ],
+  "ex": "Initial results were promising.",
+  "id": 392
+ },
+ {
+  "word": "initiative",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A new plan of action, or the ability to act independently.",
+  "syn": [
+   "scheme",
+   "enterprise",
+   "resourcefulness"
+  ],
+  "ant": [
+   "passivity",
+   "inaction"
+  ],
+  "ex": "The initiative trains 5,000 teachers a year.",
+  "id": 393
+ },
+ {
+  "word": "injury",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Physical harm or damage to the body.",
+  "syn": [
+   "wound",
+   "trauma",
+   "harm"
+  ],
+  "ant": [
+   "recovery",
+   "healing"
+  ],
+  "ex": "Workplace injuries have fallen since 2010.",
+  "id": 394
+ },
+ {
+  "word": "innovation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A new method, idea or product.",
+  "syn": [
+   "invention",
+   "novelty",
+   "breakthrough"
+  ],
+  "ant": [
+   "tradition",
+   "stagnation"
+  ],
+  "ex": "Innovation thrives where failure is tolerated.",
+  "id": 395
+ },
+ {
+  "word": "insight",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A deep and accurate understanding of something.",
+  "syn": [
+   "perception",
+   "discernment",
+   "acumen"
+  ],
+  "ant": [
+   "ignorance",
+   "obtuseness"
+  ],
+  "ex": "The study offers real insight into voter behaviour.",
+  "id": 396
+ },
+ {
+  "word": "inspection",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A careful official examination of something.",
+  "syn": [
+   "examination",
+   "scrutiny",
+   "audit"
+  ],
+  "ant": [
+   "neglect",
+   "oversight"
+  ],
+  "ex": "Annual inspections are mandatory.",
+  "id": 397
+ },
+ {
+  "word": "instance",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A single example or occurrence of something.",
+  "syn": [
+   "example",
+   "case",
+   "occurrence"
+  ],
+  "ant": [
+   "rule",
+   "norm"
+  ],
+  "ex": "There were several instances of data loss.",
+  "id": 398
+ },
+ {
+  "word": "instruction",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A direction telling someone what to do; also teaching.",
+  "syn": [
+   "direction",
+   "command",
+   "tuition"
+  ],
+  "ant": [],
+  "ex": "Follow the instructions carefully.",
+  "id": 399
+ },
+ {
+  "word": "integral",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Necessary to make a whole complete.",
+  "syn": [
+   "essential",
+   "intrinsic",
+   "indispensable"
+  ],
+  "ant": [
+   "peripheral",
+   "optional"
+  ],
+  "ex": "Feedback is integral to the learning process.",
+  "id": 400
+ },
+ {
+  "word": "integration",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The process of combining parts into a unified whole.",
+  "syn": [
+   "merging",
+   "unification",
+   "incorporation"
+  ],
+  "ant": [
+   "segregation",
+   "separation"
+  ],
+  "ex": "Economic integration lowered trade barriers.",
+  "id": 401
+ },
+ {
+  "word": "intelligence",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The ability to acquire and apply knowledge; also, gathered information.",
+  "syn": [
+   "intellect",
+   "acumen",
+   "information"
+  ],
+  "ant": [
+   "stupidity",
+   "ignorance"
+  ],
+  "ex": "Artificial intelligence now drafts legal documents.",
+  "id": 402
+ },
+ {
+  "word": "intensity",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The strength or degree of something.",
+  "syn": [
+   "strength",
+   "severity",
+   "magnitude"
+  ],
+  "ant": [
+   "weakness",
+   "mildness"
+  ],
+  "ex": "Storm intensity has increased measurably.",
+  "id": 403
+ },
+ {
+  "word": "interact",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To act in a way that has an effect on another.",
+  "syn": [
+   "engage",
+   "communicate",
+   "interrelate"
+  ],
+  "ant": [
+   "ignore",
+   "withdraw"
+  ],
+  "ex": "The drugs interact dangerously.",
+  "id": 404
+ },
+ {
+  "word": "intermediate",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Coming between two stages or levels.",
+  "syn": [
+   "middle",
+   "transitional",
+   "midway"
+  ],
+  "ant": [
+   "extreme",
+   "terminal"
+  ],
+  "ex": "An intermediate step was omitted.",
+  "id": 405
+ },
+ {
+  "word": "internal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Existing or occurring inside something.",
+  "syn": [
+   "inner",
+   "inside",
+   "domestic"
+  ],
+  "ant": [
+   "external",
+   "outer"
+  ],
+  "ex": "An internal review found no misconduct.",
+  "id": 406
+ },
+ {
+  "word": "interval",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A gap of time or space between two things.",
+  "syn": [
+   "gap",
+   "pause",
+   "span"
+  ],
+  "ant": [
+   "continuity"
+  ],
+  "ex": "Readings were taken at ten-minute intervals.",
+  "id": 407
+ },
+ {
+  "word": "intervention",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Action taken to alter the course of events.",
+  "syn": [
+   "involvement",
+   "interference",
+   "mediation"
+  ],
+  "ant": [
+   "inaction",
+   "non-interference"
+  ],
+  "ex": "Early intervention halves the relapse rate.",
+  "id": 408
+ },
+ {
+  "word": "intrinsic",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Belonging naturally to something; essential.",
+  "syn": [
+   "inherent",
+   "innate",
+   "fundamental"
+  ],
+  "ant": [
+   "extrinsic",
+   "acquired"
+  ],
+  "ex": "Intrinsic motivation outlasts external reward.",
+  "id": 409
+ },
+ {
+  "word": "investigation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A formal or systematic inquiry into something.",
+  "syn": [
+   "inquiry",
+   "probe",
+   "examination"
+  ],
+  "ant": [
+   "neglect"
+  ],
+  "ex": "The investigation lasted eighteen months.",
+  "id": 410
+ },
+ {
+  "word": "investment",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Money or effort put into something to gain future benefit.",
+  "syn": [
+   "outlay",
+   "funding",
+   "stake"
+  ],
+  "ant": [
+   "withdrawal",
+   "divestment"
+  ],
+  "ex": "Investment in public transport reduces congestion.",
+  "id": 411
+ },
+ {
+  "word": "invoke",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To cite something as authority or to call upon it.",
+  "syn": [
+   "cite",
+   "appeal to",
+   "summon"
+  ],
+  "ant": [
+   "disregard",
+   "waive"
+  ],
+  "ex": "She invoked her right to remain silent.",
+  "id": 412
+ },
+ {
+  "word": "involve",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To include as a necessary part, or to engage someone in an activity.",
+  "syn": [
+   "entail",
+   "include",
+   "engage"
+  ],
+  "ant": [
+   "exclude",
+   "omit"
+  ],
+  "ex": "The job involves frequent travel.",
+  "id": 413
+ },
+ {
+  "word": "isolated",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Far away from others; occurring only once.",
+  "syn": [
+   "remote",
+   "secluded",
+   "solitary"
+  ],
+  "ant": [
+   "connected",
+   "widespread"
+  ],
+  "ex": "These were isolated incidents, not a pattern.",
+  "id": 414
+ },
+ {
+  "word": "issue",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "An important topic or problem for discussion.",
+  "syn": [
+   "matter",
+   "problem",
+   "concern"
+  ],
+  "ant": [
+   "solution"
+  ],
+  "ex": "Housing is the defining issue of this election.",
+  "id": 415
+ },
+ {
+  "word": "item",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A single object or unit in a list or collection.",
+  "syn": [
+   "object",
+   "article",
+   "unit"
+  ],
+  "ant": [
+   "collection",
+   "whole"
+  ],
+  "ex": "Each item on the list was checked twice.",
+  "id": 416
+ }
+]

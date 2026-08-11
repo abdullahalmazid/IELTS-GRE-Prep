@@ -1,0 +1,112 @@
+[
+ {
+  "word": "gender",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The social and cultural categories of male and female.",
+  "syn": [
+   "sex",
+   "gender identity"
+  ],
+  "ant": [],
+  "ex": "The gender pay gap narrowed only slightly.",
+  "id": 356
+ },
+ {
+  "word": "generation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "All people born around the same time; also the act of producing.",
+  "syn": [
+   "cohort",
+   "age group",
+   "production"
+  ],
+  "ant": [],
+  "ex": "This generation faces unprecedented housing costs.",
+  "id": 357
+ },
+ {
+  "word": "global",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Affecting or relating to the whole world.",
+  "syn": [
+   "worldwide",
+   "international",
+   "universal"
+  ],
+  "ant": [
+   "local",
+   "regional"
+  ],
+  "ex": "Pandemics require a coordinated global response.",
+  "id": 358
+ },
+ {
+  "word": "goal",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "An aim or desired result.",
+  "syn": [
+   "objective",
+   "aim",
+   "target"
+  ],
+  "ant": [],
+  "ex": "The goal is to halve emissions by 2035.",
+  "id": 359
+ },
+ {
+  "word": "grade",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A level of quality, rank or achievement.",
+  "syn": [
+   "rank",
+   "tier",
+   "mark"
+  ],
+  "ant": [],
+  "ex": "Only high-grade ore is worth extracting.",
+  "id": 360
+ },
+ {
+  "word": "guarantee",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To promise with certainty that something will happen.",
+  "syn": [
+   "assure",
+   "pledge",
+   "warrant"
+  ],
+  "ant": [
+   "jeopardise",
+   "doubt"
+  ],
+  "ex": "No method can guarantee success.",
+  "id": 361
+ },
+ {
+  "word": "guideline",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A general rule or piece of advice about how to act.",
+  "syn": [
+   "recommendation",
+   "directive",
+   "protocol"
+  ],
+  "ant": [],
+  "ex": "Dietary guidelines are revised every five years.",
+  "id": 362
+ }
+]

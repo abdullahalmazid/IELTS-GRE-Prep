@@ -1,0 +1,168 @@
+[
+ {
+  "word": "ecosystem",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A community of organisms and their environment.",
+  "syn": [
+   "habitat",
+   "biome",
+   "biological community"
+  ],
+  "ant": [],
+  "ex": "The whole ecosystem depends on one fish species.",
+  "id": 1478,
+  "list": 8
+ },
+ {
+  "word": "edit",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To correct and prepare text for publication.",
+  "syn": [
+   "revise",
+   "amend",
+   "redact"
+  ],
+  "ant": [
+   "draft"
+  ],
+  "ex": "The chapter was edited down by a third.",
+  "id": 1479,
+  "list": 8
+ },
+ {
+  "word": "egalitarian",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Believing all people are equal and deserve equal rights.",
+  "syn": [
+   "equitable",
+   "democratic",
+   "level"
+  ],
+  "ant": [
+   "hierarchical",
+   "elitist"
+  ],
+  "ex": "An egalitarian society still needs redistribution.",
+  "id": 1480,
+  "list": 8
+ },
+ {
+  "word": "emission",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A substance discharged into the air.",
+  "syn": [
+   "discharge",
+   "output",
+   "release"
+  ],
+  "ant": [
+   "absorption",
+   "capture"
+  ],
+  "ex": "Emissions fell during the lockdown and rebounded after.",
+  "id": 1481,
+  "list": 8
+ },
+ {
+  "word": "entity",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A thing with a distinct and independent existence.",
+  "syn": [
+   "body",
+   "organisation",
+   "unit"
+  ],
+  "ant": [],
+  "ex": "The subsidiary is a separate legal entity.",
+  "id": 1482,
+  "list": 8
+ },
+ {
+  "word": "epidemic",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A rapid spread of disease through a population.",
+  "syn": [
+   "outbreak",
+   "plague",
+   "contagion"
+  ],
+  "ant": [],
+  "ex": "An epidemic overwhelmed the district hospitals.",
+  "id": 1483,
+  "list": 8
+ },
+ {
+  "word": "ethnic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to a group with a shared cultural background.",
+  "syn": [
+   "cultural",
+   "racial",
+   "communal"
+  ],
+  "ant": [],
+  "ex": "The city has forty distinct ethnic communities.",
+  "id": 1484,
+  "list": 8
+ },
+ {
+  "word": "exacerbated",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Made worse than before.",
+  "syn": [
+   "aggravated",
+   "intensified",
+   "worsened"
+  ],
+  "ant": [
+   "alleviated",
+   "eased"
+  ],
+  "ex": "The shortage was exacerbated by panic buying.",
+  "id": 1485,
+  "list": 8
+ },
+ {
+  "word": "export",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To send goods abroad for sale.",
+  "syn": [
+   "ship",
+   "sell abroad",
+   "trade"
+  ],
+  "ant": [
+   "import"
+  ],
+  "ex": "The country exports more grain than it consumes.",
+  "id": 1486,
+  "list": 8
+ },
+ {
+  "word": "extinction",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The permanent disappearance of a species.",
+  "syn": [
+   "dying out",
+   "annihilation",
+   "eradication"
+  ],
+  "ant": [
+   "survival",
+   "proliferation"
+  ],
+  "ex": "Habitat loss drives most modern extinctions.",
+  "id": 1487,
+  "list": 8
+ }
+]

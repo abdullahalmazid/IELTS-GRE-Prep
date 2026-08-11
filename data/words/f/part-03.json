@@ -1,0 +1,144 @@
+[
+ {
+  "word": "fallible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Capable of making mistakes.",
+  "syn": [
+   "imperfect",
+   "errant",
+   "weak"
+  ],
+  "ant": [
+   "infallible",
+   "unerring"
+  ],
+  "ex": "Memory is fallible in predictable ways.",
+  "id": 1215,
+  "list": 7
+ },
+ {
+  "word": "fervid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Intensely enthusiastic, often excessively.",
+  "syn": [
+   "ardent",
+   "impassioned",
+   "zealous"
+  ],
+  "ant": [
+   "apathetic",
+   "cool"
+  ],
+  "ex": "Fervid speculation preceded the ruling.",
+  "id": 1216,
+  "list": 7
+ },
+ {
+  "word": "filibuster",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A long speech used to delay a decision.",
+  "syn": [
+   "obstruction",
+   "stonewalling",
+   "delay"
+  ],
+  "ant": [
+   "expedition"
+  ],
+  "ex": "A filibuster killed the bill without a vote.",
+  "id": 1217,
+  "list": 7
+ },
+ {
+  "word": "flourish",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To grow or develop successfully.",
+  "syn": [
+   "thrive",
+   "prosper",
+   "burgeon"
+  ],
+  "ant": [
+   "wither",
+   "decline"
+  ],
+  "ex": "The trade flourished under lighter regulation.",
+  "id": 1218,
+  "list": 7
+ },
+ {
+  "word": "foible",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A minor weakness in someone's character.",
+  "syn": [
+   "quirk",
+   "idiosyncrasy",
+   "failing"
+  ],
+  "ant": [
+   "strength",
+   "virtue"
+  ],
+  "ex": "The memoir is affectionate about his foibles.",
+  "id": 1219,
+  "list": 7
+ },
+ {
+  "word": "foil",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To prevent a plan from succeeding.",
+  "syn": [
+   "thwart",
+   "frustrate",
+   "stymie"
+  ],
+  "ant": [
+   "assist",
+   "facilitate"
+  ],
+  "ex": "An alert clerk foiled the attempt.",
+  "id": 1220,
+  "list": 7
+ },
+ {
+  "word": "forage",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To search widely for food or supplies.",
+  "syn": [
+   "scavenge",
+   "rummage",
+   "hunt"
+  ],
+  "ant": [
+   "hoard"
+  ],
+  "ex": "Birds forage further as the season dries.",
+  "id": 1221,
+  "list": 7
+ },
+ {
+  "word": "forsake",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To abandon someone or something.",
+  "syn": [
+   "desert",
+   "renounce",
+   "abandon"
+  ],
+  "ant": [
+   "support",
+   "stand by"
+  ],
+  "ex": "Many forsake a safe career for research.",
+  "id": 1222,
+  "list": 7
+ }
+]

@@ -1,0 +1,341 @@
+[
+ {
+  "word": "gainsay",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To deny or contradict a statement.",
+  "syn": [
+   "contradict",
+   "dispute",
+   "refute"
+  ],
+  "ant": [
+   "confirm",
+   "affirm"
+  ],
+  "ex": "Nobody could gainsay the evidence.",
+  "id": 663,
+  "list": 6
+ },
+ {
+  "word": "galvanize",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To shock or excite someone into action.",
+  "syn": [
+   "spur",
+   "rouse",
+   "electrify"
+  ],
+  "ant": [
+   "deter",
+   "subdue"
+  ],
+  "ex": "The verdict galvanized the campaign.",
+  "id": 664,
+  "list": 6
+ },
+ {
+  "word": "gambit",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An opening move made to gain advantage.",
+  "syn": [
+   "ploy",
+   "manoeuvre",
+   "stratagem"
+  ],
+  "ant": [],
+  "ex": "The offer was a gambit, not a concession.",
+  "id": 665,
+  "list": 6
+ },
+ {
+  "word": "garner",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To gather or collect, especially support or praise.",
+  "syn": [
+   "accumulate",
+   "amass",
+   "collect"
+  ],
+  "ant": [
+   "disperse",
+   "squander"
+  ],
+  "ex": "The film garnered unexpected acclaim.",
+  "id": 666,
+  "list": 6
+ },
+ {
+  "word": "garrulous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively talkative about trivial things.",
+  "syn": [
+   "loquacious",
+   "voluble",
+   "prolix"
+  ],
+  "ant": [
+   "taciturn",
+   "reticent"
+  ],
+  "ex": "A garrulous neighbour kept them an hour.",
+  "id": 667,
+  "list": 6
+ },
+ {
+  "word": "genial",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Cheerful and friendly in manner.",
+  "syn": [
+   "affable",
+   "cordial",
+   "amiable"
+  ],
+  "ant": [
+   "surly",
+   "gruff"
+  ],
+  "ex": "A genial host who remembered every name.",
+  "id": 668,
+  "list": 6
+ },
+ {
+  "word": "germane",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Relevant to the matter under discussion.",
+  "syn": [
+   "pertinent",
+   "apposite",
+   "applicable"
+  ],
+  "ant": [
+   "irrelevant",
+   "extraneous"
+  ],
+  "ex": "That objection is not germane to the vote.",
+  "id": 669,
+  "list": 6
+ },
+ {
+  "word": "glean",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To gather information slowly and in small amounts.",
+  "syn": [
+   "extract",
+   "harvest",
+   "cull"
+  ],
+  "ant": [
+   "dispense",
+   "broadcast"
+  ],
+  "ex": "Little could be gleaned from the transcripts.",
+  "id": 670,
+  "list": 6
+ },
+ {
+  "word": "glib",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Fluent but insincere or shallow.",
+  "syn": [
+   "slick",
+   "facile",
+   "smooth-talking"
+  ],
+  "ant": [
+   "sincere",
+   "considered"
+  ],
+  "ex": "A glib assurance that fooled nobody.",
+  "id": 671,
+  "list": 6
+ },
+ {
+  "word": "glut",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An excessive supply of something.",
+  "syn": [
+   "surplus",
+   "surfeit",
+   "excess"
+  ],
+  "ant": [
+   "shortage",
+   "dearth"
+  ],
+  "ex": "A glut of graduates depressed starting salaries.",
+  "id": 672,
+  "list": 6
+ },
+ {
+  "word": "goad",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To provoke someone into acting.",
+  "syn": [
+   "prod",
+   "incite",
+   "needle"
+  ],
+  "ant": [
+   "dissuade",
+   "restrain"
+  ],
+  "ex": "Hecklers goaded him into a reply.",
+  "id": 673,
+  "list": 6
+ },
+ {
+  "word": "grandiloquent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Using pompous, inflated language.",
+  "syn": [
+   "bombastic",
+   "magniloquent",
+   "orotund"
+  ],
+  "ant": [
+   "plain-spoken",
+   "understated"
+  ],
+  "ex": "A grandiloquent speech with little content.",
+  "id": 674,
+  "list": 6
+ },
+ {
+  "word": "grandiose",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impressive in intention but absurdly ambitious.",
+  "syn": [
+   "pretentious",
+   "overambitious",
+   "pompous"
+  ],
+  "ant": [
+   "modest",
+   "unassuming"
+  ],
+  "ex": "Grandiose plans that no budget could support.",
+  "id": 675,
+  "list": 6
+ },
+ {
+  "word": "gratuitous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Uncalled for and without good reason.",
+  "syn": [
+   "unwarranted",
+   "needless",
+   "unjustified"
+  ],
+  "ant": [
+   "justified",
+   "necessary"
+  ],
+  "ex": "Gratuitous cruelty served no narrative purpose.",
+  "id": 676,
+  "list": 6
+ },
+ {
+  "word": "gregarious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Fond of company; sociable.",
+  "syn": [
+   "outgoing",
+   "convivial",
+   "companionable"
+  ],
+  "ant": [
+   "solitary",
+   "reclusive"
+  ],
+  "ex": "A gregarious student who knew everyone.",
+  "id": 677,
+  "list": 6
+ },
+ {
+  "word": "grievous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Very severe in effect.",
+  "syn": [
+   "grave",
+   "dire",
+   "egregious"
+  ],
+  "ant": [
+   "trivial",
+   "slight"
+  ],
+  "ex": "A grievous error of judgement.",
+  "id": 678,
+  "list": 6
+ },
+ {
+  "word": "guile",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Cunning used to deceive.",
+  "syn": [
+   "cunning",
+   "duplicity",
+   "artifice"
+  ],
+  "ant": [
+   "candour",
+   "honesty"
+  ],
+  "ex": "He won the concession by guile, not argument.",
+  "id": 679,
+  "list": 6
+ },
+ {
+  "word": "guise",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An outward appearance that conceals the truth.",
+  "syn": [
+   "pretence",
+   "semblance",
+   "facade"
+  ],
+  "ant": [
+   "reality",
+   "substance"
+  ],
+  "ex": "Censorship arrived under the guise of safety.",
+  "id": 680,
+  "list": 6
+ },
+ {
+  "word": "gullible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Too easily persuaded to believe something.",
+  "syn": [
+   "credulous",
+   "naive",
+   "trusting"
+  ],
+  "ant": [
+   "sceptical",
+   "wary"
+  ],
+  "ex": "The scheme preyed on gullible investors.",
+  "id": 681,
+  "list": 6
+ }
+]

@@ -1,0 +1,338 @@
+[
+ {
+  "word": "salutary",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Producing a beneficial effect, often unpleasantly.",
+  "syn": [
+   "beneficial",
+   "corrective",
+   "instructive"
+  ],
+  "ant": [
+   "harmful",
+   "detrimental"
+  ],
+  "ex": "A salutary lesson in reading the small print.",
+  "id": 1362,
+  "list": 7
+ },
+ {
+  "word": "sanctimonious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Making a show of being morally superior.",
+  "syn": [
+   "self-righteous",
+   "pious",
+   "holier-than-thou"
+  ],
+  "ant": [
+   "humble",
+   "unpretentious"
+  ],
+  "ex": "A sanctimonious lecture on personal duty.",
+  "id": 1363,
+  "list": 7
+ },
+ {
+  "word": "savant",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person of great learning.",
+  "syn": [
+   "scholar",
+   "sage",
+   "polymath"
+  ],
+  "ant": [
+   "novice",
+   "ignoramus"
+  ],
+  "ex": "Consulted as the savant of the department.",
+  "id": 1364,
+  "list": 7
+ },
+ {
+  "word": "scant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Barely sufficient in amount.",
+  "syn": [
+   "meagre",
+   "sparse",
+   "insufficient"
+  ],
+  "ant": [
+   "ample",
+   "abundant"
+  ],
+  "ex": "Scant attention was paid to the footnotes.",
+  "id": 1365,
+  "list": 7
+ },
+ {
+  "word": "scathing",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Severely critical.",
+  "syn": [
+   "withering",
+   "excoriating",
+   "caustic"
+  ],
+  "ant": [
+   "complimentary",
+   "mild"
+  ],
+  "ex": "A scathing review ended the run.",
+  "id": 1366,
+  "list": 7
+ },
+ {
+  "word": "scintillating",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Brilliantly clever and lively.",
+  "syn": [
+   "sparkling",
+   "dazzling",
+   "witty"
+  ],
+  "ant": [
+   "dull",
+   "tedious"
+  ],
+  "ex": "A scintillating exchange in the second half.",
+  "id": 1367,
+  "list": 7
+ },
+ {
+  "word": "sinecure",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A position requiring little work but giving pay.",
+  "syn": [
+   "easy post",
+   "soft job"
+  ],
+  "ant": [
+   "drudgery"
+  ],
+  "ex": "The chairmanship became a comfortable sinecure.",
+  "id": 1368,
+  "list": 7
+ },
+ {
+  "word": "solicitous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing careful concern for someone's welfare.",
+  "syn": [
+   "attentive",
+   "caring",
+   "considerate"
+  ],
+  "ant": [
+   "indifferent",
+   "neglectful"
+  ],
+  "ex": "Solicitous enquiries about her recovery.",
+  "id": 1369,
+  "list": 7
+ },
+ {
+  "word": "solvent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Having enough money to pay debts.",
+  "syn": [
+   "financially sound",
+   "creditworthy"
+  ],
+  "ant": [
+   "insolvent",
+   "bankrupt"
+  ],
+  "ex": "The trust remained solvent throughout.",
+  "id": 1370,
+  "list": 7
+ },
+ {
+  "word": "somnolent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sleepy, or causing sleepiness.",
+  "syn": [
+   "drowsy",
+   "soporific",
+   "lethargic"
+  ],
+  "ant": [
+   "alert",
+   "wakeful"
+  ],
+  "ex": "A somnolent afternoon session.",
+  "id": 1371,
+  "list": 7
+ },
+ {
+  "word": "spartan",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Very plain, with no comfort or luxury.",
+  "syn": [
+   "austere",
+   "frugal",
+   "bare"
+  ],
+  "ant": [
+   "luxurious",
+   "opulent"
+  ],
+  "ex": "Spartan accommodation and no heating.",
+  "id": 1372,
+  "list": 7
+ },
+ {
+  "word": "specter",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A haunting threat of something unpleasant to come.",
+  "syn": [
+   "threat",
+   "shadow",
+   "apparition"
+  ],
+  "ant": [],
+  "ex": "The specter of default hung over the talks.",
+  "id": 1373,
+  "list": 7
+ },
+ {
+  "word": "spurn",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To reject with contempt.",
+  "syn": [
+   "rebuff",
+   "scorn",
+   "disdain"
+  ],
+  "ant": [
+   "accept",
+   "embrace"
+  ],
+  "ex": "She spurned every offer of settlement.",
+  "id": 1374,
+  "list": 7
+ },
+ {
+  "word": "stipulate",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To specify as a condition of an agreement.",
+  "syn": [
+   "specify",
+   "require",
+   "prescribe"
+  ],
+  "ant": [
+   "imply",
+   "suggest"
+  ],
+  "ex": "The lease stipulates annual inspection.",
+  "id": 1375,
+  "list": 7
+ },
+ {
+  "word": "stolid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing little emotion or interest.",
+  "syn": [
+   "impassive",
+   "phlegmatic",
+   "unemotional"
+  ],
+  "ant": [
+   "excitable",
+   "expressive"
+  ],
+  "ex": "A stolid witness who would not be rattled.",
+  "id": 1376,
+  "list": 7
+ },
+ {
+  "word": "subterfuge",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A trick used to achieve a goal or escape blame.",
+  "syn": [
+   "deception",
+   "ruse",
+   "stratagem"
+  ],
+  "ant": [
+   "honesty",
+   "openness"
+  ],
+  "ex": "Access was gained by subterfuge.",
+  "id": 1377,
+  "list": 7
+ },
+ {
+  "word": "sully",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To damage the purity or reputation of something.",
+  "syn": [
+   "tarnish",
+   "besmirch",
+   "taint"
+  ],
+  "ant": [
+   "cleanse",
+   "honour"
+  ],
+  "ex": "One episode sullied a long career.",
+  "id": 1378,
+  "list": 7
+ },
+ {
+  "word": "surfeit",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An excessive amount of something.",
+  "syn": [
+   "glut",
+   "excess",
+   "superabundance"
+  ],
+  "ant": [
+   "shortage",
+   "dearth"
+  ],
+  "ex": "A surfeit of data and a shortage of insight.",
+  "id": 1379,
+  "list": 7
+ },
+ {
+  "word": "surmise",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To suppose something without firm evidence.",
+  "syn": [
+   "infer",
+   "conjecture",
+   "deduce"
+  ],
+  "ant": [
+   "verify",
+   "establish"
+  ],
+  "ex": "We can only surmise what was intended.",
+  "id": 1380,
+  "list": 7
+ }
+]

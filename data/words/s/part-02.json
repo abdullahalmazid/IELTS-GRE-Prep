@@ -1,0 +1,668 @@
+[
+ {
+  "word": "sagacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Having keen practical judgement.",
+  "syn": [
+   "wise",
+   "shrewd",
+   "prudent"
+  ],
+  "ant": [
+   "foolish",
+   "obtuse"
+  ],
+  "ex": "A sagacious investor who avoided the bubble.",
+  "id": 899,
+  "list": 6
+ },
+ {
+  "word": "salient",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Most noticeable or important.",
+  "syn": [
+   "prominent",
+   "conspicuous",
+   "principal"
+  ],
+  "ant": [
+   "minor",
+   "inconspicuous"
+  ],
+  "ex": "The salient point was buried on page nine.",
+  "id": 900,
+  "list": 6
+ },
+ {
+  "word": "salubrious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Good for health; pleasant.",
+  "syn": [
+   "healthy",
+   "wholesome",
+   "salutary"
+  ],
+  "ant": [
+   "unhealthy",
+   "insalubrious"
+  ],
+  "ex": "A salubrious climate drew convalescents.",
+  "id": 901,
+  "list": 6
+ },
+ {
+  "word": "sanction",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To give official approval — or, as a noun, a penalty.",
+  "syn": [
+   "authorise",
+   "endorse",
+   "penalty"
+  ],
+  "ant": [
+   "forbid",
+   "prohibit"
+  ],
+  "ex": "The board sanctioned a full inquiry.",
+  "id": 902,
+  "list": 6
+ },
+ {
+  "word": "sanguine",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Optimistic, especially in a difficult situation.",
+  "syn": [
+   "hopeful",
+   "buoyant",
+   "confident"
+  ],
+  "ant": [
+   "pessimistic",
+   "gloomy"
+  ],
+  "ex": "Analysts remain sanguine about the recovery.",
+  "id": 903,
+  "list": 6
+ },
+ {
+  "word": "sardonic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Grimly mocking or scornful.",
+  "syn": [
+   "sarcastic",
+   "wry",
+   "derisive"
+  ],
+  "ant": [
+   "sincere",
+   "earnest"
+  ],
+  "ex": "A sardonic smile greeted the promise.",
+  "id": 904,
+  "list": 6
+ },
+ {
+  "word": "satiate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To satisfy fully, sometimes to excess.",
+  "syn": [
+   "sate",
+   "gratify",
+   "glut"
+  ],
+  "ant": [
+   "starve",
+   "deprive"
+  ],
+  "ex": "No amount of coverage satiated the public.",
+  "id": 905,
+  "list": 6
+ },
+ {
+  "word": "scrupulous",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Careful to do what is right and thorough.",
+  "syn": [
+   "conscientious",
+   "meticulous",
+   "principled"
+  ],
+  "ant": [
+   "unscrupulous",
+   "careless"
+  ],
+  "ex": "Scrupulous record-keeping saved the firm.",
+  "id": 906,
+  "list": 6
+ },
+ {
+  "word": "scrutinize",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To examine closely and critically.",
+  "syn": [
+   "inspect",
+   "examine",
+   "pore over"
+  ],
+  "ant": [
+   "skim",
+   "overlook"
+  ],
+  "ex": "Auditors scrutinized every transaction.",
+  "id": 907,
+  "list": 6
+ },
+ {
+  "word": "secular",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Not connected with religion.",
+  "syn": [
+   "worldly",
+   "non-religious",
+   "lay"
+  ],
+  "ant": [
+   "religious",
+   "sacred"
+  ],
+  "ex": "A secular constitution adopted in 1937.",
+  "id": 908,
+  "list": 6
+ },
+ {
+  "word": "sedulous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing dedicated, persistent effort.",
+  "syn": [
+   "diligent",
+   "assiduous",
+   "industrious"
+  ],
+  "ant": [
+   "lazy",
+   "negligent"
+  ],
+  "ex": "Sedulous checking uncovered the error.",
+  "id": 909,
+  "list": 6
+ },
+ {
+  "word": "serendipity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The occurrence of happy discoveries by chance.",
+  "syn": [
+   "chance",
+   "fluke",
+   "good fortune"
+  ],
+  "ant": [
+   "design",
+   "intention"
+  ],
+  "ex": "Penicillin owed much to serendipity.",
+  "id": 910,
+  "list": 6
+ },
+ {
+  "word": "servile",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively submissive.",
+  "syn": [
+   "obsequious",
+   "subservient",
+   "fawning"
+  ],
+  "ant": [
+   "assertive",
+   "independent"
+  ],
+  "ex": "A servile press asked nothing difficult.",
+  "id": 911,
+  "list": 6
+ },
+ {
+  "word": "skeptic",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person who habitually doubts accepted claims.",
+  "syn": [
+   "doubter",
+   "cynic",
+   "questioner"
+  ],
+  "ant": [
+   "believer",
+   "adherent"
+  ],
+  "ex": "Skeptics demanded replication before belief.",
+  "id": 912,
+  "list": 6
+ },
+ {
+  "word": "soporific",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Tending to induce sleep.",
+  "syn": [
+   "sleep-inducing",
+   "sedative",
+   "dull"
+  ],
+  "ant": [
+   "stimulating",
+   "invigorating"
+  ],
+  "ex": "A soporific lecture after a heavy lunch.",
+  "id": 913,
+  "list": 6
+ },
+ {
+  "word": "specious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Seeming right but actually wrong.",
+  "syn": [
+   "misleading",
+   "fallacious",
+   "plausible-seeming"
+  ],
+  "ant": [
+   "valid",
+   "sound"
+  ],
+  "ex": "A specious argument that collapses on inspection.",
+  "id": 914,
+  "list": 6
+ },
+ {
+  "word": "sporadic",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Occurring at irregular intervals.",
+  "syn": [
+   "intermittent",
+   "occasional",
+   "scattered"
+  ],
+  "ant": [
+   "constant",
+   "continuous"
+  ],
+  "ex": "Sporadic outbreaks continued into spring.",
+  "id": 915,
+  "list": 6
+ },
+ {
+  "word": "spurious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not genuine, though appearing so.",
+  "syn": [
+   "bogus",
+   "counterfeit",
+   "fake"
+  ],
+  "ant": [
+   "genuine",
+   "authentic"
+  ],
+  "ex": "A spurious correlation with no mechanism.",
+  "id": 916,
+  "list": 6
+ },
+ {
+  "word": "squander",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To waste something valuable.",
+  "syn": [
+   "dissipate",
+   "fritter",
+   "misspend"
+  ],
+  "ant": [
+   "conserve",
+   "husband"
+  ],
+  "ex": "The lead was squandered in a fortnight.",
+  "id": 917,
+  "list": 6
+ },
+ {
+  "word": "stagnant",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Not flowing or developing.",
+  "syn": [
+   "static",
+   "inert",
+   "motionless"
+  ],
+  "ant": [
+   "flowing",
+   "thriving"
+  ],
+  "ex": "Wages have been stagnant for a decade.",
+  "id": 918,
+  "list": 6
+ },
+ {
+  "word": "staid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Serious and unadventurous; settled in manner.",
+  "syn": [
+   "sedate",
+   "sober",
+   "conventional"
+  ],
+  "ant": [
+   "adventurous",
+   "frivolous"
+  ],
+  "ex": "A staid institution slow to modernise.",
+  "id": 919,
+  "list": 6
+ },
+ {
+  "word": "static",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Unchanging over time.",
+  "syn": [
+   "stationary",
+   "fixed",
+   "unvarying"
+  ],
+  "ant": [
+   "dynamic",
+   "fluctuating"
+  ],
+  "ex": "Enrolment has remained static since 2019.",
+  "id": 920,
+  "list": 6
+ },
+ {
+  "word": "staunch",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Very loyal and committed.",
+  "syn": [
+   "steadfast",
+   "unwavering",
+   "stalwart"
+  ],
+  "ant": [
+   "disloyal",
+   "wavering"
+  ],
+  "ex": "A staunch supporter of open access.",
+  "id": 921,
+  "list": 6
+ },
+ {
+  "word": "stigma",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "A mark of shame attached to a condition or act.",
+  "syn": [
+   "disgrace",
+   "shame",
+   "opprobrium"
+  ],
+  "ant": [
+   "honour",
+   "credit"
+  ],
+  "ex": "The stigma around therapy is fading.",
+  "id": 922,
+  "list": 6
+ },
+ {
+  "word": "stoic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Enduring hardship without complaint.",
+  "syn": [
+   "uncomplaining",
+   "impassive",
+   "long-suffering"
+  ],
+  "ant": [
+   "emotional",
+   "demonstrative"
+  ],
+  "ex": "A stoic acceptance of the diagnosis.",
+  "id": 923,
+  "list": 6
+ },
+ {
+  "word": "strident",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Loud, harsh and aggressively insistent.",
+  "syn": [
+   "shrill",
+   "vociferous",
+   "clamorous"
+  ],
+  "ant": [
+   "soft",
+   "conciliatory"
+  ],
+  "ex": "Criticism grew more strident each week.",
+  "id": 924,
+  "list": 6
+ },
+ {
+  "word": "stringent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Strict and demanding compliance.",
+  "syn": [
+   "rigorous",
+   "exacting",
+   "severe"
+  ],
+  "ant": [
+   "lax",
+   "lenient"
+  ],
+  "ex": "Stringent limits on emissions took effect.",
+  "id": 925,
+  "list": 6
+ },
+ {
+  "word": "stymie",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To prevent progress on something.",
+  "syn": [
+   "thwart",
+   "block",
+   "frustrate"
+  ],
+  "ant": [
+   "assist",
+   "advance"
+  ],
+  "ex": "Funding delays stymied the trial.",
+  "id": 926,
+  "list": 6
+ },
+ {
+  "word": "subjugate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To bring under complete control by force.",
+  "syn": [
+   "conquer",
+   "subdue",
+   "enslave"
+  ],
+  "ant": [
+   "liberate",
+   "free"
+  ],
+  "ex": "The province was subjugated within a year.",
+  "id": 927,
+  "list": 6
+ },
+ {
+  "word": "sublime",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Of such excellence as to inspire awe.",
+  "syn": [
+   "exalted",
+   "transcendent",
+   "magnificent"
+  ],
+  "ant": [
+   "ridiculous",
+   "mundane"
+  ],
+  "ex": "A sublime passage in the second movement.",
+  "id": 928,
+  "list": 6
+ },
+ {
+  "word": "subtle",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Delicate, and not immediately obvious.",
+  "syn": [
+   "nuanced",
+   "understated",
+   "fine"
+  ],
+  "ant": [
+   "obvious",
+   "blatant"
+  ],
+  "ex": "A subtle shift in the wording changed everything.",
+  "id": 929,
+  "list": 6
+ },
+ {
+  "word": "succinct",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Expressed clearly in few words.",
+  "syn": [
+   "concise",
+   "terse",
+   "pithy"
+  ],
+  "ant": [
+   "verbose",
+   "rambling"
+  ],
+  "ex": "A succinct answer beats a thorough evasion.",
+  "id": 930,
+  "list": 6
+ },
+ {
+  "word": "supercilious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Behaving as though superior to others.",
+  "syn": [
+   "haughty",
+   "disdainful",
+   "condescending"
+  ],
+  "ant": [
+   "humble",
+   "respectful"
+  ],
+  "ex": "A supercilious dismissal of amateur work.",
+  "id": 931,
+  "list": 6
+ },
+ {
+  "word": "superfluous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "More than is needed.",
+  "syn": [
+   "redundant",
+   "surplus",
+   "unnecessary"
+  ],
+  "ant": [
+   "essential",
+   "necessary"
+  ],
+  "ex": "Cut every superfluous adjective.",
+  "id": 932,
+  "list": 6
+ },
+ {
+  "word": "supplant",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To take the place of something, often by force.",
+  "syn": [
+   "displace",
+   "replace",
+   "oust"
+  ],
+  "ant": [
+   "retain",
+   "preserve"
+  ],
+  "ex": "Streaming supplanted physical sales entirely.",
+  "id": 933,
+  "list": 6
+ },
+ {
+  "word": "surreptitious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Done secretly to avoid notice.",
+  "syn": [
+   "furtive",
+   "clandestine",
+   "stealthy"
+  ],
+  "ant": [
+   "open",
+   "overt"
+  ],
+  "ex": "A surreptitious recording of the call.",
+  "id": 934,
+  "list": 6
+ },
+ {
+  "word": "sycophant",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person who flatters others for advantage.",
+  "syn": [
+   "flatterer",
+   "toady",
+   "bootlicker"
+  ],
+  "ant": [
+   "critic",
+   "detractor"
+  ],
+  "ex": "Surrounded by sycophants, he heard no warnings.",
+  "id": 935,
+  "list": 6
+ }
+]

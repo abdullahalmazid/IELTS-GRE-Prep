@@ -1,0 +1,307 @@
+[
+ {
+  "word": "labyrinthine",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely complicated and hard to navigate.",
+  "syn": [
+   "convoluted",
+   "tortuous",
+   "intricate"
+  ],
+  "ant": [
+   "straightforward",
+   "simple"
+  ],
+  "ex": "A labyrinthine appeals procedure.",
+  "id": 757,
+  "list": 6
+ },
+ {
+  "word": "laconic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Using very few words.",
+  "syn": [
+   "terse",
+   "succinct",
+   "curt"
+  ],
+  "ant": [
+   "verbose",
+   "garrulous"
+  ],
+  "ex": "A laconic reply that ended the matter.",
+  "id": 758,
+  "list": 6
+ },
+ {
+  "word": "lament",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To express deep regret or sorrow about something.",
+  "syn": [
+   "mourn",
+   "bemoan",
+   "deplore"
+  ],
+  "ant": [
+   "celebrate",
+   "rejoice"
+  ],
+  "ex": "Critics lament the loss of local newspapers.",
+  "id": 759,
+  "list": 6
+ },
+ {
+  "word": "lampoon",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To mock publicly through satire.",
+  "syn": [
+   "satirise",
+   "ridicule",
+   "parody"
+  ],
+  "ant": [
+   "praise",
+   "flatter"
+  ],
+  "ex": "Cartoonists lampooned the whole cabinet.",
+  "id": 760,
+  "list": 6
+ },
+ {
+  "word": "languid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Slow and lacking energy.",
+  "syn": [
+   "listless",
+   "lethargic",
+   "torpid"
+  ],
+  "ant": [
+   "vigorous",
+   "brisk"
+  ],
+  "ex": "A languid afternoon in the heat.",
+  "id": 761,
+  "list": 6
+ },
+ {
+  "word": "largesse",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Generosity in giving money or gifts.",
+  "syn": [
+   "munificence",
+   "bounty",
+   "liberality"
+  ],
+  "ant": [
+   "stinginess",
+   "parsimony"
+  ],
+  "ex": "The wing was built on private largesse.",
+  "id": 762,
+  "list": 6
+ },
+ {
+  "word": "latent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Present but not yet visible or active.",
+  "syn": [
+   "dormant",
+   "hidden",
+   "potential"
+  ],
+  "ant": [
+   "manifest",
+   "active"
+  ],
+  "ex": "Latent demand surfaced once prices fell.",
+  "id": 763,
+  "list": 6
+ },
+ {
+  "word": "laud",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To praise highly, especially in public.",
+  "syn": [
+   "extol",
+   "acclaim",
+   "commend"
+  ],
+  "ant": [
+   "criticise",
+   "disparage"
+  ],
+  "ex": "Reviewers lauded the restoration.",
+  "id": 764,
+  "list": 6
+ },
+ {
+  "word": "lax",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not strict enough in enforcing standards.",
+  "syn": [
+   "slack",
+   "negligent",
+   "permissive"
+  ],
+  "ant": [
+   "strict",
+   "rigorous"
+  ],
+  "ex": "Lax oversight allowed the losses to grow.",
+  "id": 765,
+  "list": 6
+ },
+ {
+  "word": "lethargic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sluggish and lacking energy.",
+  "syn": [
+   "torpid",
+   "listless",
+   "enervated"
+  ],
+  "ant": [
+   "energetic",
+   "alert"
+  ],
+  "ex": "The market stayed lethargic all summer.",
+  "id": 766,
+  "list": 6
+ },
+ {
+  "word": "levity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Humour or lack of seriousness at an odd moment.",
+  "syn": [
+   "frivolity",
+   "jocularity",
+   "light-heartedness"
+  ],
+  "ant": [
+   "gravity",
+   "solemnity"
+  ],
+  "ex": "A moment of levity broke the silence.",
+  "id": 767,
+  "list": 6
+ },
+ {
+  "word": "liaison",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Communication between groups working together.",
+  "syn": [
+   "cooperation",
+   "contact",
+   "intermediary"
+  ],
+  "ant": [
+   "isolation"
+  ],
+  "ex": "A liaison officer joined both teams.",
+  "id": 768,
+  "list": 6
+ },
+ {
+  "word": "limpid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Clear and easy to understand; transparent.",
+  "syn": [
+   "lucid",
+   "pellucid",
+   "crystalline"
+  ],
+  "ant": [
+   "murky",
+   "opaque"
+  ],
+  "ex": "Limpid prose that never needs rereading.",
+  "id": 769,
+  "list": 6
+ },
+ {
+  "word": "loquacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Very talkative.",
+  "syn": [
+   "garrulous",
+   "voluble",
+   "chatty"
+  ],
+  "ant": [
+   "taciturn",
+   "laconic"
+  ],
+  "ex": "A loquacious guide who filled every silence.",
+  "id": 770,
+  "list": 6
+ },
+ {
+  "word": "lucid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Expressed clearly and easy to follow.",
+  "syn": [
+   "clear",
+   "intelligible",
+   "perspicuous"
+  ],
+  "ant": [
+   "confusing",
+   "obscure"
+  ],
+  "ex": "A lucid account of a tangled affair.",
+  "id": 771,
+  "list": 6
+ },
+ {
+  "word": "lugubrious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Looking or sounding sad and dismal.",
+  "syn": [
+   "mournful",
+   "doleful",
+   "funereal"
+  ],
+  "ant": [
+   "cheerful",
+   "jovial"
+  ],
+  "ex": "A lugubrious tone unsuited to the occasion.",
+  "id": 772,
+  "list": 6
+ },
+ {
+  "word": "lurid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Shockingly vivid, especially in describing scandal.",
+  "syn": [
+   "sensational",
+   "graphic",
+   "garish"
+  ],
+  "ant": [
+   "restrained",
+   "muted"
+  ],
+  "ex": "Lurid coverage crowded out the facts.",
+  "id": 773,
+  "list": 6
+ }
+]

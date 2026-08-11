@@ -1,0 +1,137 @@
+[
+ {
+  "word": "malnutrition",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Poor health caused by an inadequate diet.",
+  "syn": [
+   "undernourishment",
+   "starvation"
+  ],
+  "ant": [
+   "nourishment"
+  ],
+  "ex": "Malnutrition stunts growth irreversibly.",
+  "id": 1526,
+  "list": 8
+ },
+ {
+  "word": "marginalised",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Pushed to the edges of society and denied influence.",
+  "syn": [
+   "excluded",
+   "disenfranchised",
+   "sidelined"
+  ],
+  "ant": [
+   "included",
+   "empowered"
+  ],
+  "ex": "Marginalised groups were absent from the consultation.",
+  "id": 1527,
+  "list": 8
+ },
+ {
+  "word": "mediate",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To intervene between parties to settle a dispute.",
+  "syn": [
+   "arbitrate",
+   "reconcile",
+   "intercede"
+  ],
+  "ant": [
+   "inflame",
+   "provoke"
+  ],
+  "ex": "A neutral party mediated the settlement.",
+  "id": 1528,
+  "list": 8
+ },
+ {
+  "word": "ministry",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A government department led by a minister.",
+  "syn": [
+   "department",
+   "office",
+   "bureau"
+  ],
+  "ant": [],
+  "ex": "The ministry rejected the recommendation.",
+  "id": 1529,
+  "list": 8
+ },
+ {
+  "word": "minor",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Small or unimportant relative to other things.",
+  "syn": [
+   "slight",
+   "secondary",
+   "trivial"
+  ],
+  "ant": [
+   "major",
+   "significant"
+  ],
+  "ex": "Only minor amendments were accepted.",
+  "id": 1530,
+  "list": 8
+ },
+ {
+  "word": "mode",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A way in which something is done or occurs.",
+  "syn": [
+   "method",
+   "manner",
+   "form"
+  ],
+  "ant": [],
+  "ex": "Cycling is the fastest mode of transport here.",
+  "id": 1531,
+  "list": 8
+ },
+ {
+  "word": "monopoly",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Exclusive control of a market by one supplier.",
+  "syn": [
+   "domination",
+   "exclusive control"
+  ],
+  "ant": [
+   "competition",
+   "open market"
+  ],
+  "ex": "The firm held a near monopoly on distribution.",
+  "id": 1532,
+  "list": 8
+ },
+ {
+  "word": "multicultural",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Made up of several distinct cultural groups.",
+  "syn": [
+   "diverse",
+   "pluralistic",
+   "cosmopolitan"
+  ],
+  "ant": [
+   "homogeneous",
+   "monocultural"
+  ],
+  "ex": "A multicultural intake enriches the classroom.",
+  "id": 1533,
+  "list": 8
+ }
+]

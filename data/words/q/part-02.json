@@ -1,0 +1,110 @@
+[
+ {
+  "word": "quaint",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Attractively old-fashioned.",
+  "syn": [
+   "charming",
+   "picturesque",
+   "antiquated"
+  ],
+  "ant": [
+   "modern",
+   "fashionable"
+  ],
+  "ex": "A quaint custom that survives in two villages.",
+  "id": 864,
+  "list": 6
+ },
+ {
+  "word": "quandary",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A state of uncertainty about what to do.",
+  "syn": [
+   "dilemma",
+   "predicament",
+   "impasse"
+  ],
+  "ant": [
+   "certainty",
+   "resolution"
+  ],
+  "ex": "The offer left the board in a quandary.",
+  "id": 865,
+  "list": 6
+ },
+ {
+  "word": "querulous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Complaining in a whining way.",
+  "syn": [
+   "peevish",
+   "petulant",
+   "fretful"
+  ],
+  "ant": [
+   "contented",
+   "uncomplaining"
+  ],
+  "ex": "A querulous letter about the parking.",
+  "id": 866,
+  "list": 6
+ },
+ {
+  "word": "quiescent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Inactive or dormant for the time being.",
+  "syn": [
+   "dormant",
+   "latent",
+   "still"
+  ],
+  "ant": [
+   "active",
+   "agitated"
+  ],
+  "ex": "The volcano has been quiescent since 1912.",
+  "id": 867,
+  "list": 6
+ },
+ {
+  "word": "quixotic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Idealistic to the point of being impractical.",
+  "syn": [
+   "utopian",
+   "romantic",
+   "impractical"
+  ],
+  "ant": [
+   "pragmatic",
+   "realistic"
+  ],
+  "ex": "A quixotic campaign against the whole industry.",
+  "id": 868,
+  "list": 6
+ },
+ {
+  "word": "quotidian",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Occurring daily; ordinary.",
+  "syn": [
+   "everyday",
+   "commonplace",
+   "routine"
+  ],
+  "ant": [
+   "extraordinary",
+   "rare"
+  ],
+  "ex": "The diary records quotidian detail.",
+  "id": 869,
+  "list": 6
+ }
+]

@@ -1,0 +1,290 @@
+[
+ {
+  "word": "magnanimous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Generous or forgiving, especially towards a rival.",
+  "syn": [
+   "benevolent",
+   "charitable",
+   "big-hearted"
+  ],
+  "ant": [
+   "petty",
+   "vindictive"
+  ],
+  "ex": "A magnanimous tribute to the losing side.",
+  "id": 774,
+  "list": 6
+ },
+ {
+  "word": "malevolent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Wishing harm on others.",
+  "syn": [
+   "malicious",
+   "spiteful",
+   "malign"
+  ],
+  "ant": [
+   "benevolent",
+   "kindly"
+  ],
+  "ex": "A malevolent rumour circulated for weeks.",
+  "id": 775,
+  "list": 6
+ },
+ {
+  "word": "malleable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Easily shaped or influenced.",
+  "syn": [
+   "pliable",
+   "adaptable",
+   "impressionable"
+  ],
+  "ant": [
+   "rigid",
+   "intractable"
+  ],
+  "ex": "Young opinion is more malleable than old.",
+  "id": 776,
+  "list": 6
+ },
+ {
+  "word": "maudlin",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Tearfully and excessively sentimental.",
+  "syn": [
+   "mawkish",
+   "sentimental",
+   "weepy"
+  ],
+  "ant": [
+   "unsentimental",
+   "stoic"
+  ],
+  "ex": "The ending turns maudlin in its last pages.",
+  "id": 777,
+  "list": 6
+ },
+ {
+  "word": "maverick",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An independent-minded person who resists convention.",
+  "syn": [
+   "nonconformist",
+   "dissenter",
+   "individualist"
+  ],
+  "ant": [
+   "conformist",
+   "traditionalist"
+  ],
+  "ex": "A maverick who ignored the party line.",
+  "id": 778,
+  "list": 6
+ },
+ {
+  "word": "mawkish",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sentimental in a feeble, embarrassing way.",
+  "syn": [
+   "maudlin",
+   "cloying",
+   "saccharine"
+  ],
+  "ant": [
+   "restrained",
+   "austere"
+  ],
+  "ex": "A mawkish tribute that satisfied nobody.",
+  "id": 779,
+  "list": 6
+ },
+ {
+  "word": "mendacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Given to lying.",
+  "syn": [
+   "untruthful",
+   "deceitful",
+   "duplicitous"
+  ],
+  "ant": [
+   "honest",
+   "truthful"
+  ],
+  "ex": "A mendacious account of the meeting.",
+  "id": 780,
+  "list": 6
+ },
+ {
+  "word": "mercurial",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Liable to sudden and unpredictable change of mood.",
+  "syn": [
+   "volatile",
+   "capricious",
+   "erratic"
+  ],
+  "ant": [
+   "steady",
+   "constant"
+  ],
+  "ex": "A mercurial temperament that unsettled the team.",
+  "id": 781,
+  "list": 6
+ },
+ {
+  "word": "meticulous",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Showing great attention to detail.",
+  "syn": [
+   "scrupulous",
+   "painstaking",
+   "fastidious"
+  ],
+  "ant": [
+   "careless",
+   "slapdash"
+  ],
+  "ex": "Meticulous notes made the audit simple.",
+  "id": 782,
+  "list": 6
+ },
+ {
+  "word": "mitigate",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To make something bad less severe.",
+  "syn": [
+   "alleviate",
+   "lessen",
+   "temper"
+  ],
+  "ant": [
+   "aggravate",
+   "intensify"
+  ],
+  "ex": "Sea walls mitigate but do not stop flooding.",
+  "id": 783,
+  "list": 6
+ },
+ {
+  "word": "modicum",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A small amount of something.",
+  "syn": [
+   "scrap",
+   "trace",
+   "smattering"
+  ],
+  "ant": [
+   "abundance",
+   "surfeit"
+  ],
+  "ex": "Not a modicum of evidence was produced.",
+  "id": 784,
+  "list": 6
+ },
+ {
+  "word": "mollify",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To calm someone's anger.",
+  "syn": [
+   "appease",
+   "placate",
+   "pacify"
+  ],
+  "ant": [
+   "provoke",
+   "enrage"
+  ],
+  "ex": "Concessions failed to mollify the residents.",
+  "id": 785,
+  "list": 6
+ },
+ {
+  "word": "morose",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sullen and gloomy.",
+  "syn": [
+   "sullen",
+   "dour",
+   "glum"
+  ],
+  "ant": [
+   "cheerful",
+   "genial"
+  ],
+  "ex": "He grew morose as the results came in.",
+  "id": 786,
+  "list": 6
+ },
+ {
+  "word": "mundane",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Ordinary and dull.",
+  "syn": [
+   "banal",
+   "prosaic",
+   "humdrum"
+  ],
+  "ant": [
+   "extraordinary",
+   "exotic"
+  ],
+  "ex": "Mundane tasks consumed most of the day.",
+  "id": 787,
+  "list": 6
+ },
+ {
+  "word": "munificent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely generous.",
+  "syn": [
+   "lavish",
+   "bountiful",
+   "openhanded"
+  ],
+  "ant": [
+   "miserly",
+   "stingy"
+  ],
+  "ex": "A munificent bequest funded the library.",
+  "id": 788,
+  "list": 6
+ },
+ {
+  "word": "myriad",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Very great in number.",
+  "syn": [
+   "countless",
+   "innumerable",
+   "manifold"
+  ],
+  "ant": [
+   "few",
+   "scant"
+  ],
+  "ex": "Myriad small failures produced the collapse.",
+  "id": 789,
+  "list": 6
+ }
+]

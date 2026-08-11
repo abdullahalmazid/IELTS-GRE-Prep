@@ -1,0 +1,205 @@
+[
+ {
+  "word": "tariff",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A tax imposed on imported goods.",
+  "syn": [
+   "duty",
+   "levy",
+   "import tax"
+  ],
+  "ant": [
+   "free trade"
+  ],
+  "ex": "Tariffs raised input costs for every manufacturer.",
+  "id": 1596,
+  "list": 8
+ },
+ {
+  "word": "technical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to a specialised skill or subject.",
+  "syn": [
+   "specialised",
+   "practical",
+   "applied"
+  ],
+  "ant": [
+   "general",
+   "non-technical"
+  ],
+  "ex": "Technical training is undersupplied nationally.",
+  "id": 1597,
+  "list": 8
+ },
+ {
+  "word": "tenant",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A person who rents property from a landlord.",
+  "syn": [
+   "renter",
+   "occupant",
+   "lessee"
+  ],
+  "ant": [
+   "landlord",
+   "owner"
+  ],
+  "ex": "Tenants have few protections in this market.",
+  "id": 1598,
+  "list": 8
+ },
+ {
+  "word": "terminal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Of an illness, expected to lead to death.",
+  "syn": [
+   "incurable",
+   "fatal",
+   "final"
+  ],
+  "ant": [
+   "curable",
+   "treatable"
+  ],
+  "ex": "Terminal care is largely provided by charities.",
+  "id": 1599,
+  "list": 8
+ },
+ {
+  "word": "testimony",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A formal statement given as evidence.",
+  "syn": [
+   "evidence",
+   "deposition",
+   "statement"
+  ],
+  "ant": [],
+  "ex": "Her testimony contradicted the official account.",
+  "id": 1600,
+  "list": 8
+ },
+ {
+  "word": "text",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Written material, or the wording of a document.",
+  "syn": [
+   "writing",
+   "wording",
+   "script"
+  ],
+  "ant": [],
+  "ex": "The text of the treaty runs to sixty pages.",
+  "id": 1601,
+  "list": 8
+ },
+ {
+  "word": "thesis",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A central argument, or a long research dissertation.",
+  "syn": [
+   "argument",
+   "proposition",
+   "dissertation"
+  ],
+  "ant": [
+   "antithesis"
+  ],
+  "ex": "Her thesis challenges forty years of consensus.",
+  "id": 1602,
+  "list": 8
+ },
+ {
+  "word": "transfer",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To move something from one place or person to another.",
+  "syn": [
+   "move",
+   "convey",
+   "assign"
+  ],
+  "ant": [
+   "retain",
+   "keep"
+  ],
+  "ex": "Funds were transferred to the regional office.",
+  "id": 1603,
+  "list": 8
+ },
+ {
+  "word": "transparency",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Openness that allows others to see how decisions are made.",
+  "syn": [
+   "openness",
+   "clarity",
+   "candour"
+  ],
+  "ant": [
+   "secrecy",
+   "opacity"
+  ],
+  "ex": "Transparency in procurement deters corruption.",
+  "id": 1604,
+  "list": 8
+ },
+ {
+  "word": "trigger",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To cause something to start suddenly.",
+  "syn": [
+   "prompt",
+   "precipitate",
+   "spark"
+  ],
+  "ant": [
+   "prevent",
+   "suppress"
+  ],
+  "ex": "The ruling triggered a wave of claims.",
+  "id": 1605,
+  "list": 8
+ },
+ {
+  "word": "truancy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Staying away from school without permission.",
+  "syn": [
+   "absenteeism",
+   "skipping school"
+  ],
+  "ant": [
+   "attendance"
+  ],
+  "ex": "Truancy rates rose after the bus route closed.",
+  "id": 1606,
+  "list": 8
+ },
+ {
+  "word": "tuition",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Teaching, or the fee charged for it.",
+  "syn": [
+   "instruction",
+   "teaching",
+   "fees"
+  ],
+  "ant": [],
+  "ex": "Tuition costs deter applicants from poorer families.",
+  "id": 1607,
+  "list": 8
+ }
+]

@@ -1,0 +1,197 @@
+[
+ {
+  "word": "banal",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Lacking originality; boringly ordinary.",
+  "syn": [
+   "trite",
+   "hackneyed",
+   "insipid"
+  ],
+  "ant": [
+   "original",
+   "striking"
+  ],
+  "ex": "The speech was a string of banal platitudes.",
+  "id": 108
+ },
+ {
+  "word": "behalf",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "In the interest of, or as a representative of, someone.",
+  "syn": [
+   "representation",
+   "interest",
+   "stead"
+  ],
+  "ant": [],
+  "ex": "He signed on behalf of the company.",
+  "id": 109
+ },
+ {
+  "word": "belie",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To give a false impression of, or to contradict.",
+  "syn": [
+   "misrepresent",
+   "contradict",
+   "disguise"
+  ],
+  "ant": [
+   "confirm",
+   "reveal"
+  ],
+  "ex": "His calm manner belied his panic.",
+  "id": 110
+ },
+ {
+  "word": "belligerent",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Hostile and aggressive.",
+  "syn": [
+   "combative",
+   "pugnacious",
+   "truculent"
+  ],
+  "ant": [
+   "peaceable",
+   "conciliatory"
+  ],
+  "ex": "The tone of the letter was openly belligerent.",
+  "id": 111
+ },
+ {
+  "word": "benefit",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "An advantage or positive result gained from something.",
+  "syn": [
+   "advantage",
+   "gain",
+   "boon"
+  ],
+  "ant": [
+   "drawback",
+   "detriment"
+  ],
+  "ex": "Regular exercise has clear health benefits.",
+  "id": 112
+ },
+ {
+  "word": "benevolent",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Kind and wishing to do good.",
+  "syn": [
+   "charitable",
+   "altruistic",
+   "magnanimous"
+  ],
+  "ant": [
+   "malevolent",
+   "cruel"
+  ],
+  "ex": "A benevolent donor funded the whole wing.",
+  "id": 113
+ },
+ {
+  "word": "bias",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "An unfair inclination for or against something.",
+  "syn": [
+   "prejudice",
+   "partiality",
+   "slant"
+  ],
+  "ant": [
+   "impartiality",
+   "objectivity"
+  ],
+  "ex": "Sampling bias distorted the findings.",
+  "id": 114
+ },
+ {
+  "word": "bolster",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To support or strengthen.",
+  "syn": [
+   "reinforce",
+   "buttress",
+   "shore up"
+  ],
+  "ant": [
+   "undermine",
+   "weaken"
+  ],
+  "ex": "New data bolstered their argument.",
+  "id": 115
+ },
+ {
+  "word": "bombastic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Using inflated language with little substance.",
+  "syn": [
+   "grandiloquent",
+   "pompous",
+   "turgid"
+  ],
+  "ant": [
+   "understated",
+   "plain"
+  ],
+  "ex": "The manifesto is bombastic but empty.",
+  "id": 116
+ },
+ {
+  "word": "brevity",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Shortness of speech, writing or duration.",
+  "syn": [
+   "conciseness",
+   "succinctness",
+   "terseness"
+  ],
+  "ant": [
+   "verbosity",
+   "longevity"
+  ],
+  "ex": "Brevity is undervalued in academic writing.",
+  "id": 117
+ },
+ {
+  "word": "brief",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Lasting a short time or using few words.",
+  "syn": [
+   "concise",
+   "succinct",
+   "fleeting"
+  ],
+  "ant": [
+   "lengthy",
+   "protracted"
+  ],
+  "ex": "Give a brief outline of your argument.",
+  "id": 118
+ }
+]

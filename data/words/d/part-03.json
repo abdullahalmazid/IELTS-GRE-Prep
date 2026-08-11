@@ -1,0 +1,177 @@
+[
+ {
+  "word": "deficit",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The amount by which spending exceeds income.",
+  "syn": [
+   "shortfall",
+   "gap",
+   "arrears"
+  ],
+  "ant": [
+   "surplus",
+   "profit"
+  ],
+  "ex": "The deficit widened for a fourth year.",
+  "id": 1468,
+  "list": 8
+ },
+ {
+  "word": "deforestation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The clearing of forests on a large scale.",
+  "syn": [
+   "clearance",
+   "logging",
+   "felling"
+  ],
+  "ant": [
+   "reforestation",
+   "afforestation"
+  ],
+  "ex": "Deforestation accelerated after the road was built.",
+  "id": 1469,
+  "list": 8
+ },
+ {
+  "word": "demographic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to the structure of a population.",
+  "syn": [
+   "population-based",
+   "statistical"
+  ],
+  "ant": [],
+  "ex": "Demographic change is reshaping the workforce.",
+  "id": 1470,
+  "list": 8
+ },
+ {
+  "word": "depletion",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The reduction of a resource to a low level.",
+  "syn": [
+   "exhaustion",
+   "drainage",
+   "reduction"
+  ],
+  "ant": [
+   "replenishment",
+   "restoration"
+  ],
+  "ex": "Groundwater depletion is now irreversible.",
+  "id": 1471,
+  "list": 8
+ },
+ {
+  "word": "design",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A plan or arrangement showing how something will work.",
+  "syn": [
+   "plan",
+   "blueprint",
+   "layout"
+  ],
+  "ant": [
+   "accident",
+   "chance"
+  ],
+  "ex": "The design prioritises daylight over floor area.",
+  "id": 1472,
+  "list": 8
+ },
+ {
+  "word": "deterrent",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Something that discourages an action.",
+  "syn": [
+   "disincentive",
+   "impediment",
+   "curb"
+  ],
+  "ant": [
+   "incentive",
+   "encouragement"
+  ],
+  "ex": "Longer sentences are a weak deterrent.",
+  "id": 1473,
+  "list": 8
+ },
+ {
+  "word": "discourse",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Serious discussion or writing on a subject.",
+  "syn": [
+   "debate",
+   "dialogue",
+   "discussion"
+  ],
+  "ant": [
+   "silence"
+  ],
+  "ex": "Public discourse has coarsened noticeably.",
+  "id": 1474,
+  "list": 8
+ },
+ {
+  "word": "disposable",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Intended to be thrown away; of income, available to spend.",
+  "syn": [
+   "throwaway",
+   "single-use",
+   "spendable"
+  ],
+  "ant": [
+   "reusable",
+   "durable"
+  ],
+  "ex": "Disposable income fell for three years running.",
+  "id": 1475,
+  "list": 8
+ },
+ {
+  "word": "document",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To record something in detail as evidence.",
+  "syn": [
+   "record",
+   "chronicle",
+   "register"
+  ],
+  "ant": [
+   "overlook",
+   "erase"
+  ],
+  "ex": "The decline is well documented in the literature.",
+  "id": 1476,
+  "list": 8
+ },
+ {
+  "word": "drought",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A prolonged period of abnormally low rainfall.",
+  "syn": [
+   "dry spell",
+   "water shortage",
+   "aridity"
+  ],
+  "ant": [
+   "flood",
+   "deluge"
+  ],
+  "ex": "Three years of drought emptied the reservoirs.",
+  "id": 1477,
+  "list": 8
+ }
+]

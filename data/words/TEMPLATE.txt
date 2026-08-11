@@ -1,0 +1,30 @@
+Copy this block into the right letter file and edit it.
+Keep the surrounding [ ] of the file intact, and put a comma after the
+previous entry.
+
+  {
+    "id": 0,
+    "word": "",
+    "pos": "noun",
+    "level": "IELTS",
+    "list": 1,
+    "def": "",
+    "syn": [],
+    "ant": [],
+    "ex": ""
+  }
+
+  id     Unique across every file. Never reuse or renumber — saved progress
+         is keyed to it. Highest id currently in use: 1620.
+  pos    noun, verb, adjective, adverb, preposition, conjunction
+  level  IELTS, GRE, or BOTH — decides which tab shows the word
+  list   Difficulty band, printed on the card. Any number.
+  def    One sentence, ending in a full stop.
+  syn    Two or three close matches. [] is fine.
+  ant    [] is fine and often correct — plenty of nouns have no true
+         opposite. Don't invent one; the card and quiz handle empty.
+  ex     Must contain the word itself. The page bolds it automatically and
+         blanks it out for gap-fill quiz questions.
+
+After adding entries, update that letter's "count" in data/manifest.json,
+and the "totals" block if you want the Home figures to stay accurate.

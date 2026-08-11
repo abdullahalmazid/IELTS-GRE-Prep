@@ -1,0 +1,729 @@
+[
+ {
+  "word": "ebb",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To decline gradually.",
+  "syn": [
+   "recede",
+   "wane",
+   "subside"
+  ],
+  "ant": [
+   "flow",
+   "surge"
+  ],
+  "ex": "Support ebbed away over the summer.",
+  "id": 1174,
+  "list": 7
+ },
+ {
+  "word": "eclipse",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To surpass something so it seems less important.",
+  "syn": [
+   "overshadow",
+   "outshine",
+   "surpass"
+  ],
+  "ant": [
+   "trail",
+   "lag behind"
+  ],
+  "ex": "The sequel eclipsed the original entirely.",
+  "id": 1175,
+  "list": 7
+ },
+ {
+  "word": "edifice",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A large imposing building; a complex system.",
+  "syn": [
+   "structure",
+   "construction",
+   "framework"
+  ],
+  "ant": [],
+  "ex": "The whole edifice rested on one assumption.",
+  "id": 1176,
+  "list": 7
+ },
+ {
+  "word": "edify",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To improve someone morally or intellectually.",
+  "syn": [
+   "enlighten",
+   "instruct",
+   "uplift"
+  ],
+  "ant": [
+   "corrupt",
+   "debase"
+  ],
+  "ex": "Programmes meant to edify as well as entertain.",
+  "id": 1177,
+  "list": 7
+ },
+ {
+  "word": "efface",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To erase or make something inconspicuous.",
+  "syn": [
+   "obliterate",
+   "expunge",
+   "erase"
+  ],
+  "ant": [
+   "preserve",
+   "highlight"
+  ],
+  "ex": "Time had effaced the inscription.",
+  "id": 1178,
+  "list": 7
+ },
+ {
+  "word": "effusive",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Expressing feelings in an unrestrained way.",
+  "syn": [
+   "gushing",
+   "demonstrative",
+   "fulsome"
+  ],
+  "ant": [
+   "reserved",
+   "restrained"
+  ],
+  "ex": "An effusive introduction embarrassed the speaker.",
+  "id": 1179,
+  "list": 7
+ },
+ {
+  "word": "elated",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Extremely happy and excited.",
+  "syn": [
+   "jubilant",
+   "exultant",
+   "overjoyed"
+  ],
+  "ant": [
+   "dejected",
+   "despondent"
+  ],
+  "ex": "The team was elated by the result.",
+  "id": 1180,
+  "list": 7
+ },
+ {
+  "word": "elegy",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A mournful poem or piece, usually for the dead.",
+  "syn": [
+   "lament",
+   "dirge",
+   "requiem"
+  ],
+  "ant": [
+   "celebration"
+  ],
+  "ex": "The book reads as an elegy for the coalfields.",
+  "id": 1181,
+  "list": 7
+ },
+ {
+  "word": "embellish",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To add detail, often untrue, to make something better.",
+  "syn": [
+   "adorn",
+   "exaggerate",
+   "embroider"
+  ],
+  "ant": [
+   "simplify",
+   "understate"
+  ],
+  "ex": "Witnesses had embellished the account.",
+  "id": 1182,
+  "list": 7
+ },
+ {
+  "word": "emollient",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Intended to soothe or soften anger.",
+  "syn": [
+   "placatory",
+   "soothing",
+   "conciliatory"
+  ],
+  "ant": [
+   "inflammatory",
+   "abrasive"
+  ],
+  "ex": "An emollient statement calmed the markets.",
+  "id": 1183,
+  "list": 7
+ },
+ {
+  "word": "empathy",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "The ability to share another's feelings.",
+  "syn": [
+   "compassion",
+   "understanding",
+   "fellow feeling"
+  ],
+  "ant": [
+   "indifference",
+   "apathy"
+  ],
+  "ex": "Empathy can be taught, and often is.",
+  "id": 1184,
+  "list": 7
+ },
+ {
+  "word": "encomium",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A speech or text of high praise.",
+  "syn": [
+   "eulogy",
+   "tribute",
+   "panegyric"
+  ],
+  "ant": [
+   "diatribe",
+   "criticism"
+  ],
+  "ex": "The obituary was a lengthy encomium.",
+  "id": 1185,
+  "list": 7
+ },
+ {
+  "word": "encumber",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To burden or restrict with a weight.",
+  "syn": [
+   "burden",
+   "hamper",
+   "saddle"
+  ],
+  "ant": [
+   "relieve",
+   "unburden"
+  ],
+  "ex": "The firm is encumbered by legacy debt.",
+  "id": 1186,
+  "list": 7
+ },
+ {
+  "word": "endemic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Regularly found in a particular place or group.",
+  "syn": [
+   "prevalent",
+   "native",
+   "widespread"
+  ],
+  "ant": [
+   "rare",
+   "introduced"
+  ],
+  "ex": "Corruption was endemic in the licensing office.",
+  "id": 1187,
+  "list": 7
+ },
+ {
+  "word": "enigma",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person or thing that is mysterious.",
+  "syn": [
+   "puzzle",
+   "riddle",
+   "mystery"
+  ],
+  "ant": [
+   "certainty"
+  ],
+  "ex": "The author remains an enigma to scholars.",
+  "id": 1188,
+  "list": 7
+ },
+ {
+  "word": "enmity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Active hostility between people or groups.",
+  "syn": [
+   "animosity",
+   "antagonism",
+   "rancour"
+  ],
+  "ant": [
+   "friendship",
+   "amity"
+  ],
+  "ex": "Old enmity resurfaced during the merger.",
+  "id": 1189,
+  "list": 7
+ },
+ {
+  "word": "ennui",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Weariness from lack of interest or occupation.",
+  "syn": [
+   "boredom",
+   "listlessness",
+   "tedium"
+  ],
+  "ant": [
+   "engagement",
+   "excitement"
+  ],
+  "ex": "A summer of ennui in an empty town.",
+  "id": 1190,
+  "list": 7
+ },
+ {
+  "word": "entrench",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To establish something so firmly it resists change.",
+  "syn": [
+   "embed",
+   "establish",
+   "lodge"
+  ],
+  "ant": [
+   "uproot",
+   "dislodge"
+  ],
+  "ex": "The rules entrench existing advantages.",
+  "id": 1191,
+  "list": 7
+ },
+ {
+  "word": "enumerate",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To list things one by one.",
+  "syn": [
+   "itemise",
+   "catalogue",
+   "list"
+  ],
+  "ant": [
+   "summarise",
+   "generalise"
+  ],
+  "ex": "The report enumerates twelve separate failings.",
+  "id": 1192,
+  "list": 7
+ },
+ {
+  "word": "ephemera",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Items of passing interest, kept only briefly.",
+  "syn": [
+   "transient items",
+   "memorabilia"
+  ],
+  "ant": [
+   "archives",
+   "permanent records"
+  ],
+  "ex": "The museum collects printed ephemera.",
+  "id": 1193,
+  "list": 7
+ },
+ {
+  "word": "epitome",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A perfect example of a quality or type.",
+  "syn": [
+   "embodiment",
+   "personification",
+   "paragon"
+  ],
+  "ant": [
+   "antithesis"
+  ],
+  "ex": "The building is the epitome of restraint.",
+  "id": 1194,
+  "list": 7
+ },
+ {
+  "word": "equable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Calm and even-tempered; free from extremes.",
+  "syn": [
+   "even-tempered",
+   "placid",
+   "temperate"
+  ],
+  "ant": [
+   "volatile",
+   "erratic"
+  ],
+  "ex": "An equable climate all year round.",
+  "id": 1195,
+  "list": 7
+ },
+ {
+  "word": "errant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Straying from the accepted course or standard.",
+  "syn": [
+   "wayward",
+   "straying",
+   "aberrant"
+  ],
+  "ant": [
+   "dutiful",
+   "compliant"
+  ],
+  "ex": "An errant clause invalidated the contract.",
+  "id": 1196,
+  "list": 7
+ },
+ {
+  "word": "erstwhile",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Former; belonging to a previous time.",
+  "syn": [
+   "previous",
+   "onetime",
+   "quondam"
+  ],
+  "ant": [
+   "current",
+   "present"
+  ],
+  "ex": "An erstwhile ally now leading the opposition.",
+  "id": 1197,
+  "list": 7
+ },
+ {
+  "word": "esoteric",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Understood by only a small, specialised group.",
+  "syn": [
+   "arcane",
+   "abstruse",
+   "recondite"
+  ],
+  "ant": [
+   "accessible",
+   "mainstream"
+  ],
+  "ex": "An esoteric debate among six specialists.",
+  "id": 1198,
+  "list": 7
+ },
+ {
+  "word": "espouse",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To adopt and support a cause or belief.",
+  "syn": [
+   "embrace",
+   "advocate",
+   "champion"
+  ],
+  "ant": [
+   "reject",
+   "renounce"
+  ],
+  "ex": "The paper espoused free trade for decades.",
+  "id": 1199,
+  "list": 7
+ },
+ {
+  "word": "estrange",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To cause someone to become hostile or distant.",
+  "syn": [
+   "alienate",
+   "distance",
+   "disaffect"
+  ],
+  "ant": [
+   "reconcile",
+   "unite"
+  ],
+  "ex": "The dispute estranged the two founders.",
+  "id": 1200,
+  "list": 7
+ },
+ {
+  "word": "ethos",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "The characteristic spirit of a group or era.",
+  "syn": [
+   "character",
+   "spirit",
+   "ideology"
+  ],
+  "ant": [],
+  "ex": "An ethos of quiet competence pervades the place.",
+  "id": 1201,
+  "list": 7
+ },
+ {
+  "word": "eulogy",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A speech of high praise, often for the dead.",
+  "syn": [
+   "tribute",
+   "panegyric",
+   "encomium"
+  ],
+  "ant": [
+   "diatribe",
+   "denunciation"
+  ],
+  "ex": "A colleague delivered the eulogy.",
+  "id": 1202,
+  "list": 7
+ },
+ {
+  "word": "euphemism",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "A mild word substituted for a harsh one.",
+  "syn": [
+   "understatement",
+   "substitute"
+  ],
+  "ant": [
+   "dysphemism",
+   "bluntness"
+  ],
+  "ex": "'Restructuring' is a euphemism for job cuts.",
+  "id": 1203,
+  "list": 7
+ },
+ {
+  "word": "evanescent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Vanishing quickly; lasting a very short time.",
+  "syn": [
+   "fleeting",
+   "transient",
+   "ephemeral"
+  ],
+  "ant": [
+   "enduring",
+   "permanent"
+  ],
+  "ex": "An evanescent scent that faded in seconds.",
+  "id": 1204,
+  "list": 7
+ },
+ {
+  "word": "exalt",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To praise highly or raise in rank.",
+  "syn": [
+   "glorify",
+   "extol",
+   "elevate"
+  ],
+  "ant": [
+   "debase",
+   "denigrate"
+  ],
+  "ex": "The regime exalted its founder in every text.",
+  "id": 1205,
+  "list": 7
+ },
+ {
+  "word": "exhort",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To strongly urge someone to do something.",
+  "syn": [
+   "urge",
+   "enjoin",
+   "implore"
+  ],
+  "ant": [
+   "discourage",
+   "dissuade"
+  ],
+  "ex": "The letter exhorts members to vote.",
+  "id": 1206,
+  "list": 7
+ },
+ {
+  "word": "exonerate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To officially clear of blame.",
+  "syn": [
+   "absolve",
+   "acquit",
+   "vindicate"
+  ],
+  "ant": [
+   "incriminate",
+   "convict"
+  ],
+  "ex": "The inquiry exonerated all three officers.",
+  "id": 1207,
+  "list": 7
+ },
+ {
+  "word": "exorbitant",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Unreasonably high in price or amount.",
+  "syn": [
+   "excessive",
+   "extortionate",
+   "inflated"
+  ],
+  "ant": [
+   "reasonable",
+   "modest"
+  ],
+  "ex": "Exorbitant fees priced out most applicants.",
+  "id": 1208,
+  "list": 7
+ },
+ {
+  "word": "expiate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make amends for wrongdoing.",
+  "syn": [
+   "atone for",
+   "redress",
+   "make amends"
+  ],
+  "ant": [
+   "compound",
+   "aggravate"
+  ],
+  "ex": "The donation was meant to expiate old guilt.",
+  "id": 1209,
+  "list": 7
+ },
+ {
+  "word": "expound",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To explain something in detail.",
+  "syn": [
+   "elucidate",
+   "elaborate",
+   "expatiate"
+  ],
+  "ant": [
+   "summarise",
+   "obscure"
+  ],
+  "ex": "He expounded the theory for two hours.",
+  "id": 1210,
+  "list": 7
+ },
+ {
+  "word": "extant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Still in existence; surviving.",
+  "syn": [
+   "surviving",
+   "existing",
+   "remaining"
+  ],
+  "ant": [
+   "extinct",
+   "lost"
+  ],
+  "ex": "Only four extant copies are known.",
+  "id": 1211,
+  "list": 7
+ },
+ {
+  "word": "extraneous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Irrelevant, or coming from outside.",
+  "syn": [
+   "irrelevant",
+   "superfluous",
+   "external"
+  ],
+  "ant": [
+   "relevant",
+   "intrinsic"
+  ],
+  "ex": "Strip out every extraneous detail.",
+  "id": 1212,
+  "list": 7
+ },
+ {
+  "word": "extricate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To free from a difficult situation.",
+  "syn": [
+   "disentangle",
+   "free",
+   "liberate"
+  ],
+  "ant": [
+   "entangle",
+   "embroil"
+  ],
+  "ex": "The firm could not extricate itself from the deal.",
+  "id": 1213,
+  "list": 7
+ },
+ {
+  "word": "exuberant",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Full of energy and cheerfulness.",
+  "syn": [
+   "ebullient",
+   "vivacious",
+   "effusive"
+  ],
+  "ant": [
+   "subdued",
+   "lethargic"
+  ],
+  "ex": "An exuberant welcome at the airport.",
+  "id": 1214,
+  "list": 7
+ }
+]

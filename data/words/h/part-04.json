@@ -1,0 +1,52 @@
+[
+ {
+  "word": "habitat",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The natural home of a plant or animal.",
+  "syn": [
+   "environment",
+   "territory",
+   "range"
+  ],
+  "ant": [],
+  "ex": "Wetland habitat has halved since 1970.",
+  "id": 1498,
+  "list": 8
+ },
+ {
+  "word": "hierarchy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A system ranking people or things by status.",
+  "syn": [
+   "ranking",
+   "pecking order",
+   "chain of command"
+  ],
+  "ant": [
+   "equality"
+  ],
+  "ex": "A rigid hierarchy slowed every decision.",
+  "id": 1499,
+  "list": 8
+ },
+ {
+  "word": "holistic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Treating something as a whole rather than in parts.",
+  "syn": [
+   "comprehensive",
+   "integrated",
+   "all-encompassing"
+  ],
+  "ant": [
+   "fragmented",
+   "piecemeal"
+  ],
+  "ex": "A holistic approach to student wellbeing.",
+  "id": 1500,
+  "list": 8
+ }
+]

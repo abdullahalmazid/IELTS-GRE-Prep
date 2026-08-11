@@ -1,0 +1,757 @@
+[
+ {
+  "word": "dearth",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A scarcity of something needed.",
+  "syn": [
+   "shortage",
+   "paucity",
+   "lack"
+  ],
+  "ant": [
+   "abundance",
+   "glut"
+  ],
+  "ex": "A dearth of qualified inspectors slowed the work.",
+  "id": 1132,
+  "list": 7
+ },
+ {
+  "word": "debacle",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A sudden and humiliating failure.",
+  "syn": [
+   "fiasco",
+   "rout",
+   "catastrophe"
+  ],
+  "ant": [
+   "triumph",
+   "success"
+  ],
+  "ex": "The launch became a public debacle.",
+  "id": 1133,
+  "list": 7
+ },
+ {
+  "word": "debase",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To reduce the quality or value of something.",
+  "syn": [
+   "degrade",
+   "cheapen",
+   "adulterate"
+  ],
+  "ant": [
+   "elevate",
+   "enhance"
+  ],
+  "ex": "Inflation debased the currency within months.",
+  "id": 1134,
+  "list": 7
+ },
+ {
+  "word": "decimate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To destroy a large proportion of something.",
+  "syn": [
+   "devastate",
+   "ravage",
+   "wipe out"
+  ],
+  "ant": [
+   "restore",
+   "replenish"
+  ],
+  "ex": "Disease decimated the herds.",
+  "id": 1135,
+  "list": 7
+ },
+ {
+  "word": "decorous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Behaving in a way that is polite and proper.",
+  "syn": [
+   "seemly",
+   "proper",
+   "dignified"
+  ],
+  "ant": [
+   "improper",
+   "unseemly"
+  ],
+  "ex": "A decorous silence followed the announcement.",
+  "id": 1136,
+  "list": 7
+ },
+ {
+  "word": "decry",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To publicly denounce something.",
+  "syn": [
+   "condemn",
+   "denounce",
+   "disparage"
+  ],
+  "ant": [
+   "praise",
+   "endorse"
+  ],
+  "ex": "Economists decried the tariff as self-defeating.",
+  "id": 1137,
+  "list": 7
+ },
+ {
+  "word": "defunct",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "No longer existing or functioning.",
+  "syn": [
+   "obsolete",
+   "extinct",
+   "inoperative"
+  ],
+  "ant": [
+   "active",
+   "operational"
+  ],
+  "ex": "The scheme has been defunct since 2011.",
+  "id": 1138,
+  "list": 7
+ },
+ {
+  "word": "delineate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To describe or mark out precisely.",
+  "syn": [
+   "outline",
+   "define",
+   "demarcate"
+  ],
+  "ant": [
+   "blur",
+   "obscure"
+  ],
+  "ex": "The paper delineates three separate causes.",
+  "id": 1139,
+  "list": 7
+ },
+ {
+  "word": "demur",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To raise an objection or show reluctance.",
+  "syn": [
+   "object",
+   "balk",
+   "hesitate"
+  ],
+  "ant": [
+   "consent",
+   "accede"
+  ],
+  "ex": "Two directors demurred at the price.",
+  "id": 1140,
+  "list": 7
+ },
+ {
+  "word": "denouement",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The final resolution of a complicated situation.",
+  "syn": [
+   "outcome",
+   "resolution",
+   "finale"
+  ],
+  "ant": [
+   "opening",
+   "introduction"
+  ],
+  "ex": "The denouement disappointed most reviewers.",
+  "id": 1141,
+  "list": 7
+ },
+ {
+  "word": "deplete",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To reduce a supply substantially.",
+  "syn": [
+   "exhaust",
+   "drain",
+   "diminish"
+  ],
+  "ant": [
+   "replenish",
+   "restore"
+  ],
+  "ex": "Reserves were depleted by the third winter.",
+  "id": 1142,
+  "list": 7
+ },
+ {
+  "word": "deplore",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To strongly disapprove of something.",
+  "syn": [
+   "condemn",
+   "decry",
+   "lament"
+  ],
+  "ant": [
+   "applaud",
+   "condone"
+  ],
+  "ex": "The council deplored the loss of the trees.",
+  "id": 1143,
+  "list": 7
+ },
+ {
+  "word": "depravity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Moral corruption and wickedness.",
+  "syn": [
+   "corruption",
+   "turpitude",
+   "degeneracy"
+  ],
+  "ant": [
+   "virtue",
+   "integrity"
+  ],
+  "ex": "The novel catalogues human depravity.",
+  "id": 1144,
+  "list": 7
+ },
+ {
+  "word": "deprecate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To express strong disapproval of something.",
+  "syn": [
+   "disparage",
+   "belittle",
+   "censure"
+  ],
+  "ant": [
+   "commend",
+   "approve"
+  ],
+  "ex": "He deprecated the practice in public.",
+  "id": 1145,
+  "list": 7
+ },
+ {
+  "word": "desecrate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To treat a sacred place with violent disrespect.",
+  "syn": [
+   "profane",
+   "defile",
+   "violate"
+  ],
+  "ant": [
+   "consecrate",
+   "honour"
+  ],
+  "ex": "The shrine was desecrated during the raid.",
+  "id": 1146,
+  "list": 7
+ },
+ {
+  "word": "despondent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "In low spirits from loss of hope.",
+  "syn": [
+   "dejected",
+   "disheartened",
+   "forlorn"
+  ],
+  "ant": [
+   "hopeful",
+   "buoyant"
+  ],
+  "ex": "Staff grew despondent after the third delay.",
+  "id": 1147,
+  "list": 7
+ },
+ {
+  "word": "despot",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A ruler with absolute power, used oppressively.",
+  "syn": [
+   "tyrant",
+   "autocrat",
+   "dictator"
+  ],
+  "ant": [
+   "democrat"
+  ],
+  "ex": "The province was run by a local despot.",
+  "id": 1148,
+  "list": 7
+ },
+ {
+  "word": "destitute",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely poor and lacking necessities.",
+  "syn": [
+   "impoverished",
+   "penniless",
+   "indigent"
+  ],
+  "ant": [
+   "affluent",
+   "prosperous"
+  ],
+  "ex": "The fire left forty families destitute.",
+  "id": 1149,
+  "list": 7
+ },
+ {
+  "word": "deter",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To discourage someone from acting.",
+  "syn": [
+   "dissuade",
+   "discourage",
+   "inhibit"
+  ],
+  "ant": [
+   "encourage",
+   "incite"
+  ],
+  "ex": "Higher fines did not deter offenders.",
+  "id": 1150,
+  "list": 7
+ },
+ {
+  "word": "detrimental",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Causing harm or damage.",
+  "syn": [
+   "harmful",
+   "deleterious",
+   "injurious"
+  ],
+  "ant": [
+   "beneficial",
+   "advantageous"
+  ],
+  "ex": "Long hours are detrimental to accuracy.",
+  "id": 1151,
+  "list": 7
+ },
+ {
+  "word": "devout",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Deeply committed to a religion or cause.",
+  "syn": [
+   "pious",
+   "ardent",
+   "dedicated"
+  ],
+  "ant": [
+   "irreverent",
+   "half-hearted"
+  ],
+  "ex": "A devout supporter of open scholarship.",
+  "id": 1152,
+  "list": 7
+ },
+ {
+  "word": "dichotomy",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A sharp division into two contrasting parts.",
+  "syn": [
+   "division",
+   "split",
+   "polarity"
+  ],
+  "ant": [
+   "unity",
+   "convergence"
+  ],
+  "ex": "The dichotomy between theory and practice.",
+  "id": 1153,
+  "list": 7
+ },
+ {
+  "word": "diffuse",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Spread out and lacking concentration or focus.",
+  "syn": [
+   "scattered",
+   "dispersed",
+   "rambling"
+  ],
+  "ant": [
+   "concentrated",
+   "focused"
+  ],
+  "ex": "A diffuse argument spread over forty pages.",
+  "id": 1154,
+  "list": 7
+ },
+ {
+  "word": "diligent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Working carefully and persistently.",
+  "syn": [
+   "assiduous",
+   "conscientious",
+   "industrious"
+  ],
+  "ant": [
+   "negligent",
+   "lazy"
+  ],
+  "ex": "Diligent checking caught the discrepancy.",
+  "id": 1155,
+  "list": 7
+ },
+ {
+  "word": "disabused",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Freed from a mistaken belief.",
+  "syn": [
+   "undeceived",
+   "enlightened",
+   "corrected"
+  ],
+  "ant": [
+   "deluded",
+   "misled"
+  ],
+  "ex": "She was quickly disabused of that hope.",
+  "id": 1156,
+  "list": 7
+ },
+ {
+  "word": "discomfit",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make someone uneasy or embarrassed.",
+  "syn": [
+   "disconcert",
+   "unsettle",
+   "fluster"
+  ],
+  "ant": [
+   "reassure",
+   "compose"
+  ],
+  "ex": "The question visibly discomfited the panel.",
+  "id": 1157,
+  "list": 7
+ },
+ {
+  "word": "disconcert",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To unsettle or confuse someone.",
+  "syn": [
+   "unnerve",
+   "perturb",
+   "fluster"
+  ],
+  "ant": [
+   "reassure",
+   "calm"
+  ],
+  "ex": "The silence disconcerted the speaker.",
+  "id": 1158,
+  "list": 7
+ },
+ {
+  "word": "discredit",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To damage the reputation or credibility of.",
+  "syn": [
+   "disparage",
+   "undermine",
+   "debunk"
+  ],
+  "ant": [
+   "vindicate",
+   "validate"
+  ],
+  "ex": "The study was discredited within a year.",
+  "id": 1159,
+  "list": 7
+ },
+ {
+  "word": "disdain",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Contempt for something considered unworthy.",
+  "syn": [
+   "scorn",
+   "contempt",
+   "derision"
+  ],
+  "ant": [
+   "admiration",
+   "respect"
+  ],
+  "ex": "He spoke of committees with open disdain.",
+  "id": 1160,
+  "list": 7
+ },
+ {
+  "word": "disparage",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To speak of someone as being of little worth.",
+  "syn": [
+   "belittle",
+   "denigrate",
+   "deprecate"
+  ],
+  "ant": [
+   "praise",
+   "laud"
+  ],
+  "ex": "It is easy to disparage work you have not read.",
+  "id": 1161,
+  "list": 7
+ },
+ {
+  "word": "disparaging",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Expressing the opinion that something is of little worth.",
+  "syn": [
+   "derogatory",
+   "belittling",
+   "slighting"
+  ],
+  "ant": [
+   "complimentary",
+   "flattering"
+  ],
+  "ex": "Disparaging remarks about her methods.",
+  "id": 1162,
+  "list": 7
+ },
+ {
+  "word": "disparity",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "A great difference, especially an unfair one.",
+  "syn": [
+   "inequality",
+   "gap",
+   "discrepancy"
+  ],
+  "ant": [
+   "parity",
+   "equality"
+  ],
+  "ex": "The pay disparity widened again this year.",
+  "id": 1163,
+  "list": 7
+ },
+ {
+  "word": "dispassionate",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not influenced by emotion; impartial.",
+  "syn": [
+   "detached",
+   "objective",
+   "unbiased"
+  ],
+  "ant": [
+   "emotional",
+   "partisan"
+  ],
+  "ex": "A dispassionate account of a bitter dispute.",
+  "id": 1164,
+  "list": 7
+ },
+ {
+  "word": "dispel",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To make a doubt or feeling disappear.",
+  "syn": [
+   "banish",
+   "allay",
+   "dissipate"
+  ],
+  "ant": [
+   "arouse",
+   "confirm"
+  ],
+  "ex": "The figures dispelled the rumour at once.",
+  "id": 1165,
+  "list": 7
+ },
+ {
+  "word": "dissipate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To scatter and gradually disappear; to squander.",
+  "syn": [
+   "disperse",
+   "dispel",
+   "squander"
+  ],
+  "ant": [
+   "gather",
+   "conserve"
+  ],
+  "ex": "The fortune was dissipated in a decade.",
+  "id": 1166,
+  "list": 7
+ },
+ {
+  "word": "dissonance",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A lack of agreement or harmony.",
+  "syn": [
+   "discord",
+   "conflict",
+   "incongruity"
+  ],
+  "ant": [
+   "harmony",
+   "concord"
+  ],
+  "ex": "Cognitive dissonance between belief and evidence.",
+  "id": 1167,
+  "list": 7
+ },
+ {
+  "word": "dissuade",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To persuade someone not to do something.",
+  "syn": [
+   "deter",
+   "discourage",
+   "put off"
+  ],
+  "ant": [
+   "persuade",
+   "encourage"
+  ],
+  "ex": "Nothing could dissuade her from resigning.",
+  "id": 1168,
+  "list": 7
+ },
+ {
+  "word": "distend",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To swell or expand from internal pressure.",
+  "syn": [
+   "swell",
+   "bloat",
+   "inflate"
+  ],
+  "ant": [
+   "contract",
+   "shrink"
+  ],
+  "ex": "The tissue distends under pressure.",
+  "id": 1169,
+  "list": 7
+ },
+ {
+  "word": "divulge",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To reveal information that was private.",
+  "syn": [
+   "disclose",
+   "reveal",
+   "impart"
+  ],
+  "ant": [
+   "conceal",
+   "withhold"
+  ],
+  "ex": "He refused to divulge the source.",
+  "id": 1170,
+  "list": 7
+ },
+ {
+  "word": "docile",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Easy to control and willing to obey.",
+  "syn": [
+   "compliant",
+   "submissive",
+   "tractable"
+  ],
+  "ant": [
+   "unruly",
+   "defiant"
+  ],
+  "ex": "A docile workforce asked no questions.",
+  "id": 1171,
+  "list": 7
+ },
+ {
+  "word": "dour",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Stern and gloomy in manner.",
+  "syn": [
+   "grim",
+   "sullen",
+   "forbidding"
+  ],
+  "ant": [
+   "cheerful",
+   "genial"
+  ],
+  "ex": "A dour assessment of the year ahead.",
+  "id": 1172,
+  "list": 7
+ },
+ {
+  "word": "duplicity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Deceitfulness in speech or conduct.",
+  "syn": [
+   "double-dealing",
+   "deceit",
+   "perfidy"
+  ],
+  "ant": [
+   "honesty",
+   "candour"
+  ],
+  "ex": "The emails revealed months of duplicity.",
+  "id": 1173,
+  "list": 7
+ }
+]

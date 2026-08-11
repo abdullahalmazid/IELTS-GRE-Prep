@@ -1,0 +1,416 @@
+[
+ {
+  "word": "vacillate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To waver between opinions or courses of action.",
+  "syn": [
+   "waver",
+   "dither",
+   "oscillate"
+  ],
+  "ant": [
+   "decide",
+   "commit"
+  ],
+  "ex": "Ministers vacillated for six months.",
+  "id": 972,
+  "list": 6
+ },
+ {
+  "word": "vacuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Empty of thought or meaning.",
+  "syn": [
+   "inane",
+   "vapid",
+   "empty-headed"
+  ],
+  "ant": [
+   "thoughtful",
+   "profound"
+  ],
+  "ex": "A vacuous slogan repeated at every stop.",
+  "id": 973,
+  "list": 6
+ },
+ {
+  "word": "vapid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Dull and offering nothing of interest.",
+  "syn": [
+   "insipid",
+   "bland",
+   "uninspiring"
+  ],
+  "ant": [
+   "stimulating",
+   "lively"
+  ],
+  "ex": "Vapid commentary filled the broadcast.",
+  "id": 974,
+  "list": 6
+ },
+ {
+  "word": "vehement",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing strong, forceful feeling.",
+  "syn": [
+   "fervent",
+   "impassioned",
+   "adamant"
+  ],
+  "ant": [
+   "mild",
+   "apathetic"
+  ],
+  "ex": "A vehement denial from all three parties.",
+  "id": 975,
+  "list": 6
+ },
+ {
+  "word": "venerate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To regard with deep respect.",
+  "syn": [
+   "revere",
+   "esteem",
+   "honour"
+  ],
+  "ant": [
+   "despise",
+   "scorn"
+  ],
+  "ex": "The site is venerated by three faiths.",
+  "id": 976,
+  "list": 6
+ },
+ {
+  "word": "veracity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Conformity to the truth.",
+  "syn": [
+   "truthfulness",
+   "accuracy",
+   "honesty"
+  ],
+  "ant": [
+   "falsity",
+   "mendacity"
+  ],
+  "ex": "Nobody questioned the veracity of the log.",
+  "id": 977,
+  "list": 6
+ },
+ {
+  "word": "verbose",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Using more words than needed.",
+  "syn": [
+   "wordy",
+   "prolix",
+   "long-winded"
+  ],
+  "ant": [
+   "concise",
+   "succinct"
+  ],
+  "ex": "A verbose reply to a yes-or-no question.",
+  "id": 978,
+  "list": 6
+ },
+ {
+  "word": "vestige",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A small remaining trace of something gone.",
+  "syn": [
+   "remnant",
+   "trace",
+   "relic"
+  ],
+  "ant": [
+   "whole",
+   "entirety"
+  ],
+  "ex": "Only vestiges of the wall survive.",
+  "id": 979,
+  "list": 6
+ },
+ {
+  "word": "vex",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To annoy or worry someone.",
+  "syn": [
+   "irritate",
+   "exasperate",
+   "nettle"
+  ],
+  "ant": [
+   "soothe",
+   "please"
+  ],
+  "ex": "The question has vexed economists for years.",
+  "id": 980,
+  "list": 6
+ },
+ {
+  "word": "viable",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Capable of working successfully.",
+  "syn": [
+   "workable",
+   "feasible",
+   "practicable"
+  ],
+  "ant": [
+   "unworkable",
+   "doomed"
+  ],
+  "ex": "No viable alternative was ever costed.",
+  "id": 981,
+  "list": 6
+ },
+ {
+  "word": "vicarious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Experienced through another person rather than directly.",
+  "syn": [
+   "secondhand",
+   "indirect",
+   "surrogate"
+  ],
+  "ant": [
+   "direct",
+   "firsthand"
+  ],
+  "ex": "Vicarious thrill from other people's travel.",
+  "id": 982,
+  "list": 6
+ },
+ {
+  "word": "vicissitude",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A change of circumstance, usually unwelcome.",
+  "syn": [
+   "fluctuation",
+   "upheaval",
+   "reversal"
+  ],
+  "ant": [
+   "constancy",
+   "stability"
+  ],
+  "ex": "The vicissitudes of freelance work.",
+  "id": 983,
+  "list": 6
+ },
+ {
+  "word": "vilify",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To speak about someone with abusive contempt.",
+  "syn": [
+   "malign",
+   "denigrate",
+   "defame"
+  ],
+  "ant": [
+   "praise",
+   "extol"
+  ],
+  "ex": "He was vilified for a decision later vindicated.",
+  "id": 984,
+  "list": 6
+ },
+ {
+  "word": "vindicate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To clear of blame, or to prove right.",
+  "syn": [
+   "exonerate",
+   "justify",
+   "absolve"
+  ],
+  "ant": [
+   "condemn",
+   "incriminate"
+  ],
+  "ex": "Later evidence vindicated her caution.",
+  "id": 985,
+  "list": 6
+ },
+ {
+  "word": "vindictive",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Seeking revenge.",
+  "syn": [
+   "vengeful",
+   "spiteful",
+   "retaliatory"
+  ],
+  "ant": [
+   "forgiving",
+   "magnanimous"
+  ],
+  "ex": "A vindictive campaign against a former colleague.",
+  "id": 986,
+  "list": 6
+ },
+ {
+  "word": "virulent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely severe or harmful; bitterly hostile.",
+  "syn": [
+   "venomous",
+   "malignant",
+   "vitriolic"
+  ],
+  "ant": [
+   "harmless",
+   "benign"
+  ],
+  "ex": "A virulent strain spread through the ward.",
+  "id": 987,
+  "list": 6
+ },
+ {
+  "word": "viscous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Thick and slow-flowing.",
+  "syn": [
+   "glutinous",
+   "syrupy",
+   "thick"
+  ],
+  "ant": [
+   "runny",
+   "fluid"
+  ],
+  "ex": "The residue was viscous and dark.",
+  "id": 988,
+  "list": 6
+ },
+ {
+  "word": "vitiate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To spoil or weaken the effectiveness of something.",
+  "syn": [
+   "impair",
+   "undermine",
+   "corrupt"
+  ],
+  "ant": [
+   "strengthen",
+   "validate"
+  ],
+  "ex": "One flawed assumption vitiates the whole model.",
+  "id": 989,
+  "list": 6
+ },
+ {
+  "word": "vitriolic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Filled with bitter criticism.",
+  "syn": [
+   "caustic",
+   "scathing",
+   "venomous"
+  ],
+  "ant": [
+   "complimentary",
+   "gentle"
+  ],
+  "ex": "A vitriolic exchange in the letters page.",
+  "id": 990,
+  "list": 6
+ },
+ {
+  "word": "vituperate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To criticise in a harsh, abusive way.",
+  "syn": [
+   "revile",
+   "berate",
+   "castigate"
+  ],
+  "ant": [
+   "praise",
+   "laud"
+  ],
+  "ex": "Rivals vituperated each other for months.",
+  "id": 991,
+  "list": 6
+ },
+ {
+  "word": "vociferous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Expressing opinions loudly and insistently.",
+  "syn": [
+   "clamorous",
+   "strident",
+   "outspoken"
+  ],
+  "ant": [
+   "quiet",
+   "reticent"
+  ],
+  "ex": "Vociferous opposition from local residents.",
+  "id": 992,
+  "list": 6
+ },
+ {
+  "word": "volatile",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Liable to sudden, unpredictable change.",
+  "syn": [
+   "unstable",
+   "mercurial",
+   "erratic"
+  ],
+  "ant": [
+   "stable",
+   "steady"
+  ],
+  "ex": "Commodity prices remain volatile.",
+  "id": 993,
+  "list": 6
+ },
+ {
+  "word": "voracious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Having a huge appetite for food or activity.",
+  "syn": [
+   "insatiable",
+   "ravenous",
+   "rapacious"
+  ],
+  "ant": [
+   "sated",
+   "moderate"
+  ],
+  "ex": "A voracious reader of technical journals.",
+  "id": 994,
+  "list": 6
+ }
+]

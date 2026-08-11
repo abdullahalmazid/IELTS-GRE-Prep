@@ -1,0 +1,55 @@
+[
+ {
+  "word": "generate",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To produce or cause something to arise.",
+  "syn": [
+   "produce",
+   "create",
+   "yield"
+  ],
+  "ant": [
+   "consume",
+   "destroy"
+  ],
+  "ex": "Wind farms generate a third of the supply.",
+  "id": 1495,
+  "list": 8
+ },
+ {
+  "word": "gentrification",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The change of a poor area as wealthier people move in.",
+  "syn": [
+   "upmarket redevelopment",
+   "urban renewal"
+  ],
+  "ant": [
+   "decline",
+   "deterioration"
+  ],
+  "ex": "Gentrification displaced long-standing tenants.",
+  "id": 1496,
+  "list": 8
+ },
+ {
+  "word": "grant",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A sum given for a particular purpose, usually by government.",
+  "syn": [
+   "subsidy",
+   "award",
+   "endowment"
+  ],
+  "ant": [
+   "loan",
+   "levy"
+  ],
+  "ex": "A research grant funded the first two years.",
+  "id": 1497,
+  "list": 8
+ }
+]

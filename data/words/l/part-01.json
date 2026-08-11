@@ -1,0 +1,154 @@
+[
+ {
+  "word": "layer",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A sheet of material covering a surface or lying between others.",
+  "syn": [
+   "stratum",
+   "coating",
+   "tier"
+  ],
+  "ant": [],
+  "ex": "The ozone layer filters ultraviolet radiation.",
+  "id": 419
+ },
+ {
+  "word": "lecture",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "An educational talk given to an audience.",
+  "syn": [
+   "talk",
+   "address",
+   "discourse"
+  ],
+  "ant": [
+   "seminar",
+   "discussion"
+  ],
+  "ex": "Attendance at lectures is no longer compulsory.",
+  "id": 420
+ },
+ {
+  "word": "legal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Permitted by law, or relating to the law.",
+  "syn": [
+   "lawful",
+   "legitimate",
+   "judicial"
+  ],
+  "ant": [
+   "illegal",
+   "unlawful"
+  ],
+  "ex": "The company faces legal action over the leak.",
+  "id": 421
+ },
+ {
+  "word": "legislation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Laws considered collectively, or the process of making them.",
+  "syn": [
+   "law",
+   "statute",
+   "act"
+  ],
+  "ant": [],
+  "ex": "New legislation caps interest rates.",
+  "id": 422
+ },
+ {
+  "word": "liberal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Open to new ideas and tolerant; also generous.",
+  "syn": [
+   "progressive",
+   "tolerant",
+   "broad-minded"
+  ],
+  "ant": [
+   "conservative",
+   "dogmatic"
+  ],
+  "ex": "The country has liberal immigration policies.",
+  "id": 423
+ },
+ {
+  "word": "likewise",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "In the same way; also.",
+  "syn": [
+   "similarly",
+   "equally",
+   "correspondingly"
+  ],
+  "ant": [
+   "conversely",
+   "differently"
+  ],
+  "ex": "Rural clinics likewise reported shortages.",
+  "id": 424
+ },
+ {
+  "word": "link",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A connection or relationship between two things.",
+  "syn": [
+   "connection",
+   "association",
+   "tie"
+  ],
+  "ant": [
+   "disconnection"
+  ],
+  "ex": "The link between smoking and cancer is undisputed.",
+  "id": 425
+ },
+ {
+  "word": "location",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A particular place or position.",
+  "syn": [
+   "site",
+   "position",
+   "venue"
+  ],
+  "ant": [],
+  "ex": "The location was chosen for its transport links.",
+  "id": 426
+ },
+ {
+  "word": "logic",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Reasoning conducted according to strict principles of validity.",
+  "syn": [
+   "reasoning",
+   "rationale",
+   "coherence"
+  ],
+  "ant": [
+   "irrationality",
+   "fallacy"
+  ],
+  "ex": "There is a flaw in the logic of that argument.",
+  "id": 427
+ }
+]

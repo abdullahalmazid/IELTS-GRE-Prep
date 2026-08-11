@@ -1,0 +1,232 @@
+[
+ {
+  "word": "malaise",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A general feeling of unease or discontent.",
+  "syn": [
+   "unease",
+   "disquiet",
+   "listlessness"
+  ],
+  "ant": [
+   "wellbeing",
+   "vitality"
+  ],
+  "ex": "A malaise settled over the whole sector.",
+  "id": 1273,
+  "list": 7
+ },
+ {
+  "word": "malinger",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To pretend illness to avoid work.",
+  "syn": [
+   "shirk",
+   "feign illness",
+   "dodge"
+  ],
+  "ant": [
+   "persevere",
+   "toil"
+  ],
+  "ex": "Managers wrongly assumed he was malingering.",
+  "id": 1274,
+  "list": 7
+ },
+ {
+  "word": "marshal",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To arrange facts or forces in order.",
+  "syn": [
+   "assemble",
+   "organise",
+   "muster"
+  ],
+  "ant": [
+   "scatter",
+   "disorganise"
+  ],
+  "ex": "She marshalled the evidence with great care.",
+  "id": 1275,
+  "list": 7
+ },
+ {
+  "word": "martial",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Relating to war or the military.",
+  "syn": [
+   "military",
+   "warlike",
+   "soldierly"
+  ],
+  "ant": [
+   "civilian",
+   "peaceable"
+  ],
+  "ex": "Martial law was declared overnight.",
+  "id": 1276,
+  "list": 7
+ },
+ {
+  "word": "maxim",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A short saying expressing a general rule.",
+  "syn": [
+   "adage",
+   "aphorism",
+   "precept"
+  ],
+  "ant": [],
+  "ex": "He governed by a single maxim.",
+  "id": 1277,
+  "list": 7
+ },
+ {
+  "word": "meander",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To follow a winding course; to wander aimlessly.",
+  "syn": [
+   "wind",
+   "ramble",
+   "stray"
+  ],
+  "ant": [
+   "proceed directly"
+  ],
+  "ex": "The argument meanders for three chapters.",
+  "id": 1278,
+  "list": 7
+ },
+ {
+  "word": "mellifluous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Pleasingly smooth and musical to hear.",
+  "syn": [
+   "dulcet",
+   "euphonious",
+   "honeyed"
+  ],
+  "ant": [
+   "harsh",
+   "grating"
+  ],
+  "ex": "A mellifluous voice built for radio.",
+  "id": 1279,
+  "list": 7
+ },
+ {
+  "word": "mercenary",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Motivated only by money.",
+  "syn": [
+   "venal",
+   "grasping",
+   "acquisitive"
+  ],
+  "ant": [
+   "altruistic",
+   "idealistic"
+  ],
+  "ex": "A mercenary decision dressed as principle.",
+  "id": 1280,
+  "list": 7
+ },
+ {
+  "word": "misanthrope",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person who dislikes humankind.",
+  "syn": [
+   "cynic",
+   "recluse",
+   "curmudgeon"
+  ],
+  "ant": [
+   "philanthropist",
+   "humanitarian"
+  ],
+  "ex": "A misanthrope who nonetheless funded hospitals.",
+  "id": 1281,
+  "list": 7
+ },
+ {
+  "word": "misconstrue",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To interpret something wrongly.",
+  "syn": [
+   "misinterpret",
+   "misread",
+   "mistake"
+  ],
+  "ant": [
+   "understand",
+   "grasp"
+  ],
+  "ex": "The remark was widely misconstrued.",
+  "id": 1282,
+  "list": 7
+ },
+ {
+  "word": "mollycoddle",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To treat someone with excessive care.",
+  "syn": [
+   "pamper",
+   "indulge",
+   "coddle"
+  ],
+  "ant": [
+   "neglect",
+   "toughen"
+  ],
+  "ex": "Critics say the sector has been mollycoddled.",
+  "id": 1283,
+  "list": 7
+ },
+ {
+  "word": "moribund",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Losing vitality; close to ending.",
+  "syn": [
+   "declining",
+   "stagnant",
+   "dying"
+  ],
+  "ant": [
+   "thriving",
+   "flourishing"
+  ],
+  "ex": "A moribund industry kept alive by subsidy.",
+  "id": 1284,
+  "list": 7
+ },
+ {
+  "word": "myopic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Lacking foresight; short-sighted.",
+  "syn": [
+   "shortsighted",
+   "narrow",
+   "imprudent"
+  ],
+  "ant": [
+   "farsighted",
+   "prescient"
+  ],
+  "ex": "A myopic focus on quarterly results.",
+  "id": 1285,
+  "list": 7
+ }
+]

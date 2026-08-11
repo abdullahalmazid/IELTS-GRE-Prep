@@ -1,0 +1,747 @@
+[
+ {
+  "word": "abnegation",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The renunciation of one's own interests or desires.",
+  "syn": [
+   "self-denial",
+   "renunciation",
+   "abstinence"
+  ],
+  "ant": [
+   "indulgence",
+   "self-assertion"
+  ],
+  "ex": "A life of abnegation in a mountain order.",
+  "id": 1005,
+  "list": 7
+ },
+ {
+  "word": "abrogate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To formally repeal a law or agreement.",
+  "syn": [
+   "annul",
+   "revoke",
+   "rescind"
+  ],
+  "ant": [
+   "enact",
+   "uphold"
+  ],
+  "ex": "The treaty was abrogated without warning.",
+  "id": 1006,
+  "list": 7
+ },
+ {
+  "word": "abstemious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sparing in eating and drinking.",
+  "syn": [
+   "temperate",
+   "moderate",
+   "ascetic"
+  ],
+  "ant": [
+   "gluttonous",
+   "indulgent"
+  ],
+  "ex": "An abstemious diet by choice, not necessity.",
+  "id": 1007,
+  "list": 7
+ },
+ {
+  "word": "accede",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To agree to a demand or request.",
+  "syn": [
+   "assent",
+   "consent",
+   "yield"
+  ],
+  "ant": [
+   "refuse",
+   "resist"
+  ],
+  "ex": "The board acceded to the union's terms.",
+  "id": 1008,
+  "list": 7
+ },
+ {
+  "word": "acumen",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Keen insight and good judgement in a field.",
+  "syn": [
+   "shrewdness",
+   "discernment",
+   "astuteness"
+  ],
+  "ant": [
+   "obtuseness",
+   "naivety"
+  ],
+  "ex": "Her commercial acumen saved the company.",
+  "id": 1009,
+  "list": 7
+ },
+ {
+  "word": "adroit",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Clever and skilful, especially with the hands or in dealing with people.",
+  "syn": [
+   "deft",
+   "dexterous",
+   "adept"
+  ],
+  "ant": [
+   "clumsy",
+   "maladroit"
+  ],
+  "ex": "An adroit handling of a hostile press.",
+  "id": 1010,
+  "list": 7
+ },
+ {
+  "word": "adulation",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Excessive admiration or praise.",
+  "syn": [
+   "flattery",
+   "idolisation",
+   "fawning"
+  ],
+  "ant": [
+   "criticism",
+   "contempt"
+  ],
+  "ex": "Public adulation followed the discovery.",
+  "id": 1011,
+  "list": 7
+ },
+ {
+  "word": "aegis",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The protection or sponsorship of a person or organisation.",
+  "syn": [
+   "auspices",
+   "patronage",
+   "protection"
+  ],
+  "ant": [],
+  "ex": "The study ran under the aegis of the ministry.",
+  "id": 1012,
+  "list": 7
+ },
+ {
+  "word": "allay",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To reduce fear or concern.",
+  "syn": [
+   "assuage",
+   "calm",
+   "dispel"
+  ],
+  "ant": [
+   "heighten",
+   "aggravate"
+  ],
+  "ex": "Nothing said allayed investors' fears.",
+  "id": 1013,
+  "list": 7
+ },
+ {
+  "word": "allude",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To refer to something indirectly.",
+  "syn": [
+   "hint",
+   "intimate",
+   "suggest"
+  ],
+  "ant": [
+   "state",
+   "specify"
+  ],
+  "ex": "She alluded to earlier failures without naming them.",
+  "id": 1014,
+  "list": 7
+ },
+ {
+  "word": "altruism",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Selfless concern for the wellbeing of others.",
+  "syn": [
+   "selflessness",
+   "benevolence",
+   "philanthropy"
+  ],
+  "ant": [
+   "selfishness",
+   "egoism"
+  ],
+  "ex": "Altruism alone will not fund the service.",
+  "id": 1015,
+  "list": 7
+ },
+ {
+  "word": "ambivalent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Having contradictory feelings about something.",
+  "syn": [
+   "conflicted",
+   "undecided",
+   "equivocal"
+  ],
+  "ant": [
+   "certain",
+   "decisive"
+  ],
+  "ex": "Voters remain ambivalent about the merger.",
+  "id": 1016,
+  "list": 7
+ },
+ {
+  "word": "amenable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Open to suggestion or willing to comply.",
+  "syn": [
+   "receptive",
+   "tractable",
+   "agreeable"
+  ],
+  "ant": [
+   "resistant",
+   "obstinate"
+  ],
+  "ex": "He proved amenable to a later deadline.",
+  "id": 1017,
+  "list": 7
+ },
+ {
+  "word": "amorphous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Without a clear shape or structure.",
+  "syn": [
+   "shapeless",
+   "formless",
+   "nebulous"
+  ],
+  "ant": [
+   "defined",
+   "structured"
+  ],
+  "ex": "An amorphous coalition with no leadership.",
+  "id": 1018,
+  "list": 7
+ },
+ {
+  "word": "anodyne",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Deliberately inoffensive, and therefore dull.",
+  "syn": [
+   "bland",
+   "innocuous",
+   "unobjectionable"
+  ],
+  "ant": [
+   "provocative",
+   "controversial"
+  ],
+  "ex": "An anodyne statement that committed to nothing.",
+  "id": 1019,
+  "list": 7
+ },
+ {
+  "word": "antediluvian",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Absurdly old-fashioned.",
+  "syn": [
+   "archaic",
+   "antiquated",
+   "outmoded"
+  ],
+  "ant": [
+   "modern",
+   "contemporary"
+  ],
+  "ex": "Antediluvian attitudes to working mothers.",
+  "id": 1020,
+  "list": 7
+ },
+ {
+  "word": "antithesis",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The direct opposite of something.",
+  "syn": [
+   "contrary",
+   "reverse",
+   "converse"
+  ],
+  "ant": [
+   "equivalent",
+   "same"
+  ],
+  "ex": "His method is the antithesis of hers.",
+  "id": 1021,
+  "list": 7
+ },
+ {
+  "word": "aphorism",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A short statement expressing a general truth.",
+  "syn": [
+   "maxim",
+   "adage",
+   "dictum"
+  ],
+  "ant": [],
+  "ex": "The book closes with a well-worn aphorism.",
+  "id": 1022,
+  "list": 7
+ },
+ {
+  "word": "apostate",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person who abandons a belief or allegiance.",
+  "syn": [
+   "defector",
+   "renegade",
+   "turncoat"
+  ],
+  "ant": [
+   "loyalist",
+   "adherent"
+  ],
+  "ex": "Former members were treated as apostates.",
+  "id": 1023,
+  "list": 7
+ },
+ {
+  "word": "apotheosis",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The highest point in something's development.",
+  "syn": [
+   "culmination",
+   "pinnacle",
+   "epitome"
+  ],
+  "ant": [
+   "nadir",
+   "low point"
+  ],
+  "ex": "The cathedral is the apotheosis of the style.",
+  "id": 1024,
+  "list": 7
+ },
+ {
+  "word": "apprise",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To inform someone of something.",
+  "syn": [
+   "notify",
+   "inform",
+   "brief"
+  ],
+  "ant": [
+   "withhold",
+   "conceal"
+  ],
+  "ex": "Staff were apprised of the closure by email.",
+  "id": 1025,
+  "list": 7
+ },
+ {
+  "word": "arbiter",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person with the power to settle a dispute.",
+  "syn": [
+   "adjudicator",
+   "judge",
+   "referee"
+  ],
+  "ant": [
+   "disputant"
+  ],
+  "ex": "The court is the final arbiter of meaning.",
+  "id": 1026,
+  "list": 7
+ },
+ {
+  "word": "archaic",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Belonging to an earlier period and no longer used.",
+  "syn": [
+   "obsolete",
+   "antiquated",
+   "outmoded"
+  ],
+  "ant": [
+   "modern",
+   "current"
+  ],
+  "ex": "Archaic terminology confuses new readers.",
+  "id": 1027,
+  "list": 7
+ },
+ {
+  "word": "arrogate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To claim a right or power without justification.",
+  "syn": [
+   "usurp",
+   "appropriate",
+   "commandeer"
+  ],
+  "ant": [
+   "cede",
+   "relinquish"
+  ],
+  "ex": "The committee arrogated powers to itself.",
+  "id": 1028,
+  "list": 7
+ },
+ {
+  "word": "artifice",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Clever deception or cunning contrivance.",
+  "syn": [
+   "trickery",
+   "guile",
+   "subterfuge"
+  ],
+  "ant": [
+   "sincerity",
+   "honesty"
+  ],
+  "ex": "The effect is achieved by artifice, not accident.",
+  "id": 1029,
+  "list": 7
+ },
+ {
+  "word": "ascendancy",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A position of dominant power.",
+  "syn": [
+   "dominance",
+   "supremacy",
+   "hegemony"
+  ],
+  "ant": [
+   "subordination",
+   "decline"
+  ],
+  "ex": "The faction gained ascendancy after the split.",
+  "id": 1030,
+  "list": 7
+ },
+ {
+  "word": "ascribe",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To regard something as belonging to or caused by.",
+  "syn": [
+   "attribute",
+   "credit",
+   "assign"
+  ],
+  "ant": [
+   "dissociate"
+  ],
+  "ex": "The gains were ascribed to better weather.",
+  "id": 1031,
+  "list": 7
+ },
+ {
+  "word": "asperity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Harshness of tone or manner.",
+  "syn": [
+   "sharpness",
+   "severity",
+   "acrimony"
+  ],
+  "ant": [
+   "gentleness",
+   "mildness"
+  ],
+  "ex": "He replied with unexpected asperity.",
+  "id": 1032,
+  "list": 7
+ },
+ {
+  "word": "aspersion",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An attack on someone's reputation.",
+  "syn": [
+   "slur",
+   "insinuation",
+   "calumny"
+  ],
+  "ant": [
+   "compliment",
+   "praise"
+  ],
+  "ex": "He cast aspersions on their motives.",
+  "id": 1033,
+  "list": 7
+ },
+ {
+  "word": "assail",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To attack violently, physically or in words.",
+  "syn": [
+   "assault",
+   "besiege",
+   "criticise"
+  ],
+  "ant": [
+   "defend",
+   "protect"
+  ],
+  "ex": "Critics assailed the report on every point.",
+  "id": 1034,
+  "list": 7
+ },
+ {
+  "word": "assimilate",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To absorb and integrate information or people.",
+  "syn": [
+   "absorb",
+   "incorporate",
+   "integrate"
+  ],
+  "ant": [
+   "reject",
+   "alienate"
+  ],
+  "ex": "Students assimilate the method within a term.",
+  "id": 1035,
+  "list": 7
+ },
+ {
+  "word": "astringent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sharp and severe in manner; also causing contraction.",
+  "syn": [
+   "caustic",
+   "severe",
+   "acerbic"
+  ],
+  "ant": [
+   "gentle",
+   "soothing"
+  ],
+  "ex": "An astringent assessment of her own work.",
+  "id": 1036,
+  "list": 7
+ },
+ {
+  "word": "atrophy",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To waste away from disuse.",
+  "syn": [
+   "wither",
+   "degenerate",
+   "waste"
+  ],
+  "ant": [
+   "flourish",
+   "develop"
+  ],
+  "ex": "Skills atrophy quickly without practice.",
+  "id": 1037,
+  "list": 7
+ },
+ {
+  "word": "attest",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To provide evidence that something is true.",
+  "syn": [
+   "testify",
+   "certify",
+   "corroborate"
+  ],
+  "ant": [
+   "refute",
+   "deny"
+  ],
+  "ex": "The ruins attest to a large population.",
+  "id": 1038,
+  "list": 7
+ },
+ {
+  "word": "attrition",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A gradual reduction in strength or numbers.",
+  "syn": [
+   "erosion",
+   "wearing down",
+   "depletion"
+  ],
+  "ant": [
+   "reinforcement",
+   "growth"
+  ],
+  "ex": "Staff numbers fell through attrition alone.",
+  "id": 1039,
+  "list": 7
+ },
+ {
+  "word": "augury",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A sign of what will happen in the future.",
+  "syn": [
+   "omen",
+   "portent",
+   "harbinger"
+  ],
+  "ant": [],
+  "ex": "Falling orders were a poor augury.",
+  "id": 1040,
+  "list": 7
+ },
+ {
+  "word": "austerity",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Severe economising, especially by government.",
+  "syn": [
+   "retrenchment",
+   "frugality",
+   "stringency"
+  ],
+  "ant": [
+   "extravagance",
+   "largesse"
+  ],
+  "ex": "A decade of austerity thinned local services.",
+  "id": 1041,
+  "list": 7
+ },
+ {
+  "word": "autonomy",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "The right or condition of governing oneself.",
+  "syn": [
+   "independence",
+   "self-rule",
+   "sovereignty"
+  ],
+  "ant": [
+   "dependence",
+   "subjection"
+  ],
+  "ex": "The region was granted partial autonomy.",
+  "id": 1042,
+  "list": 7
+ },
+ {
+  "word": "averse",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Strongly disinclined towards something.",
+  "syn": [
+   "opposed",
+   "disinclined",
+   "reluctant"
+  ],
+  "ant": [
+   "eager",
+   "keen"
+  ],
+  "ex": "The firm is averse to any public dispute.",
+  "id": 1043,
+  "list": 7
+ },
+ {
+  "word": "avow",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To declare openly and without shame.",
+  "syn": [
+   "assert",
+   "profess",
+   "affirm"
+  ],
+  "ant": [
+   "deny",
+   "disavow"
+  ],
+  "ex": "He avowed his support in writing.",
+  "id": 1044,
+  "list": 7
+ },
+ {
+  "word": "awry",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Away from the expected or correct course.",
+  "syn": [
+   "amiss",
+   "askew",
+   "wrong"
+  ],
+  "ant": [
+   "right",
+   "on track"
+  ],
+  "ex": "The schedule went awry in the first week.",
+  "id": 1045,
+  "list": 7
+ },
+ {
+  "word": "axiom",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A statement accepted as true without proof.",
+  "syn": [
+   "principle",
+   "postulate",
+   "given"
+  ],
+  "ant": [
+   "hypothesis",
+   "conjecture"
+  ],
+  "ex": "The whole system rests on three axioms.",
+  "id": 1046,
+  "list": 7
+ }
+]

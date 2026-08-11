@@ -1,0 +1,234 @@
+[
+ {
+  "word": "objective",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Based on facts rather than personal feelings.",
+  "syn": [
+   "impartial",
+   "unbiased",
+   "detached"
+  ],
+  "ant": [
+   "subjective",
+   "biased"
+  ],
+  "ex": "Objective criteria should govern selection.",
+  "id": 460
+ },
+ {
+  "word": "obtain",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To get or acquire something, often with effort.",
+  "syn": [
+   "acquire",
+   "procure",
+   "secure"
+  ],
+  "ant": [
+   "lose",
+   "relinquish"
+  ],
+  "ex": "Permission must be obtained in advance.",
+  "id": 461
+ },
+ {
+  "word": "obvious",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Easily perceived or understood.",
+  "syn": [
+   "evident",
+   "manifest",
+   "conspicuous"
+  ],
+  "ant": [
+   "subtle",
+   "obscure"
+  ],
+  "ex": "The solution is obvious in hindsight.",
+  "id": 462
+ },
+ {
+  "word": "occupation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A person's job, or the act of taking control of a place.",
+  "syn": [
+   "profession",
+   "vocation",
+   "seizure"
+  ],
+  "ant": [
+   "unemployment",
+   "liberation"
+  ],
+  "ex": "Nursing is a demanding occupation.",
+  "id": 463
+ },
+ {
+  "word": "occur",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To happen or take place.",
+  "syn": [
+   "happen",
+   "arise",
+   "transpire"
+  ],
+  "ant": [
+   "cease"
+  ],
+  "ex": "Earthquakes occur most often along fault lines.",
+  "id": 464
+ },
+ {
+  "word": "odd",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Strange or unusual; also not matching.",
+  "syn": [
+   "peculiar",
+   "anomalous",
+   "irregular"
+  ],
+  "ant": [
+   "ordinary",
+   "typical"
+  ],
+  "ex": "There is something odd about the figures.",
+  "id": 465
+ },
+ {
+  "word": "ongoing",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Continuing at the present time.",
+  "syn": [
+   "continuing",
+   "current",
+   "in progress"
+  ],
+  "ant": [
+   "completed",
+   "finished"
+  ],
+  "ex": "The investigation is ongoing.",
+  "id": 466
+ },
+ {
+  "word": "option",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A thing that may be chosen.",
+  "syn": [
+   "choice",
+   "alternative",
+   "possibility"
+  ],
+  "ant": [
+   "obligation",
+   "necessity"
+  ],
+  "ex": "Students have the option of studying abroad.",
+  "id": 467
+ },
+ {
+  "word": "orientation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The direction or position of something; introductory training.",
+  "syn": [
+   "direction",
+   "alignment",
+   "induction"
+  ],
+  "ant": [
+   "disorientation"
+  ],
+  "ex": "The building's orientation maximises daylight.",
+  "id": 468
+ },
+ {
+  "word": "outcome",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The result or consequence of an event or process.",
+  "syn": [
+   "result",
+   "upshot",
+   "consequence"
+  ],
+  "ant": [
+   "cause",
+   "origin"
+  ],
+  "ex": "The outcome of the trial surprised everyone.",
+  "id": 469
+ },
+ {
+  "word": "overall",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Considering everything; general.",
+  "syn": [
+   "total",
+   "comprehensive",
+   "aggregate"
+  ],
+  "ant": [
+   "partial",
+   "specific"
+  ],
+  "ex": "Overall performance improved slightly.",
+  "id": 470
+ },
+ {
+  "word": "overlap",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To extend over part of something else; to partly coincide.",
+  "syn": [
+   "coincide",
+   "intersect",
+   "dovetail"
+  ],
+  "ant": [
+   "diverge",
+   "separate"
+  ],
+  "ex": "The two roles overlap considerably.",
+  "id": 471
+ },
+ {
+  "word": "overseas",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Relating to countries across the sea; foreign.",
+  "syn": [
+   "foreign",
+   "abroad",
+   "international"
+  ],
+  "ant": [
+   "domestic",
+   "home"
+  ],
+  "ex": "Overseas students pay higher fees.",
+  "id": 472
+ }
+]

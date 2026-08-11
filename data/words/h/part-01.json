@@ -1,0 +1,73 @@
+[
+ {
+  "word": "hence",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "For this reason; therefore.",
+  "syn": [
+   "therefore",
+   "thus",
+   "consequently"
+  ],
+  "ant": [
+   "nevertheless"
+  ],
+  "ex": "Demand fell; hence prices dropped.",
+  "id": 363
+ },
+ {
+  "word": "highlighted",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Made prominent or emphasised.",
+  "syn": [
+   "emphasised",
+   "underscored",
+   "spotlighted"
+  ],
+  "ant": [
+   "downplayed",
+   "obscured"
+  ],
+  "ex": "The report highlighted three urgent risks.",
+  "id": 364
+ },
+ {
+  "word": "homogeneous",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Consisting of parts that are all the same kind.",
+  "syn": [
+   "uniform",
+   "consistent",
+   "undifferentiated"
+  ],
+  "ant": [
+   "heterogeneous",
+   "diverse"
+  ],
+  "ex": "The sample was too homogeneous to generalise from.",
+  "id": 365
+ },
+ {
+  "word": "hypothesis",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A proposed explanation to be tested by research.",
+  "syn": [
+   "theory",
+   "supposition",
+   "conjecture"
+  ],
+  "ant": [
+   "proof",
+   "certainty"
+  ],
+  "ex": "The hypothesis was rejected after testing.",
+  "id": 366
+ }
+]

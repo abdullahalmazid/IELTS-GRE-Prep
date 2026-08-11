@@ -1,0 +1,37 @@
+[
+ {
+  "word": "justification",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A reason showing that something is right or reasonable.",
+  "syn": [
+   "rationale",
+   "grounds",
+   "vindication"
+  ],
+  "ant": [
+   "condemnation"
+  ],
+  "ex": "There is no justification for such secrecy.",
+  "id": 417
+ },
+ {
+  "word": "justify",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To show that something is reasonable or right.",
+  "syn": [
+   "defend",
+   "warrant",
+   "vindicate"
+  ],
+  "ant": [
+   "condemn",
+   "invalidate"
+  ],
+  "ex": "The costs cannot be justified by the benefits.",
+  "id": 418
+ }
+]

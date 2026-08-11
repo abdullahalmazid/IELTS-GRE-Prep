@@ -1,0 +1,38 @@
+[
+ {
+  "word": "zeal",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Great energy in pursuit of a cause.",
+  "syn": [
+   "fervour",
+   "ardour",
+   "passion"
+  ],
+  "ant": [
+   "apathy",
+   "indifference"
+  ],
+  "ex": "Reforming zeal outlasted three governments.",
+  "id": 1003,
+  "list": 6
+ },
+ {
+  "word": "zenith",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The highest point of something.",
+  "syn": [
+   "peak",
+   "apex",
+   "pinnacle"
+  ],
+  "ant": [
+   "nadir",
+   "trough"
+  ],
+  "ex": "The empire reached its zenith around 1750.",
+  "id": 1004,
+  "list": 6
+ }
+]

@@ -1,0 +1,1020 @@
+/* ==========================================================================
+   Abdullah Al Mazid — Portfolio
+   Design: boxed white content canvas on a grey page, dark horizontal menu
+   bar with dropdowns, persistent right sidebar, red section rules.
+   Classic content-site layout — no build step, plain CSS.
+
+   Single light palette: the previous dark/light toggle has been removed.
+   ========================================================================== */
+
+/* ======================================================================
+   CONTENTS  —  search for the bracketed tag to jump to a section.
+   e.g. Ctrl+F (Cmd+F on Mac) for  [10]  lands on Listing cards.
+
+     [01]  Tokens
+     [02]  Reset & base
+     [03]  Masthead — title block above the menu bar
+     [04]  Menu bar with dropdowns
+     [05]  Content canvas + sidebar
+     [06]  Section headings & rules
+     [07]  Home hero
+     [08]  Buttons & chips
+     [09]  Stat rail
+     [10]  Listing cards — bordered blocks, no shadows
+     [11]  Section tile grid — the big "click to open" navigation blocks
+     [12]  Detail pages
+     [13]  About page
+     [14]  Skills panel
+     [15]  Gallery — plain bordered thumbnails with captions underneath
+     [16]  Contact
+     [17]  Image slot placeholders
+     [18]  Page-bottom navigation
+     [19]  Footer
+     [20]  Lightbox
+     [21]  Responsive
+     [22]  Layout inspector (optional, off by default)
+
+   ----------------------------------------------------------------------
+   "I WANT TO CHANGE X"  —  look it up here.
+   ----------------------------------------------------------------------
+     The whole page is too wide / too narrow ...... --max-w        [01]
+     The sidebar is too wide ...................... --sidebar-w    [01]
+     Gap between content and sidebar .............. --gutter       [01]
+     The red is too bright / wrong shade .......... --red          [01]
+     Menu bar and footer colour ................... --nav-bg       [01]
+     Page background behind the white box ......... --page-bg      [01]
+     Border and divider colour .................... --rule         [01]
+     Body text colour ............................. --ink          [01]
+     Link colour .................................. --link         [01]
+     Heading font ................................. --font-head    [01]
+     Body font .................................... --font-body    [01]
+     Overall text size ............................ body           [02]
+     Menu bar height / item spacing ............... .nav-links     [04]
+     Padding inside the white box ................. #page-main     [05]
+     Sidebar widget spacing ....................... .widget        [05]
+     Section heading style (red, centred) ......... .eyebrow       [06]
+     Listing card look ............................ .card          [10]
+     Card cover image height ...................... .card-cover    [10]
+     Home page tile grid columns .................. .tile-grid     [11]
+     Gallery columns .............................. .gallery-grid  [15]
+     "Photo not added yet" boxes .................. .slot-note     [17]
+     Previous / Next buttons ...................... .page-nav-seq  [18]
+     Where the layout stacks for phones ........... [21]
+     Can't tell which rule controls a box? ........ [22]
+
+   Anything in [01] is a one-line edit that updates the whole site.
+   ----------------------------------------------------------------------
+   ======================================================================
+
+/* [01]  TOKENS ========================================================= */
+:root {
+  /* --- FONTS ---------------------------------------------------------
+     Any font installed on the visitor's machine. These three are safe
+     everywhere; swapping in a Google Font needs an @import at the very
+     top of this file as well. */
+  --font-head: Georgia, 'Times New Roman', Times, serif;   /* all headings */
+  --font-body: Arial, Helvetica, sans-serif;               /* body text, menu */
+  --font-mono: 'Courier New', Courier, monospace;          /* code, file paths */
+
+  /* --- LAYOUT SIZES --------------------------------------------------
+     The three numbers that control the shape of every page. */
+  --max-w: 1140px;      /* total width of the page (content + sidebar) */
+  --sidebar-w: 300px;   /* width of the right sidebar */
+  --gutter: 40px;       /* space between the content and the sidebar */
+
+  /* --- MAIN COLOURS --------------------------------------------------
+     Change --red and the accent recolours across the whole site:
+     section rules, headings, active menu item, buttons, links on hover. */
+  --red: #c0272d;       /* the accent colour */
+  --red-dark: #971f24;  /* darker red — button hover, active menu item */
+
+  --page-bg: #f2f2f2;   /* grey area behind the white box */
+  --canvas: #ffffff;    /* the white content box itself */
+  --tint: #f7f7f7;      /* very light grey — wells, chips, button faces */
+
+  /* --- TEXT COLOURS -------------------------------------------------- */
+  --ink: #333333;       /* main body text and headings */
+  --ink-soft: #4a4a4a;  /* secondary text inside cards */
+  --muted: #777777;     /* captions, dates, small print */
+
+  --link: #0b5fa5;      /* links at rest */
+  --link-hover: #c0272d;/* links on hover */
+
+  /* --- LINES AND BORDERS --------------------------------------------- */
+  --rule: #d9d9d9;      /* card borders, dividers, sidebar separators */
+  --rule-soft: #ececec; /* fainter line inside cards */
+
+  /* --- MENU BAR AND FOOTER ------------------------------------------- */
+  --nav-bg: #2f2f2f;       /* dark bar background (used by both) */
+  --nav-bg-hover: #c0272d; /* menu item on hover */
+  --nav-text: #f0f0f0;     /* menu item text */
+
+  /* --- CATEGORY DOTS -------------------------------------------------
+     The small coloured dot on each listing card, by content type. */
+  --type-project: #1c7a5e;
+  --type-publication: #5f4cc4;
+  --type-education: #a4650f;
+  --type-experience: #a63a5b;
+  --type-achievement: #9a7d0a;
+}
+
+/* [02]  RESET & BASE =================================================== */
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--page-bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.72;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-head);
+  color: var(--ink);
+  font-weight: normal;
+  line-height: 1.3;
+  margin: 0 0 14px;
+}
+h1 { font-size: 30px; }
+h2 { font-size: 24px; }
+h3 { font-size: 19px; }
+h4 { font-size: 16px; font-family: var(--font-body); font-weight: bold; }
+
+p { margin: 0 0 1.15em; }
+.muted { color: var(--muted); }
+
+a { color: var(--link); text-decoration: none; }
+a:hover { color: var(--link-hover); text-decoration: underline; }
+
+img { max-width: 100%; height: auto; }
+code {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  background: var(--tint);
+  border: 1px solid var(--rule-soft);
+  padding: 1px 4px;
+}
+::selection { background: var(--red); color: #fff; }
+
+a:focus-visible, button:focus-visible, input:focus-visible,
+textarea:focus-visible, select:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: 2px;
+}
+
+.wrap {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* [03]  MASTHEAD — TITLE BLOCK ABOVE THE MENU BAR ====================== */
+.site-header {
+  background: var(--canvas);
+  border-bottom: 1px solid var(--rule);
+  padding: 26px 0 22px;
+  text-align: center;
+}
+.brand {
+  display: inline-block;
+  font-family: var(--font-head);
+  font-size: 34px;
+  line-height: 1.1;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+}
+.brand:hover { color: var(--red); text-decoration: none; }
+.brand .dot { color: var(--red); }
+.site-tagline {
+  margin: 8px 0 0;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* [04]  MENU BAR WITH DROPDOWNS ======================================== */
+.site-nav {
+  background: var(--nav-bg);
+  border-bottom: 3px solid var(--red);
+}
+.site-nav .wrap { padding: 0 24px; }
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.nav-links > li { position: relative; }
+.nav-links > li > a {
+  display: block;
+  padding: 13px 15px;
+  color: var(--nav-text);
+  font-size: 13px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.nav-links > li > a:hover,
+.nav-links > li:hover > a,
+.nav-links > li:focus-within > a {
+  background: var(--nav-bg-hover);
+  color: #fff;
+  text-decoration: none;
+}
+.nav-links > li > a[aria-current='page'] {
+  background: var(--red-dark);
+  color: #fff;
+}
+/* Caret on items that open a submenu */
+.nav-links > li.has-sub > a::after {
+  content: ' \25BE';
+  font-size: 10px;
+  opacity: 0.75;
+}
+
+.nav-links .sub {
+  list-style: none;
+  margin: 0;
+  padding: 6px 0;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 250px;
+  background: var(--nav-bg);
+  border-top: 2px solid var(--red);
+  box-shadow: 0 6px 14px rgb(0 0 0 / 0.22);
+  z-index: 60;
+  display: none;
+}
+.nav-links > li:hover > .sub,
+.nav-links > li:focus-within > .sub,
+.nav-links > li.is-open > .sub { display: block; }
+
+.nav-links .sub a {
+  display: block;
+  padding: 8px 16px;
+  color: #dcdcdc;
+  font-size: 13px;
+  line-height: 1.45;
+}
+.nav-links .sub a:hover {
+  background: var(--nav-bg-hover);
+  color: #fff;
+  text-decoration: none;
+}
+.nav-links .sub .sub-head {
+  padding: 9px 16px 5px;
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #8f8f8f;
+  border-top: 1px solid #454545;
+  margin-top: 5px;
+}
+.nav-links .sub li:first-child .sub-head { border-top: 0; margin-top: 0; }
+
+.nav-burger {
+  display: none;
+  font: inherit;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  width: 100%;
+  text-align: left;
+  padding: 13px 4px;
+  background: none;
+  border: 0;
+  color: var(--nav-text);
+  cursor: pointer;
+}
+
+/* [05]  CONTENT CANVAS + SIDEBAR ======================================= */
+main { padding: 26px 0 40px; }
+
+#page-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) var(--sidebar-w);
+  column-gap: var(--gutter);
+  align-items: start;
+  background: var(--canvas);
+  border: 1px solid var(--rule);
+  padding: 34px 34px 40px;
+}
+/* Everything that isn't the sidebar or the page-bottom nav stacks in the
+   main column; no per-page wrapper markup needed. */
+#page-main > *:not(.sidebar):not(.page-nav) { grid-column: 1; min-width: 0; }
+#page-main > .sidebar { grid-column: 2; grid-row: 1 / 200; }
+#page-main > .page-nav { grid-column: 1 / -1; }
+
+.sidebar { font-size: 13.5px; }
+.widget {
+  margin-bottom: 26px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--rule);
+}
+.widget:last-child { border-bottom: 0; }
+.widget h4 {
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin: 0 0 12px;
+  padding-bottom: 7px;
+  border-bottom: 2px solid var(--rule);
+}
+.widget p { margin-bottom: 0.8em; line-height: 1.65; }
+.widget ul { list-style: none; margin: 0; padding: 0; }
+.widget li {
+  padding: 6px 0;
+  border-bottom: 1px dotted var(--rule);
+}
+.widget li:last-child { border-bottom: 0; }
+.widget-portrait {
+  display: block;
+  width: 110px;
+  margin: 0 auto 12px;
+  border: 1px solid var(--rule);
+  padding: 4px;
+  background: var(--canvas);
+}
+.widget select {
+  width: 100%;
+  font: inherit;
+  font-size: 13px;
+  padding: 6px 8px;
+  border: 1px solid var(--rule);
+  background: var(--canvas);
+  color: var(--ink);
+}
+.widget-post-date {
+  display: block;
+  font-size: 11.5px;
+  color: var(--muted);
+}
+.subscribe-box {
+  background: var(--tint);
+  border: 1px solid var(--rule);
+  padding: 16px;
+}
+.subscribe-box h4 { border-bottom: 0; margin-bottom: 8px; }
+.subscribe-box input[type='email'] {
+  width: 100%;
+  font: inherit;
+  font-size: 13px;
+  padding: 7px 9px;
+  border: 1px solid var(--rule);
+  margin-bottom: 8px;
+}
+
+/* [06]  SECTION HEADINGS & RULES ======================================= */
+/* The reference site draws these as JPEG images; here they're borders, so
+   they stay sharp at any zoom and recolour with the palette. */
+.flow-divider {
+  height: 0;
+  border-top: 3px solid var(--red);
+  margin: 34px 0;
+}
+.flow-divider .node, .flow-divider .line { display: none; }
+
+section { margin-top: 38px; }
+section:first-of-type { margin-top: 0; }
+
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--red);
+  text-align: center;
+  margin: 0 0 18px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.page-head {
+  text-align: center;
+  padding-bottom: 22px;
+  margin-bottom: 28px;
+  border-bottom: 3px solid var(--red);
+}
+.page-head h1 { margin-bottom: 10px; }
+.page-head p { color: var(--ink-soft); margin: 0 auto; max-width: 62ch; }
+.page-head .eyebrow { border-bottom: 0; padding-bottom: 4px; margin-bottom: 6px; }
+
+.view-all {
+  display: block;
+  text-align: right;
+  margin-top: 12px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* [07]  HOME HERO ====================================================== */
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 210px;
+  gap: 28px;
+  align-items: start;
+  padding-bottom: 26px;
+  border-bottom: 3px solid var(--red);
+}
+.hero-eyebrow {
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 10px;
+}
+.hero h1 { font-size: 31px; margin-bottom: 12px; }
+.hero h1 .accent { color: var(--red); }
+.hero-lede { color: var(--ink-soft); margin-bottom: 0; }
+.hero-actions { margin-top: 20px; display: flex; gap: 10px; flex-wrap: wrap; }
+.hero-portrait {
+  border: 1px solid var(--rule);
+  padding: 5px;
+  background: var(--canvas);
+}
+.hero-portrait img { display: block; width: 100%; }
+
+/* [08]  BUTTONS & CHIPS ================================================ */
+.btn {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 9px 17px;
+  border: 1px solid var(--rule);
+  background: var(--tint);
+  color: var(--ink);
+}
+.btn:hover { background: #ebebeb; color: var(--ink); text-decoration: none; }
+.btn-primary {
+  background: var(--red);
+  border-color: var(--red);
+  color: #fff;
+}
+.btn-primary:hover { background: var(--red-dark); border-color: var(--red-dark); color: #fff; }
+.btn-accent { color: var(--red); }
+
+.chip {
+  display: inline-block;
+  font-size: 11.5px;
+  padding: 3px 9px;
+  background: var(--tint);
+  border: 1px solid var(--rule);
+  color: var(--ink-soft);
+}
+.chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
+
+.tag-dot {
+  display: inline-block;
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-right: 6px;
+}
+.tag-dot.project { background: var(--type-project); }
+.tag-dot.publication { background: var(--type-publication); }
+.tag-dot.education { background: var(--type-education); }
+.tag-dot.experience { background: var(--type-experience); }
+.tag-dot.achievement { background: var(--type-achievement); }
+
+/* [09]  STAT RAIL ====================================================== */
+.stat-rail {
+  margin-top: 26px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+  border: 1px solid var(--rule);
+  background: var(--tint);
+}
+.stat-well {
+  padding: 14px 16px;
+  border-right: 1px solid var(--rule);
+  text-align: center;
+}
+.stat-well:last-child { border-right: 0; }
+.stat-well .n {
+  display: block;
+  font-family: var(--font-head);
+  font-size: 25px;
+  color: var(--red);
+}
+.stat-well .l {
+  font-size: 11.5px;
+  color: var(--muted);
+  line-height: 1.4;
+  display: block;
+}
+
+/* [10]  LISTING CARDS — BORDERED BLOCKS, NO SHADOWS ==================== */
+.grid { display: grid; gap: 18px; }
+.grid-2 { grid-template-columns: repeat(2, 1fr); }
+
+.card {
+  display: block;
+  background: var(--canvas);
+  border: 1px solid var(--rule);
+  padding: 18px 20px 16px;
+  color: var(--ink);
+}
+a.card:hover {
+  border-color: var(--red);
+  background: #fcfcfc;
+  text-decoration: none;
+}
+a.card:hover h3 { color: var(--red); }
+.card h3 { font-size: 18px; margin-bottom: 8px; }
+.card p { color: var(--ink-soft); font-size: 14px; margin-bottom: 10px; }
+
+.card-kicker {
+  display: flex;
+  align-items: center;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 7px;
+}
+.card-foot {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 12px;
+  color: var(--muted);
+  padding-top: 9px;
+  border-top: 1px solid var(--rule-soft);
+}
+
+.card-cover {
+  position: relative;
+  height: 148px;
+  margin: -18px -20px 14px;
+  border-bottom: 1px solid var(--rule);
+  overflow: hidden;
+  background: var(--tint);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-cover::before {
+  content: attr(data-glyph);
+  font-family: var(--font-head);
+  font-size: 46px;
+  color: #cfcfcf;
+}
+.card-cover img {
+  position: absolute;
+  inset: 0;
+  width: 100%; height: 100%;
+  object-fit: cover;
+}
+
+.detail-cover {
+  margin: 22px 0 0;
+  border: 1px solid var(--rule);
+  padding: 5px;
+}
+.detail-cover img { display: block; width: 100%; }
+
+/* [11]  SECTION TILE GRID — THE BIG "CLICK TO OPEN" NAVIGATION BLOCKS ==== */
+.tile-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.tile {
+  display: block;
+  border: 1px solid var(--rule);
+  background: var(--canvas);
+  color: var(--ink);
+}
+.tile:hover {
+  border-color: var(--red);
+  text-decoration: none;
+}
+.tile-img {
+  position: relative;
+  aspect-ratio: 1024 / 742;
+  background: var(--tint);
+  border-bottom: 1px solid var(--rule);
+  overflow: hidden;
+}
+.tile-img img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.tile-label {
+  display: block;
+  padding: 10px 12px;
+  text-align: center;
+  font-family: var(--font-head);
+  font-size: 15px;
+}
+.tile:hover .tile-label { color: var(--red); }
+.tile-cta {
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 14px;
+}
+
+/* [12]  DETAIL PAGES =================================================== */
+.detail-head {
+  padding-bottom: 18px;
+  margin-bottom: 22px;
+  border-bottom: 3px solid var(--red);
+}
+.detail-head h1 { font-size: 27px; }
+.detail-head .hero-lede { color: var(--ink-soft); font-size: 15px; }
+.detail-meta { font-size: 12.5px; color: var(--muted); }
+.detail-body { max-width: none; }
+.detail-body h2 {
+  font-size: 21px;
+  margin-top: 30px;
+  padding-bottom: 7px;
+  border-bottom: 1px solid var(--rule);
+}
+.detail-body ul { padding-left: 20px; }
+.detail-body li { margin-bottom: 7px; color: var(--ink-soft); }
+
+.back-link {
+  display: inline-block;
+  font-size: 12.5px;
+  margin-bottom: 14px;
+  color: var(--muted);
+}
+.back-link:hover { color: var(--red); }
+
+.pull-quote {
+  margin: 24px 0;
+  padding: 16px 20px;
+  background: var(--tint);
+  border-left: 4px solid var(--red);
+  font-family: var(--font-head);
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+.well {
+  margin-top: 26px;
+  padding: 16px 18px;
+  background: var(--tint);
+  border: 1px solid var(--rule);
+  font-size: 13.5px;
+}
+.well h4 { margin-bottom: 6px; }
+.js-only-note {
+  margin-top: 16px;
+  padding: 14px 16px;
+  background: var(--tint);
+  border: 1px solid var(--rule);
+  font-size: 13.5px;
+}
+
+/* [13]  ABOUT PAGE ===================================================== */
+/* The portrait sits FIRST in about.html's markup, so the fixed track has to
+   be the first one — otherwise the image takes the flexible column and the
+   bio text gets squeezed into 190px. */
+.bio-layout {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: 26px;
+  align-items: start;
+}
+.bio-portrait { border: 1px solid var(--rule); padding: 5px; }
+.bio-portrait img { display: block; width: 100%; }
+
+/* [14]  SKILLS PANEL =================================================== */
+.skill-groups { display: grid; gap: 20px; }
+.skill-group { border: 1px solid var(--rule); padding: 16px 18px; }
+.skill-group h3 {
+  font-size: 15px;
+  font-family: var(--font-body);
+  font-weight: bold;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--red);
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid var(--rule);
+}
+.skill-chip {
+  font: inherit;
+  font-size: 13px;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 5px 11px;
+  margin: 0 6px 6px 0;
+  background: var(--tint);
+  border: 1px solid var(--rule);
+  color: var(--ink);
+  cursor: pointer;
+  text-align: left;
+}
+.skill-chip:hover { border-color: var(--red); color: var(--red); }
+.skill-chip .lvl-dot {
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  background: var(--red);
+  flex-shrink: 0;
+}
+
+/* Skill detail modal */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgb(0 0 0 / 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 22px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 160ms ease;
+  z-index: 200;
+}
+.modal-overlay.is-open { opacity: 1; pointer-events: auto; }
+.modal-panel {
+  background: var(--canvas);
+  border-top: 4px solid var(--red);
+  max-width: 460px;
+  width: 100%;
+  padding: 24px 26px;
+  box-shadow: 0 14px 34px rgb(0 0 0 / 0.28);
+}
+.modal-panel h3 { font-size: 20px; margin-bottom: 4px; }
+
+/* [15]  GALLERY — PLAIN BORDERED THUMBNAILS WITH CAPTIONS UNDERNEATH ==== */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.gallery-grid.gallery-grid-compact { grid-template-columns: repeat(3, 1fr); }
+.gallery-item {
+  margin: 0;
+  border: 1px solid var(--rule);
+  background: var(--canvas);
+}
+.gallery-item .shot {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  background: var(--tint);
+  overflow: hidden;
+  border-bottom: 1px solid var(--rule);
+}
+.gallery-item img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.gallery-item figcaption {
+  padding: 10px 12px;
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+
+/* [16]  CONTACT ======================================================== */
+.contact-grid { display: grid; gap: 16px; }
+.contact-card {
+  border: 1px solid var(--rule);
+  padding: 16px 18px;
+  background: var(--canvas);
+}
+.contact-card .label {
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  display: block;
+  margin-bottom: 3px;
+}
+.contact-card .value { font-size: 15px; }
+.contact-card .ic { color: var(--red); }
+.project-figure { border: 1px solid var(--rule); padding: 5px; margin: 18px 0; }
+.project-figure img { display: block; width: 100%; }
+
+/* [17]  IMAGE SLOT PLACEHOLDERS ======================================== */
+img.is-pending { display: none; }
+.slot-note {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 14px;
+  text-align: center;
+  background: var(--tint);
+}
+.slot-label {
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.slot-path {
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  line-height: 1.45;
+  color: var(--ink-soft);
+  word-break: break-all;
+  max-width: 100%;
+}
+.slot-path .slot-dir { color: var(--muted); }
+.slot-path strong { color: var(--red); font-weight: bold; }
+.slot-copy {
+  font: inherit;
+  font-size: 11px;
+  padding: 4px 10px;
+  border: 1px solid var(--rule);
+  background: var(--canvas);
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.slot-copy:hover { border-color: var(--red); color: var(--red); }
+
+/* [18]  PAGE-BOTTOM NAVIGATION ========================================= */
+.page-nav {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 3px solid var(--red);
+}
+.page-nav-browse { font-size: 13px; color: var(--muted); line-height: 2; }
+.page-nav-browse .pn-label {
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-right: 5px;
+}
+.page-nav-browse .pn-current { color: var(--ink); font-weight: bold; }
+.page-nav-browse .pn-sep { color: var(--rule); margin: 0 3px; }
+
+.page-nav-seq {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.page-nav-seq.is-single { grid-template-columns: 1fr; }
+.page-nav-seq a {
+  display: block;
+  padding: 12px 15px;
+  border: 1px solid var(--rule);
+  background: var(--tint);
+  font-size: 13.5px;
+  color: var(--ink);
+}
+.page-nav-seq a:hover { border-color: var(--red); color: var(--red); text-decoration: none; }
+.page-nav-seq .pn-next { text-align: right; }
+.page-nav-seq .pn-dir {
+  display: block;
+  font-size: 10.5px;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 3px;
+}
+.page-nav-seq .pn-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* [19]  FOOTER ========================================================= */
+.to-top {
+  text-align: center;
+  padding: 14px 0;
+  font-size: 12.5px;
+}
+.site-footer {
+  background: var(--nav-bg);
+  color: #bdbdbd;
+  border-top: 3px solid var(--red);
+  padding: 20px 0 24px;
+  text-align: center;
+  font-size: 12.5px;
+}
+.site-footer p { margin: 0 0 8px; }
+.site-footer a { color: #e0e0e0; }
+.site-footer a:hover { color: #fff; }
+.footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 16px; }
+
+/* [20]  LIGHTBOX ======================================================= */
+.viewable { cursor: zoom-in; }
+
+/* [21]  RESPONSIVE ===================================================== */
+@media (max-width: 980px) {
+  :root { --sidebar-w: 250px; --gutter: 28px; }
+  .tile-grid { grid-template-columns: repeat(2, 1fr); }
+  .gallery-grid, .gallery-grid.gallery-grid-compact { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 860px) {
+  main { padding: 0 0 30px; }
+  #page-main {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 24px 20px 30px;
+    border-left: 0;
+    border-right: 0;
+  }
+  #page-main > .sidebar {
+    grid-column: 1;
+    grid-row: auto;
+    margin-top: 32px;
+    padding-top: 26px;
+    border-top: 3px solid var(--red);
+  }
+  .wrap { padding: 0; }
+  .site-header .wrap, .site-nav .wrap, .site-footer .wrap { padding: 0 20px; }
+
+  /* Menu collapses behind a button */
+  .nav-burger { display: block; }
+  .nav-links { display: none; flex-direction: column; padding-bottom: 8px; }
+  body.nav-open .nav-links { display: flex; }
+  .nav-links > li > a { padding: 10px 4px; border-top: 1px solid #444; }
+  /* Submenus can't rely on hover here — they sit inline, always open. */
+  .nav-links .sub {
+    display: block;
+    position: static;
+    min-width: 0;
+    box-shadow: none;
+    border-top: 0;
+    padding: 0 0 6px 16px;
+  }
+  .nav-links .sub a { padding: 6px 4px; font-size: 12.5px; }
+
+  .hero { grid-template-columns: minmax(0, 1fr); }
+  .hero-portrait { max-width: 190px; }
+  .bio-layout { grid-template-columns: minmax(0, 1fr); }
+  .bio-portrait { max-width: 190px; }
+  .stat-rail { grid-template-columns: repeat(2, 1fr); }
+  .stat-well:nth-child(2) { border-right: 0; }
+  .stat-well:nth-child(-n+2) { border-bottom: 1px solid var(--rule); }
+  .grid-2 { grid-template-columns: minmax(0, 1fr); }
+  .page-nav-seq { grid-template-columns: 1fr; }
+  .page-nav-seq .pn-next { text-align: left; }
+}
+
+@media (max-width: 560px) {
+  .tile-grid { grid-template-columns: minmax(0, 1fr); }
+  .gallery-grid, .gallery-grid.gallery-grid-compact { grid-template-columns: minmax(0, 1fr); }
+  .brand { font-size: 27px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+}
+
+@media print {
+  body { background: #fff; }
+  .site-nav, .site-header, .page-nav, .sidebar, .to-top, .site-footer { display: none; }
+  #page-main { display: block; border: 0; padding: 0; }
+}
+
+
+/* [22]  LAYOUT INSPECTOR (OPTIONAL, OFF BY DEFAULT) ===================== */
+/* Turn this on when something looks wrong and you can't tell which rule
+   controls it. Add class="debug" to the <body> tag of the page you're
+   working on:
+
+       <body data-page="about" id="top" class="debug">
+
+   Every box gets outlined and labelled with its own class name, so you can
+   point at the thing that looks broken and read which selector to come and
+   edit here. Remove the class when you're done — visitors never see this
+   unless the class is in the file. */
+body.debug * { outline: 1px solid rgb(192 39 45 / 0.35); }
+body.debug [class]:hover {
+  outline: 2px solid var(--red);
+  position: relative;
+}
+body.debug [class]:hover::after {
+  content: '.' attr(class);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  font: 11px/1.4 'Courier New', monospace;
+  background: var(--red);
+  color: #fff;
+  padding: 2px 6px;
+  white-space: nowrap;
+  pointer-events: none;
+}

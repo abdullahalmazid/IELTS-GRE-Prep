@@ -1,0 +1,56 @@
+[
+ {
+  "word": "kindle",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To arouse a feeling; to set alight.",
+  "syn": [
+   "ignite",
+   "arouse",
+   "awaken"
+  ],
+  "ant": [
+   "extinguish",
+   "stifle"
+  ],
+  "ex": "The lecture kindled a lifelong interest.",
+  "id": 754,
+  "list": 6
+ },
+ {
+  "word": "kinetic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Relating to or produced by motion.",
+  "syn": [
+   "dynamic",
+   "moving",
+   "active"
+  ],
+  "ant": [
+   "static",
+   "potential"
+  ],
+  "ex": "Braking converts kinetic energy to heat.",
+  "id": 755,
+  "list": 6
+ },
+ {
+  "word": "kudos",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Praise and honour for an achievement.",
+  "syn": [
+   "acclaim",
+   "prestige",
+   "credit"
+  ],
+  "ant": [
+   "disgrace",
+   "opprobrium"
+  ],
+  "ex": "The discovery brought her lasting kudos.",
+  "id": 756,
+  "list": 6
+ }
+]

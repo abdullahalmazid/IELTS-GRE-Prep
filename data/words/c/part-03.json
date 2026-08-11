@@ -1,0 +1,688 @@
+[
+ {
+  "word": "carbon footprint",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The total greenhouse gas produced by a person or activity.",
+  "syn": [
+   "emissions total",
+   "climate impact"
+  ],
+  "ant": [],
+  "ex": "Air travel dominates the average carbon footprint.",
+  "id": 1428,
+  "list": 8
+ },
+ {
+  "word": "censorship",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The suppression of speech or writing.",
+  "syn": [
+   "suppression",
+   "restriction",
+   "blackout"
+  ],
+  "ant": [
+   "free expression",
+   "openness"
+  ],
+  "ex": "Censorship drove the debate underground.",
+  "id": 1429,
+  "list": 8
+ },
+ {
+  "word": "channel",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A means through which something is conveyed.",
+  "syn": [
+   "route",
+   "conduit",
+   "medium"
+  ],
+  "ant": [
+   "barrier"
+  ],
+  "ex": "Savings are channelled into productive investment.",
+  "id": 1430,
+  "list": 8
+ },
+ {
+  "word": "chapter",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A main division of a book, or a distinct period.",
+  "syn": [
+   "section",
+   "part",
+   "episode"
+  ],
+  "ant": [],
+  "ex": "The closure opened a difficult chapter for the town.",
+  "id": 1431,
+  "list": 8
+ },
+ {
+  "word": "chemical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to substances and their reactions.",
+  "syn": [
+   "synthetic",
+   "compound"
+  ],
+  "ant": [
+   "organic",
+   "natural"
+  ],
+  "ex": "Chemical runoff has poisoned the estuary.",
+  "id": 1432,
+  "list": 8
+ },
+ {
+  "word": "chronic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Persisting over a long period.",
+  "syn": [
+   "persistent",
+   "long-standing",
+   "enduring"
+  ],
+  "ant": [
+   "acute",
+   "temporary"
+  ],
+  "ex": "Chronic illness accounts for most health spending.",
+  "id": 1433,
+  "list": 8
+ },
+ {
+  "word": "cite",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To quote a source as evidence for an argument.",
+  "syn": [
+   "quote",
+   "reference",
+   "adduce"
+  ],
+  "ant": [
+   "ignore",
+   "omit"
+  ],
+  "ex": "The paper cites forty separate studies.",
+  "id": 1434,
+  "list": 8
+ },
+ {
+  "word": "clarify",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To make something easier to understand.",
+  "syn": [
+   "explain",
+   "elucidate",
+   "illuminate"
+  ],
+  "ant": [
+   "confuse",
+   "obscure"
+  ],
+  "ex": "The minister clarified the timetable under questioning.",
+  "id": 1435,
+  "list": 8
+ },
+ {
+  "word": "clause",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A distinct section of a legal document or sentence.",
+  "syn": [
+   "provision",
+   "stipulation",
+   "article"
+  ],
+  "ant": [],
+  "ex": "A single clause voided the whole warranty.",
+  "id": 1436,
+  "list": 8
+ },
+ {
+  "word": "code",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A system of rules or symbols.",
+  "syn": [
+   "cipher",
+   "protocol",
+   "standard"
+  ],
+  "ant": [],
+  "ex": "The profession has a strict code of conduct.",
+  "id": 1437,
+  "list": 8
+ },
+ {
+  "word": "cognitive",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to thinking, learning and understanding.",
+  "syn": [
+   "mental",
+   "intellectual",
+   "cerebral"
+  ],
+  "ant": [
+   "emotional",
+   "physical"
+  ],
+  "ex": "Sleep loss impairs cognitive performance sharply.",
+  "id": 1438,
+  "list": 8
+ },
+ {
+  "word": "cohesion",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The state of forming a united, connected whole.",
+  "syn": [
+   "unity",
+   "solidarity",
+   "coherence"
+  ],
+  "ant": [
+   "fragmentation",
+   "division"
+  ],
+  "ex": "Social cohesion weakened as inequality grew.",
+  "id": 1439,
+  "list": 8
+ },
+ {
+  "word": "commence",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To begin, especially something formal.",
+  "syn": [
+   "start",
+   "initiate",
+   "embark on"
+  ],
+  "ant": [
+   "conclude",
+   "terminate"
+  ],
+  "ex": "Construction commenced in the spring.",
+  "id": 1440,
+  "list": 8
+ },
+ {
+  "word": "commission",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A group appointed to investigate, or an order for work.",
+  "syn": [
+   "committee",
+   "body",
+   "assignment"
+  ],
+  "ant": [],
+  "ex": "A royal commission reported after two years.",
+  "id": 1441,
+  "list": 8
+ },
+ {
+  "word": "commute",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To travel regularly between home and work.",
+  "syn": [
+   "travel",
+   "journey"
+  ],
+  "ant": [],
+  "ex": "Many now commute only twice a week.",
+  "id": 1442,
+  "list": 8
+ },
+ {
+  "word": "compatible",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Able to exist or work together without conflict.",
+  "syn": [
+   "consistent",
+   "harmonious",
+   "congruent"
+  ],
+  "ant": [
+   "incompatible",
+   "conflicting"
+  ],
+  "ex": "Growth is not always compatible with conservation.",
+  "id": 1443,
+  "list": 8
+ },
+ {
+  "word": "compelling",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Powerfully convincing.",
+  "syn": [
+   "persuasive",
+   "cogent",
+   "forceful"
+  ],
+  "ant": [
+   "unconvincing",
+   "weak"
+  ],
+  "ex": "A compelling case for early intervention.",
+  "id": 1444,
+  "list": 8
+ },
+ {
+  "word": "compensate",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To make up for a loss or disadvantage.",
+  "syn": [
+   "offset",
+   "recompense",
+   "counterbalance"
+  ],
+  "ant": [
+   "deprive",
+   "penalise"
+  ],
+  "ex": "Nothing compensates for the loss of habitat.",
+  "id": 1445,
+  "list": 8
+ },
+ {
+  "word": "component",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A part that combines with others to form a whole.",
+  "syn": [
+   "element",
+   "constituent",
+   "part"
+  ],
+  "ant": [
+   "whole",
+   "aggregate"
+  ],
+  "ex": "Labour is the largest single component of cost.",
+  "id": 1446,
+  "list": 8
+ },
+ {
+  "word": "compound",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To make a problem worse by adding to it.",
+  "syn": [
+   "aggravate",
+   "exacerbate",
+   "intensify"
+  ],
+  "ant": [
+   "alleviate",
+   "ease"
+  ],
+  "ex": "Poor housing compounds every health inequality.",
+  "id": 1447,
+  "list": 8
+ },
+ {
+  "word": "compute",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To calculate a figure or amount.",
+  "syn": [
+   "calculate",
+   "reckon",
+   "determine"
+  ],
+  "ant": [
+   "estimate",
+   "guess"
+  ],
+  "ex": "The model computes risk across ten variables.",
+  "id": 1448,
+  "list": 8
+ },
+ {
+  "word": "concept",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An abstract idea or general notion.",
+  "syn": [
+   "notion",
+   "idea",
+   "construct"
+  ],
+  "ant": [],
+  "ex": "The concept of sustainability resists precise definition.",
+  "id": 1449,
+  "list": 8
+ },
+ {
+  "word": "confer",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To grant a right or title, or to discuss together.",
+  "syn": [
+   "bestow",
+   "grant",
+   "consult"
+  ],
+  "ant": [
+   "withhold",
+   "revoke"
+  ],
+  "ex": "The degree confers no automatic right to practise.",
+  "id": 1450,
+  "list": 8
+ },
+ {
+  "word": "congestion",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Overcrowding, especially of traffic.",
+  "syn": [
+   "gridlock",
+   "overcrowding",
+   "bottleneck"
+  ],
+  "ant": [
+   "free flow"
+  ],
+  "ex": "Congestion costs the city billions each year.",
+  "id": 1451,
+  "list": 8
+ },
+ {
+  "word": "consensus",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "General agreement among a group.",
+  "syn": [
+   "agreement",
+   "accord",
+   "unanimity"
+  ],
+  "ant": [
+   "disagreement",
+   "dissent"
+  ],
+  "ex": "No consensus emerged after eight hours.",
+  "id": 1452,
+  "list": 8
+ },
+ {
+  "word": "consent",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Permission for something to happen.",
+  "syn": [
+   "approval",
+   "assent",
+   "authorisation"
+  ],
+  "ant": [
+   "refusal",
+   "objection"
+  ],
+  "ex": "Data may not be shared without consent.",
+  "id": 1453,
+  "list": 8
+ },
+ {
+  "word": "conservation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The protection of nature or resources from loss.",
+  "syn": [
+   "preservation",
+   "protection",
+   "stewardship"
+  ],
+  "ant": [
+   "destruction",
+   "exploitation"
+  ],
+  "ex": "Conservation efforts saved the last breeding pairs.",
+  "id": 1454,
+  "list": 8
+ },
+ {
+  "word": "consist",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To be composed of particular parts.",
+  "syn": [
+   "comprise",
+   "be made up of",
+   "constitute"
+  ],
+  "ant": [
+   "exclude"
+  ],
+  "ex": "The panel consists of nine elected members.",
+  "id": 1455,
+  "list": 8
+ },
+ {
+  "word": "constrain",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To limit or restrict what can be done.",
+  "syn": [
+   "restrict",
+   "limit",
+   "hamper"
+  ],
+  "ant": [
+   "free",
+   "liberate"
+  ],
+  "ex": "Budgets constrain what any school can offer.",
+  "id": 1456,
+  "list": 8
+ },
+ {
+  "word": "construct",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To build or form something by assembling parts.",
+  "syn": [
+   "build",
+   "assemble",
+   "erect"
+  ],
+  "ant": [
+   "demolish",
+   "dismantle"
+  ],
+  "ex": "The argument is carefully constructed from primary sources.",
+  "id": 1457,
+  "list": 8
+ },
+ {
+  "word": "consult",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To seek information or advice from someone.",
+  "syn": [
+   "confer with",
+   "refer to",
+   "seek advice"
+  ],
+  "ant": [
+   "ignore",
+   "disregard"
+  ],
+  "ex": "Residents were never properly consulted.",
+  "id": 1458,
+  "list": 8
+ },
+ {
+  "word": "contract",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A binding written agreement.",
+  "syn": [
+   "agreement",
+   "covenant",
+   "deal"
+  ],
+  "ant": [],
+  "ex": "The contract runs for three years.",
+  "id": 1459,
+  "list": 8
+ },
+ {
+  "word": "contrast",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A striking difference between two things.",
+  "syn": [
+   "difference",
+   "disparity",
+   "divergence"
+  ],
+  "ant": [
+   "similarity",
+   "likeness"
+  ],
+  "ex": "The contrast between the two districts is stark.",
+  "id": 1460,
+  "list": 8
+ },
+ {
+  "word": "convene",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To bring people together for a meeting.",
+  "syn": [
+   "assemble",
+   "summon",
+   "gather"
+  ],
+  "ant": [
+   "disperse",
+   "adjourn"
+  ],
+  "ex": "The committee convenes twice a year.",
+  "id": 1461,
+  "list": 8
+ },
+ {
+  "word": "convert",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To change something into a different form or use.",
+  "syn": [
+   "transform",
+   "adapt",
+   "change"
+  ],
+  "ant": [
+   "preserve",
+   "retain"
+  ],
+  "ex": "Warehouses were converted into flats.",
+  "id": 1462,
+  "list": 8
+ },
+ {
+  "word": "corporate",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to a large company or group.",
+  "syn": [
+   "commercial",
+   "business",
+   "collective"
+  ],
+  "ant": [
+   "individual",
+   "personal"
+  ],
+  "ex": "Corporate sponsorship funds most of the tournament.",
+  "id": 1463,
+  "list": 8
+ },
+ {
+  "word": "credit",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Recognition for an achievement, or borrowed money.",
+  "syn": [
+   "recognition",
+   "acclaim",
+   "loan"
+  ],
+  "ant": [
+   "blame",
+   "debt"
+  ],
+  "ex": "Cheap credit fuelled the housing boom.",
+  "id": 1464,
+  "list": 8
+ },
+ {
+  "word": "curb",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To restrain or keep something in check.",
+  "syn": [
+   "restrict",
+   "check",
+   "rein in"
+  ],
+  "ant": [
+   "encourage",
+   "unleash"
+  ],
+  "ex": "The tax was designed to curb consumption.",
+  "id": 1465,
+  "list": 8
+ },
+ {
+  "word": "curriculum",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The subjects taught in a school or course.",
+  "syn": [
+   "syllabus",
+   "programme",
+   "course of study"
+  ],
+  "ant": [],
+  "ex": "The curriculum was narrowed to core subjects.",
+  "id": 1466,
+  "list": 8
+ },
+ {
+  "word": "custodial",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Involving imprisonment.",
+  "syn": [
+   "carceral",
+   "penal"
+  ],
+  "ant": [
+   "non-custodial",
+   "community-based"
+  ],
+  "ex": "Custodial sentences rose while crime fell.",
+  "id": 1467,
+  "list": 8
+ }
+]

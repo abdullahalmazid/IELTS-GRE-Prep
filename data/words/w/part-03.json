@@ -1,0 +1,74 @@
+[
+ {
+  "word": "waive",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To give up a right or requirement voluntarily.",
+  "syn": [
+   "relinquish",
+   "forgo",
+   "surrender"
+  ],
+  "ant": [
+   "claim",
+   "enforce"
+  ],
+  "ex": "The lender waived the early repayment fee.",
+  "id": 1404,
+  "list": 7
+ },
+ {
+  "word": "wax",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To increase in size or strength.",
+  "syn": [
+   "grow",
+   "swell",
+   "increase"
+  ],
+  "ant": [
+   "wane",
+   "diminish"
+  ],
+  "ex": "Enthusiasm waxed as results improved.",
+  "id": 1405,
+  "list": 7
+ },
+ {
+  "word": "welter",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A confused mass of things.",
+  "syn": [
+   "jumble",
+   "tangle",
+   "profusion"
+  ],
+  "ant": [
+   "order",
+   "arrangement"
+  ],
+  "ex": "A welter of conflicting guidance.",
+  "id": 1406,
+  "list": 7
+ },
+ {
+  "word": "wily",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Skilled at gaining advantage by cunning.",
+  "syn": [
+   "crafty",
+   "artful",
+   "shrewd"
+  ],
+  "ant": [
+   "naive",
+   "guileless"
+  ],
+  "ex": "A wily negotiator who never spoke first.",
+  "id": 1407,
+  "list": 7
+ }
+]

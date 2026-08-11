@@ -1,0 +1,118 @@
+[
+ {
+  "word": "famine",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An extreme and widespread scarcity of food.",
+  "syn": [
+   "starvation",
+   "hunger",
+   "dearth"
+  ],
+  "ant": [
+   "plenty",
+   "abundance"
+  ],
+  "ex": "Famine followed two consecutive crop failures.",
+  "id": 1488,
+  "list": 8
+ },
+ {
+  "word": "feasibility",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The degree to which something is practically possible.",
+  "syn": [
+   "practicality",
+   "viability",
+   "workability"
+  ],
+  "ant": [
+   "impossibility"
+  ],
+  "ex": "A feasibility study preceded the tender.",
+  "id": 1489,
+  "list": 8
+ },
+ {
+  "word": "file",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A collection of documents kept together.",
+  "syn": [
+   "record",
+   "dossier",
+   "folder"
+  ],
+  "ant": [],
+  "ex": "The file ran to eight hundred pages.",
+  "id": 1490,
+  "list": 8
+ },
+ {
+  "word": "finite",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Having limits; not endless.",
+  "syn": [
+   "limited",
+   "bounded",
+   "measurable"
+  ],
+  "ant": [
+   "infinite",
+   "limitless"
+  ],
+  "ex": "Fresh water is a finite resource.",
+  "id": 1491,
+  "list": 8
+ },
+ {
+  "word": "formula",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A fixed rule or method expressed in symbols.",
+  "syn": [
+   "equation",
+   "recipe",
+   "procedure"
+  ],
+  "ant": [],
+  "ex": "The funding formula favours larger schools.",
+  "id": 1492,
+  "list": 8
+ },
+ {
+  "word": "framework",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A basic structure supporting a system or idea.",
+  "syn": [
+   "structure",
+   "scaffolding",
+   "system"
+  ],
+  "ant": [],
+  "ex": "A legal framework was drafted within a year.",
+  "id": 1493,
+  "list": 8
+ },
+ {
+  "word": "furthermore",
+  "pos": "adverb",
+  "level": "IELTS",
+  "def": "In addition to what has just been said.",
+  "syn": [
+   "moreover",
+   "additionally",
+   "besides"
+  ],
+  "ant": [
+   "however",
+   "conversely"
+  ],
+  "ex": "Furthermore, the costs were understated throughout.",
+  "id": 1494,
+  "list": 8
+ }
+]

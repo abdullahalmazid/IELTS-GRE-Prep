@@ -1,0 +1,598 @@
+[
+ {
+  "word": "radical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Far-reaching and fundamental; favouring extreme change.",
+  "syn": [
+   "sweeping",
+   "drastic",
+   "revolutionary"
+  ],
+  "ant": [
+   "moderate",
+   "conservative"
+  ],
+  "ex": "Radical reform of the tax system is overdue.",
+  "id": 511
+ },
+ {
+  "word": "random",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Made or occurring without method or conscious choice.",
+  "syn": [
+   "arbitrary",
+   "haphazard",
+   "chance"
+  ],
+  "ant": [
+   "systematic",
+   "deliberate"
+  ],
+  "ex": "Participants were assigned at random.",
+  "id": 512
+ },
+ {
+  "word": "range",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The full extent or variety covered by something.",
+  "syn": [
+   "scope",
+   "spectrum",
+   "variety"
+  ],
+  "ant": [
+   "limitation",
+   "uniformity"
+  ],
+  "ex": "The museum offers a wide range of exhibits.",
+  "id": 513
+ },
+ {
+  "word": "ratio",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "The quantitative relation between two amounts.",
+  "syn": [
+   "proportion",
+   "rate",
+   "balance"
+  ],
+  "ant": [],
+  "ex": "The staff-to-student ratio is one to twenty.",
+  "id": 514
+ },
+ {
+  "word": "rational",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Based on reason rather than emotion.",
+  "syn": [
+   "logical",
+   "reasoned",
+   "sensible"
+  ],
+  "ant": [
+   "irrational",
+   "emotional"
+  ],
+  "ex": "Consumers are rarely fully rational.",
+  "id": 515
+ },
+ {
+  "word": "reaction",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A response to an event or stimulus.",
+  "syn": [
+   "response",
+   "reply",
+   "backlash"
+  ],
+  "ant": [
+   "inaction",
+   "indifference"
+  ],
+  "ex": "Public reaction to the tax was hostile.",
+  "id": 516
+ },
+ {
+  "word": "recent",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Having happened a short time ago.",
+  "syn": [
+   "latest",
+   "current",
+   "fresh"
+  ],
+  "ant": [
+   "ancient",
+   "long-past"
+  ],
+  "ex": "Recent studies challenge that assumption.",
+  "id": 517
+ },
+ {
+  "word": "recovery",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A return to a normal or healthy state.",
+  "syn": [
+   "recuperation",
+   "rebound",
+   "restoration"
+  ],
+  "ant": [
+   "relapse",
+   "decline"
+  ],
+  "ex": "Economic recovery was slower than forecast.",
+  "id": 518
+ },
+ {
+  "word": "refine",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To improve something by making small changes; to purify.",
+  "syn": [
+   "polish",
+   "hone",
+   "purify"
+  ],
+  "ant": [
+   "coarsen",
+   "contaminate"
+  ],
+  "ex": "The model was refined after each trial.",
+  "id": 519
+ },
+ {
+  "word": "region",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A large area of land or an administrative division.",
+  "syn": [
+   "district",
+   "territory",
+   "zone"
+  ],
+  "ant": [],
+  "ex": "The northern region receives the least rainfall.",
+  "id": 520
+ },
+ {
+  "word": "regulation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "An official rule controlling behaviour or activity.",
+  "syn": [
+   "rule",
+   "statute",
+   "directive"
+  ],
+  "ant": [
+   "deregulation",
+   "freedom"
+  ],
+  "ex": "Safety regulations were tightened after the fire.",
+  "id": 521
+ },
+ {
+  "word": "reinforce",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To strengthen or support something.",
+  "syn": [
+   "bolster",
+   "fortify",
+   "consolidate"
+  ],
+  "ant": [
+   "weaken",
+   "undermine"
+  ],
+  "ex": "The findings reinforce earlier conclusions.",
+  "id": 522
+ },
+ {
+  "word": "reject",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To refuse to accept or consider something.",
+  "syn": [
+   "decline",
+   "dismiss",
+   "repudiate"
+  ],
+  "ant": [
+   "accept",
+   "embrace"
+  ],
+  "ex": "Parliament rejected the proposal outright.",
+  "id": 523
+ },
+ {
+  "word": "relate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To show or feel a connection with something.",
+  "syn": [
+   "connect",
+   "associate",
+   "correlate"
+  ],
+  "ant": [
+   "dissociate"
+  ],
+  "ex": "These findings relate directly to policy.",
+  "id": 524
+ },
+ {
+  "word": "relax",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To become less tense, or to make a rule less strict.",
+  "syn": [
+   "loosen",
+   "unwind",
+   "ease"
+  ],
+  "ant": [
+   "tighten",
+   "tense"
+  ],
+  "ex": "Restrictions were relaxed in June.",
+  "id": 525
+ },
+ {
+  "word": "release",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To set free, or to make something publicly available.",
+  "syn": [
+   "free",
+   "discharge",
+   "issue"
+  ],
+  "ant": [
+   "detain",
+   "withhold"
+  ],
+  "ex": "Factories release pollutants into the river.",
+  "id": 526
+ },
+ {
+  "word": "relevant",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Closely connected to the matter being discussed.",
+  "syn": [
+   "pertinent",
+   "applicable",
+   "germane"
+  ],
+  "ant": [
+   "irrelevant",
+   "extraneous"
+  ],
+  "ex": "Only relevant experience should be listed.",
+  "id": 527
+ },
+ {
+  "word": "reluctant",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Unwilling and hesitant to do something.",
+  "syn": [
+   "hesitant",
+   "averse",
+   "disinclined"
+  ],
+  "ant": [
+   "eager",
+   "willing"
+  ],
+  "ex": "Banks were reluctant to lend.",
+  "id": 528
+ },
+ {
+  "word": "remove",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To take something away from a place.",
+  "syn": [
+   "eliminate",
+   "extract",
+   "withdraw"
+  ],
+  "ant": [
+   "insert",
+   "retain"
+  ],
+  "ex": "Filters remove particles from the air.",
+  "id": 529
+ },
+ {
+  "word": "require",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To need something, or to demand it as a condition.",
+  "syn": [
+   "need",
+   "demand",
+   "necessitate"
+  ],
+  "ant": [
+   "dispense with"
+  ],
+  "ex": "The course requires no prior knowledge.",
+  "id": 530
+ },
+ {
+  "word": "research",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Systematic investigation to establish facts.",
+  "syn": [
+   "investigation",
+   "inquiry",
+   "study"
+  ],
+  "ant": [
+   "guesswork"
+  ],
+  "ex": "Research into vaccines accelerated dramatically.",
+  "id": 531
+ },
+ {
+  "word": "resident",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A person who lives permanently in a place.",
+  "syn": [
+   "inhabitant",
+   "occupant",
+   "local"
+  ],
+  "ant": [
+   "visitor",
+   "tourist"
+  ],
+  "ex": "Residents opposed the new development.",
+  "id": 532
+ },
+ {
+  "word": "resolution",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A firm decision, or the solving of a problem.",
+  "syn": [
+   "determination",
+   "settlement",
+   "resolve"
+  ],
+  "ant": [
+   "indecision",
+   "dispute"
+  ],
+  "ex": "Her resolution to become a designer led to success.",
+  "id": 533
+ },
+ {
+  "word": "resource",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A supply of money, materials or people that can be used.",
+  "syn": [
+   "asset",
+   "reserve",
+   "supply"
+  ],
+  "ant": [
+   "deficit",
+   "shortage"
+  ],
+  "ex": "Water is a finite resource.",
+  "id": 534
+ },
+ {
+  "word": "response",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A reaction or reply to something.",
+  "syn": [
+   "reply",
+   "reaction",
+   "answer"
+  ],
+  "ant": [
+   "silence",
+   "inaction"
+  ],
+  "ex": "The government's response was widely criticised.",
+  "id": 535
+ },
+ {
+  "word": "restore",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To return something to its former condition.",
+  "syn": [
+   "reinstate",
+   "renovate",
+   "revive"
+  ],
+  "ant": [
+   "damage",
+   "destroy"
+  ],
+  "ex": "Wetlands were restored to control flooding.",
+  "id": 536
+ },
+ {
+  "word": "restraint",
+  "pos": "noun",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Self-control, or a measure that limits something.",
+  "syn": [
+   "self-control",
+   "curb",
+   "moderation"
+  ],
+  "ant": [
+   "excess",
+   "indulgence"
+  ],
+  "ex": "Fiscal restraint kept the deficit stable.",
+  "id": 537
+ },
+ {
+  "word": "restrict",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To limit the size, amount or freedom of something.",
+  "syn": [
+   "limit",
+   "curb",
+   "constrain"
+  ],
+  "ant": [
+   "permit",
+   "liberate"
+  ],
+  "ex": "Several cities restrict car access to the centre.",
+  "id": 538
+ },
+ {
+  "word": "reveal",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To make previously unknown information visible.",
+  "syn": [
+   "disclose",
+   "uncover",
+   "divulge"
+  ],
+  "ant": [
+   "conceal",
+   "hide"
+  ],
+  "ex": "The audit revealed serious irregularities.",
+  "id": 539
+ },
+ {
+  "word": "revision",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The act of reviewing and changing something.",
+  "syn": [
+   "amendment",
+   "reworking",
+   "overhaul"
+  ],
+  "ant": [
+   "retention"
+  ],
+  "ex": "The forecast underwent a downward revision.",
+  "id": 540
+ },
+ {
+  "word": "revolution",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A dramatic and far-reaching change, often political.",
+  "syn": [
+   "upheaval",
+   "transformation",
+   "uprising"
+  ],
+  "ant": [
+   "stagnation",
+   "continuity"
+  ],
+  "ex": "The digital revolution changed how we work.",
+  "id": 541
+ },
+ {
+  "word": "rigid",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Unable to bend; unwilling to change.",
+  "syn": [
+   "inflexible",
+   "stiff",
+   "uncompromising"
+  ],
+  "ant": [
+   "flexible",
+   "adaptable"
+  ],
+  "ex": "Rigid rules suit unpredictable situations poorly.",
+  "id": 542
+ },
+ {
+  "word": "role",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The function or part played by someone or something.",
+  "syn": [
+   "function",
+   "part",
+   "capacity"
+  ],
+  "ant": [],
+  "ex": "Diet plays a central role in longevity.",
+  "id": 543
+ },
+ {
+  "word": "route",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A way taken from one place to another.",
+  "syn": [
+   "path",
+   "course",
+   "itinerary"
+  ],
+  "ant": [],
+  "ex": "The new route halves the journey time.",
+  "id": 544
+ }
+]

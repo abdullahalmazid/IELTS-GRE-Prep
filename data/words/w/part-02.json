@@ -1,0 +1,110 @@
+[
+ {
+  "word": "wane",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To decrease gradually in strength or size.",
+  "syn": [
+   "diminish",
+   "dwindle",
+   "ebb"
+  ],
+  "ant": [
+   "wax",
+   "grow"
+  ],
+  "ex": "Enthusiasm waned as costs rose.",
+  "id": 995,
+  "list": 6
+ },
+ {
+  "word": "wanton",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Deliberately harmful and without motive.",
+  "syn": [
+   "gratuitous",
+   "malicious",
+   "unprovoked"
+  ],
+  "ant": [
+   "justified",
+   "restrained"
+  ],
+  "ex": "Wanton destruction of the orchards.",
+  "id": 996,
+  "list": 6
+ },
+ {
+  "word": "wary",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Cautious about possible danger.",
+  "syn": [
+   "circumspect",
+   "guarded",
+   "chary"
+  ],
+  "ant": [
+   "trusting",
+   "reckless"
+  ],
+  "ex": "Lenders grew wary after the first default.",
+  "id": 997,
+  "list": 6
+ },
+ {
+  "word": "whimsical",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Playfully odd; also unpredictable.",
+  "syn": [
+   "fanciful",
+   "capricious",
+   "quirky"
+  ],
+  "ant": [
+   "serious",
+   "predictable"
+  ],
+  "ex": "A whimsical design that hides real rigour.",
+  "id": 998,
+  "list": 6
+ },
+ {
+  "word": "winnow",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To sift out what is useless from what is valuable.",
+  "syn": [
+   "sift",
+   "separate",
+   "cull"
+  ],
+  "ant": [
+   "combine",
+   "accumulate"
+  ],
+  "ex": "The panel winnowed 400 entries down to ten.",
+  "id": 999,
+  "list": 6
+ },
+ {
+  "word": "wistful",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sadly longing for something past.",
+  "syn": [
+   "yearning",
+   "nostalgic",
+   "plaintive"
+  ],
+  "ant": [
+   "content",
+   "indifferent"
+  ],
+  "ex": "A wistful account of a vanished trade.",
+  "id": 1000,
+  "list": 6
+ }
+]

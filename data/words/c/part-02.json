@@ -1,0 +1,1053 @@
+[
+ {
+  "word": "cabal",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A small group secretly plotting something.",
+  "syn": [
+   "clique",
+   "junta",
+   "conspiracy"
+  ],
+  "ant": [],
+  "ex": "A cabal within the ministry blocked reform.",
+  "id": 1073,
+  "list": 7
+ },
+ {
+  "word": "cajole",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To persuade by flattery or gentle pressure.",
+  "syn": [
+   "coax",
+   "wheedle",
+   "inveigle"
+  ],
+  "ant": [
+   "coerce",
+   "bully"
+  ],
+  "ex": "She cajoled the department into funding it.",
+  "id": 1074,
+  "list": 7
+ },
+ {
+  "word": "callous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing no concern for others' suffering.",
+  "syn": [
+   "unfeeling",
+   "heartless",
+   "indifferent"
+  ],
+  "ant": [
+   "compassionate",
+   "sympathetic"
+  ],
+  "ex": "A callous response to a bereaved family.",
+  "id": 1075,
+  "list": 7
+ },
+ {
+  "word": "callow",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Inexperienced and immature.",
+  "syn": [
+   "green",
+   "naive",
+   "unseasoned"
+  ],
+  "ant": [
+   "seasoned",
+   "mature"
+  ],
+  "ex": "A callow recruit given too much responsibility.",
+  "id": 1076,
+  "list": 7
+ },
+ {
+  "word": "calumny",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A false statement made to damage a reputation.",
+  "syn": [
+   "slander",
+   "defamation",
+   "aspersion"
+  ],
+  "ant": [
+   "praise",
+   "vindication"
+  ],
+  "ex": "He answered the calumny in open court.",
+  "id": 1077,
+  "list": 7
+ },
+ {
+  "word": "canard",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A false story spread as though true.",
+  "syn": [
+   "fabrication",
+   "hoax",
+   "falsehood"
+  ],
+  "ant": [
+   "fact",
+   "truth"
+  ],
+  "ex": "The old canard about immigration resurfaced.",
+  "id": 1078,
+  "list": 7
+ },
+ {
+  "word": "candid",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Truthful and straightforward, even when awkward.",
+  "syn": [
+   "frank",
+   "forthright",
+   "open"
+  ],
+  "ant": [
+   "evasive",
+   "guarded"
+  ],
+  "ex": "A candid admission of the shortfall.",
+  "id": 1079,
+  "list": 7
+ },
+ {
+  "word": "capitulate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To surrender after resistance.",
+  "syn": [
+   "yield",
+   "submit",
+   "succumb"
+  ],
+  "ant": [
+   "resist",
+   "hold out"
+  ],
+  "ex": "Management capitulated in the eighth week.",
+  "id": 1080,
+  "list": 7
+ },
+ {
+  "word": "carping",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Complaining continually about small faults.",
+  "syn": [
+   "nitpicking",
+   "captious",
+   "fault-finding"
+  ],
+  "ant": [
+   "approving",
+   "appreciative"
+  ],
+  "ex": "A carping review that missed the point.",
+  "id": 1081,
+  "list": 7
+ },
+ {
+  "word": "cataclysm",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A sudden violent upheaval.",
+  "syn": [
+   "catastrophe",
+   "disaster",
+   "upheaval"
+  ],
+  "ant": [
+   "blessing"
+  ],
+  "ex": "The war was a cataclysm for the whole region.",
+  "id": 1082,
+  "list": 7
+ },
+ {
+  "word": "catharsis",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Relief from strong emotion through expressing it.",
+  "syn": [
+   "purging",
+   "release",
+   "purification"
+  ],
+  "ant": [
+   "repression"
+  ],
+  "ex": "The inquiry offered a kind of public catharsis.",
+  "id": 1083,
+  "list": 7
+ },
+ {
+  "word": "caveat",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A warning or qualification attached to a statement.",
+  "syn": [
+   "proviso",
+   "qualification",
+   "warning"
+  ],
+  "ant": [
+   "guarantee"
+  ],
+  "ex": "The forecast comes with a heavy caveat.",
+  "id": 1084,
+  "list": 7
+ },
+ {
+  "word": "cede",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To give up power or territory, usually under pressure.",
+  "syn": [
+   "surrender",
+   "relinquish",
+   "yield"
+  ],
+  "ant": [
+   "retain",
+   "seize"
+  ],
+  "ex": "The province was ceded under the treaty.",
+  "id": 1085,
+  "list": 7
+ },
+ {
+  "word": "cerebral",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Intellectual rather than emotional or physical.",
+  "syn": [
+   "intellectual",
+   "analytical",
+   "highbrow"
+  ],
+  "ant": [
+   "visceral",
+   "instinctive"
+  ],
+  "ex": "A cerebral film that rewards patience.",
+  "id": 1086,
+  "list": 7
+ },
+ {
+  "word": "chagrin",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Annoyance and embarrassment at having failed.",
+  "syn": [
+   "mortification",
+   "vexation",
+   "humiliation"
+  ],
+  "ant": [
+   "pride",
+   "satisfaction"
+  ],
+  "ex": "To his chagrin, the error was public.",
+  "id": 1087,
+  "list": 7
+ },
+ {
+  "word": "charlatan",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person falsely claiming special knowledge.",
+  "syn": [
+   "fraud",
+   "impostor",
+   "quack"
+  ],
+  "ant": [
+   "expert",
+   "authority"
+  ],
+  "ex": "The clinic was run by a charlatan.",
+  "id": 1088,
+  "list": 7
+ },
+ {
+  "word": "chary",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Cautiously reluctant to do something.",
+  "syn": [
+   "wary",
+   "circumspect",
+   "hesitant"
+  ],
+  "ant": [
+   "reckless",
+   "eager"
+  ],
+  "ex": "Banks grew chary of long-term lending.",
+  "id": 1089,
+  "list": 7
+ },
+ {
+  "word": "chastise",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To criticise or punish severely.",
+  "syn": [
+   "rebuke",
+   "censure",
+   "upbraid"
+  ],
+  "ant": [
+   "praise",
+   "reward"
+  ],
+  "ex": "The report chastises regulators for delay.",
+  "id": 1090,
+  "list": 7
+ },
+ {
+  "word": "chide",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To tell someone off mildly.",
+  "syn": [
+   "scold",
+   "reprove",
+   "admonish"
+  ],
+  "ant": [
+   "praise",
+   "commend"
+  ],
+  "ex": "She chided him for arriving late.",
+  "id": 1091,
+  "list": 7
+ },
+ {
+  "word": "chimerical",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Existing only in imagination; wildly unrealistic.",
+  "syn": [
+   "illusory",
+   "fanciful",
+   "quixotic"
+  ],
+  "ant": [
+   "real",
+   "achievable"
+  ],
+  "ex": "A chimerical plan to drain the marsh.",
+  "id": 1092,
+  "list": 7
+ },
+ {
+  "word": "churlish",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Rude and bad-tempered.",
+  "syn": [
+   "surly",
+   "ungracious",
+   "boorish"
+  ],
+  "ant": [
+   "gracious",
+   "courteous"
+  ],
+  "ex": "It would be churlish to refuse the offer.",
+  "id": 1093,
+  "list": 7
+ },
+ {
+  "word": "circuitous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Longer than the direct route; indirect.",
+  "syn": [
+   "roundabout",
+   "tortuous",
+   "meandering"
+  ],
+  "ant": [
+   "direct",
+   "straight"
+  ],
+  "ex": "A circuitous argument that never lands.",
+  "id": 1094,
+  "list": 7
+ },
+ {
+  "word": "circumlocution",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The use of many words where few would do.",
+  "syn": [
+   "verbosity",
+   "evasion",
+   "periphrasis"
+  ],
+  "ant": [
+   "directness",
+   "concision"
+  ],
+  "ex": "Official circumlocution hid a simple refusal.",
+  "id": 1095,
+  "list": 7
+ },
+ {
+  "word": "circumvent",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To find a way around a rule or obstacle.",
+  "syn": [
+   "bypass",
+   "evade",
+   "sidestep"
+  ],
+  "ant": [
+   "confront",
+   "comply with"
+  ],
+  "ex": "Shell companies circumvent the disclosure rules.",
+  "id": 1096,
+  "list": 7
+ },
+ {
+  "word": "clemency",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Mercy shown when punishing someone.",
+  "syn": [
+   "leniency",
+   "mercy",
+   "forbearance"
+  ],
+  "ant": [
+   "severity",
+   "harshness"
+  ],
+  "ex": "The governor granted clemency in four cases.",
+  "id": 1097,
+  "list": 7
+ },
+ {
+  "word": "cloying",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively sweet or sentimental.",
+  "syn": [
+   "sickly",
+   "saccharine",
+   "mawkish"
+  ],
+  "ant": [
+   "astringent",
+   "restrained"
+  ],
+  "ex": "A cloying score undercuts the drama.",
+  "id": 1098,
+  "list": 7
+ },
+ {
+  "word": "coerce",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To force someone to act through threats.",
+  "syn": [
+   "compel",
+   "pressure",
+   "intimidate"
+  ],
+  "ant": [
+   "persuade",
+   "entice"
+  ],
+  "ex": "Witnesses said they had been coerced.",
+  "id": 1099,
+  "list": 7
+ },
+ {
+  "word": "cognizant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Aware of something.",
+  "syn": [
+   "conscious",
+   "mindful",
+   "apprised"
+  ],
+  "ant": [
+   "oblivious",
+   "unaware"
+  ],
+  "ex": "Fully cognizant of the risk, they proceeded.",
+  "id": 1100,
+  "list": 7
+ },
+ {
+  "word": "colloquial",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Used in ordinary conversation rather than formal writing.",
+  "syn": [
+   "informal",
+   "conversational",
+   "vernacular"
+  ],
+  "ant": [
+   "formal",
+   "literary"
+  ],
+  "ex": "Avoid colloquial phrasing in Task 2.",
+  "id": 1101,
+  "list": 7
+ },
+ {
+  "word": "collusion",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Secret cooperation for a dishonest purpose.",
+  "syn": [
+   "conspiracy",
+   "connivance",
+   "complicity"
+  ],
+  "ant": [
+   "independence",
+   "opposition"
+  ],
+  "ex": "Regulators found collusion on pricing.",
+  "id": 1102,
+  "list": 7
+ },
+ {
+  "word": "compendium",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A concise collection of information on a subject.",
+  "syn": [
+   "digest",
+   "summary",
+   "anthology"
+  ],
+  "ant": [],
+  "ex": "A compendium of case law in one volume.",
+  "id": 1103,
+  "list": 7
+ },
+ {
+  "word": "complaisant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Willing to please others; obliging.",
+  "syn": [
+   "accommodating",
+   "obliging",
+   "deferential"
+  ],
+  "ant": [
+   "obstinate",
+   "uncooperative"
+  ],
+  "ex": "A complaisant board approved every request.",
+  "id": 1104,
+  "list": 7
+ },
+ {
+  "word": "compunction",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A feeling of guilt that prevents an action.",
+  "syn": [
+   "remorse",
+   "scruple",
+   "qualm"
+  ],
+  "ant": [
+   "indifference",
+   "ruthlessness"
+  ],
+  "ex": "He felt no compunction about the dismissal.",
+  "id": 1105,
+  "list": 7
+ },
+ {
+  "word": "concede",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To admit something is true, often reluctantly.",
+  "syn": [
+   "acknowledge",
+   "grant",
+   "allow"
+  ],
+  "ant": [
+   "deny",
+   "dispute"
+  ],
+  "ex": "The author concedes the sample was small.",
+  "id": 1106,
+  "list": 7
+ },
+ {
+  "word": "concomitant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Occurring alongside something else.",
+  "syn": [
+   "accompanying",
+   "attendant",
+   "associated"
+  ],
+  "ant": [
+   "unrelated",
+   "separate"
+  ],
+  "ex": "Growth and its concomitant strain on housing.",
+  "id": 1107,
+  "list": 7
+ },
+ {
+  "word": "condescend",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To behave as though superior to others.",
+  "syn": [
+   "patronise",
+   "talk down",
+   "deign"
+  ],
+  "ant": [
+   "respect",
+   "esteem"
+  ],
+  "ex": "The guide condescended to every question.",
+  "id": 1108,
+  "list": 7
+ },
+ {
+  "word": "conducive",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Making a particular outcome more likely.",
+  "syn": [
+   "favourable",
+   "helpful",
+   "propitious"
+  ],
+  "ant": [
+   "hindering",
+   "detrimental"
+  ],
+  "ex": "Open-plan offices are rarely conducive to focus.",
+  "id": 1109,
+  "list": 7
+ },
+ {
+  "word": "confluence",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A coming together of things or currents.",
+  "syn": [
+   "convergence",
+   "junction",
+   "merging"
+  ],
+  "ant": [
+   "divergence",
+   "separation"
+  ],
+  "ex": "A confluence of factors caused the shortage.",
+  "id": 1110,
+  "list": 7
+ },
+ {
+  "word": "conjecture",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "An opinion formed without firm evidence.",
+  "syn": [
+   "speculation",
+   "supposition",
+   "surmise"
+  ],
+  "ant": [
+   "proof",
+   "certainty"
+  ],
+  "ex": "The motive remains a matter of conjecture.",
+  "id": 1111,
+  "list": 7
+ },
+ {
+  "word": "connive",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To secretly cooperate in wrongdoing.",
+  "syn": [
+   "conspire",
+   "collude",
+   "scheme"
+  ],
+  "ant": [
+   "oppose",
+   "expose"
+  ],
+  "ex": "Officials connived at the evasion for years.",
+  "id": 1112,
+  "list": 7
+ },
+ {
+  "word": "conspicuous",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Easily seen and attracting attention.",
+  "syn": [
+   "prominent",
+   "noticeable",
+   "salient"
+  ],
+  "ant": [
+   "inconspicuous",
+   "hidden"
+  ],
+  "ex": "Their absence was conspicuous.",
+  "id": 1113,
+  "list": 7
+ },
+ {
+  "word": "consternation",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Anxiety and dismay at something unexpected.",
+  "syn": [
+   "dismay",
+   "alarm",
+   "disquiet"
+  ],
+  "ant": [
+   "composure",
+   "relief"
+  ],
+  "ex": "The ruling caused consternation in the industry.",
+  "id": 1114,
+  "list": 7
+ },
+ {
+  "word": "construe",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To interpret something in a particular way.",
+  "syn": [
+   "interpret",
+   "read",
+   "understand"
+  ],
+  "ant": [
+   "misconstrue"
+  ],
+  "ex": "Silence should not be construed as agreement.",
+  "id": 1115,
+  "list": 7
+ },
+ {
+  "word": "contiguous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sharing a border; next in sequence.",
+  "syn": [
+   "adjoining",
+   "adjacent",
+   "abutting"
+  ],
+  "ant": [
+   "separate",
+   "detached"
+  ],
+  "ex": "Two contiguous plots were bought together.",
+  "id": 1116,
+  "list": 7
+ },
+ {
+  "word": "contrive",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To manage to do something by cleverness.",
+  "syn": [
+   "engineer",
+   "devise",
+   "manoeuvre"
+  ],
+  "ant": [
+   "bungle",
+   "fail"
+  ],
+  "ex": "She contrived to be out when they called.",
+  "id": 1117,
+  "list": 7
+ },
+ {
+  "word": "convivial",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Friendly and lively in atmosphere.",
+  "syn": [
+   "genial",
+   "sociable",
+   "festive"
+  ],
+  "ant": [
+   "dour",
+   "unsociable"
+  ],
+  "ex": "A convivial dinner ended the conference.",
+  "id": 1118,
+  "list": 7
+ },
+ {
+  "word": "corollary",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A result that follows naturally from something else.",
+  "syn": [
+   "consequence",
+   "upshot",
+   "sequel"
+  ],
+  "ant": [
+   "cause",
+   "premise"
+  ],
+  "ex": "Higher rents are a corollary of scarcity.",
+  "id": 1119,
+  "list": 7
+ },
+ {
+  "word": "cosmopolitan",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Familiar with and at ease among many cultures.",
+  "syn": [
+   "worldly",
+   "international",
+   "urbane"
+  ],
+  "ant": [
+   "provincial",
+   "insular"
+  ],
+  "ex": "A cosmopolitan city with forty languages.",
+  "id": 1120,
+  "list": 7
+ },
+ {
+  "word": "covert",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not openly acknowledged or displayed.",
+  "syn": [
+   "secret",
+   "clandestine",
+   "furtive"
+  ],
+  "ant": [
+   "overt",
+   "open"
+  ],
+  "ex": "Covert funding sustained the campaign.",
+  "id": 1121,
+  "list": 7
+ },
+ {
+  "word": "covet",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To desire something belonging to another.",
+  "syn": [
+   "crave",
+   "envy",
+   "hanker after"
+  ],
+  "ant": [
+   "spurn",
+   "disdain"
+  ],
+  "ex": "Rivals coveted the contract for years.",
+  "id": 1122,
+  "list": 7
+ },
+ {
+  "word": "crass",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing gross insensitivity or stupidity.",
+  "syn": [
+   "boorish",
+   "tactless",
+   "gross"
+  ],
+  "ant": [
+   "refined",
+   "tactful"
+  ],
+  "ex": "A crass remark about the redundancies.",
+  "id": 1123,
+  "list": 7
+ },
+ {
+  "word": "craven",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Shamefully cowardly.",
+  "syn": [
+   "pusillanimous",
+   "spineless",
+   "timorous"
+  ],
+  "ant": [
+   "brave",
+   "valiant"
+  ],
+  "ex": "A craven surrender to commercial pressure.",
+  "id": 1124,
+  "list": 7
+ },
+ {
+  "word": "credence",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Belief in something as true.",
+  "syn": [
+   "credibility",
+   "acceptance",
+   "trust"
+  ],
+  "ant": [
+   "disbelief",
+   "scepticism"
+  ],
+  "ex": "The leak lent credence to the rumour.",
+  "id": 1125,
+  "list": 7
+ },
+ {
+  "word": "crux",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The decisive or most important point.",
+  "syn": [
+   "nub",
+   "heart",
+   "essence"
+  ],
+  "ant": [
+   "periphery",
+   "side issue"
+  ],
+  "ex": "The crux of the case is intent.",
+  "id": 1126,
+  "list": 7
+ },
+ {
+  "word": "culminate",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To reach a final and highest point.",
+  "syn": [
+   "climax",
+   "peak",
+   "conclude"
+  ],
+  "ant": [
+   "begin",
+   "commence"
+  ],
+  "ex": "Talks culminated in a signed agreement.",
+  "id": 1127,
+  "list": 7
+ },
+ {
+  "word": "cumbersome",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Large and awkward to use or manage.",
+  "syn": [
+   "unwieldy",
+   "clumsy",
+   "burdensome"
+  ],
+  "ant": [
+   "handy",
+   "streamlined"
+  ],
+  "ex": "A cumbersome approval process deters applicants.",
+  "id": 1128,
+  "list": 7
+ },
+ {
+  "word": "cupidity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Excessive desire for wealth.",
+  "syn": [
+   "greed",
+   "avarice",
+   "rapacity"
+  ],
+  "ant": [
+   "generosity",
+   "restraint"
+  ],
+  "ex": "Cupidity, not need, drove the takeover.",
+  "id": 1129,
+  "list": 7
+ },
+ {
+  "word": "curmudgeon",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A bad-tempered, difficult person.",
+  "syn": [
+   "grouch",
+   "misanthrope",
+   "grumbler"
+  ],
+  "ant": [
+   "optimist"
+  ],
+  "ex": "A famous curmudgeon who despised committees.",
+  "id": 1130,
+  "list": 7
+ },
+ {
+  "word": "curtail",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To reduce or cut short.",
+  "syn": [
+   "truncate",
+   "restrict",
+   "trim"
+  ],
+  "ant": [
+   "extend",
+   "prolong"
+  ],
+  "ex": "The trip was curtailed by bad weather.",
+  "id": 1131,
+  "list": 7
+ }
+]

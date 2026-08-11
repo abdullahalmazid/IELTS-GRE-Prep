@@ -1,0 +1,236 @@
+[
+ {
+  "word": "obdurate",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Stubbornly refusing to change one's mind.",
+  "syn": [
+   "unyielding",
+   "intransigent",
+   "adamant"
+  ],
+  "ant": [
+   "yielding",
+   "tractable"
+  ],
+  "ex": "The ministry remained obdurate on funding.",
+  "id": 798,
+  "list": 6
+ },
+ {
+  "word": "obfuscate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make something deliberately unclear.",
+  "syn": [
+   "obscure",
+   "cloud",
+   "muddy"
+  ],
+  "ant": [
+   "clarify",
+   "elucidate"
+  ],
+  "ex": "The footnotes obfuscate rather than explain.",
+  "id": 799,
+  "list": 6
+ },
+ {
+  "word": "obsequious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively eager to please or obey.",
+  "syn": [
+   "fawning",
+   "servile",
+   "sycophantic"
+  ],
+  "ant": [
+   "assertive",
+   "forthright"
+  ],
+  "ex": "An obsequious deference to every donor.",
+  "id": 800,
+  "list": 6
+ },
+ {
+  "word": "obsolete",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "No longer in use or useful.",
+  "syn": [
+   "outdated",
+   "antiquated",
+   "defunct"
+  ],
+  "ant": [
+   "current",
+   "modern"
+  ],
+  "ex": "The format was obsolete within five years.",
+  "id": 801,
+  "list": 6
+ },
+ {
+  "word": "obstinate",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Stubbornly refusing to change course.",
+  "syn": [
+   "headstrong",
+   "dogged",
+   "wilful"
+  ],
+  "ant": [
+   "compliant",
+   "flexible"
+  ],
+  "ex": "An obstinate refusal to reconsider.",
+  "id": 802,
+  "list": 6
+ },
+ {
+  "word": "obtuse",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Slow to understand, often wilfully.",
+  "syn": [
+   "dense",
+   "imperceptive",
+   "dull"
+  ],
+  "ant": [
+   "astute",
+   "perceptive"
+  ],
+  "ex": "He was being deliberately obtuse.",
+  "id": 803,
+  "list": 6
+ },
+ {
+  "word": "officious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Asserting authority in an unwelcome, meddling way.",
+  "syn": [
+   "meddlesome",
+   "intrusive",
+   "overbearing"
+  ],
+  "ant": [
+   "unobtrusive",
+   "retiring"
+  ],
+  "ex": "An officious clerk demanded a fourth form.",
+  "id": 804,
+  "list": 6
+ },
+ {
+  "word": "onerous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Involving a heavy and unwelcome burden.",
+  "syn": [
+   "burdensome",
+   "taxing",
+   "arduous"
+  ],
+  "ant": [
+   "easy",
+   "undemanding"
+  ],
+  "ex": "Onerous reporting duties deter small firms.",
+  "id": 805,
+  "list": 6
+ },
+ {
+  "word": "opaque",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to see through or understand.",
+  "syn": [
+   "impenetrable",
+   "obscure",
+   "murky"
+  ],
+  "ant": [
+   "transparent",
+   "lucid"
+  ],
+  "ex": "The accounts are deliberately opaque.",
+  "id": 806,
+  "list": 6
+ },
+ {
+  "word": "opprobrium",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Harsh public criticism and disgrace.",
+  "syn": [
+   "censure",
+   "condemnation",
+   "obloquy"
+  ],
+  "ant": [
+   "acclaim",
+   "approbation"
+  ],
+  "ex": "The decision drew international opprobrium.",
+  "id": 807,
+  "list": 6
+ },
+ {
+  "word": "ostensible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Stated as true but probably not the real reason.",
+  "syn": [
+   "apparent",
+   "professed",
+   "supposed"
+  ],
+  "ant": [
+   "actual",
+   "genuine"
+  ],
+  "ex": "The ostensible reason was cost.",
+  "id": 808,
+  "list": 6
+ },
+ {
+  "word": "ostentatious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Designed to impress through showiness.",
+  "syn": [
+   "flashy",
+   "showy",
+   "pretentious"
+  ],
+  "ant": [
+   "modest",
+   "understated"
+  ],
+  "ex": "An ostentatious display of new wealth.",
+  "id": 809,
+  "list": 6
+ },
+ {
+  "word": "ostracize",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To exclude someone from a group.",
+  "syn": [
+   "shun",
+   "banish",
+   "blackball"
+  ],
+  "ant": [
+   "welcome",
+   "embrace"
+  ],
+  "ex": "Whistleblowers are often ostracized.",
+  "id": 810,
+  "list": 6
+ }
+]

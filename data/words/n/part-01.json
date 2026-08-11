@@ -1,0 +1,161 @@
+[
+ {
+  "word": "negative",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Harmful, pessimistic or expressing refusal.",
+  "syn": [
+   "adverse",
+   "detrimental",
+   "pessimistic"
+  ],
+  "ant": [
+   "positive",
+   "favourable"
+  ],
+  "ex": "Sleep deprivation has negative cognitive effects.",
+  "id": 451
+ },
+ {
+  "word": "network",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "An interconnected system of people or things.",
+  "syn": [
+   "web",
+   "grid",
+   "system"
+  ],
+  "ant": [
+   "isolation"
+  ],
+  "ex": "The rail network covers 3,000 kilometres.",
+  "id": 452
+ },
+ {
+  "word": "neutral",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Not supporting either side; having no strong characteristics.",
+  "syn": [
+   "impartial",
+   "unbiased",
+   "non-aligned"
+  ],
+  "ant": [
+   "partisan",
+   "biased"
+  ],
+  "ex": "The mediator must remain neutral.",
+  "id": 453
+ },
+ {
+  "word": "nonetheless",
+  "pos": "adverb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "In spite of that; nevertheless.",
+  "syn": [
+   "nevertheless",
+   "even so",
+   "still"
+  ],
+  "ant": [
+   "therefore",
+   "consequently"
+  ],
+  "ex": "The risks are real; nonetheless, the trial proceeded.",
+  "id": 454
+ },
+ {
+  "word": "norm",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A standard or pattern regarded as typical.",
+  "syn": [
+   "standard",
+   "convention",
+   "rule"
+  ],
+  "ant": [
+   "anomaly",
+   "exception"
+  ],
+  "ex": "Remote work has become the norm.",
+  "id": 455
+ },
+ {
+  "word": "normal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Usual, typical or expected.",
+  "syn": [
+   "typical",
+   "standard",
+   "conventional"
+  ],
+  "ant": [
+   "abnormal",
+   "exceptional"
+  ],
+  "ex": "Rainfall was above normal levels this year.",
+  "id": 456
+ },
+ {
+  "word": "notion",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A belief or idea about something.",
+  "syn": [
+   "concept",
+   "idea",
+   "conception"
+  ],
+  "ant": [
+   "fact",
+   "certainty"
+  ],
+  "ex": "The notion that talent is fixed is outdated.",
+  "id": 457
+ },
+ {
+  "word": "notwithstanding",
+  "pos": "preposition",
+  "level": "GRE",
+  "list": 5,
+  "def": "In spite of; despite.",
+  "syn": [
+   "despite",
+   "regardless of",
+   "in spite of"
+  ],
+  "ant": [
+   "because of"
+  ],
+  "ex": "Notwithstanding the delays, the budget held.",
+  "id": 458
+ },
+ {
+  "word": "nuclear",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Relating to the nucleus of an atom or to atomic energy.",
+  "syn": [
+   "atomic",
+   "fission-based"
+  ],
+  "ant": [
+   "renewable",
+   "non-nuclear"
+  ],
+  "ex": "Nuclear power emits almost no carbon.",
+  "id": 459
+ }
+]

@@ -1,0 +1,635 @@
+[
+ {
+  "word": "paragraph",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A distinct section of writing dealing with one idea.",
+  "syn": [
+   "passage",
+   "section",
+   "block"
+  ],
+  "ant": [],
+  "ex": "Each paragraph needs one clear topic sentence.",
+  "id": 473
+ },
+ {
+  "word": "parallel",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Occurring at the same time or in a similar way; side by side.",
+  "syn": [
+   "concurrent",
+   "corresponding",
+   "analogous"
+  ],
+  "ant": [
+   "divergent",
+   "convergent"
+  ],
+  "ex": "The two studies reached parallel conclusions.",
+  "id": 474
+ },
+ {
+  "word": "parameter",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A limit or factor that defines the scope of something.",
+  "syn": [
+   "limit",
+   "boundary",
+   "variable"
+  ],
+  "ant": [],
+  "ex": "The study set strict parameters for inclusion.",
+  "id": 475
+ },
+ {
+  "word": "participation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The act of taking part in an activity.",
+  "syn": [
+   "involvement",
+   "engagement",
+   "attendance"
+  ],
+  "ant": [
+   "abstention",
+   "withdrawal"
+  ],
+  "ex": "Voter participation fell to a record low.",
+  "id": 476
+ },
+ {
+  "word": "passive",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Accepting what happens without active response.",
+  "syn": [
+   "inactive",
+   "submissive",
+   "acquiescent"
+  ],
+  "ant": [
+   "active",
+   "assertive"
+  ],
+  "ex": "Passive learning produces poor retention.",
+  "id": 477
+ },
+ {
+  "word": "perceive",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To become aware of or interpret something in a particular way.",
+  "syn": [
+   "discern",
+   "apprehend",
+   "regard"
+  ],
+  "ant": [
+   "ignore",
+   "misread"
+  ],
+  "ex": "Risk is often perceived differently than measured.",
+  "id": 478
+ },
+ {
+  "word": "percent",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "One part in every hundred.",
+  "syn": [
+   "percentage",
+   "proportion"
+  ],
+  "ant": [],
+  "ex": "Sixty percent of respondents disagreed.",
+  "id": 479
+ },
+ {
+  "word": "period",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A length of time with a defined beginning and end.",
+  "syn": [
+   "interval",
+   "span",
+   "era"
+  ],
+  "ant": [
+   "eternity"
+  ],
+  "ex": "Sales rose sharply over a five-year period.",
+  "id": 480
+ },
+ {
+  "word": "persistent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Continuing firmly despite difficulty; lasting a long time.",
+  "syn": [
+   "tenacious",
+   "enduring",
+   "unrelenting"
+  ],
+  "ant": [
+   "fleeting",
+   "intermittent"
+  ],
+  "ex": "Persistent inflation eroded real wages.",
+  "id": 481
+ },
+ {
+  "word": "perspective",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A particular way of viewing or interpreting something.",
+  "syn": [
+   "viewpoint",
+   "standpoint",
+   "outlook"
+  ],
+  "ant": [],
+  "ex": "From an economic perspective, the plan fails.",
+  "id": 482
+ },
+ {
+  "word": "phenomenon",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "An observable fact or event, especially a remarkable one.",
+  "syn": [
+   "occurrence",
+   "event",
+   "marvel"
+  ],
+  "ant": [],
+  "ex": "El Niño is a recurring climatic phenomenon.",
+  "id": 483
+ },
+ {
+  "word": "philosophy",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The study of fundamental questions, or a guiding set of beliefs.",
+  "syn": [
+   "ideology",
+   "doctrine",
+   "worldview"
+  ],
+  "ant": [],
+  "ex": "His teaching philosophy centres on curiosity.",
+  "id": 484
+ },
+ {
+  "word": "policy",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A course of action adopted by a government or organisation.",
+  "syn": [
+   "strategy",
+   "guideline",
+   "protocol"
+  ],
+  "ant": [],
+  "ex": "The new policy discourages single-use plastics.",
+  "id": 485
+ },
+ {
+  "word": "portion",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A part or share of a whole.",
+  "syn": [
+   "share",
+   "segment",
+   "fraction"
+  ],
+  "ant": [
+   "whole",
+   "entirety"
+  ],
+  "ex": "A large portion of income goes on rent.",
+  "id": 486
+ },
+ {
+  "word": "pose",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To present a problem or question; to pretend to be someone.",
+  "syn": [
+   "present",
+   "constitute",
+   "masquerade"
+  ],
+  "ant": [
+   "resolve",
+   "remove"
+  ],
+  "ex": "Antibiotic resistance poses a grave threat.",
+  "id": 487
+ },
+ {
+  "word": "positive",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Good, constructive or expressing agreement.",
+  "syn": [
+   "favourable",
+   "optimistic",
+   "affirmative"
+  ],
+  "ant": [
+   "negative",
+   "adverse"
+  ],
+  "ex": "Feedback from participants was overwhelmingly positive.",
+  "id": 488
+ },
+ {
+  "word": "possess",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To have or own something.",
+  "syn": [
+   "own",
+   "hold",
+   "command"
+  ],
+  "ant": [
+   "lack",
+   "forfeit"
+  ],
+  "ex": "Few candidates possess the required experience.",
+  "id": 489
+ },
+ {
+  "word": "potential",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The capacity to develop or succeed in the future.",
+  "syn": [
+   "capability",
+   "promise",
+   "possibility"
+  ],
+  "ant": [
+   "incapacity",
+   "limitation"
+  ],
+  "ex": "Solar power has enormous untapped potential.",
+  "id": 490
+ },
+ {
+  "word": "precede",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To come before something in time or order.",
+  "syn": [
+   "antedate",
+   "forerun",
+   "lead"
+  ],
+  "ant": [
+   "follow",
+   "succeed"
+  ],
+  "ex": "A short tremor preceded the main quake.",
+  "id": 491
+ },
+ {
+  "word": "precise",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Exact and accurate in detail.",
+  "syn": [
+   "exact",
+   "accurate",
+   "meticulous"
+  ],
+  "ant": [
+   "vague",
+   "approximate"
+  ],
+  "ex": "The precise cause remains unknown.",
+  "id": 492
+ },
+ {
+  "word": "predict",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To say what will happen in the future.",
+  "syn": [
+   "forecast",
+   "foretell",
+   "anticipate"
+  ],
+  "ant": [
+   "recall",
+   "observe"
+  ],
+  "ex": "Economists predict slower growth next year.",
+  "id": 493
+ },
+ {
+  "word": "predominantly",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Mainly; for the most part.",
+  "syn": [
+   "chiefly",
+   "largely",
+   "mostly"
+  ],
+  "ant": [
+   "rarely",
+   "marginally"
+  ],
+  "ex": "The workforce is predominantly female.",
+  "id": 494
+ },
+ {
+  "word": "preliminary",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Coming before the main part, as preparation.",
+  "syn": [
+   "initial",
+   "introductory",
+   "exploratory"
+  ],
+  "ant": [
+   "final",
+   "conclusive"
+  ],
+  "ex": "Preliminary findings suggest a modest benefit.",
+  "id": 495
+ },
+ {
+  "word": "presumption",
+  "pos": "noun",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Something assumed to be true without proof.",
+  "syn": [
+   "assumption",
+   "supposition",
+   "premise"
+  ],
+  "ant": [
+   "proof",
+   "certainty"
+  ],
+  "ex": "The presumption of innocence is fundamental.",
+  "id": 496
+ },
+ {
+  "word": "previous",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Coming before something else in time.",
+  "syn": [
+   "prior",
+   "preceding",
+   "former"
+  ],
+  "ant": [
+   "subsequent",
+   "following"
+  ],
+  "ex": "The previous government cut the budget.",
+  "id": 497
+ },
+ {
+  "word": "primary",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Most important, or first in order.",
+  "syn": [
+   "chief",
+   "foremost",
+   "principal"
+  ],
+  "ant": [
+   "secondary",
+   "minor"
+  ],
+  "ex": "The primary cause of the crash was fatigue.",
+  "id": 498
+ },
+ {
+  "word": "priority",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Something treated as more important than others.",
+  "syn": [
+   "precedence",
+   "preference",
+   "primacy"
+  ],
+  "ant": [
+   "afterthought"
+  ],
+  "ex": "Housing is the government's stated priority.",
+  "id": 499
+ },
+ {
+  "word": "process",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A series of actions taken to achieve a result.",
+  "syn": [
+   "procedure",
+   "operation",
+   "course"
+  ],
+  "ant": [
+   "stasis"
+  ],
+  "ex": "Learning a language is a slow process.",
+  "id": 500
+ },
+ {
+  "word": "prohibit",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To formally forbid something by law or rule.",
+  "syn": [
+   "ban",
+   "forbid",
+   "proscribe"
+  ],
+  "ant": [
+   "permit",
+   "authorise"
+  ],
+  "ex": "The law prohibits smoking in workplaces.",
+  "id": 501
+ },
+ {
+  "word": "project",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A planned piece of work with a specific aim.",
+  "syn": [
+   "scheme",
+   "undertaking",
+   "venture"
+  ],
+  "ant": [],
+  "ex": "The construction project ran two years late.",
+  "id": 502
+ },
+ {
+  "word": "promote",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To encourage the growth of something, or to advance someone's rank.",
+  "syn": [
+   "encourage",
+   "foster",
+   "advance"
+  ],
+  "ant": [
+   "hinder",
+   "demote"
+  ],
+  "ex": "The campaign promotes healthy eating.",
+  "id": 503
+ },
+ {
+  "word": "proportion",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A part of a whole, or the relationship between amounts.",
+  "syn": [
+   "share",
+   "ratio",
+   "fraction"
+  ],
+  "ant": [
+   "whole",
+   "totality"
+  ],
+  "ex": "A large proportion of graduates leave the city.",
+  "id": 504
+ },
+ {
+  "word": "prospect",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The possibility of a future event; chances of success.",
+  "syn": [
+   "likelihood",
+   "outlook",
+   "potential"
+  ],
+  "ant": [
+   "impossibility"
+  ],
+  "ex": "Job prospects for graduates have worsened.",
+  "id": 505
+ },
+ {
+  "word": "psychology",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The scientific study of mind and behaviour.",
+  "syn": [
+   "mental science",
+   "behavioural science"
+  ],
+  "ant": [],
+  "ex": "Consumer psychology drives modern advertising.",
+  "id": 506
+ },
+ {
+  "word": "publish",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To make written material available to the public.",
+  "syn": [
+   "issue",
+   "release",
+   "disseminate"
+  ],
+  "ant": [
+   "suppress",
+   "withhold"
+  ],
+  "ex": "The findings were published in Nature.",
+  "id": 507
+ },
+ {
+  "word": "purchase",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To buy something.",
+  "syn": [
+   "buy",
+   "acquire",
+   "procure"
+  ],
+  "ant": [
+   "sell",
+   "dispose of"
+  ],
+  "ex": "Tickets can be purchased online.",
+  "id": 508
+ },
+ {
+  "word": "pursue",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To follow or strive towards a goal.",
+  "syn": [
+   "chase",
+   "strive for",
+   "undertake"
+  ],
+  "ant": [
+   "abandon",
+   "forsake"
+  ],
+  "ex": "She pursued a career in engineering.",
+  "id": 509
+ }
+]

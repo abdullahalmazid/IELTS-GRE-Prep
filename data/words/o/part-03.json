@@ -1,0 +1,218 @@
+[
+ {
+  "word": "obeisance",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Deferential respect, often shown by a gesture.",
+  "syn": [
+   "homage",
+   "deference",
+   "submission"
+  ],
+  "ant": [
+   "defiance",
+   "disrespect"
+  ],
+  "ex": "Ritual obeisance to a departed leader.",
+  "id": 1291,
+  "list": 7
+ },
+ {
+  "word": "obliterate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To destroy completely, leaving no trace.",
+  "syn": [
+   "annihilate",
+   "efface",
+   "erase"
+  ],
+  "ant": [
+   "create",
+   "preserve"
+  ],
+  "ex": "The fire obliterated every record.",
+  "id": 1292,
+  "list": 7
+ },
+ {
+  "word": "obviate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To remove a need or difficulty.",
+  "syn": [
+   "preclude",
+   "avert",
+   "forestall"
+  ],
+  "ant": [
+   "necessitate",
+   "require"
+  ],
+  "ex": "Automation obviates the need for manual entry.",
+  "id": 1293,
+  "list": 7
+ },
+ {
+  "word": "occlude",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To block or obstruct an opening.",
+  "syn": [
+   "block",
+   "obstruct",
+   "stop up"
+  ],
+  "ant": [
+   "clear",
+   "open"
+  ],
+  "ex": "Sediment occluded the intake pipe.",
+  "id": 1294,
+  "list": 7
+ },
+ {
+  "word": "odious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely unpleasant and deserving hatred.",
+  "syn": [
+   "repugnant",
+   "detestable",
+   "abhorrent"
+  ],
+  "ant": [
+   "agreeable",
+   "delightful"
+  ],
+  "ex": "An odious comparison that ended the friendship.",
+  "id": 1295,
+  "list": 7
+ },
+ {
+  "word": "officiate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To act in an official capacity at an event.",
+  "syn": [
+   "preside",
+   "conduct",
+   "referee"
+  ],
+  "ant": [
+   "attend",
+   "observe"
+  ],
+  "ex": "A retired judge officiated at the hearing.",
+  "id": 1296,
+  "list": 7
+ },
+ {
+  "word": "onus",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A duty or responsibility that falls on someone.",
+  "syn": [
+   "burden",
+   "obligation",
+   "liability"
+  ],
+  "ant": [
+   "exemption",
+   "relief"
+  ],
+  "ex": "The onus of proof lies with the accuser.",
+  "id": 1297,
+  "list": 7
+ },
+ {
+  "word": "opulent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Displaying great wealth.",
+  "syn": [
+   "lavish",
+   "sumptuous",
+   "luxurious"
+  ],
+  "ant": [
+   "austere",
+   "spartan"
+  ],
+  "ex": "An opulent hall paid for by the guilds.",
+  "id": 1298,
+  "list": 7
+ },
+ {
+  "word": "ornate",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Elaborately decorated.",
+  "syn": [
+   "elaborate",
+   "decorative",
+   "baroque"
+  ],
+  "ant": [
+   "plain",
+   "austere"
+  ],
+  "ex": "An ornate ceiling restored over two years.",
+  "id": 1299,
+  "list": 7
+ },
+ {
+  "word": "oscillate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To swing back and forth between positions.",
+  "syn": [
+   "fluctuate",
+   "waver",
+   "vacillate"
+  ],
+  "ant": [
+   "settle",
+   "stabilise"
+  ],
+  "ex": "Policy oscillated between two extremes.",
+  "id": 1300,
+  "list": 7
+ },
+ {
+  "word": "ossify",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To become rigid and resistant to change.",
+  "syn": [
+   "harden",
+   "fossilise",
+   "stagnate"
+  ],
+  "ant": [
+   "adapt",
+   "evolve"
+  ],
+  "ex": "The doctrine ossified into ritual.",
+  "id": 1301,
+  "list": 7
+ },
+ {
+  "word": "overt",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Done openly and not concealed.",
+  "syn": [
+   "open",
+   "manifest",
+   "undisguised"
+  ],
+  "ant": [
+   "covert",
+   "hidden"
+  ],
+  "ex": "No overt pressure was ever applied.",
+  "id": 1302,
+  "list": 7
+ }
+]

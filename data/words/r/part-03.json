@@ -1,0 +1,232 @@
+[
+ {
+  "word": "raconteur",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person skilled at telling stories.",
+  "syn": [
+   "storyteller",
+   "narrator",
+   "anecdotalist"
+  ],
+  "ant": [],
+  "ex": "A raconteur who could hold any room.",
+  "id": 1349,
+  "list": 7
+ },
+ {
+  "word": "rebuff",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To reject an offer or approach abruptly.",
+  "syn": [
+   "snub",
+   "spurn",
+   "repulse"
+  ],
+  "ant": [
+   "welcome",
+   "accept"
+  ],
+  "ex": "The overture was rebuffed within hours.",
+  "id": 1350,
+  "list": 7
+ },
+ {
+  "word": "rectitude",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Morally correct behaviour.",
+  "syn": [
+   "integrity",
+   "probity",
+   "virtue"
+  ],
+  "ant": [
+   "dishonesty",
+   "depravity"
+  ],
+  "ex": "A reputation for rectitude survived the inquiry.",
+  "id": 1351,
+  "list": 7
+ },
+ {
+  "word": "redress",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Compensation for a wrong.",
+  "syn": [
+   "remedy",
+   "reparation",
+   "restitution"
+  ],
+  "ant": [
+   "injury",
+   "wrong"
+  ],
+  "ex": "Claimants sought redress through the courts.",
+  "id": 1352,
+  "list": 7
+ },
+ {
+  "word": "reproach",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To express disapproval or disappointment to someone.",
+  "syn": [
+   "rebuke",
+   "admonish",
+   "upbraid"
+  ],
+  "ant": [
+   "praise",
+   "commend"
+  ],
+  "ex": "She reproached him for the delay.",
+  "id": 1353,
+  "list": 7
+ },
+ {
+  "word": "repugnant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely distasteful.",
+  "syn": [
+   "abhorrent",
+   "odious",
+   "repellent"
+  ],
+  "ant": [
+   "appealing",
+   "agreeable"
+  ],
+  "ex": "The practice is repugnant to most members.",
+  "id": 1354,
+  "list": 7
+ },
+ {
+  "word": "requisite",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Required for a purpose.",
+  "syn": [
+   "necessary",
+   "essential",
+   "obligatory"
+  ],
+  "ant": [
+   "optional",
+   "superfluous"
+  ],
+  "ex": "Candidates lacked the requisite experience.",
+  "id": 1355,
+  "list": 7
+ },
+ {
+  "word": "resilient",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Able to recover quickly from difficulty.",
+  "syn": [
+   "hardy",
+   "tough",
+   "buoyant"
+  ],
+  "ant": [
+   "fragile",
+   "brittle"
+  ],
+  "ex": "A resilient economy absorbed the shock.",
+  "id": 1356,
+  "list": 7
+ },
+ {
+  "word": "respite",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "A short break from something difficult.",
+  "syn": [
+   "reprieve",
+   "interval",
+   "breathing space"
+  ],
+  "ant": [
+   "continuation"
+  ],
+  "ex": "The rain gave no respite for a fortnight.",
+  "id": 1357,
+  "list": 7
+ },
+ {
+  "word": "reticence",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Unwillingness to speak freely.",
+  "syn": [
+   "reserve",
+   "taciturnity",
+   "restraint"
+  ],
+  "ant": [
+   "candour",
+   "openness"
+  ],
+  "ex": "His reticence was mistaken for guilt.",
+  "id": 1358,
+  "list": 7
+ },
+ {
+  "word": "reverence",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Deep respect bordering on awe.",
+  "syn": [
+   "veneration",
+   "awe",
+   "homage"
+  ],
+  "ant": [
+   "contempt",
+   "irreverence"
+  ],
+  "ex": "The manuscripts are handled with reverence.",
+  "id": 1359,
+  "list": 7
+ },
+ {
+  "word": "rhapsodize",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To speak about something with extravagant enthusiasm.",
+  "syn": [
+   "enthuse",
+   "wax lyrical",
+   "gush"
+  ],
+  "ant": [
+   "disparage",
+   "understate"
+  ],
+  "ex": "Critics rhapsodized over the restoration.",
+  "id": 1360,
+  "list": 7
+ },
+ {
+  "word": "rustic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Relating to the countryside; plain and simple.",
+  "syn": [
+   "rural",
+   "pastoral",
+   "unsophisticated"
+  ],
+  "ant": [
+   "urban",
+   "refined"
+  ],
+  "ex": "A rustic simplicity carefully manufactured.",
+  "id": 1361,
+  "list": 7
+ }
+]

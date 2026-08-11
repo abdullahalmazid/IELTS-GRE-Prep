@@ -1,0 +1,192 @@
+[
+ {
+  "word": "validity",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The quality of being logically sound or legally acceptable.",
+  "syn": [
+   "soundness",
+   "legitimacy",
+   "cogency"
+  ],
+  "ant": [
+   "invalidity",
+   "fallacy"
+  ],
+  "ex": "Critics questioned the validity of the method.",
+  "id": 614
+ },
+ {
+  "word": "vehicle",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A means of transport; also a means of expressing something.",
+  "syn": [
+   "conveyance",
+   "transport",
+   "medium"
+  ],
+  "ant": [],
+  "ex": "Electric vehicles now dominate new sales.",
+  "id": 615
+ },
+ {
+  "word": "version",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A particular form of something that differs from others.",
+  "syn": [
+   "variant",
+   "edition",
+   "rendition"
+  ],
+  "ant": [
+   "original"
+  ],
+  "ex": "The final version of the report was published today.",
+  "id": 616
+ },
+ {
+  "word": "via",
+  "pos": "preposition",
+  "level": "IELTS",
+  "list": 4,
+  "def": "By way of, or by means of.",
+  "syn": [
+   "through",
+   "by way of",
+   "using"
+  ],
+  "ant": [],
+  "ex": "Applications are submitted via the portal.",
+  "id": 617
+ },
+ {
+  "word": "violation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A breach of a law, rule or right.",
+  "syn": [
+   "breach",
+   "infringement",
+   "transgression"
+  ],
+  "ant": [
+   "compliance",
+   "observance"
+  ],
+  "ex": "The dumping was a clear violation of the treaty.",
+  "id": 618
+ },
+ {
+  "word": "virtual",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Simulated by computer, or almost the case in practice.",
+  "syn": [
+   "simulated",
+   "digital",
+   "near-total"
+  ],
+  "ant": [
+   "physical",
+   "actual"
+  ],
+  "ex": "Virtual meetings replaced most business travel.",
+  "id": 619
+ },
+ {
+  "word": "visible",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Able to be seen or noticed.",
+  "syn": [
+   "perceptible",
+   "apparent",
+   "discernible"
+  ],
+  "ant": [
+   "invisible",
+   "concealed"
+  ],
+  "ex": "The effects are visible from space.",
+  "id": 620
+ },
+ {
+  "word": "vision",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The ability to see, or a mental image of a future plan.",
+  "syn": [
+   "sight",
+   "foresight",
+   "imagination"
+  ],
+  "ant": [
+   "blindness",
+   "short-sightedness"
+  ],
+  "ex": "The mayor set out a vision for a car-free centre.",
+  "id": 621
+ },
+ {
+  "word": "vital",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Absolutely necessary; essential to life.",
+  "syn": [
+   "essential",
+   "indispensable",
+   "critical"
+  ],
+  "ant": [
+   "dispensable",
+   "trivial"
+  ],
+  "ex": "Bees are vital to global food production.",
+  "id": 622
+ },
+ {
+  "word": "volume",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The amount of space something occupies, or a quantity.",
+  "syn": [
+   "capacity",
+   "quantity",
+   "bulk"
+  ],
+  "ant": [
+   "scarcity"
+  ],
+  "ex": "The volume of online sales doubled.",
+  "id": 623
+ },
+ {
+  "word": "voluntary",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Done by choice rather than compulsion.",
+  "syn": [
+   "optional",
+   "discretionary",
+   "unpaid"
+  ],
+  "ant": [
+   "compulsory",
+   "mandatory"
+  ],
+  "ex": "Participation is entirely voluntary.",
+  "id": 624
+ }
+]

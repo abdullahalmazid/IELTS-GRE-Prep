@@ -1,0 +1,949 @@
+[
+ {
+  "word": "paradigm",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A typical model or pattern of thinking.",
+  "syn": [
+   "model",
+   "framework",
+   "archetype"
+  ],
+  "ant": [],
+  "ex": "The finding overturned an entire paradigm.",
+  "id": 811,
+  "list": 6
+ },
+ {
+  "word": "paradox",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "A statement that contradicts itself yet may be true.",
+  "syn": [
+   "contradiction",
+   "anomaly",
+   "enigma"
+  ],
+  "ant": [
+   "truism"
+  ],
+  "ex": "The paradox of thrift puzzled economists.",
+  "id": 812,
+  "list": 6
+ },
+ {
+  "word": "paragon",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A perfect example of a quality.",
+  "syn": [
+   "exemplar",
+   "model",
+   "epitome"
+  ],
+  "ant": [
+   "failure"
+  ],
+  "ex": "Held up as a paragon of restraint.",
+  "id": 813,
+  "list": 6
+ },
+ {
+  "word": "parochial",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Narrow in outlook; concerned only with local matters.",
+  "syn": [
+   "insular",
+   "provincial",
+   "narrow-minded"
+  ],
+  "ant": [
+   "cosmopolitan",
+   "universal"
+  ],
+  "ex": "A parochial debate with global consequences.",
+  "id": 814,
+  "list": 6
+ },
+ {
+  "word": "parsimonious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely unwilling to spend.",
+  "syn": [
+   "miserly",
+   "niggardly",
+   "tightfisted"
+  ],
+  "ant": [
+   "generous",
+   "lavish"
+  ],
+  "ex": "Parsimonious funding starved the programme.",
+  "id": 815,
+  "list": 6
+ },
+ {
+  "word": "partisan",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Strongly biased towards one side.",
+  "syn": [
+   "one-sided",
+   "factional",
+   "sectarian"
+  ],
+  "ant": [
+   "impartial",
+   "neutral"
+  ],
+  "ex": "Coverage grew more partisan each week.",
+  "id": 816,
+  "list": 6
+ },
+ {
+  "word": "paucity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The presence of too little of something.",
+  "syn": [
+   "scarcity",
+   "dearth",
+   "shortage"
+  ],
+  "ant": [
+   "abundance",
+   "plenty"
+  ],
+  "ex": "A paucity of data undermines the claim.",
+  "id": 817,
+  "list": 6
+ },
+ {
+  "word": "pedantic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively concerned with minor rules or detail.",
+  "syn": [
+   "nitpicking",
+   "punctilious",
+   "hairsplitting"
+  ],
+  "ant": [
+   "broad-minded",
+   "casual"
+  ],
+  "ex": "A pedantic objection to the wording.",
+  "id": 818,
+  "list": 6
+ },
+ {
+  "word": "penchant",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A strong liking for something.",
+  "syn": [
+   "fondness",
+   "predilection",
+   "proclivity"
+  ],
+  "ant": [
+   "aversion",
+   "distaste"
+  ],
+  "ex": "A penchant for overstating his case.",
+  "id": 819,
+  "list": 6
+ },
+ {
+  "word": "penury",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Extreme poverty.",
+  "syn": [
+   "destitution",
+   "indigence",
+   "want"
+  ],
+  "ant": [
+   "affluence",
+   "wealth"
+  ],
+  "ex": "Illness reduced the family to penury.",
+  "id": 820,
+  "list": 6
+ },
+ {
+  "word": "perfidious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Deceitful and untrustworthy.",
+  "syn": [
+   "treacherous",
+   "disloyal",
+   "faithless"
+  ],
+  "ant": [
+   "loyal",
+   "faithful"
+  ],
+  "ex": "A perfidious ally who leaked the plans.",
+  "id": 821,
+  "list": 6
+ },
+ {
+  "word": "perfunctory",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Done as a routine duty, without care.",
+  "syn": [
+   "cursory",
+   "superficial",
+   "token"
+  ],
+  "ant": [
+   "thorough",
+   "careful"
+  ],
+  "ex": "A perfunctory inspection missed the crack.",
+  "id": 822,
+  "list": 6
+ },
+ {
+  "word": "pernicious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Causing harm in a gradual, hidden way.",
+  "syn": [
+   "insidious",
+   "deleterious",
+   "destructive"
+  ],
+  "ant": [
+   "beneficial",
+   "wholesome"
+  ],
+  "ex": "The pernicious effect of chronic underfunding.",
+  "id": 823,
+  "list": 6
+ },
+ {
+  "word": "perspicacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Quick to notice and understand.",
+  "syn": [
+   "shrewd",
+   "discerning",
+   "astute"
+  ],
+  "ant": [
+   "obtuse",
+   "undiscerning"
+  ],
+  "ex": "A perspicacious reading of the data.",
+  "id": 824,
+  "list": 6
+ },
+ {
+  "word": "petulant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Childishly sulky or bad-tempered.",
+  "syn": [
+   "peevish",
+   "querulous",
+   "sulky"
+  ],
+  "ant": [
+   "good-humoured",
+   "patient"
+  ],
+  "ex": "A petulant refusal to answer questions.",
+  "id": 825,
+  "list": 6
+ },
+ {
+  "word": "philanthropy",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "The giving of money and effort to good causes.",
+  "syn": [
+   "charity",
+   "benefaction",
+   "altruism"
+  ],
+  "ant": [
+   "misanthropy",
+   "selfishness"
+  ],
+  "ex": "Philanthropy funds a third of the museum.",
+  "id": 826,
+  "list": 6
+ },
+ {
+  "word": "phlegmatic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Calm and unemotional by disposition.",
+  "syn": [
+   "stolid",
+   "unexcitable",
+   "composed"
+  ],
+  "ant": [
+   "excitable",
+   "volatile"
+  ],
+  "ex": "A phlegmatic response to alarming news.",
+  "id": 827,
+  "list": 6
+ },
+ {
+  "word": "pious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Devoutly religious; sometimes, self-righteously so.",
+  "syn": [
+   "devout",
+   "reverent",
+   "sanctimonious"
+  ],
+  "ant": [
+   "impious",
+   "irreverent"
+  ],
+  "ex": "Pious declarations replaced actual policy.",
+  "id": 828,
+  "list": 6
+ },
+ {
+  "word": "pithy",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Brief and full of meaning.",
+  "syn": [
+   "succinct",
+   "terse",
+   "epigrammatic"
+  ],
+  "ant": [
+   "verbose",
+   "rambling"
+  ],
+  "ex": "A pithy summary of a long argument.",
+  "id": 829,
+  "list": 6
+ },
+ {
+  "word": "placate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make someone less angry.",
+  "syn": [
+   "appease",
+   "mollify",
+   "conciliate"
+  ],
+  "ant": [
+   "antagonise",
+   "inflame"
+  ],
+  "ex": "An apology placated most of the critics.",
+  "id": 830,
+  "list": 6
+ },
+ {
+  "word": "platitude",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A dull remark offered as though it were profound.",
+  "syn": [
+   "cliché",
+   "truism",
+   "banality"
+  ],
+  "ant": [
+   "insight",
+   "originality"
+  ],
+  "ex": "The speech was a string of platitudes.",
+  "id": 831,
+  "list": 6
+ },
+ {
+  "word": "plausible",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Seeming reasonable or probable.",
+  "syn": [
+   "credible",
+   "believable",
+   "tenable"
+  ],
+  "ant": [
+   "implausible",
+   "far-fetched"
+  ],
+  "ex": "A plausible but unproven explanation.",
+  "id": 832,
+  "list": 6
+ },
+ {
+  "word": "plethora",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An amount that is excessive.",
+  "syn": [
+   "surfeit",
+   "glut",
+   "superabundance"
+  ],
+  "ant": [
+   "dearth",
+   "scarcity"
+  ],
+  "ex": "A plethora of options paralysed buyers.",
+  "id": 833,
+  "list": 6
+ },
+ {
+  "word": "polemic",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A strong written or spoken attack on a view.",
+  "syn": [
+   "diatribe",
+   "invective",
+   "denunciation"
+  ],
+  "ant": [
+   "defence",
+   "panegyric"
+  ],
+  "ex": "The book is a polemic, not a history.",
+  "id": 834,
+  "list": 6
+ },
+ {
+  "word": "pragmatic",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Dealing with things practically rather than ideally.",
+  "syn": [
+   "practical",
+   "realistic",
+   "hard-headed"
+  ],
+  "ant": [
+   "idealistic",
+   "dogmatic"
+  ],
+  "ex": "A pragmatic compromise satisfied neither side fully.",
+  "id": 835,
+  "list": 6
+ },
+ {
+  "word": "precarious",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Unstable and likely to fail or fall.",
+  "syn": [
+   "unstable",
+   "perilous",
+   "tenuous"
+  ],
+  "ant": [
+   "secure",
+   "stable"
+  ],
+  "ex": "Employment in the sector is precarious.",
+  "id": 836,
+  "list": 6
+ },
+ {
+  "word": "precipitate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To cause something to happen suddenly and too soon.",
+  "syn": [
+   "trigger",
+   "hasten",
+   "provoke"
+  ],
+  "ant": [
+   "delay",
+   "forestall"
+  ],
+  "ex": "The ruling precipitated a wave of claims.",
+  "id": 837,
+  "list": 6
+ },
+ {
+  "word": "preclude",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make something impossible in advance.",
+  "syn": [
+   "prevent",
+   "rule out",
+   "obviate"
+  ],
+  "ant": [
+   "permit",
+   "allow"
+  ],
+  "ex": "The clause precludes any further appeal.",
+  "id": 838,
+  "list": 6
+ },
+ {
+  "word": "predilection",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A preference or special liking.",
+  "syn": [
+   "penchant",
+   "proclivity",
+   "partiality"
+  ],
+  "ant": [
+   "aversion",
+   "dislike"
+  ],
+  "ex": "A predilection for long sentences.",
+  "id": 839,
+  "list": 6
+ },
+ {
+  "word": "prescient",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing knowledge of events before they happen.",
+  "syn": [
+   "farsighted",
+   "prophetic",
+   "clairvoyant"
+  ],
+  "ant": [
+   "shortsighted",
+   "myopic"
+  ],
+  "ex": "A prescient warning ignored at the time.",
+  "id": 840,
+  "list": 6
+ },
+ {
+  "word": "prevaricate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To avoid telling the whole truth.",
+  "syn": [
+   "equivocate",
+   "hedge",
+   "dissemble"
+  ],
+  "ant": [
+   "state plainly",
+   "confess"
+  ],
+  "ex": "Witnesses prevaricated under questioning.",
+  "id": 841,
+  "list": 6
+ },
+ {
+  "word": "pristine",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "In its original, unspoiled condition.",
+  "syn": [
+   "immaculate",
+   "untouched",
+   "unsullied"
+  ],
+  "ant": [
+   "spoiled",
+   "degraded"
+  ],
+  "ex": "A pristine stretch of coastline.",
+  "id": 842,
+  "list": 6
+ },
+ {
+  "word": "prodigal",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Wastefully extravagant.",
+  "syn": [
+   "spendthrift",
+   "profligate",
+   "improvident"
+  ],
+  "ant": [
+   "thrifty",
+   "frugal"
+  ],
+  "ex": "Prodigal spending emptied the reserves.",
+  "id": 843,
+  "list": 6
+ },
+ {
+  "word": "prodigious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Remarkably great in size or degree.",
+  "syn": [
+   "enormous",
+   "stupendous",
+   "colossal"
+  ],
+  "ant": [
+   "modest",
+   "paltry"
+  ],
+  "ex": "A prodigious output of over forty books.",
+  "id": 844,
+  "list": 6
+ },
+ {
+  "word": "profligate",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Recklessly wasteful with money or resources.",
+  "syn": [
+   "extravagant",
+   "prodigal",
+   "squandering"
+  ],
+  "ant": [
+   "frugal",
+   "economical"
+  ],
+  "ex": "Profligate use of water in a drought.",
+  "id": 845,
+  "list": 6
+ },
+ {
+  "word": "profound",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Very great, or showing deep insight.",
+  "syn": [
+   "deep",
+   "far-reaching",
+   "penetrating"
+  ],
+  "ant": [
+   "superficial",
+   "shallow"
+  ],
+  "ex": "Profound changes to the whole curriculum.",
+  "id": 846,
+  "list": 6
+ },
+ {
+  "word": "prolific",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Producing much work or fruit.",
+  "syn": [
+   "productive",
+   "fertile",
+   "abundant"
+  ],
+  "ant": [
+   "barren",
+   "unproductive"
+  ],
+  "ex": "A prolific author of technical manuals.",
+  "id": 847,
+  "list": 6
+ },
+ {
+  "word": "prolix",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Using far too many words.",
+  "syn": [
+   "verbose",
+   "long-winded",
+   "rambling"
+  ],
+  "ant": [
+   "concise",
+   "pithy"
+  ],
+  "ex": "A prolix introduction few readers finish.",
+  "id": 848,
+  "list": 6
+ },
+ {
+  "word": "propensity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A natural tendency to behave in a certain way.",
+  "syn": [
+   "inclination",
+   "predisposition",
+   "penchant"
+  ],
+  "ant": [
+   "aversion",
+   "disinclination"
+  ],
+  "ex": "A propensity to overestimate one's own skill.",
+  "id": 849,
+  "list": 6
+ },
+ {
+  "word": "propitious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Giving a good chance of success.",
+  "syn": [
+   "auspicious",
+   "favourable",
+   "opportune"
+  ],
+  "ant": [
+   "inauspicious",
+   "unfavourable"
+  ],
+  "ex": "A propitious moment to enter the market.",
+  "id": 850,
+  "list": 6
+ },
+ {
+  "word": "prosaic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Dull and lacking imagination.",
+  "syn": [
+   "mundane",
+   "pedestrian",
+   "humdrum"
+  ],
+  "ant": [
+   "poetic",
+   "imaginative"
+  ],
+  "ex": "The truth is more prosaic than the rumour.",
+  "id": 851,
+  "list": 6
+ },
+ {
+  "word": "prosaically",
+  "pos": "adverb",
+  "level": "GRE",
+  "def": "In a plain, unimaginative manner.",
+  "syn": [
+   "plainly",
+   "matter-of-factly"
+  ],
+  "ant": [
+   "poetically",
+   "imaginatively"
+  ],
+  "ex": "He described the discovery prosaically.",
+  "id": 852,
+  "list": 6
+ },
+ {
+  "word": "proscribe",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To forbid something officially.",
+  "syn": [
+   "prohibit",
+   "ban",
+   "outlaw"
+  ],
+  "ant": [
+   "permit",
+   "sanction"
+  ],
+  "ex": "The practice was proscribed in 1908.",
+  "id": 853,
+  "list": 6
+ },
+ {
+  "word": "protracted",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Lasting longer than expected or wanted.",
+  "syn": [
+   "prolonged",
+   "drawn-out",
+   "extended"
+  ],
+  "ant": [
+   "brief",
+   "curtailed"
+  ],
+  "ex": "A protracted dispute over royalties.",
+  "id": 854,
+  "list": 6
+ },
+ {
+  "word": "provincial",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Limited in outlook; unsophisticated.",
+  "syn": [
+   "parochial",
+   "insular",
+   "narrow"
+  ],
+  "ant": [
+   "cosmopolitan",
+   "urbane"
+  ],
+  "ex": "A provincial attitude to foreign research.",
+  "id": 855,
+  "list": 6
+ },
+ {
+  "word": "prudent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Acting with care and foresight.",
+  "syn": [
+   "judicious",
+   "circumspect",
+   "cautious"
+  ],
+  "ant": [
+   "reckless",
+   "imprudent"
+  ],
+  "ex": "A prudent reserve carried them through.",
+  "id": 856,
+  "list": 6
+ },
+ {
+  "word": "puerile",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Childishly silly.",
+  "syn": [
+   "juvenile",
+   "infantile",
+   "inane"
+  ],
+  "ant": [
+   "mature",
+   "adult"
+  ],
+  "ex": "A puerile stunt that cost him the job.",
+  "id": 857,
+  "list": 6
+ },
+ {
+  "word": "pugnacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Eager to argue or fight.",
+  "syn": [
+   "belligerent",
+   "combative",
+   "truculent"
+  ],
+  "ant": [
+   "peaceable",
+   "conciliatory"
+  ],
+  "ex": "A pugnacious style of cross-examination.",
+  "id": 858,
+  "list": 6
+ },
+ {
+  "word": "punctilious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing great attention to correct behaviour or detail.",
+  "syn": [
+   "scrupulous",
+   "meticulous",
+   "fastidious"
+  ],
+  "ant": [
+   "negligent",
+   "lax"
+  ],
+  "ex": "Punctilious about citation and attribution.",
+  "id": 859,
+  "list": 6
+ },
+ {
+  "word": "pundit",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An expert who comments publicly on a subject.",
+  "syn": [
+   "commentator",
+   "authority",
+   "analyst"
+  ],
+  "ant": [
+   "layman"
+  ],
+  "ex": "Pundits called the result days in advance.",
+  "id": 860,
+  "list": 6
+ },
+ {
+  "word": "punitive",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Intended as punishment.",
+  "syn": [
+   "penal",
+   "retributive",
+   "disciplinary"
+  ],
+  "ant": [
+   "lenient",
+   "rehabilitative"
+  ],
+  "ex": "Punitive tariffs followed the ruling.",
+  "id": 861,
+  "list": 6
+ },
+ {
+  "word": "purported",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Claimed to be true, but not proven.",
+  "syn": [
+   "alleged",
+   "supposed",
+   "ostensible"
+  ],
+  "ant": [
+   "verified",
+   "proven"
+  ],
+  "ex": "The purported cure had never been tested.",
+  "id": 862,
+  "list": 6
+ },
+ {
+  "word": "pusillanimous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Lacking courage; timid.",
+  "syn": [
+   "cowardly",
+   "craven",
+   "spineless"
+  ],
+  "ant": [
+   "courageous",
+   "valiant"
+  ],
+  "ex": "A pusillanimous retreat from the pledge.",
+  "id": 863,
+  "list": 6
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "word": "yoke",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To join or bind two things together.",
+  "syn": [
+   "couple",
+   "harness",
+   "link"
+  ],
+  "ant": [
+   "separate",
+   "uncouple"
+  ],
+  "ex": "The treaty yoked two very different economies.",
+  "id": 1002,
+  "list": 6
+ }
+]

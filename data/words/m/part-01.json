@@ -1,0 +1,403 @@
+[
+ {
+  "word": "maintenance",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The work of keeping something in good condition.",
+  "syn": [
+   "upkeep",
+   "servicing",
+   "preservation"
+  ],
+  "ant": [
+   "neglect",
+   "dilapidation"
+  ],
+  "ex": "Poor maintenance caused the bridge to fail.",
+  "id": 428
+ },
+ {
+  "word": "major",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Important, serious or large in scale.",
+  "syn": [
+   "principal",
+   "substantial",
+   "chief"
+  ],
+  "ant": [
+   "minor",
+   "trivial"
+  ],
+  "ex": "Traffic is a major source of urban pollution.",
+  "id": 429
+ },
+ {
+  "word": "manage",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To be in charge of something, or to succeed in doing something difficult.",
+  "syn": [
+   "administer",
+   "oversee",
+   "cope"
+  ],
+  "ant": [
+   "mismanage",
+   "neglect"
+  ],
+  "ex": "She manages a team of thirty.",
+  "id": 430
+ },
+ {
+  "word": "manipulation",
+  "pos": "noun",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Skilful or unfair control of something or someone.",
+  "syn": [
+   "exploitation",
+   "handling",
+   "influence"
+  ],
+  "ant": [
+   "honesty",
+   "transparency"
+  ],
+  "ex": "Market manipulation carries criminal penalties.",
+  "id": 431
+ },
+ {
+  "word": "manual",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Done with the hands rather than by machine.",
+  "syn": [
+   "hand-operated",
+   "physical",
+   "non-automated"
+  ],
+  "ant": [
+   "automatic",
+   "mechanised"
+  ],
+  "ex": "Manual labour still dominates the sector.",
+  "id": 432
+ },
+ {
+  "word": "marginal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Very small in effect or importance; at the edge.",
+  "syn": [
+   "slight",
+   "peripheral",
+   "negligible"
+  ],
+  "ant": [
+   "central",
+   "substantial"
+  ],
+  "ex": "The change had only a marginal effect.",
+  "id": 433
+ },
+ {
+  "word": "mature",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Fully developed physically or mentally.",
+  "syn": [
+   "developed",
+   "grown",
+   "seasoned"
+  ],
+  "ant": [
+   "immature",
+   "undeveloped"
+  ],
+  "ex": "Mature markets grow slowly.",
+  "id": 434
+ },
+ {
+  "word": "maximum",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The greatest amount or degree possible.",
+  "syn": [
+   "peak",
+   "upper limit",
+   "ceiling"
+  ],
+  "ant": [
+   "minimum",
+   "floor"
+  ],
+  "ex": "The maximum penalty is five years.",
+  "id": 435
+ },
+ {
+  "word": "mechanism",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A system of parts or processes that produces a result.",
+  "syn": [
+   "system",
+   "apparatus",
+   "process"
+  ],
+  "ant": [],
+  "ex": "Scientists still debate the mechanism of memory.",
+  "id": 436
+ },
+ {
+  "word": "media",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The main means of mass communication, such as television and press.",
+  "syn": [
+   "press",
+   "broadcasters",
+   "journalism"
+  ],
+  "ant": [],
+  "ex": "Social media has reshaped political debate.",
+  "id": 437
+ },
+ {
+  "word": "medical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Relating to the science or practice of medicine.",
+  "syn": [
+   "clinical",
+   "therapeutic",
+   "health-related"
+  ],
+  "ant": [],
+  "ex": "Medical costs are the leading cause of bankruptcy.",
+  "id": 438
+ },
+ {
+  "word": "medium",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A means of communication or of doing something.",
+  "syn": [
+   "channel",
+   "vehicle",
+   "means"
+  ],
+  "ant": [],
+  "ex": "Film is a powerful medium for persuasion.",
+  "id": 439
+ },
+ {
+  "word": "mental",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Relating to the mind.",
+  "syn": [
+   "cognitive",
+   "psychological",
+   "intellectual"
+  ],
+  "ant": [
+   "physical",
+   "bodily"
+  ],
+  "ex": "Mental health services remain underfunded.",
+  "id": 440
+ },
+ {
+  "word": "merge",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To combine into a single entity.",
+  "syn": [
+   "amalgamate",
+   "fuse",
+   "consolidate"
+  ],
+  "ant": [
+   "split",
+   "separate"
+  ],
+  "ex": "The two firms merged in 2019.",
+  "id": 441
+ },
+ {
+  "word": "method",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A systematic way of doing something.",
+  "syn": [
+   "procedure",
+   "technique",
+   "system"
+  ],
+  "ant": [
+   "improvisation",
+   "disorder"
+  ],
+  "ex": "The teaching method emphasises discussion.",
+  "id": 442
+ },
+ {
+  "word": "migration",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The movement of people or animals from one place to another.",
+  "syn": [
+   "movement",
+   "relocation",
+   "exodus"
+  ],
+  "ant": [
+   "settlement",
+   "stasis"
+  ],
+  "ex": "Bird migration is shifting with the climate.",
+  "id": 443
+ },
+ {
+  "word": "military",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Relating to armed forces.",
+  "syn": [
+   "armed",
+   "martial",
+   "defence"
+  ],
+  "ant": [
+   "civilian",
+   "civil"
+  ],
+  "ex": "Military spending consumes 3 percent of GDP.",
+  "id": 444
+ },
+ {
+  "word": "minimum",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The least possible amount or degree.",
+  "syn": [
+   "least",
+   "lowest",
+   "floor"
+  ],
+  "ant": [
+   "maximum",
+   "ceiling"
+  ],
+  "ex": "The minimum wage rose in April.",
+  "id": 445
+ },
+ {
+  "word": "modern",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Belonging to the present or recent times.",
+  "syn": [
+   "contemporary",
+   "current",
+   "up-to-date"
+  ],
+  "ant": [
+   "ancient",
+   "outdated"
+  ],
+  "ex": "Modern medicine has doubled life expectancy.",
+  "id": 446
+ },
+ {
+  "word": "modification",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A change made to improve or adapt something.",
+  "syn": [
+   "alteration",
+   "adjustment",
+   "revision"
+  ],
+  "ant": [
+   "preservation"
+  ],
+  "ex": "Minor modifications improved fuel efficiency.",
+  "id": 447
+ },
+ {
+  "word": "monitoring",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Observing something systematically over time.",
+  "syn": [
+   "surveillance",
+   "tracking",
+   "supervision"
+  ],
+  "ant": [
+   "neglect",
+   "disregard"
+  ],
+  "ex": "Continuous monitoring detected the leak early.",
+  "id": 448
+ },
+ {
+  "word": "motivation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The reason or drive that makes someone act.",
+  "syn": [
+   "drive",
+   "impetus",
+   "incentive"
+  ],
+  "ant": [
+   "apathy",
+   "indifference"
+  ],
+  "ex": "Intrinsic motivation outperforms rewards.",
+  "id": 449
+ },
+ {
+  "word": "mutual",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Experienced or done by two or more parties equally.",
+  "syn": [
+   "reciprocal",
+   "shared",
+   "joint"
+  ],
+  "ant": [
+   "one-sided",
+   "unilateral"
+  ],
+  "ex": "The agreement was to mutual advantage.",
+  "id": 450
+ }
+]

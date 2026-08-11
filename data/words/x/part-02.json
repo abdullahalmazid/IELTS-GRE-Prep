@@ -1,0 +1,20 @@
+[
+ {
+  "word": "xenophobia",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Intense dislike or fear of people from other countries.",
+  "syn": [
+   "chauvinism",
+   "prejudice",
+   "insularity"
+  ],
+  "ant": [
+   "tolerance",
+   "openness"
+  ],
+  "ex": "Economic anxiety fed a rise in xenophobia.",
+  "id": 1001,
+  "list": 6
+ }
+]

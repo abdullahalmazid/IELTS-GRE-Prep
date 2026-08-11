@@ -1,0 +1,34 @@
+[
+ {
+  "word": "whereby",
+  "pos": "adverb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "By which means; through which.",
+  "syn": [
+   "through which",
+   "by means of which"
+  ],
+  "ant": [],
+  "ex": "A scheme whereby graduates repay only above a threshold.",
+  "id": 625
+ },
+ {
+  "word": "widespread",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Found or occurring over a large area or among many people.",
+  "syn": [
+   "prevalent",
+   "pervasive",
+   "extensive"
+  ],
+  "ant": [
+   "rare",
+   "localised"
+  ],
+  "ex": "Misinformation is widespread on social platforms.",
+  "id": 626
+ }
+]

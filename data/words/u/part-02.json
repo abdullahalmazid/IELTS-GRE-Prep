@@ -1,0 +1,200 @@
+[
+ {
+  "word": "ubiquitous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Present everywhere at once.",
+  "syn": [
+   "omnipresent",
+   "pervasive",
+   "universal"
+  ],
+  "ant": [
+   "rare",
+   "scarce"
+  ],
+  "ex": "Screens are now ubiquitous in classrooms.",
+  "id": 961,
+  "list": 6
+ },
+ {
+  "word": "umbrage",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Offence or annoyance at a perceived slight.",
+  "syn": [
+   "offence",
+   "resentment",
+   "pique"
+  ],
+  "ant": [
+   "pleasure",
+   "delight"
+  ],
+  "ex": "He took umbrage at the correction.",
+  "id": 962,
+  "list": 6
+ },
+ {
+  "word": "unassailable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to attack or dispute.",
+  "syn": [
+   "impregnable",
+   "irrefutable",
+   "invulnerable"
+  ],
+  "ant": [
+   "vulnerable",
+   "contestable"
+  ],
+  "ex": "An unassailable lead by the third round.",
+  "id": 963,
+  "list": 6
+ },
+ {
+  "word": "unctuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively flattering in an insincere way.",
+  "syn": [
+   "oily",
+   "obsequious",
+   "smarmy"
+  ],
+  "ant": [
+   "sincere",
+   "blunt"
+  ],
+  "ex": "An unctuous introduction that fooled nobody.",
+  "id": 964,
+  "list": 6
+ },
+ {
+  "word": "undermine",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To weaken something gradually.",
+  "syn": [
+   "erode",
+   "subvert",
+   "sap"
+  ],
+  "ant": [
+   "strengthen",
+   "bolster"
+  ],
+  "ex": "Leaks undermined trust in the process.",
+  "id": 965,
+  "list": 6
+ },
+ {
+  "word": "unequivocal",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Leaving no doubt.",
+  "syn": [
+   "unambiguous",
+   "categorical",
+   "explicit"
+  ],
+  "ant": [
+   "equivocal",
+   "ambiguous"
+  ],
+  "ex": "An unequivocal denial from the ministry.",
+  "id": 966,
+  "list": 6
+ },
+ {
+  "word": "unfettered",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Free from restriction.",
+  "syn": [
+   "unrestrained",
+   "unchecked",
+   "untrammelled"
+  ],
+  "ant": [
+   "restricted",
+   "constrained"
+  ],
+  "ex": "Unfettered access to the archive.",
+  "id": 967,
+  "list": 6
+ },
+ {
+  "word": "untenable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to defend against criticism.",
+  "syn": [
+   "indefensible",
+   "unsustainable",
+   "flawed"
+  ],
+  "ant": [
+   "tenable",
+   "defensible"
+  ],
+  "ex": "His position became untenable overnight.",
+  "id": 968,
+  "list": 6
+ },
+ {
+  "word": "upbraid",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To scold someone severely.",
+  "syn": [
+   "reprimand",
+   "castigate",
+   "berate"
+  ],
+  "ant": [
+   "praise",
+   "commend"
+  ],
+  "ex": "The coach upbraided the whole squad.",
+  "id": 969,
+  "list": 6
+ },
+ {
+  "word": "urbane",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sophisticated and socially polished.",
+  "syn": [
+   "suave",
+   "refined",
+   "cultivated"
+  ],
+  "ant": [
+   "gauche",
+   "uncouth"
+  ],
+  "ex": "An urbane host who defused every argument.",
+  "id": 970,
+  "list": 6
+ },
+ {
+  "word": "usurp",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To seize power or a position wrongfully.",
+  "syn": [
+   "appropriate",
+   "commandeer",
+   "arrogate"
+  ],
+  "ant": [
+   "relinquish",
+   "cede"
+  ],
+  "ex": "The council usurped powers held by parliament.",
+  "id": 971,
+  "list": 6
+ }
+]

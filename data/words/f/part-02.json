@@ -1,0 +1,649 @@
+[
+ {
+  "word": "facetious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Treating a serious matter with inappropriate humour.",
+  "syn": [
+   "flippant",
+   "glib",
+   "tongue-in-cheek"
+  ],
+  "ant": [
+   "earnest",
+   "solemn"
+  ],
+  "ex": "A facetious answer to a sincere question.",
+  "id": 627,
+  "list": 6
+ },
+ {
+  "word": "facile",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Achieved too easily, and so lacking depth.",
+  "syn": [
+   "superficial",
+   "glib",
+   "simplistic"
+  ],
+  "ant": [
+   "profound",
+   "laboured"
+  ],
+  "ex": "The essay offers a facile solution to a hard problem.",
+  "id": 628,
+  "list": 6
+ },
+ {
+  "word": "faction",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A small dissenting group within a larger body.",
+  "syn": [
+   "clique",
+   "bloc",
+   "splinter group"
+  ],
+  "ant": [
+   "whole",
+   "majority"
+  ],
+  "ex": "A faction within the party blocked the vote.",
+  "id": 629,
+  "list": 6
+ },
+ {
+  "word": "fallacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Based on mistaken reasoning.",
+  "syn": [
+   "erroneous",
+   "specious",
+   "unsound"
+  ],
+  "ant": [
+   "valid",
+   "sound"
+  ],
+  "ex": "The argument rests on a fallacious premise.",
+  "id": 630,
+  "list": 6
+ },
+ {
+  "word": "fastidious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Very attentive to detail and hard to please.",
+  "syn": [
+   "meticulous",
+   "punctilious",
+   "exacting"
+  ],
+  "ant": [
+   "careless",
+   "slapdash"
+  ],
+  "ex": "A fastidious editor caught every inconsistency.",
+  "id": 631,
+  "list": 6
+ },
+ {
+  "word": "fathom",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To understand something difficult after thought.",
+  "syn": [
+   "comprehend",
+   "grasp",
+   "penetrate"
+  ],
+  "ant": [
+   "misunderstand"
+  ],
+  "ex": "Nobody could fathom the committee's reasoning.",
+  "id": 632,
+  "list": 6
+ },
+ {
+  "word": "fatuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Silly and pointless, yet delivered confidently.",
+  "syn": [
+   "inane",
+   "vacuous",
+   "asinine"
+  ],
+  "ant": [
+   "astute",
+   "sensible"
+  ],
+  "ex": "He offered a fatuous remark about market forces.",
+  "id": 633,
+  "list": 6
+ },
+ {
+  "word": "feasible",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Able to be done without unreasonable difficulty.",
+  "syn": [
+   "practicable",
+   "viable",
+   "workable"
+  ],
+  "ant": [
+   "impossible",
+   "impractical"
+  ],
+  "ex": "A tunnel is feasible but ruinously expensive.",
+  "id": 634,
+  "list": 6
+ },
+ {
+  "word": "feckless",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Lacking purpose or the will to act effectively.",
+  "syn": [
+   "ineffectual",
+   "irresponsible",
+   "shiftless"
+  ],
+  "ant": [
+   "capable",
+   "resourceful"
+  ],
+  "ex": "A feckless response to a mounting crisis.",
+  "id": 635,
+  "list": 6
+ },
+ {
+  "word": "felicitous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Well chosen and apt; pleasingly appropriate.",
+  "syn": [
+   "apt",
+   "fitting",
+   "well-judged"
+  ],
+  "ant": [
+   "inept",
+   "awkward"
+  ],
+  "ex": "A felicitous phrase that stuck in the memory.",
+  "id": 636,
+  "list": 6
+ },
+ {
+  "word": "fervour",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Intense and passionate feeling.",
+  "syn": [
+   "ardour",
+   "zeal",
+   "passion"
+  ],
+  "ant": [
+   "apathy",
+   "indifference"
+  ],
+  "ex": "Reformist fervour swept the universities.",
+  "id": 637,
+  "list": 6
+ },
+ {
+  "word": "fetter",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To restrict someone's freedom of action.",
+  "syn": [
+   "shackle",
+   "constrain",
+   "hamper"
+  ],
+  "ant": [
+   "liberate",
+   "unshackle"
+  ],
+  "ex": "Regulation fettered the industry for decades.",
+  "id": 638,
+  "list": 6
+ },
+ {
+  "word": "fickle",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Changing loyalty or affection without good reason.",
+  "syn": [
+   "capricious",
+   "inconstant",
+   "volatile"
+  ],
+  "ant": [
+   "steadfast",
+   "loyal"
+  ],
+  "ex": "Public taste is notoriously fickle.",
+  "id": 639,
+  "list": 6
+ },
+ {
+  "word": "figurative",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Using words in a non-literal, metaphorical sense.",
+  "syn": [
+   "metaphorical",
+   "symbolic",
+   "allusive"
+  ],
+  "ant": [
+   "literal",
+   "factual"
+  ],
+  "ex": "The phrase is figurative, not a description.",
+  "id": 640,
+  "list": 6
+ },
+ {
+  "word": "flag",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To lose energy or enthusiasm.",
+  "syn": [
+   "wane",
+   "droop",
+   "weaken"
+  ],
+  "ant": [
+   "revive",
+   "surge"
+  ],
+  "ex": "Interest in the project began to flag.",
+  "id": 641,
+  "list": 6
+ },
+ {
+  "word": "flagrant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Conspicuously offensive and impossible to overlook.",
+  "syn": [
+   "blatant",
+   "egregious",
+   "brazen"
+  ],
+  "ant": [
+   "subtle",
+   "minor"
+  ],
+  "ex": "A flagrant breach of the ceasefire.",
+  "id": 642,
+  "list": 6
+ },
+ {
+  "word": "fledgling",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "New and inexperienced; just beginning.",
+  "syn": [
+   "nascent",
+   "budding",
+   "emerging"
+  ],
+  "ant": [
+   "established",
+   "mature"
+  ],
+  "ex": "A fledgling democracy with fragile institutions.",
+  "id": 643,
+  "list": 6
+ },
+ {
+  "word": "flippant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not showing due seriousness.",
+  "syn": [
+   "frivolous",
+   "facetious",
+   "offhand"
+  ],
+  "ant": [
+   "grave",
+   "respectful"
+  ],
+  "ex": "His flippant tone offended the family.",
+  "id": 644,
+  "list": 6
+ },
+ {
+  "word": "florid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively ornate in style; also ruddy in complexion.",
+  "syn": [
+   "ornate",
+   "flowery",
+   "overwrought"
+  ],
+  "ant": [
+   "plain",
+   "restrained"
+  ],
+  "ex": "A florid prose style that buries the argument.",
+  "id": 645,
+  "list": 6
+ },
+ {
+  "word": "flout",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To openly disregard a rule or convention.",
+  "syn": [
+   "defy",
+   "disobey",
+   "scorn"
+  ],
+  "ant": [
+   "obey",
+   "observe"
+  ],
+  "ex": "Drivers routinely flout the speed limit.",
+  "id": 646,
+  "list": 6
+ },
+ {
+  "word": "foment",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To stir up trouble or unrest.",
+  "syn": [
+   "incite",
+   "instigate",
+   "provoke"
+  ],
+  "ant": [
+   "quell",
+   "pacify"
+  ],
+  "ex": "Agitators fomented a strike at the docks.",
+  "id": 647,
+  "list": 6
+ },
+ {
+  "word": "forbear",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To refrain from doing something out of restraint.",
+  "syn": [
+   "abstain",
+   "desist",
+   "withhold"
+  ],
+  "ant": [
+   "indulge",
+   "persist"
+  ],
+  "ex": "He chose to forbear from naming the culprit.",
+  "id": 648,
+  "list": 6
+ },
+ {
+  "word": "foreboding",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A feeling that something bad is about to happen.",
+  "syn": [
+   "apprehension",
+   "premonition",
+   "misgiving"
+  ],
+  "ant": [
+   "reassurance",
+   "confidence"
+  ],
+  "ex": "A sense of foreboding hung over the meeting.",
+  "id": 649,
+  "list": 6
+ },
+ {
+  "word": "forestall",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To prevent something by acting first.",
+  "syn": [
+   "preempt",
+   "avert",
+   "thwart"
+  ],
+  "ant": [
+   "provoke",
+   "permit"
+  ],
+  "ex": "Early talks forestalled a walkout.",
+  "id": 650,
+  "list": 6
+ },
+ {
+  "word": "formidable",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Inspiring respect or fear through size or ability.",
+  "syn": [
+   "daunting",
+   "redoubtable",
+   "imposing"
+  ],
+  "ant": [
+   "feeble",
+   "unimpressive"
+  ],
+  "ex": "She proved a formidable opponent in debate.",
+  "id": 651,
+  "list": 6
+ },
+ {
+  "word": "fortitude",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Courage in the face of prolonged difficulty.",
+  "syn": [
+   "resilience",
+   "endurance",
+   "mettle"
+  ],
+  "ant": [
+   "cowardice",
+   "frailty"
+  ],
+  "ex": "The crew showed remarkable fortitude.",
+  "id": 652,
+  "list": 6
+ },
+ {
+  "word": "fortuitous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Happening by chance, often luckily.",
+  "syn": [
+   "accidental",
+   "serendipitous",
+   "chance"
+  ],
+  "ant": [
+   "planned",
+   "deliberate"
+  ],
+  "ex": "A fortuitous meeting changed her career.",
+  "id": 653,
+  "list": 6
+ },
+ {
+  "word": "founder",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To fail completely; of a ship, to sink.",
+  "syn": [
+   "collapse",
+   "fail",
+   "sink"
+  ],
+  "ant": [
+   "succeed",
+   "thrive"
+  ],
+  "ex": "The talks foundered over a single clause.",
+  "id": 654,
+  "list": 6
+ },
+ {
+  "word": "fractious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Irritable and prone to quarrelling.",
+  "syn": [
+   "unruly",
+   "querulous",
+   "truculent"
+  ],
+  "ant": [
+   "docile",
+   "cooperative"
+  ],
+  "ex": "A fractious coalition collapsed within a year.",
+  "id": 655,
+  "list": 6
+ },
+ {
+  "word": "frenetic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Fast and energetic in an uncontrolled way.",
+  "syn": [
+   "frantic",
+   "feverish",
+   "hectic"
+  ],
+  "ant": [
+   "calm",
+   "measured"
+  ],
+  "ex": "Frenetic trading followed the announcement.",
+  "id": 656,
+  "list": 6
+ },
+ {
+  "word": "frivolous",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Not deserving serious attention.",
+  "syn": [
+   "trivial",
+   "idle",
+   "superficial"
+  ],
+  "ant": [
+   "serious",
+   "weighty"
+  ],
+  "ex": "The court dismissed the claim as frivolous.",
+  "id": 657,
+  "list": 6
+ },
+ {
+  "word": "frugal",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Careful and sparing with money or resources.",
+  "syn": [
+   "thrifty",
+   "economical",
+   "parsimonious"
+  ],
+  "ant": [
+   "extravagant",
+   "wasteful"
+  ],
+  "ex": "Frugal habits carried the household through.",
+  "id": 658,
+  "list": 6
+ },
+ {
+  "word": "fruition",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The point at which a plan produces its result.",
+  "syn": [
+   "realisation",
+   "fulfilment",
+   "maturity"
+  ],
+  "ant": [
+   "failure",
+   "abandonment"
+  ],
+  "ex": "The scheme came to fruition after ten years.",
+  "id": 659,
+  "list": 6
+ },
+ {
+  "word": "fulminate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To protest loudly and vehemently.",
+  "syn": [
+   "rail",
+   "denounce",
+   "inveigh"
+  ],
+  "ant": [
+   "praise",
+   "commend"
+  ],
+  "ex": "Columnists fulminated against the ruling.",
+  "id": 660,
+  "list": 6
+ },
+ {
+  "word": "furtive",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Done secretly to avoid being noticed.",
+  "syn": [
+   "stealthy",
+   "surreptitious",
+   "covert"
+  ],
+  "ant": [
+   "open",
+   "overt"
+  ],
+  "ex": "A furtive glance towards the exit.",
+  "id": 661,
+  "list": 6
+ },
+ {
+  "word": "futile",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Producing no useful result.",
+  "syn": [
+   "pointless",
+   "vain",
+   "fruitless"
+  ],
+  "ant": [
+   "effective",
+   "productive"
+  ],
+  "ex": "Further appeals proved futile.",
+  "id": 662,
+  "list": 6
+ }
+]

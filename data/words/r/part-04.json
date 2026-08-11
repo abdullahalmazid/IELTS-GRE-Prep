@@ -1,0 +1,193 @@
+[
+ {
+  "word": "recession",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A period of significant economic decline.",
+  "syn": [
+   "downturn",
+   "slump",
+   "contraction"
+  ],
+  "ant": [
+   "boom",
+   "expansion"
+  ],
+  "ex": "The recession lasted six quarters.",
+  "id": 1565,
+  "list": 8
+ },
+ {
+  "word": "recidivism",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The tendency of a convicted person to reoffend.",
+  "syn": [
+   "reoffending",
+   "relapse"
+  ],
+  "ant": [
+   "rehabilitation",
+   "reform"
+  ],
+  "ex": "Recidivism fell where training was offered.",
+  "id": 1566,
+  "list": 8
+ },
+ {
+  "word": "regime",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A system of government, or a regulated routine.",
+  "syn": [
+   "government",
+   "system",
+   "order"
+  ],
+  "ant": [],
+  "ex": "The new regime abolished the licensing rules.",
+  "id": 1567,
+  "list": 8
+ },
+ {
+  "word": "register",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An official list; also, a level of formality in language.",
+  "syn": [
+   "record",
+   "roll",
+   "list"
+  ],
+  "ant": [],
+  "ex": "Academic register avoids contractions and slang.",
+  "id": 1568,
+  "list": 8
+ },
+ {
+  "word": "rehabilitation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Restoring someone to health or normal life.",
+  "syn": [
+   "recovery",
+   "reintegration",
+   "restoration"
+  ],
+  "ant": [
+   "relapse",
+   "punishment"
+  ],
+  "ex": "Rehabilitation cuts reoffending more than longer sentences.",
+  "id": 1569,
+  "list": 8
+ },
+ {
+  "word": "rely",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To depend on something with confidence.",
+  "syn": [
+   "depend",
+   "count on",
+   "trust"
+  ],
+  "ant": [
+   "distrust",
+   "doubt"
+  ],
+  "ex": "Rural clinics rely on volunteer drivers.",
+  "id": 1570,
+  "list": 8
+ },
+ {
+  "word": "renewable",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Able to be replaced naturally and used indefinitely.",
+  "syn": [
+   "sustainable",
+   "inexhaustible",
+   "replenishable"
+  ],
+  "ant": [
+   "finite",
+   "non-renewable"
+  ],
+  "ex": "Renewable sources now outproduce coal.",
+  "id": 1571,
+  "list": 8
+ },
+ {
+  "word": "retain",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To keep possession of something.",
+  "syn": [
+   "keep",
+   "preserve",
+   "hold"
+  ],
+  "ant": [
+   "lose",
+   "relinquish"
+  ],
+  "ex": "Schools struggle to retain experienced teachers.",
+  "id": 1572,
+  "list": 8
+ },
+ {
+  "word": "revenue",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Income received by a business or government.",
+  "syn": [
+   "income",
+   "receipts",
+   "takings"
+  ],
+  "ant": [
+   "expenditure",
+   "outlay"
+  ],
+  "ex": "Advertising revenue collapsed within two years.",
+  "id": 1573,
+  "list": 8
+ },
+ {
+  "word": "reverse",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To change something to its opposite.",
+  "syn": [
+   "overturn",
+   "invert",
+   "undo"
+  ],
+  "ant": [
+   "maintain",
+   "uphold"
+  ],
+  "ex": "The court reversed the earlier ruling.",
+  "id": 1574,
+  "list": 8
+ },
+ {
+  "word": "rote",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Learning by repetition without understanding.",
+  "syn": [
+   "memorisation",
+   "repetition",
+   "parroting"
+  ],
+  "ant": [
+   "comprehension",
+   "analysis"
+  ],
+  "ex": "Rote learning produces fragile knowledge.",
+  "id": 1575,
+  "list": 8
+ }
+]

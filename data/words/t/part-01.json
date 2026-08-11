@@ -1,0 +1,341 @@
+[
+ {
+  "word": "target",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "An objective or result one aims to achieve.",
+  "syn": [
+   "goal",
+   "aim",
+   "objective"
+  ],
+  "ant": [],
+  "ex": "Emissions targets were missed again.",
+  "id": 587
+ },
+ {
+  "word": "task",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A piece of work to be done.",
+  "syn": [
+   "job",
+   "assignment",
+   "duty"
+  ],
+  "ant": [
+   "leisure"
+  ],
+  "ex": "Task 1 requires at least 150 words.",
+  "id": 588
+ },
+ {
+  "word": "team",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A group working together towards a shared goal.",
+  "syn": [
+   "group",
+   "crew",
+   "squad"
+  ],
+  "ant": [
+   "individual"
+  ],
+  "ex": "A team of twelve researchers ran the trial.",
+  "id": 589
+ },
+ {
+  "word": "technique",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A particular skilled way of doing something.",
+  "syn": [
+   "method",
+   "approach",
+   "procedure"
+  ],
+  "ant": [
+   "clumsiness"
+  ],
+  "ex": "New surgical techniques cut recovery time.",
+  "id": 590
+ },
+ {
+  "word": "technology",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The application of scientific knowledge for practical purposes.",
+  "syn": [
+   "engineering",
+   "machinery",
+   "innovation"
+  ],
+  "ant": [],
+  "ex": "Technology has transformed retail.",
+  "id": 591
+ },
+ {
+  "word": "temporary",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Lasting for a limited time only.",
+  "syn": [
+   "provisional",
+   "transient",
+   "interim"
+  ],
+  "ant": [
+   "permanent",
+   "lasting"
+  ],
+  "ex": "The measure was intended to be temporary.",
+  "id": 592
+ },
+ {
+  "word": "tension",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Mental strain, or strained relations between groups.",
+  "syn": [
+   "strain",
+   "friction",
+   "anxiety"
+  ],
+  "ant": [
+   "calm",
+   "harmony"
+  ],
+  "ex": "Tension between the two states escalated.",
+  "id": 593
+ },
+ {
+  "word": "termination",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "The act of bringing something to an end.",
+  "syn": [
+   "cessation",
+   "conclusion",
+   "discontinuation"
+  ],
+  "ant": [
+   "commencement",
+   "initiation"
+  ],
+  "ex": "Termination of the contract requires notice.",
+  "id": 594
+ },
+ {
+  "word": "theme",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The central idea running through a work or discussion.",
+  "syn": [
+   "motif",
+   "subject",
+   "thread"
+  ],
+  "ant": [],
+  "ex": "Isolation is the dominant theme of the novel.",
+  "id": 595
+ },
+ {
+  "word": "theory",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A set of ideas intended to explain something.",
+  "syn": [
+   "hypothesis",
+   "doctrine",
+   "principle"
+  ],
+  "ant": [
+   "fact",
+   "practice"
+  ],
+  "ex": "Darwin's theory reshaped biology.",
+  "id": 596
+ },
+ {
+  "word": "thereby",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "By that means; as a result of that.",
+  "syn": [
+   "thus",
+   "consequently",
+   "hence"
+  ],
+  "ant": [],
+  "ex": "Insulation cuts heat loss, thereby reducing bills.",
+  "id": 597
+ },
+ {
+  "word": "threat",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Something likely to cause harm or danger.",
+  "syn": [
+   "danger",
+   "menace",
+   "peril"
+  ],
+  "ant": [
+   "safeguard",
+   "protection"
+  ],
+  "ex": "Rising seas pose a threat to coastal cities.",
+  "id": 598
+ },
+ {
+  "word": "topic",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A subject of discussion or writing.",
+  "syn": [
+   "subject",
+   "theme",
+   "issue"
+  ],
+  "ant": [],
+  "ex": "Choose a topic you can argue both ways.",
+  "id": 599
+ },
+ {
+  "word": "trace",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To find or follow the origin or development of something.",
+  "syn": [
+   "track",
+   "follow",
+   "ascertain"
+  ],
+  "ant": [
+   "lose",
+   "overlook"
+  ],
+  "ex": "Researchers traced the outbreak to a single farm.",
+  "id": 600
+ },
+ {
+  "word": "traditional",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Following customs handed down over a long time.",
+  "syn": [
+   "conventional",
+   "customary",
+   "time-honoured"
+  ],
+  "ant": [
+   "modern",
+   "innovative"
+  ],
+  "ex": "Traditional farming methods are labour-intensive.",
+  "id": 601
+ },
+ {
+  "word": "transformation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A complete change in form or character.",
+  "syn": [
+   "conversion",
+   "metamorphosis",
+   "overhaul"
+  ],
+  "ant": [
+   "preservation",
+   "stagnation"
+  ],
+  "ex": "Digital transformation reshaped the industry.",
+  "id": 602
+ },
+ {
+  "word": "transition",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The process of changing from one state to another.",
+  "syn": [
+   "shift",
+   "changeover",
+   "passage"
+  ],
+  "ant": [
+   "stagnation",
+   "continuity"
+  ],
+  "ex": "The transition to clean energy will take decades.",
+  "id": 603
+ },
+ {
+  "word": "transmission",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "The act of passing something from one place or person to another.",
+  "syn": [
+   "transfer",
+   "conveyance",
+   "spread"
+  ],
+  "ant": [
+   "containment",
+   "blockage"
+  ],
+  "ex": "Masks reduce airborne transmission.",
+  "id": 604
+ },
+ {
+  "word": "transport",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A system or means of carrying people or goods.",
+  "syn": [
+   "transit",
+   "conveyance",
+   "haulage"
+  ],
+  "ant": [],
+  "ex": "Public transport reduces per-capita emissions.",
+  "id": 605
+ },
+ {
+  "word": "trend",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A general direction of change over time.",
+  "syn": [
+   "tendency",
+   "pattern",
+   "drift"
+  ],
+  "ant": [
+   "anomaly",
+   "deviation"
+  ],
+  "ex": "The graph shows an upward trend in enrolment.",
+  "id": 606
+ }
+]

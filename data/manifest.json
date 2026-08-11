@@ -1,0 +1,271 @@
+{
+ "schema": 1,
+ "note": "Add words by editing data/words/<letter>/part-XX.json. New file? add its name to parts and update count.",
+ "fields": [
+  "id",
+  "word",
+  "pos",
+  "level",
+  "list",
+  "def",
+  "syn",
+  "ant",
+  "ex"
+ ],
+ "totals": {
+  "words": 1620,
+  "ielts": 833,
+  "gre": 961,
+  "both": 174
+ },
+ "letters": [
+  {
+   "letter": "a",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json"
+   ],
+   "count": 165
+  },
+  {
+   "letter": "b",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json"
+   ],
+   "count": 40
+  },
+  {
+   "letter": "c",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json"
+   ],
+   "count": 193
+  },
+  {
+   "letter": "d",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json"
+   ],
+   "count": 115
+  },
+  {
+   "letter": "e",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json"
+   ],
+   "count": 112
+  },
+  {
+   "letter": "f",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 70
+  },
+  {
+   "letter": "g",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 34
+  },
+  {
+   "letter": "h",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 33
+  },
+  {
+   "letter": "i",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 143
+  },
+  {
+   "letter": "j",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 12
+  },
+  {
+   "letter": "k",
+   "parts": [
+    "part-01.json",
+    "part-02.json"
+   ],
+   "count": 3
+  },
+  {
+   "letter": "l",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 39
+  },
+  {
+   "letter": "m",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 60
+  },
+  {
+   "letter": "n",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 25
+  },
+  {
+   "letter": "o",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 44
+  },
+  {
+   "letter": "p",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 155
+  },
+  {
+   "letter": "q",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 10
+  },
+  {
+   "letter": "r",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 87
+  },
+  {
+   "letter": "s",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 118
+  },
+  {
+   "letter": "t",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 67
+  },
+  {
+   "letter": "u",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 28
+  },
+  {
+   "letter": "v",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 47
+  },
+  {
+   "letter": "w",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json",
+    "part-04.json"
+   ],
+   "count": 15
+  },
+  {
+   "letter": "x",
+   "parts": [
+    "part-01.json",
+    "part-02.json"
+   ],
+   "count": 1
+  },
+  {
+   "letter": "y",
+   "parts": [
+    "part-01.json",
+    "part-02.json"
+   ],
+   "count": 1
+  },
+  {
+   "letter": "z",
+   "parts": [
+    "part-01.json",
+    "part-02.json",
+    "part-03.json"
+   ],
+   "count": 3
+  }
+ ]
+}

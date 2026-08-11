@@ -1,0 +1,902 @@
+[
+ {
+  "word": "iconoclast",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person who attacks established beliefs.",
+  "syn": [
+   "dissenter",
+   "rebel",
+   "heretic"
+  ],
+  "ant": [
+   "conformist",
+   "traditionalist"
+  ],
+  "ex": "An iconoclast who dismantled the orthodoxy.",
+  "id": 698,
+  "list": 6
+ },
+ {
+  "word": "idiosyncrasy",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A peculiar habit distinctive to one person.",
+  "syn": [
+   "quirk",
+   "eccentricity",
+   "peculiarity"
+  ],
+  "ant": [
+   "convention",
+   "norm"
+  ],
+  "ex": "Her prose is full of deliberate idiosyncrasy.",
+  "id": 699,
+  "list": 6
+ },
+ {
+  "word": "ignominious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Deserving public shame or disgrace.",
+  "syn": [
+   "humiliating",
+   "disgraceful",
+   "shameful"
+  ],
+  "ant": [
+   "honourable",
+   "glorious"
+  ],
+  "ex": "An ignominious exit from the tournament.",
+  "id": 700,
+  "list": 6
+ },
+ {
+  "word": "illicit",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Forbidden by law or custom.",
+  "syn": [
+   "unlawful",
+   "illegitimate",
+   "proscribed"
+  ],
+  "ant": [
+   "lawful",
+   "permitted"
+  ],
+  "ex": "Illicit trade flourished under the ban.",
+  "id": 701,
+  "list": 6
+ },
+ {
+  "word": "imbue",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To fill something thoroughly with a quality.",
+  "syn": [
+   "infuse",
+   "permeate",
+   "suffuse"
+  ],
+  "ant": [
+   "drain",
+   "deprive"
+  ],
+  "ex": "The training imbues recruits with caution.",
+  "id": 702,
+  "list": 6
+ },
+ {
+  "word": "immutable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unable to be changed.",
+  "syn": [
+   "fixed",
+   "unalterable",
+   "invariable"
+  ],
+  "ant": [
+   "mutable",
+   "changeable"
+  ],
+  "ex": "No economic law is truly immutable.",
+  "id": 703,
+  "list": 6
+ },
+ {
+  "word": "impartial",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Not favouring one side over another.",
+  "syn": [
+   "neutral",
+   "unbiased",
+   "disinterested"
+  ],
+  "ant": [
+   "partisan",
+   "prejudiced"
+  ],
+  "ex": "An impartial review of the complaint.",
+  "id": 704,
+  "list": 6
+ },
+ {
+  "word": "impasse",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A deadlock from which no progress is possible.",
+  "syn": [
+   "stalemate",
+   "deadlock",
+   "standstill"
+  ],
+  "ant": [
+   "breakthrough",
+   "resolution"
+  ],
+  "ex": "Negotiations reached an impasse by March.",
+  "id": 705,
+  "list": 6
+ },
+ {
+  "word": "impassive",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing no emotion.",
+  "syn": [
+   "stoical",
+   "expressionless",
+   "unmoved"
+  ],
+  "ant": [
+   "animated",
+   "emotional"
+  ],
+  "ex": "He remained impassive as the verdict came.",
+  "id": 706,
+  "list": 6
+ },
+ {
+  "word": "impecunious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Having little or no money.",
+  "syn": [
+   "penniless",
+   "indigent",
+   "destitute"
+  ],
+  "ant": [
+   "affluent",
+   "wealthy"
+  ],
+  "ex": "An impecunious student living on grants.",
+  "id": 707,
+  "list": 6
+ },
+ {
+  "word": "impede",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To delay or block progress.",
+  "syn": [
+   "obstruct",
+   "hinder",
+   "retard"
+  ],
+  "ant": [
+   "facilitate",
+   "further"
+  ],
+  "ex": "Bureaucracy impeded every attempt at reform.",
+  "id": 708,
+  "list": 6
+ },
+ {
+  "word": "imperious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Commanding in an arrogant, domineering way.",
+  "syn": [
+   "overbearing",
+   "peremptory",
+   "autocratic"
+  ],
+  "ant": [
+   "deferential",
+   "meek"
+  ],
+  "ex": "An imperious wave dismissed the question.",
+  "id": 709,
+  "list": 6
+ },
+ {
+  "word": "impertinent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Rude and not showing proper respect.",
+  "syn": [
+   "impudent",
+   "insolent",
+   "presumptuous"
+  ],
+  "ant": [
+   "respectful",
+   "courteous"
+  ],
+  "ex": "An impertinent question to put to a witness.",
+  "id": 710,
+  "list": 6
+ },
+ {
+  "word": "imperturbable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unable to be upset or agitated.",
+  "syn": [
+   "unflappable",
+   "composed",
+   "serene"
+  ],
+  "ant": [
+   "excitable",
+   "volatile"
+  ],
+  "ex": "Imperturbable under the fiercest questioning.",
+  "id": 711,
+  "list": 6
+ },
+ {
+  "word": "impervious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unable to be affected or penetrated.",
+  "syn": [
+   "impenetrable",
+   "immune",
+   "resistant"
+  ],
+  "ant": [
+   "susceptible",
+   "permeable"
+  ],
+  "ex": "Impervious to criticism from any quarter.",
+  "id": 712,
+  "list": 6
+ },
+ {
+  "word": "impetuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Acting quickly without thought.",
+  "syn": [
+   "rash",
+   "impulsive",
+   "hasty"
+  ],
+  "ant": [
+   "cautious",
+   "deliberate"
+  ],
+  "ex": "An impetuous decision he spent years undoing.",
+  "id": 713,
+  "list": 6
+ },
+ {
+  "word": "implacable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unable to be appeased or stopped.",
+  "syn": [
+   "relentless",
+   "unappeasable",
+   "inexorable"
+  ],
+  "ant": [
+   "lenient",
+   "yielding"
+  ],
+  "ex": "An implacable opponent of the treaty.",
+  "id": 714,
+  "list": 6
+ },
+ {
+  "word": "impugn",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To attack the truth or integrity of something.",
+  "syn": [
+   "challenge",
+   "dispute",
+   "assail"
+  ],
+  "ant": [
+   "defend",
+   "vindicate"
+  ],
+  "ex": "Counsel impugned the witness's motives.",
+  "id": 715,
+  "list": 6
+ },
+ {
+  "word": "inadvertent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not intentional; done by oversight.",
+  "syn": [
+   "unintentional",
+   "accidental",
+   "unwitting"
+  ],
+  "ant": [
+   "deliberate",
+   "calculated"
+  ],
+  "ex": "An inadvertent disclosure of the figures.",
+  "id": 716,
+  "list": 6
+ },
+ {
+  "word": "inane",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Silly and completely without sense.",
+  "syn": [
+   "fatuous",
+   "vacuous",
+   "puerile"
+  ],
+  "ant": [
+   "profound",
+   "meaningful"
+  ],
+  "ex": "Inane chatter filled the broadcast.",
+  "id": 717,
+  "list": 6
+ },
+ {
+  "word": "inchoate",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Just begun and not yet fully formed.",
+  "syn": [
+   "rudimentary",
+   "nascent",
+   "embryonic"
+  ],
+  "ant": [
+   "developed",
+   "mature"
+  ],
+  "ex": "An inchoate movement without leaders.",
+  "id": 718,
+  "list": 6
+ },
+ {
+  "word": "incisive",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Analysing sharply and clearly.",
+  "syn": [
+   "penetrating",
+   "trenchant",
+   "acute"
+  ],
+  "ant": [
+   "vague",
+   "superficial"
+  ],
+  "ex": "An incisive critique of the methodology.",
+  "id": 719,
+  "list": 6
+ },
+ {
+  "word": "incongruous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Out of place with its surroundings.",
+  "syn": [
+   "discordant",
+   "inappropriate",
+   "jarring"
+  ],
+  "ant": [
+   "fitting",
+   "harmonious"
+  ],
+  "ex": "A glass tower incongruous among terraces.",
+  "id": 720,
+  "list": 6
+ },
+ {
+  "word": "incontrovertible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to deny or dispute.",
+  "syn": [
+   "indisputable",
+   "irrefutable",
+   "conclusive"
+  ],
+  "ant": [
+   "debatable",
+   "questionable"
+  ],
+  "ex": "Incontrovertible proof of tampering.",
+  "id": 721,
+  "list": 6
+ },
+ {
+  "word": "incorrigible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not able to be corrected or reformed.",
+  "syn": [
+   "irredeemable",
+   "inveterate",
+   "hardened"
+  ],
+  "ant": [
+   "reformable",
+   "obedient"
+  ],
+  "ex": "An incorrigible optimist despite everything.",
+  "id": 722,
+  "list": 6
+ },
+ {
+  "word": "indefatigable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Never tiring; persistently energetic.",
+  "syn": [
+   "tireless",
+   "unflagging",
+   "assiduous"
+  ],
+  "ant": [
+   "weary",
+   "indolent"
+  ],
+  "ex": "An indefatigable campaigner for reform.",
+  "id": 723,
+  "list": 6
+ },
+ {
+  "word": "indict",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To formally accuse of a crime.",
+  "syn": [
+   "charge",
+   "arraign",
+   "accuse"
+  ],
+  "ant": [
+   "acquit",
+   "exonerate"
+  ],
+  "ex": "Two executives were indicted for fraud.",
+  "id": 724,
+  "list": 6
+ },
+ {
+  "word": "indigenous",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Originating naturally in a particular place.",
+  "syn": [
+   "native",
+   "aboriginal",
+   "endemic"
+  ],
+  "ant": [
+   "foreign",
+   "introduced"
+  ],
+  "ex": "Indigenous species outnumber imports here.",
+  "id": 725,
+  "list": 6
+ },
+ {
+  "word": "indigent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely poor.",
+  "syn": [
+   "destitute",
+   "impoverished",
+   "needy"
+  ],
+  "ant": [
+   "affluent",
+   "prosperous"
+  ],
+  "ex": "Legal aid exists for indigent defendants.",
+  "id": 726,
+  "list": 6
+ },
+ {
+  "word": "indolent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Habitually lazy.",
+  "syn": [
+   "slothful",
+   "idle",
+   "lethargic"
+  ],
+  "ant": [
+   "industrious",
+   "diligent"
+  ],
+  "ex": "An indolent afternoon by the river.",
+  "id": 727,
+  "list": 6
+ },
+ {
+  "word": "ineffable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Too great to be expressed in words.",
+  "syn": [
+   "indescribable",
+   "inexpressible",
+   "unutterable"
+  ],
+  "ant": [
+   "describable",
+   "mundane"
+  ],
+  "ex": "An ineffable sense of scale at the canyon.",
+  "id": 728,
+  "list": 6
+ },
+ {
+  "word": "inept",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing a complete lack of skill.",
+  "syn": [
+   "incompetent",
+   "bungling",
+   "maladroit"
+  ],
+  "ant": [
+   "skilful",
+   "adept"
+  ],
+  "ex": "An inept handling of the recall.",
+  "id": 729,
+  "list": 6
+ },
+ {
+  "word": "inert",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Lacking the power to move or act.",
+  "syn": [
+   "inactive",
+   "dormant",
+   "sluggish"
+  ],
+  "ant": [
+   "active",
+   "dynamic"
+  ],
+  "ex": "The gas is chemically inert.",
+  "id": 730,
+  "list": 6
+ },
+ {
+  "word": "ingenuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Innocent and unsuspecting.",
+  "syn": [
+   "naive",
+   "artless",
+   "guileless"
+  ],
+  "ant": [
+   "cunning",
+   "disingenuous"
+  ],
+  "ex": "An ingenuous belief that facts settle arguments.",
+  "id": 731,
+  "list": 6
+ },
+ {
+  "word": "ingrained",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Firmly fixed and difficult to change.",
+  "syn": [
+   "entrenched",
+   "deep-seated",
+   "inveterate"
+  ],
+  "ant": [
+   "superficial",
+   "fleeting"
+  ],
+  "ex": "Ingrained habits resist any policy.",
+  "id": 732,
+  "list": 6
+ },
+ {
+  "word": "inimical",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Harmful to, or hostile towards, something.",
+  "syn": [
+   "hostile",
+   "adverse",
+   "antagonistic"
+  ],
+  "ant": [
+   "favourable",
+   "beneficial"
+  ],
+  "ex": "Conditions inimical to small business.",
+  "id": 733,
+  "list": 6
+ },
+ {
+  "word": "iniquity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Gross injustice or wickedness.",
+  "syn": [
+   "wrongdoing",
+   "injustice",
+   "depravity"
+  ],
+  "ant": [
+   "virtue",
+   "justice"
+  ],
+  "ex": "The iniquity of the old land laws.",
+  "id": 734,
+  "list": 6
+ },
+ {
+  "word": "innocuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Harmless and unlikely to offend.",
+  "syn": [
+   "inoffensive",
+   "benign",
+   "harmless"
+  ],
+  "ant": [
+   "harmful",
+   "noxious"
+  ],
+  "ex": "An innocuous remark taken as an insult.",
+  "id": 735,
+  "list": 6
+ },
+ {
+  "word": "inordinate",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Far beyond what is reasonable.",
+  "syn": [
+   "excessive",
+   "immoderate",
+   "disproportionate"
+  ],
+  "ant": [
+   "moderate",
+   "reasonable"
+  ],
+  "ex": "An inordinate share of the budget.",
+  "id": 736,
+  "list": 6
+ },
+ {
+  "word": "insipid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Lacking flavour, interest or vigour.",
+  "syn": [
+   "bland",
+   "vapid",
+   "dull"
+  ],
+  "ant": [
+   "piquant",
+   "stimulating"
+  ],
+  "ex": "An insipid sequel to a sharp original.",
+  "id": 737,
+  "list": 6
+ },
+ {
+  "word": "insolent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Rude and disrespectful.",
+  "syn": [
+   "impudent",
+   "impertinent",
+   "insubordinate"
+  ],
+  "ant": [
+   "polite",
+   "deferential"
+  ],
+  "ex": "An insolent reply to a direct order.",
+  "id": 738,
+  "list": 6
+ },
+ {
+  "word": "insular",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Narrow-minded through isolation from others.",
+  "syn": [
+   "parochial",
+   "inward-looking",
+   "provincial"
+  ],
+  "ant": [
+   "cosmopolitan",
+   "broad-minded"
+  ],
+  "ex": "An insular profession slow to admit outsiders.",
+  "id": 739,
+  "list": 6
+ },
+ {
+  "word": "intractable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Very hard to control or solve.",
+  "syn": [
+   "stubborn",
+   "unmanageable",
+   "obdurate"
+  ],
+  "ant": [
+   "manageable",
+   "tractable"
+  ],
+  "ex": "Homelessness proved an intractable problem.",
+  "id": 740,
+  "list": 6
+ },
+ {
+  "word": "intransigent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Refusing to compromise.",
+  "syn": [
+   "uncompromising",
+   "obdurate",
+   "inflexible"
+  ],
+  "ant": [
+   "accommodating",
+   "flexible"
+  ],
+  "ex": "Both sides remained intransigent for months.",
+  "id": 741,
+  "list": 6
+ },
+ {
+  "word": "intrepid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Fearless in the face of danger.",
+  "syn": [
+   "dauntless",
+   "valiant",
+   "audacious"
+  ],
+  "ant": [
+   "timid",
+   "fearful"
+  ],
+  "ex": "An intrepid crossing of the ice cap.",
+  "id": 742,
+  "list": 6
+ },
+ {
+  "word": "inundate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To overwhelm with a large quantity; to flood.",
+  "syn": [
+   "swamp",
+   "deluge",
+   "engulf"
+  ],
+  "ant": [
+   "drain",
+   "trickle"
+  ],
+  "ex": "The office was inundated with applications.",
+  "id": 743,
+  "list": 6
+ },
+ {
+  "word": "invective",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Abusive language used to attack someone.",
+  "syn": [
+   "vituperation",
+   "abuse",
+   "diatribe"
+  ],
+  "ant": [
+   "praise",
+   "commendation"
+  ],
+  "ex": "The exchange descended into invective.",
+  "id": 744,
+  "list": 6
+ },
+ {
+  "word": "inveterate",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Having a long-established and unshakeable habit.",
+  "syn": [
+   "habitual",
+   "confirmed",
+   "chronic"
+  ],
+  "ant": [
+   "occasional",
+   "reformed"
+  ],
+  "ex": "An inveterate collector of maps.",
+  "id": 745,
+  "list": 6
+ },
+ {
+  "word": "irascible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Easily made angry.",
+  "syn": [
+   "irritable",
+   "testy",
+   "choleric"
+  ],
+  "ant": [
+   "placid",
+   "even-tempered"
+  ],
+  "ex": "An irascible editor feared by juniors.",
+  "id": 746,
+  "list": 6
+ },
+ {
+  "word": "itinerant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Travelling from place to place for work.",
+  "syn": [
+   "peripatetic",
+   "roving",
+   "nomadic"
+  ],
+  "ant": [
+   "settled",
+   "stationary"
+  ],
+  "ex": "Itinerant labourers followed the harvest.",
+  "id": 747,
+  "list": 6
+ }
+]

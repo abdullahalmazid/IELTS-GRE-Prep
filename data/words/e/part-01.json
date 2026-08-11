@@ -1,0 +1,1085 @@
+[
+ {
+  "word": "ebullient",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Overflowing with enthusiasm and energy.",
+  "syn": [
+   "exuberant",
+   "effervescent",
+   "buoyant"
+  ],
+  "ant": [
+   "subdued",
+   "despondent"
+  ],
+  "ex": "The team was ebullient after the win.",
+  "id": 276
+ },
+ {
+  "word": "eclectic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Drawing from a wide range of sources.",
+  "syn": [
+   "varied",
+   "wide-ranging",
+   "catholic"
+  ],
+  "ant": [
+   "narrow",
+   "uniform"
+  ],
+  "ex": "Her reading is remarkably eclectic.",
+  "id": 277
+ },
+ {
+  "word": "economic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Relating to trade, industry and the management of money.",
+  "syn": [
+   "financial",
+   "commercial",
+   "monetary"
+  ],
+  "ant": [
+   "non-commercial"
+  ],
+  "ex": "Economic growth slowed in the third quarter.",
+  "id": 278
+ },
+ {
+  "word": "efficacy",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "The ability to produce a desired result.",
+  "syn": [
+   "effectiveness",
+   "potency",
+   "efficiency"
+  ],
+  "ant": [
+   "ineffectiveness",
+   "futility"
+  ],
+  "ex": "The vaccine's efficacy exceeded 90 percent.",
+  "id": 279
+ },
+ {
+  "word": "effrontery",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Insolent or shameless boldness.",
+  "syn": [
+   "audacity",
+   "impudence",
+   "gall"
+  ],
+  "ant": [
+   "humility",
+   "deference"
+  ],
+  "ex": "He had the effrontery to demand a refund.",
+  "id": 280
+ },
+ {
+  "word": "egregious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Outstandingly bad; shocking.",
+  "syn": [
+   "flagrant",
+   "glaring",
+   "blatant"
+  ],
+  "ant": [
+   "minor",
+   "excusable"
+  ],
+  "ex": "The report lists several egregious failures.",
+  "id": 281
+ },
+ {
+  "word": "election",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A formal process of choosing a person for office by voting.",
+  "syn": [
+   "ballot",
+   "poll",
+   "vote"
+  ],
+  "ant": [
+   "appointment"
+  ],
+  "ex": "Turnout at the election was unusually high.",
+  "id": 282
+ },
+ {
+  "word": "element",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "An essential or basic part of something.",
+  "syn": [
+   "component",
+   "constituent",
+   "ingredient"
+  ],
+  "ant": [
+   "whole",
+   "compound"
+  ],
+  "ex": "Trust is a key element of teamwork.",
+  "id": 283
+ },
+ {
+  "word": "elicit",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To draw out a response or information.",
+  "syn": [
+   "evoke",
+   "extract",
+   "provoke"
+  ],
+  "ant": [
+   "suppress",
+   "repress"
+  ],
+  "ex": "The question elicited no useful answer.",
+  "id": 284
+ },
+ {
+  "word": "eliminate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To remove or get rid of something completely.",
+  "syn": [
+   "eradicate",
+   "abolish",
+   "expunge"
+  ],
+  "ant": [
+   "introduce",
+   "retain"
+  ],
+  "ex": "Vaccination eliminated smallpox worldwide.",
+  "id": 285
+ },
+ {
+  "word": "eloquent",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Fluent and persuasive in expression.",
+  "syn": [
+   "articulate",
+   "expressive",
+   "silver-tongued"
+  ],
+  "ant": [
+   "inarticulate",
+   "tongue-tied"
+  ],
+  "ex": "Her eloquent defence swayed the jury.",
+  "id": 286
+ },
+ {
+  "word": "elucidate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To make something clear by explaining it.",
+  "syn": [
+   "clarify",
+   "explicate",
+   "illuminate"
+  ],
+  "ant": [
+   "obscure",
+   "confuse"
+  ],
+  "ex": "The diagram elucidates a complex process.",
+  "id": 287
+ },
+ {
+  "word": "emerge",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To become known or to come into view.",
+  "syn": [
+   "appear",
+   "surface",
+   "materialise"
+  ],
+  "ant": [
+   "vanish",
+   "recede"
+  ],
+  "ex": "New evidence emerged during the inquiry.",
+  "id": 288
+ },
+ {
+  "word": "emphasis",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Special importance given to something.",
+  "syn": [
+   "stress",
+   "priority",
+   "weight"
+  ],
+  "ant": [
+   "neglect",
+   "understatement"
+  ],
+  "ex": "The course places emphasis on fluency.",
+  "id": 289
+ },
+ {
+  "word": "empirical",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Based on observation or experiment rather than theory.",
+  "syn": [
+   "experiential",
+   "observed",
+   "factual"
+  ],
+  "ant": [
+   "theoretical",
+   "speculative"
+  ],
+  "ex": "There is no empirical support for the claim.",
+  "id": 290
+ },
+ {
+  "word": "emulate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To imitate someone admired, in order to match them.",
+  "syn": [
+   "imitate",
+   "mirror",
+   "follow"
+  ],
+  "ant": [
+   "ignore",
+   "differ from"
+  ],
+  "ex": "Other cities sought to emulate the model.",
+  "id": 291
+ },
+ {
+  "word": "enable",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To make something possible.",
+  "syn": [
+   "allow",
+   "facilitate",
+   "empower"
+  ],
+  "ant": [
+   "prevent",
+   "hinder"
+  ],
+  "ex": "Subsidies enable poorer families to attend.",
+  "id": 292
+ },
+ {
+  "word": "encounter",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To meet or experience something, often unexpectedly.",
+  "syn": [
+   "meet",
+   "confront",
+   "come across"
+  ],
+  "ant": [
+   "avoid",
+   "evade"
+  ],
+  "ex": "Researchers encountered unexpected resistance.",
+  "id": 293
+ },
+ {
+  "word": "energy",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Power derived from resources, or vigour and effort.",
+  "syn": [
+   "power",
+   "fuel",
+   "vigour"
+  ],
+  "ant": [
+   "lethargy",
+   "inertia"
+  ],
+  "ex": "Wind energy now supplies a quarter of demand.",
+  "id": 294
+ },
+ {
+  "word": "enervate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To drain of energy or vitality.",
+  "syn": [
+   "weaken",
+   "debilitate",
+   "sap"
+  ],
+  "ant": [
+   "invigorate",
+   "energise"
+  ],
+  "ex": "The humid heat enervated the whole crew.",
+  "id": 295
+ },
+ {
+  "word": "enforcement",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The act of compelling obedience to a law or rule.",
+  "syn": [
+   "implementation",
+   "imposition",
+   "policing"
+  ],
+  "ant": [
+   "neglect",
+   "leniency"
+  ],
+  "ex": "Weak enforcement undermines the ban.",
+  "id": 296
+ },
+ {
+  "word": "engender",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To cause or give rise to a feeling or situation.",
+  "syn": [
+   "produce",
+   "provoke",
+   "generate"
+  ],
+  "ant": [
+   "prevent",
+   "suppress"
+  ],
+  "ex": "Transparency engenders public trust.",
+  "id": 297
+ },
+ {
+  "word": "enhance",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To improve the quality or value of something.",
+  "syn": [
+   "augment",
+   "amplify",
+   "boost"
+  ],
+  "ant": [
+   "diminish",
+   "impair"
+  ],
+  "ex": "Lighting enhances perceived safety at night.",
+  "id": 298
+ },
+ {
+  "word": "enormous",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Extremely large in size or amount.",
+  "syn": [
+   "immense",
+   "colossal",
+   "vast"
+  ],
+  "ant": [
+   "tiny",
+   "minuscule"
+  ],
+  "ex": "The scheme carries enormous financial risk.",
+  "id": 299
+ },
+ {
+  "word": "ensure",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To make certain that something happens.",
+  "syn": [
+   "guarantee",
+   "secure",
+   "assure"
+  ],
+  "ant": [
+   "jeopardise",
+   "risk"
+  ],
+  "ex": "Checks ensure that standards are met.",
+  "id": 300
+ },
+ {
+  "word": "entirely",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Completely and without exception.",
+  "syn": [
+   "wholly",
+   "utterly",
+   "fully"
+  ],
+  "ant": [
+   "partially",
+   "somewhat"
+  ],
+  "ex": "The claim is entirely without foundation.",
+  "id": 301
+ },
+ {
+  "word": "entrepreneur",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A person who starts a business, accepting financial risk.",
+  "syn": [
+   "founder",
+   "businessperson",
+   "innovator"
+  ],
+  "ant": [
+   "employee"
+  ],
+  "ex": "Young entrepreneurs drive most job creation.",
+  "id": 302
+ },
+ {
+  "word": "environment",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The natural world, or the surroundings in which something exists.",
+  "syn": [
+   "surroundings",
+   "habitat",
+   "setting"
+  ],
+  "ant": [],
+  "ex": "Plastic waste threatens the marine environment.",
+  "id": 303
+ },
+ {
+  "word": "ephemeral",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Lasting a very short time.",
+  "syn": [
+   "fleeting",
+   "transitory",
+   "evanescent"
+  ],
+  "ant": [
+   "enduring",
+   "permanent"
+  ],
+  "ex": "Online fame is notoriously ephemeral.",
+  "id": 304
+ },
+ {
+  "word": "equanimity",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Calmness and composure, especially under stress.",
+  "syn": [
+   "poise",
+   "serenity",
+   "composure"
+  ],
+  "ant": [
+   "agitation",
+   "panic"
+  ],
+  "ex": "He accepted the verdict with equanimity.",
+  "id": 305
+ },
+ {
+  "word": "equation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A mathematical statement that two expressions are equal; a complex situation with several factors.",
+  "syn": [
+   "formula",
+   "expression"
+  ],
+  "ant": [
+   "inequality"
+  ],
+  "ex": "Cost is only one part of the equation.",
+  "id": 306
+ },
+ {
+  "word": "equipment",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The tools or machinery needed for an activity.",
+  "syn": [
+   "apparatus",
+   "gear",
+   "instruments"
+  ],
+  "ant": [],
+  "ex": "Laboratory equipment absorbs most of the grant.",
+  "id": 307
+ },
+ {
+  "word": "equivalent",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Equal in value, function or meaning.",
+  "syn": [
+   "comparable",
+   "tantamount",
+   "identical in effect"
+  ],
+  "ant": [
+   "dissimilar",
+   "unequal"
+  ],
+  "ex": "The fine is equivalent to a month's wages.",
+  "id": 308
+ },
+ {
+  "word": "equivocate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To use vague language to avoid committing oneself.",
+  "syn": [
+   "prevaricate",
+   "hedge",
+   "waffle"
+  ],
+  "ant": [
+   "commit",
+   "state plainly"
+  ],
+  "ex": "The spokesperson equivocated for an hour.",
+  "id": 309
+ },
+ {
+  "word": "erosion",
+  "pos": "noun",
+  "level": "BOTH",
+  "list": 5,
+  "def": "The gradual wearing away of land or of something abstract.",
+  "syn": [
+   "wearing away",
+   "attrition",
+   "degradation"
+  ],
+  "ant": [
+   "accumulation",
+   "buildup"
+  ],
+  "ex": "Soil erosion threatens long-term food security.",
+  "id": 310
+ },
+ {
+  "word": "error",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A mistake or inaccuracy.",
+  "syn": [
+   "mistake",
+   "fault",
+   "inaccuracy"
+  ],
+  "ant": [
+   "accuracy",
+   "correctness"
+  ],
+  "ex": "A single error invalidated the whole calculation.",
+  "id": 311
+ },
+ {
+  "word": "erudite",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Having or showing deep learning.",
+  "syn": [
+   "scholarly",
+   "learned",
+   "well-read"
+  ],
+  "ant": [
+   "ignorant",
+   "uneducated"
+  ],
+  "ex": "His erudite footnotes outweigh the text.",
+  "id": 312
+ },
+ {
+  "word": "eschew",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To deliberately avoid something.",
+  "syn": [
+   "shun",
+   "abstain from",
+   "forgo"
+  ],
+  "ant": [
+   "embrace",
+   "seek"
+  ],
+  "ex": "The author eschews jargon entirely.",
+  "id": 313
+ },
+ {
+  "word": "establish",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To set up something permanently, or to prove something firmly.",
+  "syn": [
+   "found",
+   "institute",
+   "verify"
+  ],
+  "ant": [
+   "abolish",
+   "disprove"
+  ],
+  "ex": "The charity was established in 1954.",
+  "id": 314
+ },
+ {
+  "word": "estate",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A large area of land with a house, or all a person's property.",
+  "syn": [
+   "property",
+   "holdings",
+   "land"
+  ],
+  "ant": [],
+  "ex": "The estate was divided among four heirs.",
+  "id": 315
+ },
+ {
+  "word": "estimate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To calculate an approximate value or amount.",
+  "syn": [
+   "approximate",
+   "gauge",
+   "reckon"
+  ],
+  "ant": [
+   "measure precisely"
+  ],
+  "ex": "Experts estimate the loss at $3 billion.",
+  "id": 316
+ },
+ {
+  "word": "ethical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Relating to moral principles of right and wrong.",
+  "syn": [
+   "moral",
+   "principled",
+   "upright"
+  ],
+  "ant": [
+   "unethical",
+   "corrupt"
+  ],
+  "ex": "Animal testing raises serious ethical questions.",
+  "id": 317
+ },
+ {
+  "word": "evaluation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A careful judgement of the value or quality of something.",
+  "syn": [
+   "assessment",
+   "appraisal",
+   "review"
+  ],
+  "ant": [
+   "neglect",
+   "disregard"
+  ],
+  "ex": "An independent evaluation of the programme is under way.",
+  "id": 318
+ },
+ {
+  "word": "eventually",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "In the end, after a long time or delay.",
+  "syn": [
+   "ultimately",
+   "finally",
+   "in due course"
+  ],
+  "ant": [
+   "immediately",
+   "initially"
+  ],
+  "ex": "The dispute was eventually settled in court.",
+  "id": 319
+ },
+ {
+  "word": "evidence",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Facts or information indicating whether a belief is true.",
+  "syn": [
+   "proof",
+   "testimony",
+   "corroboration"
+  ],
+  "ant": [
+   "speculation",
+   "conjecture"
+  ],
+  "ex": "There is little evidence to support that claim.",
+  "id": 320
+ },
+ {
+  "word": "evolution",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Gradual development over time.",
+  "syn": [
+   "development",
+   "progression",
+   "transformation"
+  ],
+  "ant": [
+   "stagnation",
+   "regression"
+  ],
+  "ex": "The evolution of the internet was rapid.",
+  "id": 321
+ },
+ {
+  "word": "exacerbate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To make a problem worse.",
+  "syn": [
+   "aggravate",
+   "worsen",
+   "compound"
+  ],
+  "ant": [
+   "alleviate",
+   "mitigate"
+  ],
+  "ex": "Austerity exacerbated the downturn.",
+  "id": 322
+ },
+ {
+  "word": "exceed",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To be greater than a set limit or expectation.",
+  "syn": [
+   "surpass",
+   "outstrip",
+   "transcend"
+  ],
+  "ant": [
+   "fall short of",
+   "lag behind"
+  ],
+  "ex": "Costs exceeded the original estimate by 40 percent.",
+  "id": 323
+ },
+ {
+  "word": "exclude",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To keep something or someone out.",
+  "syn": [
+   "omit",
+   "bar",
+   "preclude"
+  ],
+  "ant": [
+   "include",
+   "admit"
+  ],
+  "ex": "The figures exclude part-time workers.",
+  "id": 324
+ },
+ {
+  "word": "exculpate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To clear of blame or guilt.",
+  "syn": [
+   "absolve",
+   "exonerate",
+   "acquit"
+  ],
+  "ant": [
+   "incriminate",
+   "condemn"
+  ],
+  "ex": "New evidence exculpated the defendant.",
+  "id": 325
+ },
+ {
+  "word": "exhibit",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To display publicly, or to show a quality.",
+  "syn": [
+   "demonstrate",
+   "manifest",
+   "present"
+  ],
+  "ant": [
+   "conceal",
+   "suppress"
+  ],
+  "ex": "Patients exhibited no adverse symptoms.",
+  "id": 326
+ },
+ {
+  "word": "exigent",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Urgent and requiring immediate action; also demanding.",
+  "syn": [
+   "pressing",
+   "urgent",
+   "critical"
+  ],
+  "ant": [
+   "trivial",
+   "undemanding"
+  ],
+  "ex": "Exigent circumstances justified the search.",
+  "id": 327
+ },
+ {
+  "word": "expansion",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "An increase in size, number or importance.",
+  "syn": [
+   "growth",
+   "enlargement",
+   "proliferation"
+  ],
+  "ant": [
+   "contraction",
+   "reduction"
+  ],
+  "ex": "Urban expansion is consuming farmland.",
+  "id": 328
+ },
+ {
+  "word": "expedient",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Convenient and practical, though possibly improper.",
+  "syn": [
+   "advantageous",
+   "pragmatic",
+   "opportune"
+  ],
+  "ant": [
+   "inexpedient",
+   "principled"
+  ],
+  "ex": "It was politically expedient to delay.",
+  "id": 329
+ },
+ {
+  "word": "expert",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A person with deep knowledge or skill in a field.",
+  "syn": [
+   "specialist",
+   "authority",
+   "connoisseur"
+  ],
+  "ant": [
+   "novice",
+   "amateur"
+  ],
+  "ex": "Experts disagree on the timeline.",
+  "id": 330
+ },
+ {
+  "word": "explicit",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Stated clearly and in detail, leaving no doubt.",
+  "syn": [
+   "unambiguous",
+   "express",
+   "clear-cut"
+  ],
+  "ant": [
+   "implicit",
+   "vague"
+  ],
+  "ex": "The contract contains an explicit warranty.",
+  "id": 331
+ },
+ {
+  "word": "exploitation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Unfair use of people or resources for gain.",
+  "syn": [
+   "abuse",
+   "misuse",
+   "utilisation"
+  ],
+  "ant": [
+   "protection",
+   "fair treatment"
+  ],
+  "ex": "Exploitation of migrant labour remains widespread.",
+  "id": 332
+ },
+ {
+  "word": "exposure",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The state of being subjected to something, or public attention.",
+  "syn": [
+   "contact",
+   "vulnerability",
+   "publicity"
+  ],
+  "ant": [
+   "protection",
+   "shelter"
+  ],
+  "ex": "Prolonged exposure to noise damages hearing.",
+  "id": 333
+ },
+ {
+  "word": "external",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Coming from or existing on the outside.",
+  "syn": [
+   "outer",
+   "outside",
+   "extrinsic"
+  ],
+  "ant": [
+   "internal",
+   "inner"
+  ],
+  "ex": "External auditors reviewed the accounts.",
+  "id": 334
+ },
+ {
+  "word": "extol",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To praise enthusiastically.",
+  "syn": [
+   "laud",
+   "acclaim",
+   "exalt"
+  ],
+  "ant": [
+   "criticise",
+   "denigrate"
+  ],
+  "ex": "Advertisers extol benefits the evidence does not support.",
+  "id": 335
+ },
+ {
+  "word": "extract",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To remove or obtain something with effort.",
+  "syn": [
+   "draw out",
+   "obtain",
+   "distil"
+  ],
+  "ant": [
+   "insert",
+   "implant"
+  ],
+  "ex": "Minerals are extracted at enormous environmental cost.",
+  "id": 336
+ }
+]

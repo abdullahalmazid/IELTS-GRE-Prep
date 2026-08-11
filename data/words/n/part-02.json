@@ -1,0 +1,144 @@
+[
+ {
+  "word": "nadir",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The lowest point in a decline.",
+  "syn": [
+   "low point",
+   "rock bottom",
+   "trough"
+  ],
+  "ant": [
+   "zenith",
+   "peak"
+  ],
+  "ex": "The nadir came in the third quarter.",
+  "id": 790,
+  "list": 6
+ },
+ {
+  "word": "nebulous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Vague and lacking clear form.",
+  "syn": [
+   "hazy",
+   "indistinct",
+   "amorphous"
+  ],
+  "ant": [
+   "definite",
+   "precise"
+  ],
+  "ex": "A nebulous commitment with no timetable.",
+  "id": 791,
+  "list": 6
+ },
+ {
+  "word": "nefarious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Wicked and criminal in intent.",
+  "syn": [
+   "villainous",
+   "iniquitous",
+   "heinous"
+  ],
+  "ant": [
+   "virtuous",
+   "upright"
+  ],
+  "ex": "Funds were diverted for nefarious ends.",
+  "id": 792,
+  "list": 6
+ },
+ {
+  "word": "neophyte",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A beginner at something.",
+  "syn": [
+   "novice",
+   "tyro",
+   "initiate"
+  ],
+  "ant": [
+   "veteran",
+   "expert"
+  ],
+  "ex": "The course assumes a neophyte reader.",
+  "id": 793,
+  "list": 6
+ },
+ {
+  "word": "nostalgia",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Sentimental longing for the past.",
+  "syn": [
+   "wistfulness",
+   "yearning",
+   "reminiscence"
+  ],
+  "ant": [
+   "anticipation"
+  ],
+  "ex": "Nostalgia sells better than novelty.",
+  "id": 794,
+  "list": 6
+ },
+ {
+  "word": "novel",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "New and unlike anything before.",
+  "syn": [
+   "original",
+   "innovative",
+   "unprecedented"
+  ],
+  "ant": [
+   "familiar",
+   "conventional"
+  ],
+  "ex": "A novel approach to an old question.",
+  "id": 795,
+  "list": 6
+ },
+ {
+  "word": "noxious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Harmful or poisonous.",
+  "syn": [
+   "toxic",
+   "deleterious",
+   "pernicious"
+  ],
+  "ant": [
+   "harmless",
+   "benign"
+  ],
+  "ex": "Noxious fumes forced an evacuation.",
+  "id": 796,
+  "list": 6
+ },
+ {
+  "word": "nuance",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "A subtle difference in meaning or tone.",
+  "syn": [
+   "subtlety",
+   "shade",
+   "gradation"
+  ],
+  "ant": [
+   "crudeness"
+  ],
+  "ex": "Translation loses the nuance of the original.",
+  "id": 797,
+  "list": 6
+ }
+]

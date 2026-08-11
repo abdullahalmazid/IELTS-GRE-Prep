@@ -1,0 +1,158 @@
+[
+ {
+  "word": "label",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To assign a descriptive term to something.",
+  "syn": [
+   "categorise",
+   "classify",
+   "brand"
+  ],
+  "ant": [],
+  "ex": "Products must be labelled with their origin.",
+  "id": 1517,
+  "list": 8
+ },
+ {
+  "word": "labour",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Work, especially physical, or the workforce as a whole.",
+  "syn": [
+   "work",
+   "toil",
+   "workforce"
+  ],
+  "ant": [
+   "leisure",
+   "rest"
+  ],
+  "ex": "Cheap labour drew factories to the region.",
+  "id": 1518,
+  "list": 8
+ },
+ {
+  "word": "landfill",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A site where waste is buried.",
+  "syn": [
+   "dump",
+   "tip",
+   "waste site"
+  ],
+  "ant": [
+   "recycling plant"
+  ],
+  "ex": "Most packaging still ends in landfill.",
+  "id": 1519,
+  "list": 8
+ },
+ {
+  "word": "lenient",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "More merciful than expected in punishing.",
+  "syn": [
+   "merciful",
+   "indulgent",
+   "forgiving"
+  ],
+  "ant": [
+   "harsh",
+   "severe"
+  ],
+  "ex": "Critics called the sentence unduly lenient.",
+  "id": 1520,
+  "list": 8
+ },
+ {
+  "word": "levy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A charge imposed by an authority.",
+  "syn": [
+   "tax",
+   "duty",
+   "tariff"
+  ],
+  "ant": [
+   "rebate",
+   "refund"
+  ],
+  "ex": "A levy on plastic bags cut use by 80 percent.",
+  "id": 1521,
+  "list": 8
+ },
+ {
+  "word": "licence",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Official permission to do or own something.",
+  "syn": [
+   "permit",
+   "authorisation",
+   "warrant"
+  ],
+  "ant": [
+   "prohibition",
+   "ban"
+  ],
+  "ex": "Operating without a licence carries a heavy fine.",
+  "id": 1522,
+  "list": 8
+ },
+ {
+  "word": "literacy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The ability to read and write.",
+  "syn": [
+   "reading ability",
+   "competence"
+  ],
+  "ant": [
+   "illiteracy"
+  ],
+  "ex": "Adult literacy programmes reach few of those eligible.",
+  "id": 1523,
+  "list": 8
+ },
+ {
+  "word": "longevity",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Long life, or long duration.",
+  "syn": [
+   "long life",
+   "durability",
+   "endurance"
+  ],
+  "ant": [
+   "brevity",
+   "transience"
+  ],
+  "ex": "Longevity has risen faster than healthy life expectancy.",
+  "id": 1524,
+  "list": 8
+ },
+ {
+  "word": "lucrative",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Producing a great deal of profit.",
+  "syn": [
+   "profitable",
+   "remunerative",
+   "gainful"
+  ],
+  "ant": [
+   "unprofitable",
+   "loss-making"
+  ],
+  "ex": "A lucrative sideline funded the research.",
+  "id": 1525,
+  "list": 8
+ }
+]

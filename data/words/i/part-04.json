@@ -1,0 +1,252 @@
+[
+ {
+  "word": "ideology",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A system of ideas forming the basis of policy.",
+  "syn": [
+   "doctrine",
+   "creed",
+   "worldview"
+  ],
+  "ant": [],
+  "ex": "Policy was driven by ideology rather than evidence.",
+  "id": 1501,
+  "list": 8
+ },
+ {
+  "word": "immunisation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The process of making someone resistant to infection.",
+  "syn": [
+   "vaccination",
+   "inoculation"
+  ],
+  "ant": [],
+  "ex": "Immunisation rates fell below the safe threshold.",
+  "id": 1502,
+  "list": 8
+ },
+ {
+  "word": "implication",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A likely consequence, or something suggested indirectly.",
+  "syn": [
+   "consequence",
+   "ramification",
+   "inference"
+  ],
+  "ant": [],
+  "ex": "The implications for rural schools are severe.",
+  "id": 1503,
+  "list": 8
+ },
+ {
+  "word": "impose",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To force something on someone by authority.",
+  "syn": [
+   "enforce",
+   "levy",
+   "inflict"
+  ],
+  "ant": [
+   "lift",
+   "remove"
+  ],
+  "ex": "A curfew was imposed after the riots.",
+  "id": 1504,
+  "list": 8
+ },
+ {
+  "word": "incarceration",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Imprisonment.",
+  "syn": [
+   "confinement",
+   "imprisonment",
+   "detention"
+  ],
+  "ant": [
+   "release",
+   "liberty"
+  ],
+  "ex": "Mass incarceration proved ruinously expensive.",
+  "id": 1505,
+  "list": 8
+ },
+ {
+  "word": "incentivise",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To encourage behaviour by offering a reward.",
+  "syn": [
+   "motivate",
+   "reward",
+   "encourage"
+  ],
+  "ant": [
+   "penalise",
+   "deter"
+  ],
+  "ex": "Grants incentivise home insulation.",
+  "id": 1506,
+  "list": 8
+ },
+ {
+  "word": "incidence",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The rate at which something occurs.",
+  "syn": [
+   "frequency",
+   "prevalence",
+   "rate"
+  ],
+  "ant": [],
+  "ex": "The incidence of asthma doubled near the motorway.",
+  "id": 1507,
+  "list": 8
+ },
+ {
+  "word": "inequality",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An unfair difference in wealth, status or opportunity.",
+  "syn": [
+   "disparity",
+   "imbalance",
+   "injustice"
+  ],
+  "ant": [
+   "equality",
+   "parity"
+  ],
+  "ex": "Inequality widened during the recovery.",
+  "id": 1508,
+  "list": 8
+ },
+ {
+  "word": "inflation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A general rise in prices over time.",
+  "syn": [
+   "price rises",
+   "devaluation"
+  ],
+  "ant": [
+   "deflation"
+  ],
+  "ex": "Inflation eroded the value of fixed pensions.",
+  "id": 1509,
+  "list": 8
+ },
+ {
+  "word": "input",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "What is put into a process; also, a contribution.",
+  "syn": [
+   "contribution",
+   "resource",
+   "feed"
+  ],
+  "ant": [
+   "output",
+   "product"
+  ],
+  "ex": "Farmers cut chemical inputs by half.",
+  "id": 1510,
+  "list": 8
+ },
+ {
+  "word": "insert",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To place something into something else.",
+  "syn": [
+   "introduce",
+   "embed",
+   "interpose"
+  ],
+  "ant": [
+   "extract",
+   "remove"
+  ],
+  "ex": "A clause was inserted at the last minute.",
+  "id": 1511,
+  "list": 8
+ },
+ {
+  "word": "institute",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An organisation founded for research or education.",
+  "syn": [
+   "academy",
+   "foundation",
+   "establishment"
+  ],
+  "ant": [],
+  "ex": "The institute publishes an annual review.",
+  "id": 1512,
+  "list": 8
+ },
+ {
+  "word": "integrity",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Honesty and strong moral principles; also wholeness.",
+  "syn": [
+   "probity",
+   "rectitude",
+   "soundness"
+  ],
+  "ant": [
+   "corruption",
+   "dishonesty"
+  ],
+  "ex": "The integrity of the data was never questioned.",
+  "id": 1513,
+  "list": 8
+ },
+ {
+  "word": "interpret",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To explain the meaning of something.",
+  "syn": [
+   "construe",
+   "decipher",
+   "expound"
+  ],
+  "ant": [
+   "misread",
+   "confuse"
+  ],
+  "ex": "The results can be interpreted two ways.",
+  "id": 1514,
+  "list": 8
+ },
+ {
+  "word": "irrigation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The artificial supply of water to land for crops.",
+  "syn": [
+   "watering",
+   "hydration"
+  ],
+  "ant": [
+   "drainage"
+  ],
+  "ex": "Irrigation turned the plain into farmland.",
+  "id": 1515,
+  "list": 8
+ }
+]

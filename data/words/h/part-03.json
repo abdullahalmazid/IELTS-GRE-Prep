@@ -1,0 +1,182 @@
+[
+ {
+  "word": "hapless",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unlucky and deserving of pity.",
+  "syn": [
+   "unfortunate",
+   "luckless",
+   "ill-fated"
+  ],
+  "ant": [
+   "fortunate",
+   "lucky"
+  ],
+  "ex": "A hapless clerk took the blame.",
+  "id": 1228,
+  "list": 7
+ },
+ {
+  "word": "harrowing",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Acutely distressing to experience.",
+  "syn": [
+   "agonising",
+   "traumatic",
+   "distressing"
+  ],
+  "ant": [
+   "soothing",
+   "pleasant"
+  ],
+  "ex": "A harrowing account of the evacuation.",
+  "id": 1229,
+  "list": 7
+ },
+ {
+  "word": "hasten",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To make something happen sooner.",
+  "syn": [
+   "expedite",
+   "accelerate",
+   "precipitate"
+  ],
+  "ant": [
+   "delay",
+   "retard"
+  ],
+  "ex": "The scandal hastened his departure.",
+  "id": 1230,
+  "list": 7
+ },
+ {
+  "word": "headstrong",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Determined to have one's own way.",
+  "syn": [
+   "wilful",
+   "obstinate",
+   "self-willed"
+  ],
+  "ant": [
+   "docile",
+   "compliant"
+  ],
+  "ex": "A headstrong founder who ignored the board.",
+  "id": 1231,
+  "list": 7
+ },
+ {
+  "word": "heed",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To pay careful attention to advice.",
+  "syn": [
+   "mind",
+   "observe",
+   "attend to"
+  ],
+  "ant": [
+   "ignore",
+   "disregard"
+  ],
+  "ex": "Few heeded the early warnings.",
+  "id": 1232,
+  "list": 7
+ },
+ {
+  "word": "hermetic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sealed and insulated from outside influence.",
+  "syn": [
+   "airtight",
+   "sealed",
+   "insulated"
+  ],
+  "ant": [
+   "open",
+   "porous"
+  ],
+  "ex": "A hermetic academic world with its own rules.",
+  "id": 1233,
+  "list": 7
+ },
+ {
+  "word": "hinterland",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The remote area beyond a coast or city.",
+  "syn": [
+   "backcountry",
+   "interior",
+   "outback"
+  ],
+  "ant": [
+   "metropolis",
+   "coast"
+  ],
+  "ex": "Rail opened up the agricultural hinterland.",
+  "id": 1234,
+  "list": 7
+ },
+ {
+  "word": "histrionic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively theatrical in behaviour.",
+  "syn": [
+   "melodramatic",
+   "overwrought",
+   "theatrical"
+  ],
+  "ant": [
+   "restrained",
+   "understated"
+  ],
+  "ex": "A histrionic resignation letter.",
+  "id": 1235,
+  "list": 7
+ },
+ {
+  "word": "hone",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To sharpen or refine a skill.",
+  "syn": [
+   "refine",
+   "perfect",
+   "sharpen"
+  ],
+  "ant": [
+   "blunt",
+   "neglect"
+  ],
+  "ex": "She honed the technique over twenty years.",
+  "id": 1236,
+  "list": 7
+ },
+ {
+  "word": "husband",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To use resources sparingly.",
+  "syn": [
+   "conserve",
+   "economise",
+   "save"
+  ],
+  "ant": [
+   "squander",
+   "dissipate"
+  ],
+  "ex": "They husbanded the water through the drought.",
+  "id": 1237,
+  "list": 7
+ }
+]

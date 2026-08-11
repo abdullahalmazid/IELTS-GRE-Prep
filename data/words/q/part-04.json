@@ -1,0 +1,20 @@
+[
+ {
+  "word": "quote",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To repeat someone's words exactly.",
+  "syn": [
+   "cite",
+   "reproduce",
+   "recite"
+  ],
+  "ant": [
+   "paraphrase",
+   "misquote"
+  ],
+  "ex": "He quoted the report at length.",
+  "id": 1564,
+  "list": 8
+ }
+]

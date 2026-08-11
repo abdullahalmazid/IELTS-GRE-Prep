@@ -1,0 +1,105 @@
+[
+ {
+  "word": "obesity",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The condition of being severely overweight.",
+  "syn": [
+   "corpulence",
+   "excess weight"
+  ],
+  "ant": [
+   "leanness"
+  ],
+  "ex": "Childhood obesity has tripled since 1990.",
+  "id": 1537,
+  "list": 8
+ },
+ {
+  "word": "offender",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A person who commits a crime.",
+  "syn": [
+   "criminal",
+   "culprit",
+   "perpetrator"
+  ],
+  "ant": [
+   "victim"
+  ],
+  "ex": "First-time offenders were diverted from prison.",
+  "id": 1538,
+  "list": 8
+ },
+ {
+  "word": "offset",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To counterbalance one effect with an opposite one.",
+  "syn": [
+   "counteract",
+   "compensate for",
+   "balance"
+  ],
+  "ant": [
+   "compound",
+   "aggravate"
+  ],
+  "ex": "Gains in efficiency offset the higher fuel price.",
+  "id": 1539,
+  "list": 8
+ },
+ {
+  "word": "opponent",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A person who argues against something.",
+  "syn": [
+   "critic",
+   "adversary",
+   "detractor"
+  ],
+  "ant": [
+   "proponent",
+   "supporter"
+  ],
+  "ex": "Opponents of the scheme packed the hall.",
+  "id": 1540,
+  "list": 8
+ },
+ {
+  "word": "output",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The amount produced by a process or system.",
+  "syn": [
+   "production",
+   "yield",
+   "product"
+  ],
+  "ant": [
+   "input",
+   "intake"
+  ],
+  "ex": "Factory output fell for a third quarter.",
+  "id": 1541,
+  "list": 8
+ },
+ {
+  "word": "outsourcing",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Contracting work to an outside supplier, often abroad.",
+  "syn": [
+   "subcontracting",
+   "offshoring"
+  ],
+  "ant": [
+   "in-house production"
+  ],
+  "ex": "Outsourcing cut costs and hollowed out expertise.",
+  "id": 1542,
+  "list": 8
+ }
+]

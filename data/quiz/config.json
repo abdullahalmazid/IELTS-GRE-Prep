@@ -1,0 +1,21 @@
+{
+ "schema": 1,
+ "note": "Controls the Quiz tab. 'types' can be trimmed or reweighted; a type is skipped automatically when a word lacks the data it needs.",
+ "roundLength": 10,
+ "optionCount": 4,
+ "passMark": 8,
+ "types": [
+  { "id": "def",     "label": "Choose the meaning",     "weight": 3, "needs": "def" },
+  { "id": "word",    "label": "Choose the word",        "weight": 3, "needs": "def" },
+  { "id": "syn",     "label": "Closest in meaning",     "weight": 2, "needs": "syn" },
+  { "id": "ant",     "label": "Most nearly opposite",   "weight": 2, "needs": "ant" },
+  { "id": "cloze",   "label": "Complete the sentence",  "weight": 2, "needs": "ex"  },
+  { "id": "spell",   "label": "Spell the word",         "weight": 1, "needs": "def" }
+ ],
+ "verdicts": [
+  { "min": 10, "text": "Every one. Move up a list." },
+  { "min": 8,  "text": "Solid. The gaps are narrow ones." },
+  { "min": 5,  "text": "Halfway there. Re-read the missed words below." },
+  { "min": 0,  "text": "Early days. Drill one letter with flashcards before testing again." }
+ ]
+}

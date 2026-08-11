@@ -1,0 +1,85 @@
+[
+ {
+  "word": "underlie",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To be the cause or basis of something.",
+  "syn": [
+   "underpin",
+   "cause",
+   "inform"
+  ],
+  "ant": [],
+  "ex": "Poverty underlies most of these outcomes.",
+  "id": 1608,
+  "list": 8
+ },
+ {
+  "word": "undertake",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To commit to and begin a task.",
+  "syn": [
+   "embark on",
+   "assume",
+   "pledge"
+  ],
+  "ant": [
+   "abandon",
+   "refuse"
+  ],
+  "ex": "The council undertook a full review.",
+  "id": 1609,
+  "list": 8
+ },
+ {
+  "word": "unemployment",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The state of being without paid work.",
+  "syn": [
+   "joblessness",
+   "redundancy"
+  ],
+  "ant": [
+   "employment"
+  ],
+  "ex": "Youth unemployment doubled within a year.",
+  "id": 1610,
+  "list": 8
+ },
+ {
+  "word": "unprecedented",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Never having happened before.",
+  "syn": [
+   "unparalleled",
+   "unheard-of",
+   "novel"
+  ],
+  "ant": [
+   "routine",
+   "familiar"
+  ],
+  "ex": "The scheme grew at an unprecedented rate.",
+  "id": 1611,
+  "list": 8
+ },
+ {
+  "word": "urbanisation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The movement of population into towns and cities.",
+  "syn": [
+   "urban growth",
+   "city migration"
+  ],
+  "ant": [
+   "rural depopulation"
+  ],
+  "ex": "Rapid urbanisation outpaced every service.",
+  "id": 1612,
+  "list": 8
+ }
+]

@@ -1,0 +1,776 @@
+[
+ {
+  "word": "palatable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Acceptable or pleasant, of food or ideas.",
+  "syn": [
+   "agreeable",
+   "acceptable",
+   "savoury"
+  ],
+  "ant": [
+   "unpalatable",
+   "distasteful"
+  ],
+  "ex": "A compromise palatable to both wings.",
+  "id": 1303,
+  "list": 7
+ },
+ {
+  "word": "palliate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make something less severe without curing it.",
+  "syn": [
+   "alleviate",
+   "mitigate",
+   "ease"
+  ],
+  "ant": [
+   "aggravate",
+   "intensify"
+  ],
+  "ex": "The grant palliates rather than solves the shortage.",
+  "id": 1304,
+  "list": 7
+ },
+ {
+  "word": "palpable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "So intense as to seem almost touchable.",
+  "syn": [
+   "tangible",
+   "evident",
+   "perceptible"
+  ],
+  "ant": [
+   "imperceptible",
+   "intangible"
+  ],
+  "ex": "The relief in the room was palpable.",
+  "id": 1305,
+  "list": 7
+ },
+ {
+  "word": "paltry",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Ridiculously small in amount.",
+  "syn": [
+   "meagre",
+   "derisory",
+   "trifling"
+  ],
+  "ant": [
+   "generous",
+   "substantial"
+  ],
+  "ex": "A paltry sum for two years' work.",
+  "id": 1306,
+  "list": 7
+ },
+ {
+  "word": "panacea",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A supposed remedy for all problems.",
+  "syn": [
+   "cure-all",
+   "universal remedy"
+  ],
+  "ant": [
+   "specific remedy"
+  ],
+  "ex": "Technology is no panacea for poor teaching.",
+  "id": 1307,
+  "list": 7
+ },
+ {
+  "word": "panegyric",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A speech or text of elaborate praise.",
+  "syn": [
+   "eulogy",
+   "encomium",
+   "tribute"
+  ],
+  "ant": [
+   "diatribe",
+   "polemic"
+  ],
+  "ex": "The introduction reads as pure panegyric.",
+  "id": 1308,
+  "list": 7
+ },
+ {
+  "word": "pariah",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person rejected by society.",
+  "syn": [
+   "outcast",
+   "untouchable",
+   "exile"
+  ],
+  "ant": [
+   "favourite",
+   "insider"
+  ],
+  "ex": "The firm became a pariah after the spill.",
+  "id": 1309,
+  "list": 7
+ },
+ {
+  "word": "partisanship",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Strong, often blind, support for one side.",
+  "syn": [
+   "bias",
+   "factionalism",
+   "sectarianism"
+  ],
+  "ant": [
+   "impartiality",
+   "objectivity"
+  ],
+  "ex": "Partisanship has crowded out analysis.",
+  "id": 1310,
+  "list": 7
+ },
+ {
+  "word": "pastiche",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A work imitating the style of another.",
+  "syn": [
+   "imitation",
+   "medley",
+   "parody"
+  ],
+  "ant": [
+   "original"
+  ],
+  "ex": "The novel is a pastiche of Victorian melodrama.",
+  "id": 1311,
+  "list": 7
+ },
+ {
+  "word": "peculiar",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Strange; or belonging exclusively to one thing.",
+  "syn": [
+   "odd",
+   "distinctive",
+   "particular"
+  ],
+  "ant": [
+   "ordinary",
+   "universal"
+  ],
+  "ex": "A problem peculiar to coastal towns.",
+  "id": 1312,
+  "list": 7
+ },
+ {
+  "word": "pejorative",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Expressing disapproval or contempt.",
+  "syn": [
+   "derogatory",
+   "disparaging",
+   "belittling"
+  ],
+  "ant": [
+   "complimentary",
+   "laudatory"
+  ],
+  "ex": "The term is pejorative in most contexts.",
+  "id": 1313,
+  "list": 7
+ },
+ {
+  "word": "penitent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Feeling regret for having done wrong.",
+  "syn": [
+   "contrite",
+   "remorseful",
+   "repentant"
+  ],
+  "ant": [
+   "unrepentant",
+   "defiant"
+  ],
+  "ex": "A penitent apology delivered in person.",
+  "id": 1314,
+  "list": 7
+ },
+ {
+  "word": "peremptory",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Insisting on obedience and allowing no refusal.",
+  "syn": [
+   "imperious",
+   "dictatorial",
+   "brusque"
+  ],
+  "ant": [
+   "tentative",
+   "deferential"
+  ],
+  "ex": "A peremptory summons to the director's office.",
+  "id": 1315,
+  "list": 7
+ },
+ {
+  "word": "perennial",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Recurring again and again.",
+  "syn": [
+   "recurrent",
+   "enduring",
+   "persistent"
+  ],
+  "ant": [
+   "fleeting",
+   "occasional"
+  ],
+  "ex": "Funding is a perennial complaint.",
+  "id": 1316,
+  "list": 7
+ },
+ {
+  "word": "perfunctorily",
+  "pos": "adverb",
+  "level": "GRE",
+  "def": "In a routine way, without real interest.",
+  "syn": [
+   "cursorily",
+   "superficially",
+   "mechanically"
+  ],
+  "ant": [
+   "thoroughly",
+   "attentively"
+  ],
+  "ex": "The forms were checked perfunctorily.",
+  "id": 1317,
+  "list": 7
+ },
+ {
+  "word": "peripheral",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Of minor importance; on the outer edge.",
+  "syn": [
+   "marginal",
+   "incidental",
+   "outlying"
+  ],
+  "ant": [
+   "central",
+   "crucial"
+  ],
+  "ex": "A peripheral issue consumed most of the meeting.",
+  "id": 1318,
+  "list": 7
+ },
+ {
+  "word": "perturb",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make someone anxious or unsettled.",
+  "syn": [
+   "disquiet",
+   "unsettle",
+   "agitate"
+  ],
+  "ant": [
+   "reassure",
+   "calm"
+  ],
+  "ex": "The pattern perturbed the researchers.",
+  "id": 1319,
+  "list": 7
+ },
+ {
+  "word": "peruse",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To read or examine carefully.",
+  "syn": [
+   "scrutinise",
+   "study",
+   "pore over"
+  ],
+  "ant": [
+   "skim",
+   "glance at"
+  ],
+  "ex": "He perused the contract line by line.",
+  "id": 1320,
+  "list": 7
+ },
+ {
+  "word": "pervade",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To spread through and be present throughout.",
+  "syn": [
+   "permeate",
+   "suffuse",
+   "saturate"
+  ],
+  "ant": [
+   "withdraw"
+  ],
+  "ex": "A quiet pessimism pervades the report.",
+  "id": 1321,
+  "list": 7
+ },
+ {
+  "word": "philistine",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person hostile or indifferent to culture.",
+  "syn": [
+   "boor",
+   "materialist",
+   "ignoramus"
+  ],
+  "ant": [
+   "aesthete",
+   "connoisseur"
+  ],
+  "ex": "Dismissed as a philistine by the trustees.",
+  "id": 1322,
+  "list": 7
+ },
+ {
+  "word": "pinnacle",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "The highest point of achievement.",
+  "syn": [
+   "summit",
+   "apex",
+   "zenith"
+  ],
+  "ant": [
+   "nadir",
+   "base"
+  ],
+  "ex": "The award marked the pinnacle of her career.",
+  "id": 1323,
+  "list": 7
+ },
+ {
+  "word": "placid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Calm and not easily disturbed.",
+  "syn": [
+   "serene",
+   "tranquil",
+   "equable"
+  ],
+  "ant": [
+   "agitated",
+   "turbulent"
+  ],
+  "ex": "A placid temperament suited to negotiation.",
+  "id": 1324,
+  "list": 7
+ },
+ {
+  "word": "plaintive",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sounding sad and mournful.",
+  "syn": [
+   "doleful",
+   "wistful",
+   "melancholy"
+  ],
+  "ant": [
+   "cheerful",
+   "joyful"
+  ],
+  "ex": "A plaintive appeal for more time.",
+  "id": 1325,
+  "list": 7
+ },
+ {
+  "word": "pliable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Easily bent or influenced.",
+  "syn": [
+   "flexible",
+   "malleable",
+   "impressionable"
+  ],
+  "ant": [
+   "rigid",
+   "obdurate"
+  ],
+  "ex": "A pliable committee approved everything.",
+  "id": 1326,
+  "list": 7
+ },
+ {
+  "word": "plummet",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To fall steeply and suddenly.",
+  "syn": [
+   "plunge",
+   "tumble",
+   "nosedive"
+  ],
+  "ant": [
+   "soar",
+   "climb"
+  ],
+  "ex": "Share prices plummeted on the news.",
+  "id": 1327,
+  "list": 7
+ },
+ {
+  "word": "portend",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To be a sign that something will happen.",
+  "syn": [
+   "foreshadow",
+   "augur",
+   "presage"
+  ],
+  "ant": [],
+  "ex": "The tremors portended a larger quake.",
+  "id": 1328,
+  "list": 7
+ },
+ {
+  "word": "posit",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To put forward as a basis for argument.",
+  "syn": [
+   "postulate",
+   "assume",
+   "propose"
+  ],
+  "ant": [
+   "disprove",
+   "reject"
+  ],
+  "ex": "The paper posits three underlying causes.",
+  "id": 1329,
+  "list": 7
+ },
+ {
+  "word": "potent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Having great power or effect.",
+  "syn": [
+   "powerful",
+   "forceful",
+   "efficacious"
+  ],
+  "ant": [
+   "weak",
+   "impotent"
+  ],
+  "ex": "A potent argument for delay.",
+  "id": 1330,
+  "list": 7
+ },
+ {
+  "word": "prattle",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To talk at length in a foolish way.",
+  "syn": [
+   "babble",
+   "chatter",
+   "blather"
+  ],
+  "ant": [
+   "state concisely"
+  ],
+  "ex": "He prattled on about the old days.",
+  "id": 1331,
+  "list": 7
+ },
+ {
+  "word": "precept",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A general rule guiding behaviour.",
+  "syn": [
+   "principle",
+   "maxim",
+   "doctrine"
+  ],
+  "ant": [],
+  "ex": "The first precept is to do no harm.",
+  "id": 1332,
+  "list": 7
+ },
+ {
+  "word": "preeminent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Surpassing all others in a field.",
+  "syn": [
+   "foremost",
+   "leading",
+   "paramount"
+  ],
+  "ant": [
+   "minor",
+   "inferior"
+  ],
+  "ex": "The preeminent authority on medieval coinage.",
+  "id": 1333,
+  "list": 7
+ },
+ {
+  "word": "presage",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To be a warning sign of something to come.",
+  "syn": [
+   "portend",
+   "foreshadow",
+   "augur"
+  ],
+  "ant": [],
+  "ex": "Falling orders presaged the closure.",
+  "id": 1334,
+  "list": 7
+ },
+ {
+  "word": "prevalent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Widespread in a particular area or time.",
+  "syn": [
+   "widespread",
+   "common",
+   "rife"
+  ],
+  "ant": [
+   "rare",
+   "uncommon"
+  ],
+  "ex": "The practice is prevalent across the sector.",
+  "id": 1335,
+  "list": 7
+ },
+ {
+  "word": "privation",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Lack of the basic necessities of life.",
+  "syn": [
+   "hardship",
+   "deprivation",
+   "want"
+  ],
+  "ant": [
+   "comfort",
+   "plenty"
+  ],
+  "ex": "Years of privation left lasting effects.",
+  "id": 1336,
+  "list": 7
+ },
+ {
+  "word": "probity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Complete honesty and moral uprightness.",
+  "syn": [
+   "integrity",
+   "rectitude",
+   "honesty"
+  ],
+  "ant": [
+   "corruption",
+   "dishonesty"
+  ],
+  "ex": "Public office demands demonstrable probity.",
+  "id": 1337,
+  "list": 7
+ },
+ {
+  "word": "proclivity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A natural tendency, often towards something questionable.",
+  "syn": [
+   "propensity",
+   "inclination",
+   "penchant"
+  ],
+  "ant": [
+   "aversion",
+   "disinclination"
+  ],
+  "ex": "A proclivity for overruling his own advisers.",
+  "id": 1338,
+  "list": 7
+ },
+ {
+  "word": "prodigy",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A young person with exceptional ability.",
+  "syn": [
+   "genius",
+   "wunderkind",
+   "phenomenon"
+  ],
+  "ant": [
+   "dullard"
+  ],
+  "ex": "A mathematical prodigy at fourteen.",
+  "id": 1339,
+  "list": 7
+ },
+ {
+  "word": "profuse",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Given or produced in great quantity.",
+  "syn": [
+   "abundant",
+   "copious",
+   "lavish"
+  ],
+  "ant": [
+   "sparse",
+   "meagre"
+  ],
+  "ex": "Profuse apologies followed the error.",
+  "id": 1340,
+  "list": 7
+ },
+ {
+  "word": "promulgate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make a law or idea widely known.",
+  "syn": [
+   "proclaim",
+   "disseminate",
+   "publicise"
+  ],
+  "ant": [
+   "suppress",
+   "conceal"
+  ],
+  "ex": "The decree was promulgated in April.",
+  "id": 1341,
+  "list": 7
+ },
+ {
+  "word": "propriety",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Correctness of behaviour or morals.",
+  "syn": [
+   "decorum",
+   "seemliness",
+   "etiquette"
+  ],
+  "ant": [
+   "impropriety",
+   "indecorum"
+  ],
+  "ex": "Questions of propriety dogged the appointment.",
+  "id": 1342,
+  "list": 7
+ },
+ {
+  "word": "prosperity",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "The state of being successful and wealthy.",
+  "syn": [
+   "affluence",
+   "success",
+   "wellbeing"
+  ],
+  "ant": [
+   "poverty",
+   "adversity"
+  ],
+  "ex": "Two decades of steady prosperity.",
+  "id": 1343,
+  "list": 7
+ },
+ {
+  "word": "provident",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Making careful provision for the future.",
+  "syn": [
+   "prudent",
+   "farsighted",
+   "thrifty"
+  ],
+  "ant": [
+   "improvident",
+   "reckless"
+  ],
+  "ex": "A provident household weathered the shock.",
+  "id": 1344,
+  "list": 7
+ },
+ {
+  "word": "proximity",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Nearness in space or time.",
+  "syn": [
+   "closeness",
+   "vicinity",
+   "adjacency"
+  ],
+  "ant": [
+   "distance",
+   "remoteness"
+  ],
+  "ex": "Proximity to the port set the rents.",
+  "id": 1345,
+  "list": 7
+ },
+ {
+  "word": "purview",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The scope of someone's authority or concern.",
+  "syn": [
+   "remit",
+   "jurisdiction",
+   "ambit"
+  ],
+  "ant": [],
+  "ex": "That decision falls outside our purview.",
+  "id": 1346,
+  "list": 7
+ }
+]

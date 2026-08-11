@@ -1,0 +1,467 @@
+[
+ {
+  "word": "baleful",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Threatening harm; menacing.",
+  "syn": [
+   "menacing",
+   "sinister",
+   "ominous"
+  ],
+  "ant": [
+   "benign",
+   "benevolent"
+  ],
+  "ex": "A baleful influence over the younger members.",
+  "id": 1047,
+  "list": 7
+ },
+ {
+  "word": "bane",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A cause of great distress or ruin.",
+  "syn": [
+   "scourge",
+   "curse",
+   "affliction"
+  ],
+  "ant": [
+   "blessing",
+   "boon"
+  ],
+  "ex": "Damp is the bane of old buildings.",
+  "id": 1048,
+  "list": 7
+ },
+ {
+  "word": "bastion",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A place or institution strongly defending a principle.",
+  "syn": [
+   "stronghold",
+   "bulwark",
+   "citadel"
+  ],
+  "ant": [],
+  "ex": "The court remained a bastion of judicial independence.",
+  "id": 1049,
+  "list": 7
+ },
+ {
+  "word": "beget",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To cause something to happen or exist.",
+  "syn": [
+   "produce",
+   "engender",
+   "spawn"
+  ],
+  "ant": [
+   "prevent",
+   "stifle"
+  ],
+  "ex": "Violence begets further violence.",
+  "id": 1050,
+  "list": 7
+ },
+ {
+  "word": "beguile",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To charm, often in a deceptive way.",
+  "syn": [
+   "captivate",
+   "enchant",
+   "delude"
+  ],
+  "ant": [
+   "repel",
+   "disenchant"
+  ],
+  "ex": "Beguiled by promises no one intended to keep.",
+  "id": 1051,
+  "list": 7
+ },
+ {
+  "word": "beleaguer",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To beset with difficulties; to besiege.",
+  "syn": [
+   "harass",
+   "besiege",
+   "plague"
+  ],
+  "ant": [
+   "relieve",
+   "support"
+  ],
+  "ex": "A beleaguered administration facing three inquiries.",
+  "id": 1052,
+  "list": 7
+ },
+ {
+  "word": "bemoan",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To express sorrow or discontent about something.",
+  "syn": [
+   "lament",
+   "deplore",
+   "bewail"
+  ],
+  "ant": [
+   "celebrate",
+   "welcome"
+  ],
+  "ex": "Employers bemoan a shortage of technicians.",
+  "id": 1053,
+  "list": 7
+ },
+ {
+  "word": "benign",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Gentle and harmless in effect.",
+  "syn": [
+   "harmless",
+   "mild",
+   "innocuous"
+  ],
+  "ant": [
+   "malignant",
+   "harmful"
+  ],
+  "ex": "A benign climate for new businesses.",
+  "id": 1054,
+  "list": 7
+ },
+ {
+  "word": "bequeath",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To leave property or a legacy to someone.",
+  "syn": [
+   "hand down",
+   "leave",
+   "pass on"
+  ],
+  "ant": [
+   "inherit",
+   "receive"
+  ],
+  "ex": "She bequeathed the collection to the city.",
+  "id": 1055,
+  "list": 7
+ },
+ {
+  "word": "berate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To scold someone angrily and at length.",
+  "syn": [
+   "upbraid",
+   "castigate",
+   "rebuke"
+  ],
+  "ant": [
+   "praise",
+   "compliment"
+  ],
+  "ex": "He berated the staff over a minor error.",
+  "id": 1056,
+  "list": 7
+ },
+ {
+  "word": "bereft",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Deprived of or lacking something.",
+  "syn": [
+   "devoid",
+   "destitute",
+   "stripped"
+  ],
+  "ant": [
+   "endowed",
+   "full"
+  ],
+  "ex": "The argument is bereft of evidence.",
+  "id": 1057,
+  "list": 7
+ },
+ {
+  "word": "beset",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To trouble persistently from all sides.",
+  "syn": [
+   "plague",
+   "assail",
+   "afflict"
+  ],
+  "ant": [
+   "relieve",
+   "aid"
+  ],
+  "ex": "The project was beset by delays.",
+  "id": 1058,
+  "list": 7
+ },
+ {
+  "word": "blandishment",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Flattery used to persuade someone.",
+  "syn": [
+   "cajolery",
+   "coaxing",
+   "inducement"
+  ],
+  "ant": [
+   "threat",
+   "coercion"
+  ],
+  "ex": "No blandishment moved the committee.",
+  "id": 1059,
+  "list": 7
+ },
+ {
+  "word": "blatant",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Done openly and without shame.",
+  "syn": [
+   "flagrant",
+   "brazen",
+   "glaring"
+  ],
+  "ant": [
+   "subtle",
+   "discreet"
+  ],
+  "ex": "A blatant disregard for the rules.",
+  "id": 1060,
+  "list": 7
+ },
+ {
+  "word": "blight",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Something that spoils or damages badly.",
+  "syn": [
+   "scourge",
+   "affliction",
+   "curse"
+  ],
+  "ant": [
+   "blessing",
+   "boon"
+  ],
+  "ex": "Unemployment became a blight on the town.",
+  "id": 1061,
+  "list": 7
+ },
+ {
+  "word": "blithe",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Casually indifferent, or carefree.",
+  "syn": [
+   "nonchalant",
+   "unconcerned",
+   "carefree"
+  ],
+  "ant": [
+   "anxious",
+   "earnest"
+  ],
+  "ex": "A blithe disregard for the safety data.",
+  "id": 1062,
+  "list": 7
+ },
+ {
+  "word": "boisterous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Noisy, energetic and rough.",
+  "syn": [
+   "rowdy",
+   "unruly",
+   "exuberant"
+  ],
+  "ant": [
+   "quiet",
+   "subdued"
+  ],
+  "ex": "A boisterous crowd filled the square.",
+  "id": 1063,
+  "list": 7
+ },
+ {
+  "word": "boon",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Something that is very helpful.",
+  "syn": [
+   "blessing",
+   "benefit",
+   "godsend"
+  ],
+  "ant": [
+   "curse",
+   "bane"
+  ],
+  "ex": "The bypass was a boon to local trade.",
+  "id": 1064,
+  "list": 7
+ },
+ {
+  "word": "bravado",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A show of boldness meant to impress.",
+  "syn": [
+   "swagger",
+   "bluster",
+   "posturing"
+  ],
+  "ant": [
+   "modesty",
+   "timidity"
+  ],
+  "ex": "His confidence was mostly bravado.",
+  "id": 1065,
+  "list": 7
+ },
+ {
+  "word": "brazen",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Bold and shameless.",
+  "syn": [
+   "impudent",
+   "unabashed",
+   "flagrant"
+  ],
+  "ant": [
+   "shy",
+   "abashed"
+  ],
+  "ex": "A brazen attempt to rewrite the record.",
+  "id": 1066,
+  "list": 7
+ },
+ {
+  "word": "broach",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To raise a difficult subject for discussion.",
+  "syn": [
+   "raise",
+   "introduce",
+   "bring up"
+  ],
+  "ant": [
+   "avoid",
+   "suppress"
+  ],
+  "ex": "Nobody wanted to broach the question of pay.",
+  "id": 1067,
+  "list": 7
+ },
+ {
+  "word": "brook",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To tolerate or allow, usually in the negative.",
+  "syn": [
+   "tolerate",
+   "endure",
+   "countenance"
+  ],
+  "ant": [
+   "forbid",
+   "reject"
+  ],
+  "ex": "The chair would brook no interruption.",
+  "id": 1068,
+  "list": 7
+ },
+ {
+  "word": "bucolic",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Relating to the pleasant aspects of country life.",
+  "syn": [
+   "pastoral",
+   "rural",
+   "rustic"
+  ],
+  "ant": [
+   "urban",
+   "metropolitan"
+  ],
+  "ex": "A bucolic scene painted from memory.",
+  "id": 1069,
+  "list": 7
+ },
+ {
+  "word": "bulwark",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A defence or protection against something.",
+  "syn": [
+   "safeguard",
+   "bastion",
+   "rampart"
+  ],
+  "ant": [
+   "weakness",
+   "vulnerability"
+  ],
+  "ex": "A free press is a bulwark against abuse.",
+  "id": 1070,
+  "list": 7
+ },
+ {
+  "word": "buttress",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To support or strengthen an argument.",
+  "syn": [
+   "reinforce",
+   "bolster",
+   "shore up"
+  ],
+  "ant": [
+   "undermine",
+   "weaken"
+  ],
+  "ex": "New data buttressed the earlier claim.",
+  "id": 1071,
+  "list": 7
+ },
+ {
+  "word": "byzantine",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Excessively complicated and full of detail.",
+  "syn": [
+   "labyrinthine",
+   "convoluted",
+   "intricate"
+  ],
+  "ant": [
+   "simple",
+   "straightforward"
+  ],
+  "ex": "A byzantine set of eligibility rules.",
+  "id": 1072,
+  "list": 7
+ }
+]

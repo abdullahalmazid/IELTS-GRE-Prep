@@ -1,0 +1,146 @@
+[
+ {
+  "word": "vagary",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "An unexpected and inexplicable change.",
+  "syn": [
+   "whim",
+   "caprice",
+   "fluctuation"
+  ],
+  "ant": [
+   "constancy",
+   "predictability"
+  ],
+  "ex": "The vagaries of the export market.",
+  "id": 1396,
+  "list": 7
+ },
+ {
+  "word": "venal",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Open to bribery.",
+  "syn": [
+   "corrupt",
+   "bribable",
+   "mercenary"
+  ],
+  "ant": [
+   "incorruptible",
+   "honest"
+  ],
+  "ex": "A venal official cleared the paperwork.",
+  "id": 1397,
+  "list": 7
+ },
+ {
+  "word": "veneer",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A thin, attractive surface hiding something worse.",
+  "syn": [
+   "facade",
+   "gloss",
+   "pretence"
+  ],
+  "ant": [
+   "substance",
+   "core"
+  ],
+  "ex": "A veneer of consultation over a settled decision.",
+  "id": 1398,
+  "list": 7
+ },
+ {
+  "word": "verdant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Green with lush vegetation.",
+  "syn": [
+   "lush",
+   "leafy",
+   "green"
+  ],
+  "ant": [
+   "barren",
+   "arid"
+  ],
+  "ex": "Verdant hills after a wet spring.",
+  "id": 1399,
+  "list": 7
+ },
+ {
+  "word": "vexation",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Annoyance or frustration.",
+  "syn": [
+   "irritation",
+   "exasperation",
+   "pique"
+  ],
+  "ant": [
+   "pleasure",
+   "contentment"
+  ],
+  "ex": "To his vexation, the file was missing.",
+  "id": 1400,
+  "list": 7
+ },
+ {
+  "word": "vigilant",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Carefully watchful for possible danger.",
+  "syn": [
+   "watchful",
+   "alert",
+   "attentive"
+  ],
+  "ant": [
+   "negligent",
+   "inattentive"
+  ],
+  "ex": "Auditors must remain vigilant for small anomalies.",
+  "id": 1401,
+  "list": 7
+ },
+ {
+  "word": "vociferate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To shout loudly and insistently.",
+  "syn": [
+   "clamour",
+   "bellow",
+   "exclaim"
+  ],
+  "ant": [
+   "whisper",
+   "murmur"
+  ],
+  "ex": "Protesters vociferated outside the gates.",
+  "id": 1402,
+  "list": 7
+ },
+ {
+  "word": "volition",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "The power of making one's own choices.",
+  "syn": [
+   "will",
+   "choice",
+   "free will"
+  ],
+  "ant": [
+   "compulsion",
+   "coercion"
+  ],
+  "ex": "She resigned of her own volition.",
+  "id": 1403,
+  "list": 7
+ }
+]

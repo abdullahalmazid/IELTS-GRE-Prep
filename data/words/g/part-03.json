@@ -1,0 +1,88 @@
+[
+ {
+  "word": "garrison",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Troops stationed to defend a place.",
+  "syn": [
+   "detachment",
+   "outpost",
+   "force"
+  ],
+  "ant": [],
+  "ex": "A small garrison held the pass for weeks.",
+  "id": 1223,
+  "list": 7
+ },
+ {
+  "word": "germinate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To begin to grow or develop.",
+  "syn": [
+   "sprout",
+   "bud",
+   "take root"
+  ],
+  "ant": [
+   "wither",
+   "die"
+  ],
+  "ex": "The idea germinated during a long illness.",
+  "id": 1224,
+  "list": 7
+ },
+ {
+  "word": "gossamer",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Extremely light, thin and delicate.",
+  "syn": [
+   "diaphanous",
+   "filmy",
+   "insubstantial"
+  ],
+  "ant": [
+   "dense",
+   "substantial"
+  ],
+  "ex": "A gossamer distinction with real legal weight.",
+  "id": 1225,
+  "list": 7
+ },
+ {
+  "word": "gravity",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Extreme seriousness of a situation.",
+  "syn": [
+   "seriousness",
+   "severity",
+   "solemnity"
+  ],
+  "ant": [
+   "levity",
+   "triviality"
+  ],
+  "ex": "Nobody grasped the gravity of the leak.",
+  "id": 1226,
+  "list": 7
+ },
+ {
+  "word": "gregariousness",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A fondness for the company of others.",
+  "syn": [
+   "sociability",
+   "conviviality"
+  ],
+  "ant": [
+   "reclusiveness",
+   "aloofness"
+  ],
+  "ex": "Her gregariousness made her a natural chair.",
+  "id": 1227,
+  "list": 7
+ }
+]

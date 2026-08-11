@@ -1,0 +1,53 @@
+[
+ {
+  "word": "biodiversity",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The variety of living species in a habitat.",
+  "syn": [
+   "species richness",
+   "variety of life"
+  ],
+  "ant": [
+   "monoculture"
+  ],
+  "ex": "Hedgerow removal devastated local biodiversity.",
+  "id": 1425,
+  "list": 8
+ },
+ {
+  "word": "bond",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A connection between people, or a financial certificate of debt.",
+  "syn": [
+   "tie",
+   "link",
+   "security"
+  ],
+  "ant": [
+   "separation"
+  ],
+  "ex": "The bond between siblings often outlasts friendships.",
+  "id": 1426,
+  "list": 8
+ },
+ {
+  "word": "bulk",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The greater part of something; large mass.",
+  "syn": [
+   "majority",
+   "mass",
+   "preponderance"
+  ],
+  "ant": [
+   "minority",
+   "fraction"
+  ],
+  "ex": "The bulk of the funding came from private donors.",
+  "id": 1427,
+  "list": 8
+ }
+]

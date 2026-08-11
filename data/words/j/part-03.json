@@ -1,0 +1,53 @@
+[
+ {
+  "word": "jaded",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Tired and bored from too much of something.",
+  "syn": [
+   "weary",
+   "sated",
+   "cynical"
+  ],
+  "ant": [
+   "fresh",
+   "enthusiastic"
+  ],
+  "ex": "Jaded reviewers who had seen it all before.",
+  "id": 1266,
+  "list": 7
+ },
+ {
+  "word": "jocose",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Playful and given to joking.",
+  "syn": [
+   "jocular",
+   "waggish",
+   "droll"
+  ],
+  "ant": [
+   "solemn",
+   "earnest"
+  ],
+  "ex": "A jocose footnote in a dry monograph.",
+  "id": 1267,
+  "list": 7
+ },
+ {
+  "word": "juncture",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A particular point in time, especially a critical one.",
+  "syn": [
+   "moment",
+   "stage",
+   "crossroads"
+  ],
+  "ant": [],
+  "ex": "At this juncture, delay would be fatal.",
+  "id": 1268,
+  "list": 7
+ }
+]

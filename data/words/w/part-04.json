@@ -1,0 +1,52 @@
+[
+ {
+  "word": "welfare",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The health and wellbeing of people, or state support.",
+  "syn": [
+   "wellbeing",
+   "benefit",
+   "social security"
+  ],
+  "ant": [
+   "hardship",
+   "neglect"
+  ],
+  "ex": "Welfare spending absorbs a third of the budget.",
+  "id": 1618,
+  "list": 8
+ },
+ {
+  "word": "whereas",
+  "pos": "conjunction",
+  "level": "IELTS",
+  "def": "In contrast to the fact that.",
+  "syn": [
+   "while",
+   "although",
+   "by contrast"
+  ],
+  "ant": [
+   "similarly"
+  ],
+  "ex": "Cities grew rapidly, whereas rural areas emptied.",
+  "id": 1619,
+  "list": 8
+ },
+ {
+  "word": "workforce",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "All the people working for an organisation or country.",
+  "syn": [
+   "labour force",
+   "staff",
+   "personnel"
+  ],
+  "ant": [],
+  "ex": "A quarter of the workforce is over fifty-five.",
+  "id": 1620,
+  "list": 8
+ }
+]

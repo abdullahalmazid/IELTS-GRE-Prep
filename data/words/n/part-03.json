@@ -1,0 +1,92 @@
+[
+ {
+  "word": "nascent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Just coming into existence.",
+  "syn": [
+   "emerging",
+   "incipient",
+   "budding"
+  ],
+  "ant": [
+   "mature",
+   "established"
+  ],
+  "ex": "A nascent market with no clear leader.",
+  "id": 1286,
+  "list": 7
+ },
+ {
+  "word": "negligible",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "So small as not to be worth considering.",
+  "syn": [
+   "insignificant",
+   "trifling",
+   "minimal"
+  ],
+  "ant": [
+   "substantial",
+   "considerable"
+  ],
+  "ex": "The effect was negligible at low doses.",
+  "id": 1287,
+  "list": 7
+ },
+ {
+  "word": "nettle",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To irritate or annoy someone.",
+  "syn": [
+   "vex",
+   "irk",
+   "provoke"
+  ],
+  "ant": [
+   "soothe",
+   "placate"
+  ],
+  "ex": "The comparison plainly nettled him.",
+  "id": 1288,
+  "list": 7
+ },
+ {
+  "word": "noisome",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Having an extremely unpleasant smell.",
+  "syn": [
+   "fetid",
+   "malodorous",
+   "rank"
+  ],
+  "ant": [
+   "fragrant",
+   "sweet"
+  ],
+  "ex": "Noisome fumes drifted from the tannery.",
+  "id": 1289,
+  "list": 7
+ },
+ {
+  "word": "nominal",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "In name only; also, very small in amount.",
+  "syn": [
+   "token",
+   "titular",
+   "negligible"
+  ],
+  "ant": [
+   "actual",
+   "substantial"
+  ],
+  "ex": "A nominal fee covers administration.",
+  "id": 1290,
+  "list": 7
+ }
+]

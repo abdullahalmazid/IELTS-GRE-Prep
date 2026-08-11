@@ -1,0 +1,502 @@
+[
+ {
+  "word": "immaterial",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not relevant to the matter in hand.",
+  "syn": [
+   "irrelevant",
+   "inconsequential",
+   "beside the point"
+  ],
+  "ant": [
+   "relevant",
+   "material"
+  ],
+  "ex": "His motive is immaterial to the charge.",
+  "id": 1238,
+  "list": 7
+ },
+ {
+  "word": "imminent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "About to happen very soon.",
+  "syn": [
+   "impending",
+   "approaching",
+   "looming"
+  ],
+  "ant": [
+   "distant",
+   "remote"
+  ],
+  "ex": "Collapse looked imminent by Friday.",
+  "id": 1239,
+  "list": 7
+ },
+ {
+  "word": "impinge",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To have an effect on, often intrusively.",
+  "syn": [
+   "encroach",
+   "intrude",
+   "affect"
+  ],
+  "ant": [
+   "withdraw"
+  ],
+  "ex": "The rules impinge on academic freedom.",
+  "id": 1240,
+  "list": 7
+ },
+ {
+  "word": "implicate",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To show that someone is involved in wrongdoing.",
+  "syn": [
+   "incriminate",
+   "embroil",
+   "entangle"
+  ],
+  "ant": [
+   "exonerate",
+   "clear"
+  ],
+  "ex": "The emails implicate two senior managers.",
+  "id": 1241,
+  "list": 7
+ },
+ {
+  "word": "imprudent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Not showing care for the consequences.",
+  "syn": [
+   "rash",
+   "injudicious",
+   "reckless"
+  ],
+  "ant": [
+   "prudent",
+   "circumspect"
+  ],
+  "ex": "An imprudent loan against a single asset.",
+  "id": 1242,
+  "list": 7
+ },
+ {
+  "word": "impudent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Boldly disrespectful.",
+  "syn": [
+   "insolent",
+   "impertinent",
+   "brazen"
+  ],
+  "ant": [
+   "respectful",
+   "deferential"
+  ],
+  "ex": "An impudent reply to a formal warning.",
+  "id": 1243,
+  "list": 7
+ },
+ {
+  "word": "impute",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To attribute a fault or quality to someone.",
+  "syn": [
+   "ascribe",
+   "attribute",
+   "assign"
+  ],
+  "ant": [
+   "absolve",
+   "exonerate"
+  ],
+  "ex": "Motives were imputed without evidence.",
+  "id": 1244,
+  "list": 7
+ },
+ {
+  "word": "inadvertence",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A failure to notice something; an oversight.",
+  "syn": [
+   "oversight",
+   "negligence",
+   "carelessness"
+  ],
+  "ant": [
+   "attentiveness",
+   "care"
+  ],
+  "ex": "The omission was pure inadvertence.",
+  "id": 1245,
+  "list": 7
+ },
+ {
+  "word": "incendiary",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Designed to stir up conflict.",
+  "syn": [
+   "inflammatory",
+   "provocative",
+   "seditious"
+  ],
+  "ant": [
+   "calming",
+   "conciliatory"
+  ],
+  "ex": "An incendiary speech before the vote.",
+  "id": 1246,
+  "list": 7
+ },
+ {
+  "word": "incessant",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Continuing without pause.",
+  "syn": [
+   "ceaseless",
+   "unremitting",
+   "constant"
+  ],
+  "ant": [
+   "intermittent",
+   "sporadic"
+  ],
+  "ex": "Incessant rain delayed the harvest.",
+  "id": 1247,
+  "list": 7
+ },
+ {
+  "word": "incipient",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Beginning to appear or develop.",
+  "syn": [
+   "nascent",
+   "emerging",
+   "embryonic"
+  ],
+  "ant": [
+   "established",
+   "full-blown"
+  ],
+  "ex": "Signs of an incipient recovery.",
+  "id": 1248,
+  "list": 7
+ },
+ {
+  "word": "inclement",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unpleasantly cold or wet, of weather.",
+  "syn": [
+   "harsh",
+   "severe",
+   "stormy"
+  ],
+  "ant": [
+   "mild",
+   "clement"
+  ],
+  "ex": "Play was abandoned in inclement weather.",
+  "id": 1249,
+  "list": 7
+ },
+ {
+  "word": "incumbent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Necessary as a duty; also, currently holding office.",
+  "syn": [
+   "obligatory",
+   "binding",
+   "sitting"
+  ],
+  "ant": [
+   "optional",
+   "former"
+  ],
+  "ex": "It is incumbent on the seller to disclose faults.",
+  "id": 1250,
+  "list": 7
+ },
+ {
+  "word": "indomitable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to subdue or defeat.",
+  "syn": [
+   "unconquerable",
+   "invincible",
+   "resolute"
+  ],
+  "ant": [
+   "submissive",
+   "yielding"
+  ],
+  "ex": "An indomitable will carried the expedition through.",
+  "id": 1251,
+  "list": 7
+ },
+ {
+  "word": "indubitable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to doubt.",
+  "syn": [
+   "unquestionable",
+   "certain",
+   "incontrovertible"
+  ],
+  "ant": [
+   "doubtful",
+   "dubious"
+  ],
+  "ex": "An indubitable improvement on the first draft.",
+  "id": 1252,
+  "list": 7
+ },
+ {
+  "word": "ineluctable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to avoid.",
+  "syn": [
+   "inescapable",
+   "inevitable",
+   "unavoidable"
+  ],
+  "ant": [
+   "avoidable",
+   "escapable"
+  ],
+  "ex": "The ineluctable logic of compound interest.",
+  "id": 1253,
+  "list": 7
+ },
+ {
+  "word": "inexorable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to stop or persuade otherwise.",
+  "syn": [
+   "relentless",
+   "implacable",
+   "unstoppable"
+  ],
+  "ant": [
+   "yielding",
+   "stoppable"
+  ],
+  "ex": "The inexorable rise of automation.",
+  "id": 1254,
+  "list": 7
+ },
+ {
+  "word": "infallible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Incapable of being wrong.",
+  "syn": [
+   "unerring",
+   "faultless",
+   "unimpeachable"
+  ],
+  "ant": [
+   "fallible",
+   "imperfect"
+  ],
+  "ex": "No test is infallible at low prevalence.",
+  "id": 1255,
+  "list": 7
+ },
+ {
+  "word": "ingratiate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To bring oneself into favour by deliberate effort.",
+  "syn": [
+   "curry favour",
+   "flatter",
+   "insinuate"
+  ],
+  "ant": [
+   "alienate",
+   "antagonise"
+  ],
+  "ex": "He ingratiated himself with the committee.",
+  "id": 1256,
+  "list": 7
+ },
+ {
+  "word": "inimitable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "So good or unusual as to be impossible to copy.",
+  "syn": [
+   "unique",
+   "matchless",
+   "peerless"
+  ],
+  "ant": [
+   "ordinary",
+   "imitable"
+  ],
+  "ex": "Her inimitable prose style.",
+  "id": 1257,
+  "list": 7
+ },
+ {
+  "word": "insinuate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To suggest something unpleasant indirectly.",
+  "syn": [
+   "imply",
+   "intimate",
+   "hint"
+  ],
+  "ant": [
+   "state",
+   "declare"
+  ],
+  "ex": "He insinuated that the results were arranged.",
+  "id": 1258,
+  "list": 7
+ },
+ {
+  "word": "insolvent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unable to pay one's debts.",
+  "syn": [
+   "bankrupt",
+   "ruined",
+   "in arrears"
+  ],
+  "ant": [
+   "solvent",
+   "liquid"
+  ],
+  "ex": "The chain was insolvent by December.",
+  "id": 1259,
+  "list": 7
+ },
+ {
+  "word": "insurgent",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person rebelling against authority.",
+  "syn": [
+   "rebel",
+   "insurrectionist",
+   "mutineer"
+  ],
+  "ant": [
+   "loyalist",
+   "conformist"
+  ],
+  "ex": "Insurgents held three northern districts.",
+  "id": 1260,
+  "list": 7
+ },
+ {
+  "word": "interlocutor",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A person taking part in a conversation.",
+  "syn": [
+   "conversationalist",
+   "speaker",
+   "counterpart"
+  ],
+  "ant": [],
+  "ex": "His interlocutor refused to be drawn.",
+  "id": 1261,
+  "list": 7
+ },
+ {
+  "word": "interminable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Tediously long, seeming to have no end.",
+  "syn": [
+   "endless",
+   "protracted",
+   "ceaseless"
+  ],
+  "ant": [
+   "brief",
+   "finite"
+  ],
+  "ex": "An interminable debate over procedure.",
+  "id": 1262,
+  "list": 7
+ },
+ {
+  "word": "intimate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To make something known indirectly.",
+  "syn": [
+   "hint",
+   "imply",
+   "suggest"
+  ],
+  "ant": [
+   "state",
+   "declare"
+  ],
+  "ex": "She intimated that she might resign.",
+  "id": 1263,
+  "list": 7
+ },
+ {
+  "word": "inure",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To accustom someone to something unpleasant.",
+  "syn": [
+   "harden",
+   "habituate",
+   "acclimatise"
+  ],
+  "ant": [
+   "sensitise",
+   "soften"
+  ],
+  "ex": "Long service inured him to bad news.",
+  "id": 1264,
+  "list": 7
+ },
+ {
+  "word": "irrevocable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Impossible to change or reverse.",
+  "syn": [
+   "irreversible",
+   "final",
+   "binding"
+  ],
+  "ant": [
+   "reversible",
+   "revocable"
+  ],
+  "ex": "The decision is irrevocable once filed.",
+  "id": 1265,
+  "list": 7
+ }
+]

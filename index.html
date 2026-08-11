@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IELTS &amp; GRE vocabulary</title>
+<meta name="description" content="Academic vocabulary for IELTS and GRE — definitions, synonyms, antonyms, example sentences, a spelling drill and a quiz.">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/vocab.css">
+</head>
+
+<body data-page="vocab" id="top">
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html">Wordbank<span class="dot">.</span></a>
+    <p class="site-tagline">IELTS &amp; GRE vocabulary</p>
+  </div>
+</header>
+
+<nav class="site-nav" aria-label="Main">
+  <div class="wrap">
+    <button class="nav-burger" id="navBurger" aria-expanded="false" aria-controls="navLinks">Menu</button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#" data-go="home">Home</a></li>
+      <li><a href="#" data-go="ielts">IELTS</a></li>
+      <li><a href="#" data-go="gre">GRE</a></li>
+      <li><a href="#" data-go="pairs">Synonyms</a></li>
+      <li><a href="#" data-go="quiz">Quiz</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main>
+<div class="wrap">
+<div id="page-main">
+
+  <!-- Shown until the JSON loads, and left in place if it can't. -->
+  <div class="state-panel" id="bootState">
+    <h3 id="bootTitle">Loading the wordbank</h3>
+    <p id="bootMsg">Reading data/manifest.json.</p>
+  </div>
+
+  <div id="app" class="is-hidden">
+
+    <div class="tabs" role="tablist" aria-label="Sections">
+      <button role="tab" id="tab-home"  aria-controls="panel-home"  aria-selected="true">Home</button>
+      <button role="tab" id="tab-ielts" aria-controls="browseTools" aria-selected="false">IELTS</button>
+      <button role="tab" id="tab-gre"   aria-controls="browseTools"   aria-selected="false">GRE</button>
+      <button role="tab" id="tab-pairs" aria-controls="browseTools" aria-selected="false">Synonyms &amp; antonyms</button>
+      <button role="tab" id="tab-quiz"  aria-controls="panel-quiz"  aria-selected="false">Quiz</button>
+    </div>
+
+    <!-- Shared browsing controls: letter rail, search, filters. Hidden on
+         Home and Quiz. -->
+    <div id="browseTools" class="is-hidden" role="tabpanel">
+      <div class="letter-rail" id="rail"></div>
+      <div class="toolbar">
+        <input type="search" id="q" placeholder="Search a word, meaning or synonym" aria-label="Search words">
+        <select id="fPos" aria-label="Filter by word type"><option value="">All word types</option></select>
+        <select id="fShow" aria-label="Filter by progress">
+          <option value="">Learned and not</option>
+          <option value="unlearned">Not learned yet</option>
+          <option value="learned">Learned only</option>
+        </select>
+      </div>
+      <div class="result-line">
+        <span id="count">&nbsp;</span>
+        <span id="pairTools" class="is-hidden">
+          <label for="pairHide">Drill:</label>
+          <select id="pairHide" style="font:inherit;font-size:12.5px;padding:3px 6px;border:1px solid var(--rule);">
+            <option value="none">show everything</option>
+            <option value="syn">blur the synonyms</option>
+            <option value="ant">blur the opposites</option>
+          </select>
+        </span>
+      </div>
+      <p id="busy" class="muted is-hidden" style="font-size:12.5px;">Loading words…</p>
+
+      <!-- One results area, shared by IELTS, GRE and Synonyms. The tab
+           decides which of the two renderers fills it. -->
+      <div class="word-grid" id="grid"></div>
+      <div id="pairs" class="is-hidden"></div>
+      <div class="load-more is-hidden" id="moreWrap"><button class="btn" id="more">Show 40 more</button></div>
+    </div>
+
+    <!-- HOME ----------------------------------------------------------- -->
+    <section id="panel-home" role="tabpanel" aria-labelledby="tab-home">
+      <div class="page-head">
+        <p class="eyebrow">Start here</p>
+        <h1>A wordbank you can actually finish</h1>
+        <p>Every entry carries a definition, words of similar meaning, words of opposite meaning, and a sentence showing the word at work. Open any card to test your spelling of it.</p>
+      </div>
+
+      <div class="stat-rail">
+        <div class="stat-well"><span class="n" id="tWords">0</span><span class="l">words</span></div>
+        <div class="stat-well"><span class="n" id="tIelts">0</span><span class="l">for IELTS</span></div>
+        <div class="stat-well"><span class="n" id="tGre">0</span><span class="l">for GRE</span></div>
+        <div class="stat-well"><span class="n" id="tBoth">0</span><span class="l">on both exams</span></div>
+      </div>
+
+      <section>
+        <p class="eyebrow">Four ways in</p>
+        <div class="how-grid">
+          <div class="how-card">
+            <h3>IELTS</h3>
+            <p>The academic wordlist, letter by letter. Start at A and work down; a letter is small enough to finish in a sitting.</p>
+            <button class="btn" data-go="ielts">Open the IELTS list</button>
+          </div>
+          <div class="how-card">
+            <h3>GRE</h3>
+            <p>The harder register — words that turn up in text completion and sentence equivalence rather than everyday prose.</p>
+            <button class="btn" data-go="gre">Open the GRE list</button>
+          </div>
+          <div class="how-card">
+            <h3>Synonyms &amp; antonyms</h3>
+            <p>The same words in three columns. Blur one column and recall it from the other two.</p>
+            <button class="btn" data-go="pairs">Open the table</button>
+          </div>
+          <div class="how-card">
+            <h3>Quiz</h3>
+            <p>Ten questions mixing meanings, opposites, gap-fills and spelling. Draw from everything, or only what you haven't learned.</p>
+            <button class="btn" data-go="quiz">Take a quiz</button>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <p class="eyebrow">How to work through it</p>
+        <p>Memorising a definition is not the same as owning a word. Aim to produce it: having learnt <em>resolute</em>, you should be able to write <em>her resolution to become a designer led to her success</em>. That is the level the writing band descriptors reward.</p>
+        <p>One letter at a time beats grazing across the whole list. Read a letter, mark what you know, then run the quiz restricted to what you haven't learned. Finish a letter well before starting the next — a hundred words you can use outrank five hundred you half-recognise.</p>
+        <p>Use the spelling test inside each card once the meaning is secure. Recognising a word on a page is a lower bar than producing it from the meaning alone, and spelling is where that gap shows up first.</p>
+      </section>
+    </section>
+
+    <!-- QUIZ ------------------------------------------------------------ -->
+    <section id="panel-quiz" role="tabpanel" aria-labelledby="tab-quiz" hidden>
+      <div class="quiz-stage" id="quizStage"></div>
+    </section>
+
+  </div><!-- /#app -->
+
+  <!-- SIDEBAR ---------------------------------------------------------- -->
+  <aside class="sidebar">
+    <div class="widget">
+      <h4>Your progress</h4>
+      <div class="progress-fig">
+        <span class="n" id="knownN">0</span>
+        <span class="l">words marked learned</span>
+      </div>
+      <div class="meter-track"><div class="meter-fill" id="knownBar"></div></div>
+      <p class="muted" style="font-size:12px;margin-top:10px;">Kept in this browser only.
+        <button class="link-btn" id="resetProgress">Reset</button>
+      </p>
+    </div>
+
+    <div class="widget">
+      <h4>In the collection</h4>
+      <ul>
+        <li class="legend-key"><span><span class="tag-dot project"></span>IELTS</span><span class="n" id="nIelts">0</span></li>
+        <li class="legend-key"><span><span class="tag-dot publication"></span>GRE</span><span class="n" id="nGre">0</span></li>
+        <li class="legend-key"><span><span class="tag-dot experience"></span>Both exams</span><span class="n" id="nBoth">0</span></li>
+      </ul>
+    </div>
+
+    <div class="widget">
+      <h4>Adding words</h4>
+      <p>Words live in <code>data/words/</code>, one folder per letter. Drop a new part file in and add its name to <code>data/manifest.json</code>.</p>
+      <p>Nothing in the HTML needs touching.</p>
+    </div>
+  </aside>
+
+  <div class="page-nav">
+    <p class="page-nav-browse">
+      <span class="pn-label">Sections</span>
+      <a href="#" data-go="home">Home</a><span class="pn-sep">/</span>
+      <a href="#" data-go="ielts">IELTS</a><span class="pn-sep">/</span>
+      <a href="#" data-go="gre">GRE</a><span class="pn-sep">/</span>
+      <a href="#" data-go="pairs">Synonyms</a><span class="pn-sep">/</span>
+      <a href="#" data-go="quiz">Quiz</a>
+    </p>
+  </div>
+
+</div><!-- /#page-main -->
+</div><!-- /.wrap -->
+</main>
+
+<p class="to-top"><a href="#top">Back to top &uarr;</a></p>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>&copy; <span id="yr"></span> Wordbank. Built for IELTS and GRE preparation.</p>
+  </div>
+</footer>
+
+<!-- WORD CARD -->
+<div class="modal-overlay" id="overlay" role="dialog" aria-modal="true" aria-label="Word card">
+  <div class="modal-panel word-detail">
+    <button class="modal-close" id="closeCard" aria-label="Close">&times;</button>
+    <div id="cardBody"></div>
+  </div>
+</div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

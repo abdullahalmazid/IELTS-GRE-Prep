@@ -1,0 +1,359 @@
+[
+ {
+  "word": "panel",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A group of people convened to judge or discuss.",
+  "syn": [
+   "board",
+   "committee",
+   "jury"
+  ],
+  "ant": [],
+  "ex": "An independent panel reviewed the evidence.",
+  "id": 1543,
+  "list": 8
+ },
+ {
+  "word": "paramount",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "More important than anything else.",
+  "syn": [
+   "supreme",
+   "overriding",
+   "chief"
+  ],
+  "ant": [
+   "secondary",
+   "minor"
+  ],
+  "ex": "Safety is paramount in reactor design.",
+  "id": 1544,
+  "list": 8
+ },
+ {
+  "word": "partner",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A person or organisation sharing an activity.",
+  "syn": [
+   "associate",
+   "collaborator",
+   "ally"
+  ],
+  "ant": [
+   "rival",
+   "competitor"
+  ],
+  "ex": "Universities act as research partners.",
+  "id": 1545,
+  "list": 8
+ },
+ {
+  "word": "pedagogy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The method and practice of teaching.",
+  "syn": [
+   "teaching method",
+   "instruction",
+   "didactics"
+  ],
+  "ant": [],
+  "ex": "Pedagogy has changed more than assessment has.",
+  "id": 1546,
+  "list": 8
+ },
+ {
+  "word": "pedestrian",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A person travelling on foot.",
+  "syn": [
+   "walker",
+   "foot traffic"
+  ],
+  "ant": [
+   "motorist",
+   "driver"
+  ],
+  "ex": "The square was returned to pedestrians.",
+  "id": 1547,
+  "list": 8
+ },
+ {
+  "word": "phase",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A distinct stage in a process.",
+  "syn": [
+   "stage",
+   "period",
+   "step"
+  ],
+  "ant": [],
+  "ex": "The second phase begins next April.",
+  "id": 1548,
+  "list": 8
+ },
+ {
+  "word": "physical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to the body or to material things.",
+  "syn": [
+   "bodily",
+   "material",
+   "corporeal"
+  ],
+  "ant": [
+   "mental",
+   "abstract"
+  ],
+  "ex": "Physical activity fell sharply among teenagers.",
+  "id": 1549,
+  "list": 8
+ },
+ {
+  "word": "pivotal",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Of crucial importance to an outcome.",
+  "syn": [
+   "crucial",
+   "decisive",
+   "critical"
+  ],
+  "ant": [
+   "peripheral",
+   "trivial"
+  ],
+  "ex": "Teachers play a pivotal role in early literacy.",
+  "id": 1550,
+  "list": 8
+ },
+ {
+  "word": "pollutant",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A substance that contaminates air, water or soil.",
+  "syn": [
+   "contaminant",
+   "toxin",
+   "impurity"
+  ],
+  "ant": [],
+  "ex": "Traffic remains the main urban pollutant source.",
+  "id": 1551,
+  "list": 8
+ },
+ {
+  "word": "practitioner",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A person actively working in a profession.",
+  "syn": [
+   "professional",
+   "specialist",
+   "clinician"
+  ],
+  "ant": [
+   "theorist",
+   "layman"
+  ],
+  "ex": "General practitioners handle most first contacts.",
+  "id": 1552,
+  "list": 8
+ },
+ {
+  "word": "prejudice",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An unfair opinion formed without knowledge.",
+  "syn": [
+   "bias",
+   "bigotry",
+   "preconception"
+  ],
+  "ant": [
+   "impartiality",
+   "tolerance"
+  ],
+  "ex": "Prejudice persists even where laws change.",
+  "id": 1553,
+  "list": 8
+ },
+ {
+  "word": "prime",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Of first importance or best quality.",
+  "syn": [
+   "chief",
+   "foremost",
+   "principal"
+  ],
+  "ant": [
+   "secondary",
+   "inferior"
+  ],
+  "ex": "Housing is the prime concern of younger voters.",
+  "id": 1554,
+  "list": 8
+ },
+ {
+  "word": "principal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Most important; main.",
+  "syn": [
+   "chief",
+   "leading",
+   "primary"
+  ],
+  "ant": [
+   "minor",
+   "subsidiary"
+  ],
+  "ex": "The principal cause was poor drainage.",
+  "id": 1555,
+  "list": 8
+ },
+ {
+  "word": "principle",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A fundamental truth or rule guiding behaviour.",
+  "syn": [
+   "tenet",
+   "doctrine",
+   "precept"
+  ],
+  "ant": [],
+  "ex": "The principle of equal access underpins the policy.",
+  "id": 1556,
+  "list": 8
+ },
+ {
+  "word": "prior",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Existing or coming before in time.",
+  "syn": [
+   "previous",
+   "earlier",
+   "antecedent"
+  ],
+  "ant": [
+   "subsequent",
+   "later"
+  ],
+  "ex": "No prior experience is required.",
+  "id": 1557,
+  "list": 8
+ },
+ {
+  "word": "proceed",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To continue or begin a course of action.",
+  "syn": [
+   "continue",
+   "advance",
+   "progress"
+  ],
+  "ant": [
+   "halt",
+   "desist"
+  ],
+  "ex": "The inquiry proceeded despite the objections.",
+  "id": 1558,
+  "list": 8
+ },
+ {
+  "word": "productivity",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The rate of output relative to input.",
+  "syn": [
+   "efficiency",
+   "yield",
+   "output rate"
+  ],
+  "ant": [
+   "inefficiency"
+  ],
+  "ex": "Productivity has barely moved in fifteen years.",
+  "id": 1559,
+  "list": 8
+ },
+ {
+  "word": "professional",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to skilled paid work; showing competence.",
+  "syn": [
+   "expert",
+   "skilled",
+   "vocational"
+  ],
+  "ant": [
+   "amateur",
+   "unskilled"
+  ],
+  "ex": "Professional standards vary widely between regions.",
+  "id": 1560,
+  "list": 8
+ },
+ {
+  "word": "propaganda",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Biased information used to promote a cause.",
+  "syn": [
+   "disinformation",
+   "indoctrination",
+   "spin"
+  ],
+  "ant": [
+   "objective reporting"
+  ],
+  "ex": "Wartime propaganda shaped a generation's beliefs.",
+  "id": 1561,
+  "list": 8
+ },
+ {
+  "word": "proponent",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "A person who argues in favour of something.",
+  "syn": [
+   "advocate",
+   "supporter",
+   "champion"
+  ],
+  "ant": [
+   "opponent",
+   "critic"
+  ],
+  "ex": "Proponents claim savings that critics dispute.",
+  "id": 1562,
+  "list": 8
+ },
+ {
+  "word": "protocol",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An official procedure or set of rules.",
+  "syn": [
+   "procedure",
+   "convention",
+   "etiquette"
+  ],
+  "ant": [],
+  "ex": "Staff departed from the agreed protocol.",
+  "id": 1563,
+  "list": 8
+ }
+]

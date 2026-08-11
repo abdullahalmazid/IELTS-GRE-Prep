@@ -1,0 +1,38 @@
+[
+ {
+  "word": "quell",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To put an end to unrest or a feeling.",
+  "syn": [
+   "suppress",
+   "subdue",
+   "stifle"
+  ],
+  "ant": [
+   "incite",
+   "provoke"
+  ],
+  "ex": "Troops quelled the disturbance by dawn.",
+  "id": 1347,
+  "list": 7
+ },
+ {
+  "word": "quibble",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To argue about trivial details.",
+  "syn": [
+   "cavil",
+   "nitpick",
+   "carp"
+  ],
+  "ant": [
+   "concede",
+   "agree"
+  ],
+  "ex": "Reviewers quibbled over the phrasing.",
+  "id": 1348,
+  "list": 7
+ }
+]

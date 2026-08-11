@@ -1,0 +1,451 @@
+[
+ {
+  "word": "tacit",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Understood without being stated.",
+  "syn": [
+   "implicit",
+   "unspoken",
+   "implied"
+  ],
+  "ant": [
+   "explicit",
+   "stated"
+  ],
+  "ex": "Tacit approval let the practice continue.",
+  "id": 936,
+  "list": 6
+ },
+ {
+  "word": "taciturn",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Saying very little by nature.",
+  "syn": [
+   "reticent",
+   "reserved",
+   "uncommunicative"
+  ],
+  "ant": [
+   "garrulous",
+   "voluble"
+  ],
+  "ex": "A taciturn witness who volunteered nothing.",
+  "id": 937,
+  "list": 6
+ },
+ {
+  "word": "tangential",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Only distantly connected to the main point.",
+  "syn": [
+   "peripheral",
+   "incidental",
+   "digressive"
+  ],
+  "ant": [
+   "central",
+   "pertinent"
+  ],
+  "ex": "A tangential remark derailed the discussion.",
+  "id": 938,
+  "list": 6
+ },
+ {
+  "word": "tangible",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Real enough to be touched or clearly seen.",
+  "syn": [
+   "concrete",
+   "palpable",
+   "material"
+  ],
+  "ant": [
+   "intangible",
+   "abstract"
+  ],
+  "ex": "Tangible benefits appeared within a year.",
+  "id": 939,
+  "list": 6
+ },
+ {
+  "word": "tantamount",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Equivalent in effect to something.",
+  "syn": [
+   "equivalent",
+   "as good as",
+   "commensurate"
+  ],
+  "ant": [
+   "different",
+   "unequal"
+  ],
+  "ex": "Silence here is tantamount to consent.",
+  "id": 940,
+  "list": 6
+ },
+ {
+  "word": "tautology",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Saying the same thing twice in different words.",
+  "syn": [
+   "redundancy",
+   "repetition",
+   "pleonasm"
+  ],
+  "ant": [
+   "concision"
+  ],
+  "ex": "'Free gift' is a familiar tautology.",
+  "id": 941,
+  "list": 6
+ },
+ {
+  "word": "temerity",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Excessive boldness or nerve.",
+  "syn": [
+   "audacity",
+   "effrontery",
+   "gall"
+  ],
+  "ant": [
+   "timidity",
+   "caution"
+  ],
+  "ex": "He had the temerity to ask for a raise.",
+  "id": 942,
+  "list": 6
+ },
+ {
+  "word": "temperate",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Moderate and self-restrained.",
+  "syn": [
+   "moderate",
+   "measured",
+   "restrained"
+  ],
+  "ant": [
+   "extreme",
+   "intemperate"
+  ],
+  "ex": "A temperate response to fierce provocation.",
+  "id": 943,
+  "list": 6
+ },
+ {
+  "word": "tenable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Able to be defended against objection.",
+  "syn": [
+   "defensible",
+   "justifiable",
+   "sustainable"
+  ],
+  "ant": [
+   "untenable",
+   "indefensible"
+  ],
+  "ex": "That position is no longer tenable.",
+  "id": 944,
+  "list": 6
+ },
+ {
+  "word": "tenacious",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Holding firmly and refusing to give up.",
+  "syn": [
+   "persistent",
+   "dogged",
+   "resolute"
+  ],
+  "ant": [
+   "yielding",
+   "irresolute"
+  ],
+  "ex": "A tenacious defence of the original findings.",
+  "id": 945,
+  "list": 6
+ },
+ {
+  "word": "tenuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Very weak or slight.",
+  "syn": [
+   "flimsy",
+   "insubstantial",
+   "fragile"
+  ],
+  "ant": [
+   "strong",
+   "substantial"
+  ],
+  "ex": "A tenuous link between the two events.",
+  "id": 946,
+  "list": 6
+ },
+ {
+  "word": "tepid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing little enthusiasm; lukewarm.",
+  "syn": [
+   "half-hearted",
+   "unenthusiastic",
+   "indifferent"
+  ],
+  "ant": [
+   "enthusiastic",
+   "ardent"
+  ],
+  "ex": "A tepid reception at the launch.",
+  "id": 947,
+  "list": 6
+ },
+ {
+  "word": "terse",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Brief and to the point, sometimes rudely so.",
+  "syn": [
+   "curt",
+   "laconic",
+   "succinct"
+  ],
+  "ant": [
+   "long-winded",
+   "expansive"
+  ],
+  "ex": "A terse statement of eleven words.",
+  "id": 948,
+  "list": 6
+ },
+ {
+  "word": "timorous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing a lack of confidence; nervous.",
+  "syn": [
+   "timid",
+   "apprehensive",
+   "fearful"
+  ],
+  "ant": [
+   "bold",
+   "intrepid"
+  ],
+  "ex": "A timorous first attempt at cross-examination.",
+  "id": 949,
+  "list": 6
+ },
+ {
+  "word": "tirade",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A long angry speech of criticism.",
+  "syn": [
+   "diatribe",
+   "harangue",
+   "rant"
+  ],
+  "ant": [
+   "eulogy",
+   "tribute"
+  ],
+  "ex": "The meeting ended in a tirade.",
+  "id": 950,
+  "list": 6
+ },
+ {
+  "word": "torpid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sluggish and inactive.",
+  "syn": [
+   "lethargic",
+   "sluggish",
+   "dormant"
+  ],
+  "ant": [
+   "energetic",
+   "lively"
+  ],
+  "ex": "A torpid market with almost no trading.",
+  "id": 951,
+  "list": 6
+ },
+ {
+  "word": "tortuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Full of twists; excessively complicated.",
+  "syn": [
+   "convoluted",
+   "circuitous",
+   "labyrinthine"
+  ],
+  "ant": [
+   "direct",
+   "straightforward"
+  ],
+  "ex": "A tortuous route through three committees.",
+  "id": 952,
+  "list": 6
+ },
+ {
+  "word": "tractable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Easy to control or deal with.",
+  "syn": [
+   "manageable",
+   "docile",
+   "compliant"
+  ],
+  "ant": [
+   "intractable",
+   "unruly"
+  ],
+  "ex": "A tractable problem once it was reframed.",
+  "id": 953,
+  "list": 6
+ },
+ {
+  "word": "transient",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Lasting only a short time.",
+  "syn": [
+   "fleeting",
+   "ephemeral",
+   "momentary"
+  ],
+  "ant": [
+   "permanent",
+   "enduring"
+  ],
+  "ex": "The improvement proved transient.",
+  "id": 954,
+  "list": 6
+ },
+ {
+  "word": "trenchant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Sharply expressed and effective.",
+  "syn": [
+   "incisive",
+   "cutting",
+   "penetrating"
+  ],
+  "ant": [
+   "vague",
+   "woolly"
+  ],
+  "ex": "A trenchant critique of the whole model.",
+  "id": 955,
+  "list": 6
+ },
+ {
+  "word": "trepidation",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Nervous fear about what may happen.",
+  "syn": [
+   "apprehension",
+   "misgiving",
+   "disquiet"
+  ],
+  "ant": [
+   "confidence",
+   "composure"
+  ],
+  "ex": "She opened the results with trepidation.",
+  "id": 956,
+  "list": 6
+ },
+ {
+  "word": "truculent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Aggressively defiant.",
+  "syn": [
+   "belligerent",
+   "pugnacious",
+   "combative"
+  ],
+  "ant": [
+   "amiable",
+   "cooperative"
+  ],
+  "ex": "A truculent refusal to hand over the files.",
+  "id": 957,
+  "list": 6
+ },
+ {
+  "word": "truncate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To shorten by cutting off part of something.",
+  "syn": [
+   "curtail",
+   "abbreviate",
+   "trim"
+  ],
+  "ant": [
+   "extend",
+   "lengthen"
+  ],
+  "ex": "The study was truncated when funding ended.",
+  "id": 958,
+  "list": 6
+ },
+ {
+  "word": "turgid",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Pompous and tediously overblown in style.",
+  "syn": [
+   "bombastic",
+   "grandiloquent",
+   "inflated"
+  ],
+  "ant": [
+   "lucid",
+   "plain"
+  ],
+  "ex": "Turgid prose that defeats most readers.",
+  "id": 959,
+  "list": 6
+ },
+ {
+  "word": "turpitude",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Depraved or wicked behaviour.",
+  "syn": [
+   "depravity",
+   "wickedness",
+   "corruption"
+  ],
+  "ant": [
+   "virtue",
+   "integrity"
+  ],
+  "ex": "Dismissed for moral turpitude.",
+  "id": 960,
+  "list": 6
+ }
+]

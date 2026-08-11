@@ -1,0 +1,279 @@
+[
+ {
+  "word": "academy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An institution of higher learning or specialist training.",
+  "syn": [
+   "institute",
+   "college",
+   "school"
+  ],
+  "ant": [],
+  "ex": "The academy trains most of the country's engineers.",
+  "id": 1409,
+  "list": 8
+ },
+ {
+  "word": "accountability",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The obligation to answer for one's actions.",
+  "syn": [
+   "responsibility",
+   "answerability",
+   "liability"
+  ],
+  "ant": [
+   "impunity"
+  ],
+  "ex": "Accountability weakened as contracts multiplied.",
+  "id": 1410,
+  "list": 8
+ },
+ {
+  "word": "acquire",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To gain possession of something, or to learn a skill.",
+  "syn": [
+   "obtain",
+   "attain",
+   "procure"
+  ],
+  "ant": [
+   "lose",
+   "forfeit"
+  ],
+  "ex": "Children acquire grammar without formal instruction.",
+  "id": 1411,
+  "list": 8
+ },
+ {
+  "word": "adapt",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To change something so it suits new conditions.",
+  "syn": [
+   "adjust",
+   "modify",
+   "tailor"
+  ],
+  "ant": [
+   "retain",
+   "preserve"
+  ],
+  "ex": "Species that cannot adapt quickly will vanish.",
+  "id": 1412,
+  "list": 8
+ },
+ {
+  "word": "advocacy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Public support for a cause or policy.",
+  "syn": [
+   "campaigning",
+   "championing",
+   "promotion"
+  ],
+  "ant": [
+   "opposition"
+  ],
+  "ex": "Patient advocacy changed the funding rules.",
+  "id": 1413,
+  "list": 8
+ },
+ {
+  "word": "affluent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Having plenty of money.",
+  "syn": [
+   "wealthy",
+   "prosperous",
+   "well-off"
+  ],
+  "ant": [
+   "poor",
+   "impoverished"
+  ],
+  "ex": "Affluent districts recovered fastest.",
+  "id": 1414,
+  "list": 8
+ },
+ {
+  "word": "alleviated",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Made less severe.",
+  "syn": [
+   "eased",
+   "relieved",
+   "mitigated"
+  ],
+  "ant": [
+   "worsened",
+   "aggravated"
+  ],
+  "ex": "Congestion was alleviated by the new line.",
+  "id": 1415,
+  "list": 8
+ },
+ {
+  "word": "allocate",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To distribute resources for a particular purpose.",
+  "syn": [
+   "assign",
+   "apportion",
+   "earmark"
+  ],
+  "ant": [
+   "withhold",
+   "retain"
+  ],
+  "ex": "Only a tenth of the budget was allocated to maintenance.",
+  "id": 1416,
+  "list": 8
+ },
+ {
+  "word": "analogy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A comparison made to explain or clarify.",
+  "syn": [
+   "comparison",
+   "parallel",
+   "likeness"
+  ],
+  "ant": [
+   "contrast",
+   "disparity"
+  ],
+  "ex": "The analogy with a thermostat is imperfect but useful.",
+  "id": 1417,
+  "list": 8
+ },
+ {
+  "word": "analyse",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To examine something in detail to understand it.",
+  "syn": [
+   "examine",
+   "dissect",
+   "evaluate"
+  ],
+  "ant": [
+   "overlook",
+   "guess"
+  ],
+  "ex": "Researchers analysed twenty years of rainfall data.",
+  "id": 1418,
+  "list": 8
+ },
+ {
+  "word": "anonymity",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The condition of not being identified.",
+  "syn": [
+   "namelessness",
+   "obscurity",
+   "concealment"
+  ],
+  "ant": [
+   "identification",
+   "publicity"
+  ],
+  "ex": "Anonymity emboldens abusive commenters.",
+  "id": 1419,
+  "list": 8
+ },
+ {
+  "word": "apprenticeship",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A period of training while working under a skilled person.",
+  "syn": [
+   "traineeship",
+   "internship"
+  ],
+  "ant": [],
+  "ex": "Apprenticeships rebuilt the skilled trades.",
+  "id": 1420,
+  "list": 8
+ },
+ {
+  "word": "arable",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Suitable for growing crops.",
+  "syn": [
+   "cultivable",
+   "farmable",
+   "fertile"
+  ],
+  "ant": [
+   "barren",
+   "infertile"
+  ],
+  "ex": "Arable land is being lost to housing.",
+  "id": 1421,
+  "list": 8
+ },
+ {
+  "word": "assimilation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The absorption of a group into a wider culture.",
+  "syn": [
+   "integration",
+   "absorption",
+   "acculturation"
+  ],
+  "ant": [
+   "segregation",
+   "exclusion"
+  ],
+  "ex": "Assimilation was expected rather than negotiated.",
+  "id": 1422,
+  "list": 8
+ },
+ {
+  "word": "attach",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To fasten or join one thing to another.",
+  "syn": [
+   "affix",
+   "fasten",
+   "append"
+  ],
+  "ant": [
+   "detach",
+   "remove"
+  ],
+  "ex": "Conditions were attached to the loan.",
+  "id": 1423,
+  "list": 8
+ },
+ {
+  "word": "automation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The use of machines to do work formerly done by people.",
+  "syn": [
+   "mechanisation",
+   "computerisation"
+  ],
+  "ant": [
+   "manual labour"
+  ],
+  "ex": "Automation reshaped the warehouse workforce.",
+  "id": 1424,
+  "list": 8
+ }
+]

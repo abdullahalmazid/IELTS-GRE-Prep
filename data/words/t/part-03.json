@@ -1,0 +1,178 @@
+[
+ {
+  "word": "tacitly",
+  "pos": "adverb",
+  "level": "GRE",
+  "def": "In a way that is understood without being said.",
+  "syn": [
+   "implicitly",
+   "silently"
+  ],
+  "ant": [
+   "explicitly",
+   "openly"
+  ],
+  "ex": "The practice was tacitly accepted for years.",
+  "id": 1381,
+  "list": 7
+ },
+ {
+  "word": "tantalize",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To tease by showing something desirable but withheld.",
+  "syn": [
+   "tease",
+   "tempt",
+   "tantalise"
+  ],
+  "ant": [
+   "satisfy",
+   "gratify"
+  ],
+  "ex": "Early results tantalized the research team.",
+  "id": 1382,
+  "list": 7
+ },
+ {
+  "word": "tarnish",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To damage a reputation, or to dull a surface.",
+  "syn": [
+   "besmirch",
+   "sully",
+   "dull"
+  ],
+  "ant": [
+   "polish",
+   "enhance"
+  ],
+  "ex": "The affair tarnished an unblemished record.",
+  "id": 1383,
+  "list": 7
+ },
+ {
+  "word": "tedious",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Too long, slow or dull.",
+  "syn": [
+   "tiresome",
+   "monotonous",
+   "wearisome"
+  ],
+  "ant": [
+   "engaging",
+   "stimulating"
+  ],
+  "ex": "A tedious procedure repeated daily.",
+  "id": 1384,
+  "list": 7
+ },
+ {
+  "word": "tenet",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A principle held as part of a belief system.",
+  "syn": [
+   "doctrine",
+   "principle",
+   "precept"
+  ],
+  "ant": [],
+  "ex": "A central tenet of classical economics.",
+  "id": 1385,
+  "list": 7
+ },
+ {
+  "word": "threadbare",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Worn thin; also, unconvincing from overuse.",
+  "syn": [
+   "worn",
+   "frayed",
+   "hackneyed"
+  ],
+  "ant": [
+   "fresh",
+   "new"
+  ],
+  "ex": "A threadbare excuse offered a third time.",
+  "id": 1386,
+  "list": 7
+ },
+ {
+  "word": "thwart",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To prevent someone from achieving something.",
+  "syn": [
+   "foil",
+   "frustrate",
+   "obstruct"
+  ],
+  "ant": [
+   "assist",
+   "enable"
+  ],
+  "ex": "Bad weather thwarted the attempt twice.",
+  "id": 1387,
+  "list": 7
+ },
+ {
+  "word": "transgress",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To go beyond a moral or legal limit.",
+  "syn": [
+   "violate",
+   "infringe",
+   "offend"
+  ],
+  "ant": [
+   "obey",
+   "comply"
+  ],
+  "ex": "Anyone who transgresses faces suspension.",
+  "id": 1388,
+  "list": 7
+ },
+ {
+  "word": "trite",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Overused and therefore lacking force.",
+  "syn": [
+   "hackneyed",
+   "banal",
+   "stale"
+  ],
+  "ant": [
+   "original",
+   "striking"
+  ],
+  "ex": "A trite conclusion to a careful essay.",
+  "id": 1389,
+  "list": 7
+ },
+ {
+  "word": "tumult",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Loud confused noise or disorder.",
+  "syn": [
+   "uproar",
+   "commotion",
+   "turmoil"
+  ],
+  "ant": [
+   "calm",
+   "order"
+  ],
+  "ex": "The announcement was lost in the tumult.",
+  "id": 1390,
+  "list": 7
+ }
+]

@@ -1,0 +1,1114 @@
+[
+ {
+  "word": "data",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Facts and figures collected for analysis.",
+  "syn": [
+   "information",
+   "statistics",
+   "figures"
+  ],
+  "ant": [
+   "conjecture",
+   "speculation"
+  ],
+  "ex": "The data suggest a downward trend.",
+  "id": 213
+ },
+ {
+  "word": "debate",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A formal discussion of opposing arguments.",
+  "syn": [
+   "discussion",
+   "argument",
+   "dispute"
+  ],
+  "ant": [
+   "consensus",
+   "agreement"
+  ],
+  "ex": "The debate over nuclear power continues.",
+  "id": 214
+ },
+ {
+  "word": "debunk",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To expose a belief as false.",
+  "syn": [
+   "disprove",
+   "discredit",
+   "refute"
+  ],
+  "ant": [
+   "prove",
+   "substantiate"
+  ],
+  "ex": "The myth has been debunked repeatedly.",
+  "id": 215
+ },
+ {
+  "word": "decade",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A period of ten years.",
+  "syn": [
+   "ten-year span"
+  ],
+  "ant": [],
+  "ex": "Wages have stagnated for a decade.",
+  "id": 216
+ },
+ {
+  "word": "deceive",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To deliberately cause someone to believe something untrue.",
+  "syn": [
+   "mislead",
+   "dupe",
+   "delude"
+  ],
+  "ant": [
+   "enlighten",
+   "undeceive"
+  ],
+  "ex": "Advertising can deceive without technically lying.",
+  "id": 217
+ },
+ {
+  "word": "decline",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To decrease gradually, or to politely refuse.",
+  "syn": [
+   "diminish",
+   "dwindle",
+   "refuse"
+  ],
+  "ant": [
+   "increase",
+   "accept"
+  ],
+  "ex": "Bird populations declined by 40 percent.",
+  "id": 218
+ },
+ {
+  "word": "decorum",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Behaviour in keeping with good taste and propriety.",
+  "syn": [
+   "propriety",
+   "etiquette",
+   "dignity"
+  ],
+  "ant": [
+   "impropriety",
+   "vulgarity"
+  ],
+  "ex": "Courtroom decorum was strictly enforced.",
+  "id": 219
+ },
+ {
+  "word": "deduction",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A conclusion reached by reasoning, or an amount subtracted.",
+  "syn": [
+   "inference",
+   "conclusion",
+   "subtraction"
+  ],
+  "ant": [
+   "addition",
+   "guess"
+  ],
+  "ex": "His deduction proved entirely correct.",
+  "id": 220
+ },
+ {
+  "word": "deference",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Respectful submission to another's judgement.",
+  "syn": [
+   "respect",
+   "submission",
+   "obeisance"
+  ],
+  "ant": [
+   "defiance",
+   "disrespect"
+  ],
+  "ex": "The court showed deference to the regulator.",
+  "id": 221
+ },
+ {
+  "word": "definite",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Clearly stated and certain.",
+  "syn": [
+   "certain",
+   "unambiguous",
+   "conclusive"
+  ],
+  "ant": [
+   "vague",
+   "tentative"
+  ],
+  "ex": "There is no definite answer yet.",
+  "id": 222
+ },
+ {
+  "word": "definition",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A statement of the exact meaning of a word or concept.",
+  "syn": [
+   "meaning",
+   "explanation",
+   "clarification"
+  ],
+  "ant": [
+   "ambiguity",
+   "vagueness"
+  ],
+  "ex": "There is no agreed definition of intelligence.",
+  "id": 223
+ },
+ {
+  "word": "deleterious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Causing harm or damage.",
+  "syn": [
+   "harmful",
+   "detrimental",
+   "injurious"
+  ],
+  "ant": [
+   "beneficial",
+   "salutary"
+  ],
+  "ex": "The additive has deleterious effects on health.",
+  "id": 224
+ },
+ {
+  "word": "demonstrate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To show clearly through evidence or example.",
+  "syn": [
+   "prove",
+   "illustrate",
+   "exhibit"
+  ],
+  "ant": [
+   "conceal",
+   "disprove"
+  ],
+  "ex": "The trial demonstrated the drug's safety.",
+  "id": 225
+ },
+ {
+  "word": "denigrate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To criticise unfairly; to belittle.",
+  "syn": [
+   "disparage",
+   "malign",
+   "vilify"
+  ],
+  "ant": [
+   "praise",
+   "extol"
+  ],
+  "ex": "He denigrated rivals rather than defending his record.",
+  "id": 226
+ },
+ {
+  "word": "denote",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To be a sign of or to mean something.",
+  "syn": [
+   "signify",
+   "indicate",
+   "represent"
+  ],
+  "ant": [
+   "conceal"
+  ],
+  "ex": "The red line denotes the safety threshold.",
+  "id": 227
+ },
+ {
+  "word": "deny",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To state that something is untrue, or to refuse to give something.",
+  "syn": [
+   "refute",
+   "contradict",
+   "withhold"
+  ],
+  "ant": [
+   "admit",
+   "grant"
+  ],
+  "ex": "The firm denies any wrongdoing.",
+  "id": 228
+ },
+ {
+  "word": "depression",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A prolonged severe economic downturn; also a mood disorder.",
+  "syn": [
+   "slump",
+   "recession",
+   "despondency"
+  ],
+  "ant": [
+   "boom",
+   "elation"
+  ],
+  "ex": "The Great Depression reshaped economic thinking.",
+  "id": 229
+ },
+ {
+  "word": "deride",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To express contempt through mockery.",
+  "syn": [
+   "ridicule",
+   "mock",
+   "scorn"
+  ],
+  "ant": [
+   "praise",
+   "respect"
+  ],
+  "ex": "Critics derided the proposal as fantasy.",
+  "id": 230
+ },
+ {
+  "word": "derive",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To obtain something from a source, or to originate from.",
+  "syn": [
+   "obtain",
+   "stem",
+   "extract"
+  ],
+  "ant": [],
+  "ex": "Most antibiotics derive from soil fungi.",
+  "id": 231
+ },
+ {
+  "word": "desiccate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To remove moisture; to dry out thoroughly.",
+  "syn": [
+   "dehydrate",
+   "parch",
+   "dry"
+  ],
+  "ant": [
+   "moisten",
+   "hydrate"
+  ],
+  "ex": "The soil was desiccated by three dry summers.",
+  "id": 232
+ },
+ {
+  "word": "despite",
+  "pos": "preposition",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Without being affected by something.",
+  "syn": [
+   "notwithstanding",
+   "in spite of",
+   "regardless of"
+  ],
+  "ant": [
+   "because of"
+  ],
+  "ex": "Despite heavy rain, turnout was high.",
+  "id": 233
+ },
+ {
+  "word": "destructive",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Causing great damage or harm.",
+  "syn": [
+   "damaging",
+   "ruinous",
+   "devastating"
+  ],
+  "ant": [
+   "constructive",
+   "beneficial"
+  ],
+  "ex": "Overfishing is destructive to marine ecosystems.",
+  "id": 234
+ },
+ {
+  "word": "desultory",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Lacking a plan or enthusiasm; going from one thing to another.",
+  "syn": [
+   "aimless",
+   "haphazard",
+   "fitful"
+  ],
+  "ant": [
+   "methodical",
+   "focused"
+  ],
+  "ex": "They made a desultory attempt at repairs.",
+  "id": 235
+ },
+ {
+  "word": "detect",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To discover or notice something not easily seen.",
+  "syn": [
+   "discern",
+   "identify",
+   "sense"
+  ],
+  "ant": [
+   "miss",
+   "overlook"
+  ],
+  "ex": "Sensors detect even minute leaks.",
+  "id": 236
+ },
+ {
+  "word": "deviation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A departure from an accepted standard or expected value.",
+  "syn": [
+   "divergence",
+   "aberration",
+   "departure"
+  ],
+  "ant": [
+   "conformity",
+   "norm"
+  ],
+  "ex": "Any deviation from protocol was recorded.",
+  "id": 237
+ },
+ {
+  "word": "device",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A tool or piece of equipment made for a purpose.",
+  "syn": [
+   "instrument",
+   "gadget",
+   "apparatus"
+  ],
+  "ant": [],
+  "ex": "Wearable devices track heart rate continuously.",
+  "id": 238
+ },
+ {
+  "word": "devote",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To give time or resources entirely to a purpose.",
+  "syn": [
+   "dedicate",
+   "commit",
+   "allocate"
+  ],
+  "ant": [
+   "neglect",
+   "withhold"
+  ],
+  "ex": "She devoted twenty years to the research.",
+  "id": 239
+ },
+ {
+  "word": "diatribe",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "A bitter, abusive attack in speech or writing.",
+  "syn": [
+   "tirade",
+   "harangue",
+   "invective"
+  ],
+  "ant": [
+   "tribute",
+   "panegyric"
+  ],
+  "ex": "The editorial became a diatribe against regulators.",
+  "id": 240
+ },
+ {
+  "word": "didactic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Intended to teach, often excessively moralising.",
+  "syn": [
+   "instructive",
+   "moralising",
+   "preachy"
+  ],
+  "ant": [
+   "entertaining",
+   "subtle"
+  ],
+  "ex": "The novel is too didactic to move readers.",
+  "id": 241
+ },
+ {
+  "word": "differentiation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The act of recognising or making a difference between things.",
+  "syn": [
+   "distinction",
+   "discrimination",
+   "separation"
+  ],
+  "ant": [
+   "uniformity",
+   "homogenisation"
+  ],
+  "ex": "Product differentiation drives brand loyalty.",
+  "id": 242
+ },
+ {
+  "word": "diffident",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Lacking self-confidence; shy.",
+  "syn": [
+   "reticent",
+   "timid",
+   "self-effacing"
+  ],
+  "ant": [
+   "confident",
+   "assertive"
+  ],
+  "ex": "He was diffident about claiming credit.",
+  "id": 243
+ },
+ {
+  "word": "digress",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To depart from the main subject.",
+  "syn": [
+   "stray",
+   "deviate",
+   "ramble"
+  ],
+  "ant": [
+   "focus",
+   "stay on topic"
+  ],
+  "ex": "The lecturer digressed for twenty minutes.",
+  "id": 244
+ },
+ {
+  "word": "dilatory",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Slow to act; intended to cause delay.",
+  "syn": [
+   "tardy",
+   "procrastinating",
+   "sluggish"
+  ],
+  "ant": [
+   "prompt",
+   "expeditious"
+  ],
+  "ex": "Dilatory tactics stalled the vote.",
+  "id": 245
+ },
+ {
+  "word": "dimension",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A measurable extent, or an aspect of a situation.",
+  "syn": [
+   "measurement",
+   "aspect",
+   "scale"
+  ],
+  "ant": [],
+  "ex": "The crisis has a strong political dimension.",
+  "id": 246
+ },
+ {
+  "word": "diminish",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To become or make less.",
+  "syn": [
+   "decrease",
+   "dwindle",
+   "abate"
+  ],
+  "ant": [
+   "increase",
+   "augment"
+  ],
+  "ex": "Returns diminish as investment rises.",
+  "id": 247
+ },
+ {
+  "word": "disabuse",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To free someone of a mistaken belief.",
+  "syn": [
+   "undeceive",
+   "correct",
+   "enlighten"
+  ],
+  "ant": [
+   "mislead",
+   "deceive"
+  ],
+  "ex": "Let me disabuse you of that assumption.",
+  "id": 248
+ },
+ {
+  "word": "discern",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To perceive or recognise something with difficulty.",
+  "syn": [
+   "detect",
+   "distinguish",
+   "apprehend"
+  ],
+  "ant": [
+   "overlook",
+   "confuse"
+  ],
+  "ex": "No clear pattern can be discerned.",
+  "id": 249
+ },
+ {
+  "word": "discordant",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Disagreeing or harsh-sounding.",
+  "syn": [
+   "clashing",
+   "dissonant",
+   "incongruous"
+  ],
+  "ant": [
+   "harmonious",
+   "concordant"
+  ],
+  "ex": "A discordant note crept into the negotiations.",
+  "id": 250
+ },
+ {
+  "word": "discovery",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The act of finding something previously unknown.",
+  "syn": [
+   "finding",
+   "revelation",
+   "breakthrough"
+  ],
+  "ant": [
+   "concealment",
+   "loss"
+  ],
+  "ex": "The discovery of penicillin transformed medicine.",
+  "id": 251
+ },
+ {
+  "word": "discrete",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Individually separate and distinct.",
+  "syn": [
+   "separate",
+   "distinct",
+   "detached"
+  ],
+  "ant": [
+   "continuous",
+   "merged"
+  ],
+  "ex": "The process has four discrete stages.",
+  "id": 252
+ },
+ {
+  "word": "discrimination",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Unjust treatment of different categories of people; also, fine judgement.",
+  "syn": [
+   "prejudice",
+   "bias",
+   "discernment"
+  ],
+  "ant": [
+   "equality",
+   "impartiality"
+  ],
+  "ex": "Age discrimination is illegal but common.",
+  "id": 253
+ },
+ {
+  "word": "disingenuous",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Pretending to be sincere while concealing motives.",
+  "syn": [
+   "insincere",
+   "duplicitous",
+   "two-faced"
+  ],
+  "ant": [
+   "sincere",
+   "candid"
+  ],
+  "ex": "It is disingenuous to blame the weather.",
+  "id": 254
+ },
+ {
+  "word": "disparate",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Essentially different in kind and not comparable.",
+  "syn": [
+   "dissimilar",
+   "divergent",
+   "heterogeneous"
+  ],
+  "ant": [
+   "similar",
+   "uniform"
+  ],
+  "ex": "The report draws on disparate sources.",
+  "id": 255
+ },
+ {
+  "word": "displacement",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The forced movement of something from its usual place.",
+  "syn": [
+   "relocation",
+   "dislodgement",
+   "uprooting"
+  ],
+  "ant": [
+   "settlement",
+   "retention"
+  ],
+  "ex": "Flooding caused mass displacement of villagers.",
+  "id": 256
+ },
+ {
+  "word": "display",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To show something openly for others to see.",
+  "syn": [
+   "exhibit",
+   "present",
+   "showcase"
+  ],
+  "ant": [
+   "hide",
+   "conceal"
+  ],
+  "ex": "The graph displays two distinct peaks.",
+  "id": 257
+ },
+ {
+  "word": "disposal",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The act of getting rid of something.",
+  "syn": [
+   "removal",
+   "discarding",
+   "dumping"
+  ],
+  "ant": [
+   "retention",
+   "preservation"
+  ],
+  "ex": "Safe disposal of batteries is a growing problem.",
+  "id": 258
+ },
+ {
+  "word": "dissemble",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To conceal one's true motives or feelings.",
+  "syn": [
+   "feign",
+   "pretend",
+   "mask"
+  ],
+  "ant": [
+   "reveal",
+   "confess"
+  ],
+  "ex": "He dissembled when asked about the payments.",
+  "id": 259
+ },
+ {
+  "word": "disseminate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To spread information widely.",
+  "syn": [
+   "circulate",
+   "broadcast",
+   "propagate"
+  ],
+  "ant": [
+   "suppress",
+   "withhold"
+  ],
+  "ex": "Findings were disseminated to every clinic.",
+  "id": 260
+ },
+ {
+  "word": "distinction",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A clear difference between two things; also, excellence.",
+  "syn": [
+   "difference",
+   "contrast",
+   "distinction"
+  ],
+  "ant": [
+   "similarity",
+   "sameness"
+  ],
+  "ex": "He drew a distinction between need and want.",
+  "id": 261
+ },
+ {
+  "word": "distorted",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Twisted out of shape or misrepresented.",
+  "syn": [
+   "warped",
+   "skewed",
+   "misrepresented"
+  ],
+  "ant": [
+   "accurate",
+   "faithful"
+  ],
+  "ex": "Selective quoting gave a distorted picture.",
+  "id": 262
+ },
+ {
+  "word": "distribution",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "The way something is spread out or delivered.",
+  "syn": [
+   "allocation",
+   "dispersal",
+   "circulation"
+  ],
+  "ant": [
+   "collection",
+   "concentration"
+  ],
+  "ex": "The distribution of wealth has grown more unequal.",
+  "id": 263
+ },
+ {
+  "word": "divergent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Differing or moving in different directions.",
+  "syn": [
+   "differing",
+   "conflicting",
+   "disparate"
+  ],
+  "ant": [
+   "convergent",
+   "identical"
+  ],
+  "ex": "The two studies reached divergent conclusions.",
+  "id": 264
+ },
+ {
+  "word": "diversity",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The state of being varied; a range of different types.",
+  "syn": [
+   "variety",
+   "heterogeneity",
+   "plurality"
+  ],
+  "ant": [
+   "uniformity",
+   "homogeneity"
+  ],
+  "ex": "Biological diversity is declining rapidly.",
+  "id": 265
+ },
+ {
+  "word": "dogmatic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Asserting opinions as unquestionably true.",
+  "syn": [
+   "doctrinaire",
+   "opinionated",
+   "peremptory"
+  ],
+  "ant": [
+   "open-minded",
+   "tentative"
+  ],
+  "ex": "His dogmatic stance stifled debate.",
+  "id": 266
+ },
+ {
+  "word": "domain",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "An area of knowledge, activity or control.",
+  "syn": [
+   "field",
+   "sphere",
+   "realm"
+  ],
+  "ant": [],
+  "ex": "That question lies outside my domain of expertise.",
+  "id": 267
+ },
+ {
+  "word": "domestic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Relating to the home or to one's own country.",
+  "syn": [
+   "household",
+   "internal",
+   "national"
+  ],
+  "ant": [
+   "foreign",
+   "international"
+  ],
+  "ex": "Domestic demand outpaced exports.",
+  "id": 268
+ },
+ {
+  "word": "dominant",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Most powerful, influential or noticeable.",
+  "syn": [
+   "prevailing",
+   "paramount",
+   "preeminent"
+  ],
+  "ant": [
+   "subordinate",
+   "secondary"
+  ],
+  "ex": "English is the dominant language of science.",
+  "id": 269
+ },
+ {
+  "word": "doubt",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A feeling of uncertainty about something.",
+  "syn": [
+   "scepticism",
+   "misgiving",
+   "reservation"
+  ],
+  "ant": [
+   "certainty",
+   "conviction"
+  ],
+  "ex": "There is little doubt about the underlying trend.",
+  "id": 270
+ },
+ {
+  "word": "dramatic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Sudden and striking in effect.",
+  "syn": [
+   "marked",
+   "striking",
+   "drastic"
+  ],
+  "ant": [
+   "gradual",
+   "slight"
+  ],
+  "ex": "There was a dramatic fall in crime.",
+  "id": 271
+ },
+ {
+  "word": "drastic",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Extreme in effect and often sudden.",
+  "syn": [
+   "severe",
+   "radical",
+   "far-reaching"
+  ],
+  "ant": [
+   "mild",
+   "moderate"
+  ],
+  "ex": "Drastic cuts followed the audit.",
+  "id": 272
+ },
+ {
+  "word": "dubious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Doubtful, or of questionable value.",
+  "syn": [
+   "questionable",
+   "suspect",
+   "equivocal"
+  ],
+  "ant": [
+   "certain",
+   "reliable"
+  ],
+  "ex": "The figures come from a dubious source.",
+  "id": 273
+ },
+ {
+  "word": "duration",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The length of time something lasts.",
+  "syn": [
+   "length",
+   "span",
+   "period"
+  ],
+  "ant": [],
+  "ex": "The duration of treatment varies by patient.",
+  "id": 274
+ },
+ {
+  "word": "dynamic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Characterised by constant change or energetic activity.",
+  "syn": [
+   "energetic",
+   "fluid",
+   "evolving"
+  ],
+  "ant": [
+   "static",
+   "stagnant"
+  ],
+  "ex": "The labour market is highly dynamic.",
+  "id": 275
+ }
+]

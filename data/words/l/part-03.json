@@ -1,0 +1,73 @@
+[
+ {
+  "word": "lassitude",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Physical or mental weariness.",
+  "syn": [
+   "lethargy",
+   "torpor",
+   "fatigue"
+  ],
+  "ant": [
+   "vigour",
+   "energy"
+  ],
+  "ex": "A general lassitude settled over the office.",
+  "id": 1269,
+  "list": 7
+ },
+ {
+  "word": "latitude",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Freedom to act or think as one wishes.",
+  "syn": [
+   "leeway",
+   "scope",
+   "discretion"
+  ],
+  "ant": [
+   "restriction",
+   "constraint"
+  ],
+  "ex": "Editors are given wide latitude here.",
+  "id": 1270,
+  "list": 7
+ },
+ {
+  "word": "laudable",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Deserving praise.",
+  "syn": [
+   "commendable",
+   "admirable",
+   "meritorious"
+  ],
+  "ant": [
+   "blameworthy",
+   "reprehensible"
+  ],
+  "ex": "A laudable aim undone by poor execution.",
+  "id": 1271,
+  "list": 7
+ },
+ {
+  "word": "lucre",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Money, especially when regarded as sordid.",
+  "syn": [
+   "profit",
+   "gain",
+   "riches"
+  ],
+  "ant": [
+   "loss"
+  ],
+  "ex": "Accused of chasing lucre over evidence.",
+  "id": 1272,
+  "list": 7
+ }
+]

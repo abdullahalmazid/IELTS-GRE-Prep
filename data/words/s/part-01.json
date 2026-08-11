@@ -1,0 +1,733 @@
+[
+ {
+  "word": "sacrifice",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To give up something valued for a greater cause.",
+  "syn": [
+   "forgo",
+   "surrender",
+   "relinquish"
+  ],
+  "ant": [
+   "retain",
+   "preserve"
+  ],
+  "ex": "Growth was sacrificed to control inflation.",
+  "id": 545
+ },
+ {
+  "word": "satisfy",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To meet a need or expectation adequately.",
+  "syn": [
+   "fulfil",
+   "gratify",
+   "meet"
+  ],
+  "ant": [
+   "disappoint",
+   "frustrate"
+  ],
+  "ex": "The design satisfies all safety requirements.",
+  "id": 546
+ },
+ {
+  "word": "scale",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "The relative size or extent of something.",
+  "syn": [
+   "magnitude",
+   "extent",
+   "scope"
+  ],
+  "ant": [],
+  "ex": "The scale of the migration was unprecedented.",
+  "id": 547
+ },
+ {
+  "word": "scenario",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A possible sequence of future events.",
+  "syn": [
+   "situation",
+   "outline",
+   "projection"
+  ],
+  "ant": [],
+  "ex": "The worst-case scenario assumes no policy change.",
+  "id": 548
+ },
+ {
+  "word": "schedule",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A plan showing when things will happen.",
+  "syn": [
+   "timetable",
+   "programme",
+   "agenda"
+  ],
+  "ant": [],
+  "ex": "The project finished ahead of schedule.",
+  "id": 549
+ },
+ {
+  "word": "scope",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The extent of the area or subject something deals with.",
+  "syn": [
+   "range",
+   "extent",
+   "remit"
+  ],
+  "ant": [
+   "limitation",
+   "restriction"
+  ],
+  "ex": "That question is beyond the scope of this essay.",
+  "id": 550
+ },
+ {
+  "word": "sector",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A distinct part of an economy or society.",
+  "syn": [
+   "branch",
+   "segment",
+   "division"
+  ],
+  "ant": [
+   "whole"
+  ],
+  "ex": "The service sector employs most workers.",
+  "id": 551
+ },
+ {
+  "word": "security",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Freedom from danger, or measures taken to ensure safety.",
+  "syn": [
+   "safety",
+   "protection",
+   "defence"
+  ],
+  "ant": [
+   "vulnerability",
+   "danger"
+  ],
+  "ex": "Airport security was tightened overnight.",
+  "id": 552
+ },
+ {
+  "word": "sequence",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A set of related things following one another in order.",
+  "syn": [
+   "order",
+   "succession",
+   "progression"
+  ],
+  "ant": [
+   "randomness",
+   "disorder"
+  ],
+  "ex": "The sequence of events remains disputed.",
+  "id": 553
+ },
+ {
+  "word": "significant",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Large enough or important enough to matter.",
+  "syn": [
+   "notable",
+   "substantial",
+   "considerable"
+  ],
+  "ant": [
+   "negligible",
+   "trivial"
+  ],
+  "ex": "There was a significant rise in unemployment.",
+  "id": 554
+ },
+ {
+  "word": "similar",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Alike but not identical.",
+  "syn": [
+   "comparable",
+   "analogous",
+   "akin"
+  ],
+  "ant": [
+   "different",
+   "dissimilar"
+  ],
+  "ex": "Both countries face similar demographic pressures.",
+  "id": 555
+ },
+ {
+  "word": "simulation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "An imitation of a real process, often by computer.",
+  "syn": [
+   "model",
+   "mock-up",
+   "emulation"
+  ],
+  "ant": [
+   "reality"
+  ],
+  "ex": "Pilots train on flight simulations.",
+  "id": 556
+ },
+ {
+  "word": "so-called",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Named in a way the speaker considers inaccurate.",
+  "syn": [
+   "supposed",
+   "alleged",
+   "nominal"
+  ],
+  "ant": [
+   "genuine",
+   "actual"
+  ],
+  "ex": "The so-called reforms changed almost nothing.",
+  "id": 557
+ },
+ {
+  "word": "solely",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Only and exclusively.",
+  "syn": [
+   "exclusively",
+   "only",
+   "purely"
+  ],
+  "ant": [
+   "partly",
+   "jointly"
+  ],
+  "ex": "The fund relies solely on donations.",
+  "id": 558
+ },
+ {
+  "word": "solution",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A way of solving a problem.",
+  "syn": [
+   "remedy",
+   "answer",
+   "resolution"
+  ],
+  "ant": [
+   "problem",
+   "dilemma"
+  ],
+  "ex": "There is no simple solution to congestion.",
+  "id": 559
+ },
+ {
+  "word": "somewhat",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To a moderate extent.",
+  "syn": [
+   "rather",
+   "fairly",
+   "moderately"
+  ],
+  "ant": [
+   "extremely",
+   "not at all"
+  ],
+  "ex": "The results are somewhat surprising.",
+  "id": 560
+ },
+ {
+  "word": "source",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The place, person or thing from which something originates.",
+  "syn": [
+   "origin",
+   "root",
+   "provenance"
+  ],
+  "ant": [
+   "outcome",
+   "destination"
+  ],
+  "ex": "Coal remains a major source of emissions.",
+  "id": 561
+ },
+ {
+  "word": "specific",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Clearly defined and particular rather than general.",
+  "syn": [
+   "particular",
+   "precise",
+   "explicit"
+  ],
+  "ant": [
+   "general",
+   "vague"
+  ],
+  "ex": "Give a specific example to support your point.",
+  "id": 562
+ },
+ {
+  "word": "specify",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To state something clearly and in detail.",
+  "syn": [
+   "stipulate",
+   "designate",
+   "itemise"
+  ],
+  "ant": [
+   "generalise",
+   "imply"
+  ],
+  "ex": "The contract specifies a 30-day deadline.",
+  "id": 563
+ },
+ {
+  "word": "sphere",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "An area of activity, interest or influence.",
+  "syn": [
+   "domain",
+   "realm",
+   "field"
+  ],
+  "ant": [],
+  "ex": "The two operate in entirely separate spheres.",
+  "id": 564
+ },
+ {
+  "word": "stability",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The state of being steady and unlikely to change.",
+  "syn": [
+   "steadiness",
+   "equilibrium",
+   "constancy"
+  ],
+  "ant": [
+   "instability",
+   "volatility"
+  ],
+  "ex": "Political stability attracts investment.",
+  "id": 565
+ },
+ {
+  "word": "status",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Position or rank relative to others; current state.",
+  "syn": [
+   "standing",
+   "rank",
+   "condition"
+  ],
+  "ant": [],
+  "ex": "Refugee status grants the right to work.",
+  "id": 566
+ },
+ {
+  "word": "straightforward",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Easy to understand or do; also honest and direct.",
+  "syn": [
+   "simple",
+   "uncomplicated",
+   "candid"
+  ],
+  "ant": [
+   "complicated",
+   "evasive"
+  ],
+  "ex": "The procedure is straightforward but tedious.",
+  "id": 567
+ },
+ {
+  "word": "strategy",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A plan designed to achieve a long-term aim.",
+  "syn": [
+   "plan",
+   "approach",
+   "blueprint"
+  ],
+  "ant": [
+   "improvisation"
+  ],
+  "ex": "The firm adopted a low-cost strategy.",
+  "id": 568
+ },
+ {
+  "word": "stress",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Mental or physical strain; also emphasis.",
+  "syn": [
+   "pressure",
+   "strain",
+   "tension"
+  ],
+  "ant": [
+   "relaxation",
+   "calm"
+  ],
+  "ex": "Chronic stress weakens the immune system.",
+  "id": 569
+ },
+ {
+  "word": "structure",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The way parts are arranged to form a whole.",
+  "syn": [
+   "framework",
+   "organisation",
+   "configuration"
+  ],
+  "ant": [
+   "chaos",
+   "disorder"
+  ],
+  "ex": "Essay structure affects clarity more than vocabulary.",
+  "id": 570
+ },
+ {
+  "word": "style",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A distinctive manner of doing or presenting something.",
+  "syn": [
+   "manner",
+   "mode",
+   "idiom"
+  ],
+  "ant": [],
+  "ex": "Academic style avoids contractions.",
+  "id": 571
+ },
+ {
+  "word": "subordinate",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Lower in rank or importance.",
+  "syn": [
+   "secondary",
+   "inferior",
+   "subservient"
+  ],
+  "ant": [
+   "superior",
+   "dominant"
+  ],
+  "ex": "Environmental aims were subordinate to profit.",
+  "id": 572
+ },
+ {
+  "word": "subsequent",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Coming after something in time.",
+  "syn": [
+   "following",
+   "ensuing",
+   "later"
+  ],
+  "ant": [
+   "previous",
+   "prior"
+  ],
+  "ex": "Subsequent studies confirmed the finding.",
+  "id": 573
+ },
+ {
+  "word": "substantiate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 5,
+  "def": "To provide evidence supporting a claim.",
+  "syn": [
+   "corroborate",
+   "verify",
+   "validate"
+  ],
+  "ant": [
+   "refute",
+   "disprove"
+  ],
+  "ex": "No document substantiates the allegation.",
+  "id": 574
+ },
+ {
+  "word": "substitution",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The use of one thing in place of another.",
+  "syn": [
+   "replacement",
+   "exchange",
+   "swap"
+  ],
+  "ant": [
+   "retention"
+  ],
+  "ex": "Substitution of sugar with stevia cut calories.",
+  "id": 575
+ },
+ {
+  "word": "successive",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Following one after another without interruption.",
+  "syn": [
+   "consecutive",
+   "sequential",
+   "uninterrupted"
+  ],
+  "ant": [
+   "intermittent",
+   "sporadic"
+  ],
+  "ex": "Sales fell for three successive quarters.",
+  "id": 576
+ },
+ {
+  "word": "sufficient",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Enough for a particular purpose.",
+  "syn": [
+   "adequate",
+   "ample",
+   "enough"
+  ],
+  "ant": [
+   "insufficient",
+   "inadequate"
+  ],
+  "ex": "Sleep of seven hours is sufficient for most adults.",
+  "id": 577
+ },
+ {
+  "word": "summary",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A brief statement of the main points.",
+  "syn": [
+   "synopsis",
+   "overview",
+   "abstract"
+  ],
+  "ant": [
+   "expansion",
+   "full account"
+  ],
+  "ex": "Write a summary of no more than 200 words.",
+  "id": 578
+ },
+ {
+  "word": "supplementary",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Added to complete or enhance something.",
+  "syn": [
+   "additional",
+   "auxiliary",
+   "ancillary"
+  ],
+  "ant": [
+   "primary",
+   "core"
+  ],
+  "ex": "Supplementary funding covered the shortfall.",
+  "id": 579
+ },
+ {
+  "word": "supply",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "An amount of something available for use.",
+  "syn": [
+   "stock",
+   "provision",
+   "reserve"
+  ],
+  "ant": [
+   "demand",
+   "shortage"
+  ],
+  "ex": "The supply of housing lags far behind demand.",
+  "id": 580
+ },
+ {
+  "word": "survey",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "An investigation of opinions or conditions among a group.",
+  "syn": [
+   "poll",
+   "questionnaire",
+   "study"
+  ],
+  "ant": [],
+  "ex": "A survey of 5,000 households was conducted.",
+  "id": 581
+ },
+ {
+  "word": "survive",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To continue to live or exist despite difficulty.",
+  "syn": [
+   "endure",
+   "persist",
+   "withstand"
+  ],
+  "ant": [
+   "perish",
+   "succumb"
+  ],
+  "ex": "Few species survive such rapid change.",
+  "id": 582
+ },
+ {
+  "word": "suspended",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Temporarily stopped, or hanging.",
+  "syn": [
+   "halted",
+   "postponed",
+   "dangling"
+  ],
+  "ant": [
+   "resumed",
+   "continued"
+  ],
+  "ex": "Trading was suspended for two hours.",
+  "id": 583
+ },
+ {
+  "word": "sustainable",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Able to be maintained without depleting resources.",
+  "syn": [
+   "viable",
+   "enduring",
+   "renewable"
+  ],
+  "ant": [
+   "unsustainable",
+   "depleting"
+  ],
+  "ex": "Sustainable farming preserves soil quality.",
+  "id": 584
+ },
+ {
+  "word": "symbolic",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Representing something else, often an idea.",
+  "syn": [
+   "representative",
+   "emblematic",
+   "figurative"
+  ],
+  "ant": [
+   "literal",
+   "actual"
+  ],
+  "ex": "The gesture was purely symbolic.",
+  "id": 585
+ },
+ {
+  "word": "sympathy",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Feelings of pity and understanding for another's suffering.",
+  "syn": [
+   "compassion",
+   "empathy",
+   "commiseration"
+  ],
+  "ant": [
+   "indifference",
+   "callousness"
+  ],
+  "ex": "Public sympathy shifted towards the strikers.",
+  "id": 586
+ }
+]

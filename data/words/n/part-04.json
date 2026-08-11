@@ -1,0 +1,53 @@
+[
+ {
+  "word": "nevertheless",
+  "pos": "adverb",
+  "level": "IELTS",
+  "def": "In spite of what has just been said.",
+  "syn": [
+   "nonetheless",
+   "even so",
+   "however"
+  ],
+  "ant": [
+   "therefore",
+   "consequently"
+  ],
+  "ex": "The risks are real; nevertheless, the trial went ahead.",
+  "id": 1534,
+  "list": 8
+ },
+ {
+  "word": "numeracy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The ability to understand and work with numbers.",
+  "syn": [
+   "arithmetic skill",
+   "mathematical ability"
+  ],
+  "ant": [
+   "innumeracy"
+  ],
+  "ex": "Numeracy standards lag behind literacy.",
+  "id": 1535,
+  "list": 8
+ },
+ {
+  "word": "nutrition",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "The process of obtaining food necessary for health.",
+  "syn": [
+   "nourishment",
+   "diet",
+   "sustenance"
+  ],
+  "ant": [
+   "starvation"
+  ],
+  "ex": "School nutrition programmes improved attendance.",
+  "id": 1536,
+  "list": 8
+ }
+]

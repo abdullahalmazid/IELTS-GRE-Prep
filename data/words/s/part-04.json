@@ -1,0 +1,343 @@
+[
+ {
+  "word": "sanitation",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Systems for clean water and waste disposal.",
+  "syn": [
+   "hygiene",
+   "drainage",
+   "sewerage"
+  ],
+  "ant": [
+   "contamination"
+  ],
+  "ex": "Poor sanitation drives most childhood disease.",
+  "id": 1576,
+  "list": 8
+ },
+ {
+  "word": "scheme",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An organised plan, often official.",
+  "syn": [
+   "programme",
+   "initiative",
+   "project"
+  ],
+  "ant": [],
+  "ex": "A pilot scheme ran in four boroughs.",
+  "id": 1577,
+  "list": 8
+ },
+ {
+  "word": "scrutiny",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Critical and detailed examination.",
+  "syn": [
+   "examination",
+   "inspection",
+   "review"
+  ],
+  "ant": [
+   "neglect",
+   "oversight"
+  ],
+  "ex": "The contract collapsed under scrutiny.",
+  "id": 1578,
+  "list": 8
+ },
+ {
+  "word": "section",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A distinct part of a larger whole.",
+  "syn": [
+   "segment",
+   "division",
+   "portion"
+  ],
+  "ant": [
+   "whole",
+   "entirety"
+  ],
+  "ex": "The final section deals with limitations.",
+  "id": 1579,
+  "list": 8
+ },
+ {
+  "word": "sedentary",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Involving much sitting and little exercise.",
+  "syn": [
+   "inactive",
+   "desk-bound",
+   "stationary"
+  ],
+  "ant": [
+   "active",
+   "mobile"
+  ],
+  "ex": "Sedentary work carries measurable health costs.",
+  "id": 1580,
+  "list": 8
+ },
+ {
+  "word": "seek",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To try to find or obtain something.",
+  "syn": [
+   "pursue",
+   "solicit",
+   "strive for"
+  ],
+  "ant": [
+   "avoid",
+   "shun"
+  ],
+  "ex": "Graduates increasingly seek work abroad.",
+  "id": 1581,
+  "list": 8
+ },
+ {
+  "word": "select",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To choose carefully from a range of options.",
+  "syn": [
+   "choose",
+   "pick",
+   "designate"
+  ],
+  "ant": [
+   "reject",
+   "discard"
+  ],
+  "ex": "Participants were selected at random.",
+  "id": 1582,
+  "list": 8
+ },
+ {
+  "word": "sensationalism",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Presenting news to provoke excitement over accuracy.",
+  "syn": [
+   "exaggeration",
+   "hype",
+   "scaremongering"
+  ],
+  "ant": [
+   "restraint",
+   "sobriety"
+  ],
+  "ex": "Sensationalism drives clicks and distorts risk.",
+  "id": 1583,
+  "list": 8
+ },
+ {
+  "word": "series",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A number of related things coming one after another.",
+  "syn": [
+   "sequence",
+   "succession",
+   "run"
+  ],
+  "ant": [],
+  "ex": "A series of failures preceded the collapse.",
+  "id": 1584,
+  "list": 8
+ },
+ {
+  "word": "shift",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A change in position, direction or opinion.",
+  "syn": [
+   "change",
+   "move",
+   "transition"
+  ],
+  "ant": [
+   "stability",
+   "constancy"
+  ],
+  "ex": "A marked shift towards remote working.",
+  "id": 1585,
+  "list": 8
+ },
+ {
+  "word": "site",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A place where something is located or occurs.",
+  "syn": [
+   "location",
+   "position",
+   "venue"
+  ],
+  "ant": [],
+  "ex": "The site was chosen for its transport links.",
+  "id": 1586,
+  "list": 8
+ },
+ {
+  "word": "slum",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An overcrowded urban area of very poor housing.",
+  "syn": [
+   "shanty town",
+   "ghetto"
+  ],
+  "ant": [
+   "suburb"
+  ],
+  "ex": "A third of the city's residents live in slums.",
+  "id": 1587,
+  "list": 8
+ },
+ {
+  "word": "statistic",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A numerical fact drawn from a body of data.",
+  "syn": [
+   "figure",
+   "datum",
+   "measure"
+  ],
+  "ant": [
+   "anecdote"
+  ],
+  "ex": "One statistic dominated the coverage.",
+  "id": 1588,
+  "list": 8
+ },
+ {
+  "word": "stereotype",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "An oversimplified fixed idea about a group.",
+  "syn": [
+   "cliché",
+   "generalisation",
+   "preconception"
+  ],
+  "ant": [
+   "individual assessment"
+  ],
+  "ex": "The advert traded on a tired stereotype.",
+  "id": 1589,
+  "list": 8
+ },
+ {
+  "word": "submit",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To present something for consideration; to yield.",
+  "syn": [
+   "present",
+   "tender",
+   "surrender"
+  ],
+  "ant": [
+   "withhold",
+   "resist"
+  ],
+  "ex": "Applications must be submitted by Friday.",
+  "id": 1590,
+  "list": 8
+ },
+ {
+  "word": "subsidise",
+  "pos": "verb",
+  "level": "IELTS",
+  "def": "To support financially so a price stays low.",
+  "syn": [
+   "fund",
+   "underwrite",
+   "support"
+  ],
+  "ant": [
+   "tax",
+   "charge"
+  ],
+  "ex": "Bus fares are subsidised in most cities.",
+  "id": 1591,
+  "list": 8
+ },
+ {
+  "word": "subsidy",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Money granted to keep prices low or support an industry.",
+  "syn": [
+   "grant",
+   "subvention",
+   "support"
+  ],
+  "ant": [
+   "tax",
+   "levy"
+  ],
+  "ex": "Fuel subsidies distort the whole market.",
+  "id": 1592,
+  "list": 8
+ },
+ {
+  "word": "suburb",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A residential district on the edge of a city.",
+  "syn": [
+   "outskirts",
+   "commuter belt"
+  ],
+  "ant": [
+   "city centre",
+   "inner city"
+  ],
+  "ex": "The suburbs grew faster than the core.",
+  "id": 1593,
+  "list": 8
+ },
+ {
+  "word": "sum",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A particular amount of money; a total.",
+  "syn": [
+   "amount",
+   "total",
+   "aggregate"
+  ],
+  "ant": [],
+  "ex": "A substantial sum was set aside for repairs.",
+  "id": 1594,
+  "list": 8
+ },
+ {
+  "word": "surveillance",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Close observation of people, often by authorities.",
+  "syn": [
+   "monitoring",
+   "observation",
+   "watch"
+  ],
+  "ant": [
+   "privacy"
+  ],
+  "ex": "Public surveillance expanded with little debate.",
+  "id": 1595,
+  "list": 8
+ }
+]

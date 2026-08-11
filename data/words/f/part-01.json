@@ -1,0 +1,334 @@
+[
+ {
+  "word": "facilitate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To make a process easier.",
+  "syn": [
+   "ease",
+   "expedite",
+   "assist"
+  ],
+  "ant": [
+   "obstruct",
+   "impede"
+  ],
+  "ex": "Technology facilitates remote collaboration.",
+  "id": 337
+ },
+ {
+  "word": "factor",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "One of several things that influence a result.",
+  "syn": [
+   "element",
+   "determinant",
+   "influence"
+  ],
+  "ant": [
+   "result",
+   "consequence"
+  ],
+  "ex": "Diet is a major factor in heart disease.",
+  "id": 338
+ },
+ {
+  "word": "feature",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A distinctive characteristic of something.",
+  "syn": [
+   "characteristic",
+   "trait",
+   "attribute"
+  ],
+  "ant": [],
+  "ex": "The main feature of the design is its simplicity.",
+  "id": 339
+ },
+ {
+  "word": "federal",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Relating to a central government of a union of states.",
+  "syn": [
+   "national",
+   "central",
+   "union"
+  ],
+  "ant": [
+   "state",
+   "local"
+  ],
+  "ex": "Federal funding covers half the cost.",
+  "id": 340
+ },
+ {
+  "word": "fee",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "A payment made for a service or privilege.",
+  "syn": [
+   "charge",
+   "tariff",
+   "levy"
+  ],
+  "ant": [
+   "refund"
+  ],
+  "ex": "Tuition fees have tripled since 2000.",
+  "id": 341
+ },
+ {
+  "word": "final",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Coming at the end; allowing no further change.",
+  "syn": [
+   "last",
+   "concluding",
+   "definitive"
+  ],
+  "ant": [
+   "initial",
+   "preliminary"
+  ],
+  "ex": "The committee's decision is final.",
+  "id": 342
+ },
+ {
+  "word": "financial",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Relating to money and its management.",
+  "syn": [
+   "monetary",
+   "fiscal",
+   "economic"
+  ],
+  "ant": [
+   "non-monetary"
+  ],
+  "ex": "Many graduates face serious financial pressure.",
+  "id": 343
+ },
+ {
+  "word": "flexibility",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The ability to adapt or bend without breaking.",
+  "syn": [
+   "adaptability",
+   "elasticity",
+   "versatility"
+  ],
+  "ant": [
+   "rigidity",
+   "inflexibility"
+  ],
+  "ex": "Remote work offers greater flexibility.",
+  "id": 344
+ },
+ {
+  "word": "fluctuation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "An irregular rise and fall in amount or level.",
+  "syn": [
+   "variation",
+   "oscillation",
+   "swing"
+  ],
+  "ant": [
+   "stability",
+   "constancy"
+  ],
+  "ex": "Seasonal fluctuations complicate the analysis.",
+  "id": 345
+ },
+ {
+  "word": "focus",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To concentrate attention or effort on something.",
+  "syn": [
+   "concentrate",
+   "centre",
+   "zero in"
+  ],
+  "ant": [
+   "disperse",
+   "digress"
+  ],
+  "ex": "The study focuses on urban air quality.",
+  "id": 346
+ },
+ {
+  "word": "forbearance",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 5,
+  "def": "Patient self-control when provoked or owed something.",
+  "syn": [
+   "restraint",
+   "patience",
+   "tolerance"
+  ],
+  "ant": [
+   "impatience",
+   "retaliation"
+  ],
+  "ex": "Creditors showed unusual forbearance.",
+  "id": 347
+ },
+ {
+  "word": "format",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The way something is arranged or presented.",
+  "syn": [
+   "layout",
+   "arrangement",
+   "structure"
+  ],
+  "ant": [],
+  "ex": "The exam format changed in 2023.",
+  "id": 348
+ },
+ {
+  "word": "forthcoming",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "About to happen; also, willing to give information.",
+  "syn": [
+   "upcoming",
+   "imminent",
+   "communicative"
+  ],
+  "ant": [
+   "past",
+   "secretive"
+  ],
+  "ex": "Details will appear in the forthcoming report.",
+  "id": 349
+ },
+ {
+  "word": "foundation",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The base on which something stands; also a charitable organisation.",
+  "syn": [
+   "basis",
+   "groundwork",
+   "bedrock"
+  ],
+  "ant": [
+   "superstructure"
+  ],
+  "ex": "Trust is the foundation of any partnership.",
+  "id": 350
+ },
+ {
+  "word": "founded",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Established, or based on something.",
+  "syn": [
+   "established",
+   "grounded",
+   "instituted"
+  ],
+  "ant": [
+   "dissolved",
+   "baseless"
+  ],
+  "ex": "The claim is founded on a single study.",
+  "id": 351
+ },
+ {
+  "word": "frustration",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Annoyance at being unable to achieve something.",
+  "syn": [
+   "exasperation",
+   "vexation",
+   "irritation"
+  ],
+  "ant": [
+   "satisfaction",
+   "contentment"
+  ],
+  "ex": "Delays caused widespread frustration.",
+  "id": 352
+ },
+ {
+  "word": "function",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The purpose or role that something performs.",
+  "syn": [
+   "role",
+   "purpose",
+   "duty"
+  ],
+  "ant": [
+   "dysfunction"
+  ],
+  "ex": "The main function of the liver is filtration.",
+  "id": 353
+ },
+ {
+  "word": "fund",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A sum of money set aside for a purpose.",
+  "syn": [
+   "reserve",
+   "capital",
+   "endowment"
+  ],
+  "ant": [
+   "debt",
+   "deficit"
+  ],
+  "ex": "The relief fund raised millions in a week.",
+  "id": 354
+ },
+ {
+  "word": "fundamental",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Forming an essential base; of central importance.",
+  "syn": [
+   "basic",
+   "essential",
+   "underlying"
+  ],
+  "ant": [
+   "superficial",
+   "incidental"
+  ],
+  "ex": "Literacy is fundamental to development.",
+  "id": 355
+ }
+]

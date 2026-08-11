@@ -1,0 +1,88 @@
+[
+ {
+  "word": "vandalism",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "Deliberate destruction of property.",
+  "syn": [
+   "destruction",
+   "defacement",
+   "damage"
+  ],
+  "ant": [
+   "repair",
+   "preservation"
+  ],
+  "ex": "Vandalism closed the playground for a month.",
+  "id": 1613,
+  "list": 8
+ },
+ {
+  "word": "variable",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A factor that can change and affect an outcome.",
+  "syn": [
+   "factor",
+   "element",
+   "parameter"
+  ],
+  "ant": [
+   "constant"
+  ],
+  "ex": "Three variables explain most of the difference.",
+  "id": 1614,
+  "list": 8
+ },
+ {
+  "word": "verdict",
+  "pos": "noun",
+  "level": "IELTS",
+  "def": "A decision reached by a jury or judge.",
+  "syn": [
+   "judgement",
+   "ruling",
+   "finding"
+  ],
+  "ant": [],
+  "ex": "The verdict was overturned on appeal.",
+  "id": 1615,
+  "list": 8
+ },
+ {
+  "word": "visual",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to seeing or sight.",
+  "syn": [
+   "optical",
+   "graphic",
+   "pictorial"
+  ],
+  "ant": [
+   "auditory",
+   "verbal"
+  ],
+  "ex": "Visual aids improve retention markedly.",
+  "id": 1616,
+  "list": 8
+ },
+ {
+  "word": "vocational",
+  "pos": "adjective",
+  "level": "IELTS",
+  "def": "Relating to training for a specific occupation.",
+  "syn": [
+   "occupational",
+   "practical",
+   "career-related"
+  ],
+  "ant": [
+   "academic",
+   "theoretical"
+  ],
+  "ex": "Vocational routes carry an unfair stigma.",
+  "id": 1617,
+  "list": 8
+ }
+]

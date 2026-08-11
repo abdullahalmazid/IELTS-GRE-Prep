@@ -1,0 +1,91 @@
+[
+ {
+  "word": "unassuming",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Modest and not seeking attention.",
+  "syn": [
+   "modest",
+   "self-effacing",
+   "humble"
+  ],
+  "ant": [
+   "boastful",
+   "pretentious"
+  ],
+  "ex": "An unassuming scholar with a vast reputation.",
+  "id": 1391,
+  "list": 7
+ },
+ {
+  "word": "undulate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To move with a smooth wavelike motion.",
+  "syn": [
+   "ripple",
+   "wave",
+   "billow"
+  ],
+  "ant": [
+   "flatten"
+  ],
+  "ex": "The land undulates gently towards the coast.",
+  "id": 1392,
+  "list": 7
+ },
+ {
+  "word": "untoward",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unexpected and inconvenient or improper.",
+  "syn": [
+   "adverse",
+   "unfavourable",
+   "unseemly"
+  ],
+  "ant": [
+   "favourable",
+   "proper"
+  ],
+  "ex": "Nothing untoward was found in the accounts.",
+  "id": 1393,
+  "list": 7
+ },
+ {
+  "word": "upbraiding",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "A severe scolding.",
+  "syn": [
+   "reprimand",
+   "reproof",
+   "dressing-down"
+  ],
+  "ant": [
+   "praise",
+   "commendation"
+  ],
+  "ex": "A public upbraiding in front of the team.",
+  "id": 1394,
+  "list": 7
+ },
+ {
+  "word": "utilitarian",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Designed for usefulness rather than beauty.",
+  "syn": [
+   "functional",
+   "practical",
+   "pragmatic"
+  ],
+  "ant": [
+   "decorative",
+   "ornamental"
+  ],
+  "ex": "A utilitarian building that does its job.",
+  "id": 1395,
+  "list": 7
+ }
+]

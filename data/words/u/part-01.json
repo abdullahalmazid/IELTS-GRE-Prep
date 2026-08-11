@@ -1,0 +1,127 @@
+[
+ {
+  "word": "ultimate",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Final, or the best possible.",
+  "syn": [
+   "final",
+   "supreme",
+   "eventual"
+  ],
+  "ant": [
+   "initial",
+   "preliminary"
+  ],
+  "ex": "The ultimate aim is universal coverage.",
+  "id": 607
+ },
+ {
+  "word": "undergo",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To experience something, especially something unpleasant or necessary.",
+  "syn": [
+   "experience",
+   "endure",
+   "sustain"
+  ],
+  "ant": [
+   "avoid",
+   "escape"
+  ],
+  "ex": "The building underwent extensive renovation.",
+  "id": 608
+ },
+ {
+  "word": "underline",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 3,
+  "def": "To emphasise or draw attention to something.",
+  "syn": [
+   "emphasise",
+   "highlight",
+   "stress"
+  ],
+  "ant": [
+   "downplay",
+   "minimise"
+  ],
+  "ex": "The crisis underlines the need for reform.",
+  "id": 609
+ },
+ {
+  "word": "uniform",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The same in all cases and at all times.",
+  "syn": [
+   "consistent",
+   "homogeneous",
+   "unvarying"
+  ],
+  "ant": [
+   "varied",
+   "irregular"
+  ],
+  "ex": "Rules must be applied in a uniform way.",
+  "id": 610
+ },
+ {
+  "word": "unify",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To make into a single unit.",
+  "syn": [
+   "consolidate",
+   "integrate",
+   "merge"
+  ],
+  "ant": [
+   "divide",
+   "fragment"
+  ],
+  "ex": "A single currency helped unify the market.",
+  "id": 611
+ },
+ {
+  "word": "unique",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Being the only one of its kind.",
+  "syn": [
+   "singular",
+   "unparalleled",
+   "distinctive"
+  ],
+  "ant": [
+   "common",
+   "ordinary"
+  ],
+  "ex": "Each fingerprint is unique.",
+  "id": 612
+ },
+ {
+  "word": "utility",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Usefulness, or a public service such as water or electricity.",
+  "syn": [
+   "usefulness",
+   "practicality",
+   "service"
+  ],
+  "ant": [
+   "uselessness"
+  ],
+  "ex": "Utility bills have doubled since 2021.",
+  "id": 613
+ }
+]

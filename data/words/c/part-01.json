@@ -1,0 +1,1667 @@
+[
+ {
+  "word": "cacophony",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "A harsh, discordant mixture of sounds.",
+  "syn": [
+   "din",
+   "discord",
+   "clamour"
+  ],
+  "ant": [
+   "harmony",
+   "euphony"
+  ],
+  "ex": "A cacophony of horns filled the street.",
+  "id": 119
+ },
+ {
+  "word": "candour",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Honest and direct expression.",
+  "syn": [
+   "frankness",
+   "openness",
+   "forthrightness"
+  ],
+  "ant": [
+   "evasiveness",
+   "guile"
+  ],
+  "ex": "He answered with surprising candour.",
+  "id": 120
+ },
+ {
+  "word": "capable",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Having the ability or qualities needed to do something.",
+  "syn": [
+   "competent",
+   "able",
+   "proficient"
+  ],
+  "ant": [
+   "incapable",
+   "incompetent"
+  ],
+  "ex": "The system is capable of processing millions of records.",
+  "id": 121
+ },
+ {
+  "word": "capacity",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The maximum amount something can hold, or an ability to do something.",
+  "syn": [
+   "volume",
+   "ability",
+   "capability"
+  ],
+  "ant": [
+   "inability",
+   "limitation"
+  ],
+  "ex": "The stadium has a capacity of 60,000.",
+  "id": 122
+ },
+ {
+  "word": "capricious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Given to sudden unpredictable changes of mood or behaviour.",
+  "syn": [
+   "fickle",
+   "mercurial",
+   "erratic"
+  ],
+  "ant": [
+   "steady",
+   "consistent"
+  ],
+  "ex": "Capricious enforcement undermines the law.",
+  "id": 123
+ },
+ {
+  "word": "castigate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To criticise severely.",
+  "syn": [
+   "reprimand",
+   "excoriate",
+   "upbraid"
+  ],
+  "ant": [
+   "praise",
+   "laud"
+  ],
+  "ex": "The report castigates regulators for inaction.",
+  "id": 124
+ },
+ {
+  "word": "catalyst",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "Something that precipitates an event or change.",
+  "syn": [
+   "trigger",
+   "stimulus",
+   "spur"
+  ],
+  "ant": [
+   "inhibitor",
+   "deterrent"
+  ],
+  "ex": "The scandal was the catalyst for reform.",
+  "id": 125
+ },
+ {
+  "word": "category",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A class or group of things sharing common characteristics.",
+  "syn": [
+   "class",
+   "classification",
+   "type"
+  ],
+  "ant": [
+   "miscellany"
+  ],
+  "ex": "Expenses fall into three broad categories.",
+  "id": 126
+ },
+ {
+  "word": "caustic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Bitterly sarcastic; also chemically corrosive.",
+  "syn": [
+   "scathing",
+   "acerbic",
+   "corrosive"
+  ],
+  "ant": [
+   "gentle",
+   "complimentary"
+  ],
+  "ex": "A caustic remark ended the discussion.",
+  "id": 127
+ },
+ {
+  "word": "cease",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To stop happening or doing something.",
+  "syn": [
+   "halt",
+   "discontinue",
+   "desist"
+  ],
+  "ant": [
+   "begin",
+   "continue"
+  ],
+  "ex": "Production ceased in 1998.",
+  "id": 128
+ },
+ {
+  "word": "censure",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To express severe formal disapproval.",
+  "syn": [
+   "condemn",
+   "reprove",
+   "rebuke"
+  ],
+  "ant": [
+   "commend",
+   "endorse"
+  ],
+  "ex": "Parliament censured the minister.",
+  "id": 129
+ },
+ {
+  "word": "challenge",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A difficult task that tests ability.",
+  "syn": [
+   "difficulty",
+   "obstacle",
+   "test"
+  ],
+  "ant": [
+   "ease",
+   "certainty"
+  ],
+  "ex": "Feeding a growing population is a major challenge.",
+  "id": 130
+ },
+ {
+  "word": "chart",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A diagram displaying information visually.",
+  "syn": [
+   "graph",
+   "diagram",
+   "table"
+  ],
+  "ant": [],
+  "ex": "The chart compares energy use across five countries.",
+  "id": 131
+ },
+ {
+  "word": "chicanery",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "The use of trickery to deceive.",
+  "syn": [
+   "deception",
+   "subterfuge",
+   "duplicity"
+  ],
+  "ant": [
+   "honesty",
+   "candour"
+  ],
+  "ex": "Legal chicanery delayed the verdict for years.",
+  "id": 132
+ },
+ {
+  "word": "circumspect",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Cautious, considering all consequences.",
+  "syn": [
+   "prudent",
+   "wary",
+   "judicious"
+  ],
+  "ant": [
+   "reckless",
+   "rash"
+  ],
+  "ex": "Investors grew circumspect after the crash.",
+  "id": 133
+ },
+ {
+  "word": "circumstance",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A condition or fact that affects a situation.",
+  "syn": [
+   "condition",
+   "situation",
+   "context"
+  ],
+  "ant": [],
+  "ex": "Under no circumstances should the door be left open.",
+  "id": 134
+ },
+ {
+  "word": "civil",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Relating to ordinary citizens rather than the military; also, polite.",
+  "syn": [
+   "civic",
+   "public",
+   "courteous"
+  ],
+  "ant": [
+   "military",
+   "rude"
+  ],
+  "ex": "Civil liberties were suspended during the emergency.",
+  "id": 135
+ },
+ {
+  "word": "clandestine",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Kept secret, especially because illicit.",
+  "syn": [
+   "covert",
+   "surreptitious",
+   "furtive"
+  ],
+  "ant": [
+   "open",
+   "overt"
+  ],
+  "ex": "Clandestine meetings continued for months.",
+  "id": 136
+ },
+ {
+  "word": "clarity",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The quality of being clear and easy to understand.",
+  "syn": [
+   "lucidity",
+   "transparency",
+   "precision"
+  ],
+  "ant": [
+   "ambiguity",
+   "obscurity"
+  ],
+  "ex": "The policy lacks clarity on enforcement.",
+  "id": 137
+ },
+ {
+  "word": "classical",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Relating to ancient Greece and Rome, or to traditional established forms.",
+  "syn": [
+   "traditional",
+   "canonical",
+   "ancient"
+  ],
+  "ant": [
+   "modern",
+   "avant-garde"
+  ],
+  "ex": "Classical architecture favours symmetry.",
+  "id": 138
+ },
+ {
+  "word": "coal",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A black fossil fuel burned for energy.",
+  "syn": [
+   "fossil fuel",
+   "anthracite"
+  ],
+  "ant": [],
+  "ex": "Coal still generates a third of global electricity.",
+  "id": 139
+ },
+ {
+  "word": "coalesce",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To come together to form one mass or whole.",
+  "syn": [
+   "merge",
+   "fuse",
+   "unite"
+  ],
+  "ant": [
+   "disperse",
+   "fragment"
+  ],
+  "ex": "Scattered protests coalesced into a movement.",
+  "id": 140
+ },
+ {
+  "word": "cogent",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Clear, logical and convincing.",
+  "syn": [
+   "compelling",
+   "persuasive",
+   "forceful"
+  ],
+  "ant": [
+   "unconvincing",
+   "weak"
+  ],
+  "ex": "She made a cogent case for delay.",
+  "id": 141
+ },
+ {
+  "word": "coherence",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "The quality of forming a logical, consistent whole.",
+  "syn": [
+   "consistency",
+   "cohesion",
+   "logic"
+  ],
+  "ant": [
+   "incoherence",
+   "disjointedness"
+  ],
+  "ex": "Coherence is a marking criterion in IELTS writing.",
+  "id": 142
+ },
+ {
+  "word": "coincide",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To happen at the same time, or to correspond exactly.",
+  "syn": [
+   "concur",
+   "synchronise",
+   "overlap"
+  ],
+  "ant": [
+   "differ",
+   "diverge"
+  ],
+  "ex": "The strike coincided with the busiest week.",
+  "id": 143
+ },
+ {
+  "word": "collapse",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To fall down suddenly or fail completely.",
+  "syn": [
+   "cave in",
+   "crumble",
+   "fail"
+  ],
+  "ant": [
+   "endure",
+   "hold up"
+  ],
+  "ex": "Fish stocks collapsed within a decade.",
+  "id": 144
+ },
+ {
+  "word": "colleague",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "A person one works with.",
+  "syn": [
+   "co-worker",
+   "associate",
+   "peer"
+  ],
+  "ant": [
+   "rival",
+   "stranger"
+  ],
+  "ex": "She published the paper with two colleagues.",
+  "id": 145
+ },
+ {
+  "word": "combat",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To take action to reduce or prevent something harmful.",
+  "syn": [
+   "counter",
+   "tackle",
+   "resist"
+  ],
+  "ant": [
+   "support",
+   "promote"
+  ],
+  "ex": "New rules aim to combat tax evasion.",
+  "id": 146
+ },
+ {
+  "word": "commensurate",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Corresponding in size or degree; proportionate.",
+  "syn": [
+   "proportionate",
+   "equivalent",
+   "corresponding"
+  ],
+  "ant": [
+   "disproportionate",
+   "incommensurate"
+  ],
+  "ex": "Pay should be commensurate with experience.",
+  "id": 147
+ },
+ {
+  "word": "comment",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A remark expressing an opinion or reaction.",
+  "syn": [
+   "remark",
+   "observation",
+   "note"
+  ],
+  "ant": [
+   "silence"
+  ],
+  "ex": "The minister declined to comment.",
+  "id": 148
+ },
+ {
+  "word": "commit",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To pledge oneself to a course of action, or to perform an act.",
+  "syn": [
+   "pledge",
+   "dedicate",
+   "perpetrate"
+  ],
+  "ant": [
+   "withdraw",
+   "renege"
+  ],
+  "ex": "The country committed to net zero by 2050.",
+  "id": 149
+ },
+ {
+  "word": "commodity",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A raw material or product that can be bought and sold.",
+  "syn": [
+   "good",
+   "product",
+   "staple"
+  ],
+  "ant": [
+   "service"
+  ],
+  "ex": "Commodity prices are notoriously volatile.",
+  "id": 150
+ },
+ {
+  "word": "communication",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The exchange of information between people.",
+  "syn": [
+   "contact",
+   "correspondence",
+   "exchange"
+  ],
+  "ant": [
+   "silence",
+   "isolation"
+  ],
+  "ex": "Poor communication caused the delay.",
+  "id": 151
+ },
+ {
+  "word": "community",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A group of people living in one place or sharing common interests.",
+  "syn": [
+   "society",
+   "population",
+   "public"
+  ],
+  "ant": [
+   "individual",
+   "isolation"
+  ],
+  "ex": "The project was funded by the local community.",
+  "id": 152
+ },
+ {
+  "word": "compile",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To collect information and arrange it in one place.",
+  "syn": [
+   "assemble",
+   "collate",
+   "gather"
+  ],
+  "ant": [
+   "disperse",
+   "scatter"
+  ],
+  "ex": "The team compiled data from forty countries.",
+  "id": 153
+ },
+ {
+  "word": "complacent",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Smugly satisfied and unaware of danger.",
+  "syn": [
+   "self-satisfied",
+   "smug",
+   "unconcerned"
+  ],
+  "ant": [
+   "vigilant",
+   "dissatisfied"
+  ],
+  "ex": "Early success made the team complacent.",
+  "id": 154
+ },
+ {
+  "word": "complement",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To add to something in a way that improves it.",
+  "syn": [
+   "enhance",
+   "supplement",
+   "round out"
+  ],
+  "ant": [
+   "clash with",
+   "detract from"
+  ],
+  "ex": "The images complement the written analysis.",
+  "id": 155
+ },
+ {
+  "word": "complex",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Consisting of many connected parts and therefore difficult to understand.",
+  "syn": [
+   "complicated",
+   "intricate",
+   "convoluted"
+  ],
+  "ant": [
+   "simple",
+   "straightforward"
+  ],
+  "ex": "Climate change is a complex global issue.",
+  "id": 156
+ },
+ {
+  "word": "comprehensive",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Including everything relevant; complete.",
+  "syn": [
+   "thorough",
+   "exhaustive",
+   "all-inclusive"
+  ],
+  "ant": [
+   "partial",
+   "selective"
+  ],
+  "ex": "The review was comprehensive but slow.",
+  "id": 157
+ },
+ {
+  "word": "comprise",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To consist of or be made up of.",
+  "syn": [
+   "consist of",
+   "constitute",
+   "encompass"
+  ],
+  "ant": [
+   "exclude"
+  ],
+  "ex": "The committee comprises nine elected members.",
+  "id": 158
+ },
+ {
+  "word": "conceive",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To form an idea in the mind; to become pregnant.",
+  "syn": [
+   "devise",
+   "envisage",
+   "formulate"
+  ],
+  "ant": [
+   "abandon"
+  ],
+  "ex": "The scheme was conceived during the recession.",
+  "id": 159
+ },
+ {
+  "word": "concentration",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Close mental attention, or the amount of a substance in a mixture.",
+  "syn": [
+   "focus",
+   "attention",
+   "density"
+  ],
+  "ant": [
+   "distraction",
+   "dilution"
+  ],
+  "ex": "Carbon dioxide concentrations keep rising.",
+  "id": 160
+ },
+ {
+  "word": "concerning",
+  "pos": "preposition",
+  "level": "IELTS",
+  "list": 1,
+  "def": "About or relating to a particular subject.",
+  "syn": [
+   "regarding",
+   "about",
+   "apropos"
+  ],
+  "ant": [
+   "unrelated to"
+  ],
+  "ex": "Debate concerning tuition fees continues.",
+  "id": 161
+ },
+ {
+  "word": "conciliatory",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Intended to placate or win goodwill.",
+  "syn": [
+   "appeasing",
+   "placatory",
+   "peacemaking"
+  ],
+  "ant": [
+   "antagonistic",
+   "hostile"
+  ],
+  "ex": "He struck a conciliatory tone.",
+  "id": 162
+ },
+ {
+  "word": "conclusion",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A judgement reached after reasoning, or the final part of something.",
+  "syn": [
+   "deduction",
+   "inference",
+   "ending"
+  ],
+  "ant": [
+   "introduction",
+   "premise"
+  ],
+  "ex": "The report's conclusion contradicts earlier findings.",
+  "id": 163
+ },
+ {
+  "word": "concurrent",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Existing or happening at the same time.",
+  "syn": [
+   "simultaneous",
+   "coexisting",
+   "parallel"
+  ],
+  "ant": [
+   "sequential",
+   "consecutive"
+  ],
+  "ex": "He served two concurrent sentences.",
+  "id": 164
+ },
+ {
+  "word": "condone",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To accept or overlook behaviour widely regarded as wrong.",
+  "syn": [
+   "excuse",
+   "overlook",
+   "sanction"
+  ],
+  "ant": [
+   "condemn",
+   "punish"
+  ],
+  "ex": "The policy appears to condone discrimination.",
+  "id": 165
+ },
+ {
+  "word": "conduct",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To organise and carry out an activity.",
+  "syn": [
+   "perform",
+   "execute",
+   "undertake"
+  ],
+  "ant": [
+   "abandon",
+   "neglect"
+  ],
+  "ex": "Researchers conducted a survey of 2,000 households.",
+  "id": 166
+ },
+ {
+  "word": "confined",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Restricted within limits; kept in a small space.",
+  "syn": [
+   "restricted",
+   "enclosed",
+   "limited"
+  ],
+  "ant": [
+   "unrestricted",
+   "open"
+  ],
+  "ex": "The outbreak was confined to one district.",
+  "id": 167
+ },
+ {
+  "word": "confirm",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To establish the truth or correctness of something.",
+  "syn": [
+   "verify",
+   "corroborate",
+   "substantiate"
+  ],
+  "ant": [
+   "refute",
+   "deny"
+  ],
+  "ex": "Later trials confirmed the original result.",
+  "id": 168
+ },
+ {
+  "word": "conflate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To combine two distinct things into one, often mistakenly.",
+  "syn": [
+   "merge",
+   "confuse",
+   "blend"
+  ],
+  "ant": [
+   "distinguish",
+   "separate"
+  ],
+  "ex": "Critics conflate migration with crime.",
+  "id": 169
+ },
+ {
+  "word": "conflict",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A serious disagreement or prolonged fighting.",
+  "syn": [
+   "dispute",
+   "clash",
+   "strife"
+  ],
+  "ant": [
+   "harmony",
+   "agreement"
+  ],
+  "ex": "Water shortages may trigger regional conflict.",
+  "id": 170
+ },
+ {
+  "word": "conform",
+  "pos": "verb",
+  "level": "BOTH",
+  "list": 5,
+  "def": "To comply with rules or accepted standards.",
+  "syn": [
+   "comply",
+   "adhere",
+   "abide"
+  ],
+  "ant": [
+   "deviate",
+   "rebel"
+  ],
+  "ex": "All products must conform to safety standards.",
+  "id": 171
+ },
+ {
+  "word": "confound",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To confuse or to prove wrong.",
+  "syn": [
+   "baffle",
+   "perplex",
+   "refute"
+  ],
+  "ant": [
+   "clarify",
+   "confirm"
+  ],
+  "ex": "The results confounded all expectations.",
+  "id": 172
+ },
+ {
+  "word": "confuse",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 5,
+  "def": "To make someone unable to think clearly, or to mistake one thing for another.",
+  "syn": [
+   "bewilder",
+   "muddle",
+   "conflate"
+  ],
+  "ant": [
+   "clarify",
+   "enlighten"
+  ],
+  "ex": "Do not confuse correlation with causation.",
+  "id": 173
+ },
+ {
+  "word": "congenial",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Pleasant because suited to one's tastes.",
+  "syn": [
+   "agreeable",
+   "compatible",
+   "amiable"
+  ],
+  "ant": [
+   "disagreeable",
+   "uncongenial"
+  ],
+  "ex": "The library provides a congenial working environment.",
+  "id": 174
+ },
+ {
+  "word": "connoisseur",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "An expert judge in matters of taste.",
+  "syn": [
+   "expert",
+   "aficionado",
+   "authority"
+  ],
+  "ant": [
+   "novice",
+   "layman"
+  ],
+  "ex": "He is a connoisseur of Persian carpets.",
+  "id": 175
+ },
+ {
+  "word": "consciousness",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Awareness of one's surroundings and thoughts.",
+  "syn": [
+   "awareness",
+   "sentience",
+   "cognisance"
+  ],
+  "ant": [
+   "unconsciousness",
+   "oblivion"
+  ],
+  "ex": "He lost consciousness for several minutes.",
+  "id": 176
+ },
+ {
+  "word": "consequence",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A result or effect that follows from an action.",
+  "syn": [
+   "outcome",
+   "repercussion",
+   "aftermath"
+  ],
+  "ant": [
+   "cause",
+   "origin"
+  ],
+  "ex": "Deforestation has severe environmental consequences.",
+  "id": 177
+ },
+ {
+  "word": "considerable",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Notably large in size, amount or importance.",
+  "syn": [
+   "substantial",
+   "significant",
+   "sizeable"
+  ],
+  "ant": [
+   "negligible",
+   "slight"
+  ],
+  "ex": "The project required considerable funding.",
+  "id": 178
+ },
+ {
+  "word": "consistent",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Unchanging over time, or in agreement with something else.",
+  "syn": [
+   "steady",
+   "uniform",
+   "coherent"
+  ],
+  "ant": [
+   "erratic",
+   "contradictory"
+  ],
+  "ex": "Her results were consistent across all trials.",
+  "id": 179
+ },
+ {
+  "word": "constant",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Occurring continuously or remaining unchanged.",
+  "syn": [
+   "continuous",
+   "persistent",
+   "invariable"
+  ],
+  "ant": [
+   "intermittent",
+   "variable"
+  ],
+  "ex": "The machine emits a constant low hum.",
+  "id": 180
+ },
+ {
+  "word": "constitutional",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 1,
+  "def": "Relating to the basic laws or principles of a state.",
+  "syn": [
+   "statutory",
+   "lawful",
+   "chartered"
+  ],
+  "ant": [
+   "unconstitutional",
+   "illegal"
+  ],
+  "ex": "The court ruled the ban constitutional.",
+  "id": 181
+ },
+ {
+  "word": "consumer",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "A person who buys goods or uses services.",
+  "syn": [
+   "buyer",
+   "purchaser",
+   "customer"
+  ],
+  "ant": [
+   "producer",
+   "supplier"
+  ],
+  "ex": "Consumers are increasingly demanding ethical products.",
+  "id": 182
+ },
+ {
+  "word": "contact",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Communication with someone, or physical touching.",
+  "syn": [
+   "communication",
+   "touch",
+   "liaison"
+  ],
+  "ant": [
+   "separation",
+   "isolation"
+  ],
+  "ex": "They lost contact after graduation.",
+  "id": 183
+ },
+ {
+  "word": "contemporary",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Belonging to the present time, or existing at the same time.",
+  "syn": [
+   "modern",
+   "current",
+   "coexisting"
+  ],
+  "ant": [
+   "antiquated",
+   "historical"
+  ],
+  "ex": "Contemporary art divides opinion sharply.",
+  "id": 184
+ },
+ {
+  "word": "contentious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Causing or likely to cause disagreement.",
+  "syn": [
+   "controversial",
+   "divisive",
+   "disputatious"
+  ],
+  "ant": [
+   "uncontroversial",
+   "agreed"
+  ],
+  "ex": "Immigration remains the most contentious issue.",
+  "id": 185
+ },
+ {
+  "word": "context",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The circumstances that surround an event and help explain it.",
+  "syn": [
+   "setting",
+   "background",
+   "framework"
+  ],
+  "ant": [
+   "isolation"
+  ],
+  "ex": "The remark makes sense only in its historical context.",
+  "id": 186
+ },
+ {
+  "word": "contradict",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To assert the opposite of a statement, or to be inconsistent with it.",
+  "syn": [
+   "refute",
+   "dispute",
+   "gainsay"
+  ],
+  "ant": [
+   "confirm",
+   "corroborate"
+  ],
+  "ex": "The two witnesses contradict each other.",
+  "id": 187
+ },
+ {
+  "word": "contrary",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Opposite in nature or direction.",
+  "syn": [
+   "opposing",
+   "conflicting",
+   "antithetical"
+  ],
+  "ant": [
+   "consistent",
+   "agreeing"
+  ],
+  "ex": "Contrary to expectation, sales rose.",
+  "id": 188
+ },
+ {
+  "word": "contribution",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Something given or done to help achieve a result.",
+  "syn": [
+   "input",
+   "donation",
+   "share"
+  ],
+  "ant": [
+   "withdrawal",
+   "withholding"
+  ],
+  "ex": "Her contribution to the field was decisive.",
+  "id": 189
+ },
+ {
+  "word": "contrite",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Feeling genuine remorse.",
+  "syn": [
+   "penitent",
+   "remorseful",
+   "repentant"
+  ],
+  "ant": [
+   "unrepentant",
+   "defiant"
+  ],
+  "ex": "He offered a contrite public apology.",
+  "id": 190
+ },
+ {
+  "word": "controversy",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Prolonged public disagreement about something.",
+  "syn": [
+   "dispute",
+   "debate",
+   "furore"
+  ],
+  "ant": [
+   "consensus",
+   "accord"
+  ],
+  "ex": "The ruling sparked immediate controversy.",
+  "id": 191
+ },
+ {
+  "word": "conundrum",
+  "pos": "noun",
+  "level": "GRE",
+  "list": 6,
+  "def": "A confusing and difficult problem.",
+  "syn": [
+   "puzzle",
+   "dilemma",
+   "enigma"
+  ],
+  "ant": [
+   "solution"
+  ],
+  "ex": "Funding pensions is a demographic conundrum.",
+  "id": 192
+ },
+ {
+  "word": "conversely",
+  "pos": "adverb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Introducing a statement that reverses the previous one.",
+  "syn": [
+   "on the contrary",
+   "inversely",
+   "by contrast"
+  ],
+  "ant": [
+   "similarly",
+   "likewise"
+  ],
+  "ex": "Conversely, rural incomes have risen.",
+  "id": 193
+ },
+ {
+  "word": "convinced",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 5,
+  "def": "Completely certain about something.",
+  "syn": [
+   "persuaded",
+   "certain",
+   "satisfied"
+  ],
+  "ant": [
+   "doubtful",
+   "sceptical"
+  ],
+  "ex": "Investors were not convinced by the forecast.",
+  "id": 194
+ },
+ {
+  "word": "cooperate",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 4,
+  "def": "To work together towards a shared aim.",
+  "syn": [
+   "collaborate",
+   "coordinate",
+   "unite"
+  ],
+  "ant": [
+   "compete",
+   "obstruct"
+  ],
+  "ex": "The two agencies refused to cooperate.",
+  "id": 195
+ },
+ {
+  "word": "coordination",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "The organisation of different elements to work together effectively.",
+  "syn": [
+   "organisation",
+   "synchronisation",
+   "harmonisation"
+  ],
+  "ant": [
+   "disorganisation",
+   "chaos"
+  ],
+  "ex": "Better coordination between agencies is needed.",
+  "id": 196
+ },
+ {
+  "word": "copious",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Abundant in quantity.",
+  "syn": [
+   "plentiful",
+   "profuse",
+   "ample"
+  ],
+  "ant": [
+   "scant",
+   "meagre"
+  ],
+  "ex": "She took copious notes throughout.",
+  "id": 197
+ },
+ {
+  "word": "core",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "The central and most important part of something.",
+  "syn": [
+   "heart",
+   "nucleus",
+   "essence"
+  ],
+  "ant": [
+   "periphery",
+   "fringe"
+  ],
+  "ex": "Equality lies at the core of the policy.",
+  "id": 198
+ },
+ {
+  "word": "correspond",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 2,
+  "def": "To match or be equivalent to something; to exchange letters.",
+  "syn": [
+   "match",
+   "align",
+   "tally"
+  ],
+  "ant": [
+   "differ",
+   "diverge"
+  ],
+  "ex": "The results correspond closely to the model.",
+  "id": 199
+ },
+ {
+  "word": "corroborate",
+  "pos": "verb",
+  "level": "GRE",
+  "list": 6,
+  "def": "To confirm with supporting evidence.",
+  "syn": [
+   "substantiate",
+   "verify",
+   "validate"
+  ],
+  "ant": [
+   "contradict",
+   "refute"
+  ],
+  "ex": "Two witnesses corroborated her account.",
+  "id": 200
+ },
+ {
+  "word": "couple",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 3,
+  "def": "Two people or things considered together.",
+  "syn": [
+   "pair",
+   "duo",
+   "twosome"
+  ],
+  "ant": [
+   "individual"
+  ],
+  "ex": "A couple of studies contradict the consensus.",
+  "id": 201
+ },
+ {
+  "word": "create",
+  "pos": "verb",
+  "level": "IELTS",
+  "list": 1,
+  "def": "To bring something into existence.",
+  "syn": [
+   "produce",
+   "generate",
+   "originate"
+  ],
+  "ant": [
+   "destroy",
+   "demolish"
+  ],
+  "ex": "The policy created thousands of new jobs.",
+  "id": 202
+ },
+ {
+  "word": "creditable",
+  "pos": "adjective",
+  "level": "BOTH",
+  "list": 5,
+  "def": "Deserving praise or acknowledgement.",
+  "syn": [
+   "praiseworthy",
+   "commendable",
+   "respectable"
+  ],
+  "ant": [
+   "shameful",
+   "discreditable"
+  ],
+  "ex": "A creditable performance given the budget.",
+  "id": 203
+ },
+ {
+  "word": "credulous",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Too ready to believe things.",
+  "syn": [
+   "gullible",
+   "naive",
+   "unquestioning"
+  ],
+  "ant": [
+   "sceptical",
+   "incredulous"
+  ],
+  "ex": "Scams target the credulous and the lonely.",
+  "id": 204
+ },
+ {
+  "word": "criteria",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "Standards by which something is judged.",
+  "syn": [
+   "standards",
+   "benchmarks",
+   "yardsticks"
+  ],
+  "ant": [],
+  "ex": "Applicants must meet three criteria.",
+  "id": 205
+ },
+ {
+  "word": "crucial",
+  "pos": "adjective",
+  "level": "IELTS",
+  "list": 4,
+  "def": "Extremely important because it determines the outcome.",
+  "syn": [
+   "vital",
+   "pivotal",
+   "decisive"
+  ],
+  "ant": [
+   "trivial",
+   "unimportant"
+  ],
+  "ex": "The next ten years are crucial for emissions.",
+  "id": 206
+ },
+ {
+  "word": "cryptic",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Having a hidden or obscure meaning.",
+  "syn": [
+   "enigmatic",
+   "obscure",
+   "mystifying"
+  ],
+  "ant": [
+   "clear",
+   "explicit"
+  ],
+  "ex": "He left a cryptic note and vanished.",
+  "id": 207
+ },
+ {
+  "word": "culpable",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Deserving blame.",
+  "syn": [
+   "blameworthy",
+   "guilty",
+   "liable"
+  ],
+  "ant": [
+   "blameless",
+   "innocent"
+  ],
+  "ex": "The inquiry found the firm culpable.",
+  "id": 208
+ },
+ {
+  "word": "culture",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 1,
+  "def": "The shared beliefs, customs and arts of a society.",
+  "syn": [
+   "civilisation",
+   "heritage",
+   "ethos"
+  ],
+  "ant": [
+   "barbarism"
+  ],
+  "ex": "Language is inseparable from culture.",
+  "id": 209
+ },
+ {
+  "word": "currency",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 4,
+  "def": "A system of money in use; also, general acceptance.",
+  "syn": [
+   "money",
+   "legal tender",
+   "circulation"
+  ],
+  "ant": [],
+  "ex": "A weak currency makes exports cheaper.",
+  "id": 210
+ },
+ {
+  "word": "cursory",
+  "pos": "adjective",
+  "level": "GRE",
+  "list": 6,
+  "def": "Hasty and without attention to detail.",
+  "syn": [
+   "perfunctory",
+   "superficial",
+   "hurried"
+  ],
+  "ant": [
+   "thorough",
+   "meticulous"
+  ],
+  "ex": "Even a cursory reading exposes the flaw.",
+  "id": 211
+ },
+ {
+  "word": "cycle",
+  "pos": "noun",
+  "level": "IELTS",
+  "list": 2,
+  "def": "A series of events that repeats in the same order.",
+  "syn": [
+   "sequence",
+   "rotation",
+   "loop"
+  ],
+  "ant": [
+   "one-off"
+  ],
+  "ex": "The water cycle sustains all terrestrial life.",
+  "id": 212
+ }
+]

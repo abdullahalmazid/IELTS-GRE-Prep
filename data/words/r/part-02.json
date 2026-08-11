@@ -1,0 +1,523 @@
+[
+ {
+  "word": "rancour",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Bitter, long-lasting resentment.",
+  "syn": [
+   "bitterness",
+   "animosity",
+   "enmity"
+  ],
+  "ant": [
+   "goodwill",
+   "amity"
+  ],
+  "ex": "The split was managed without rancour.",
+  "id": 870,
+  "list": 6
+ },
+ {
+  "word": "rapacious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Aggressively greedy.",
+  "syn": [
+   "grasping",
+   "predatory",
+   "avaricious"
+  ],
+  "ant": [
+   "generous",
+   "restrained"
+  ],
+  "ex": "Rapacious lending stripped the region of assets.",
+  "id": 871,
+  "list": 6
+ },
+ {
+  "word": "rebuke",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To criticise sharply.",
+  "syn": [
+   "reprimand",
+   "admonish",
+   "reprove"
+  ],
+  "ant": [
+   "praise",
+   "commend"
+  ],
+  "ex": "The regulator rebuked both banks.",
+  "id": 872,
+  "list": 6
+ },
+ {
+  "word": "recalcitrant",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Stubbornly resisting authority.",
+  "syn": [
+   "defiant",
+   "refractory",
+   "obstinate"
+  ],
+  "ant": [
+   "compliant",
+   "obedient"
+  ],
+  "ex": "A recalcitrant minority blocked every motion.",
+  "id": 873,
+  "list": 6
+ },
+ {
+  "word": "recant",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To publicly withdraw a former belief.",
+  "syn": [
+   "retract",
+   "renounce",
+   "disavow"
+  ],
+  "ant": [
+   "affirm",
+   "maintain"
+  ],
+  "ex": "He recanted the claim within a week.",
+  "id": 874,
+  "list": 6
+ },
+ {
+  "word": "recapitulate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To restate the main points.",
+  "syn": [
+   "summarise",
+   "recap",
+   "restate"
+  ],
+  "ant": [
+   "elaborate",
+   "digress"
+  ],
+  "ex": "Let me recapitulate the argument so far.",
+  "id": 875,
+  "list": 6
+ },
+ {
+  "word": "reciprocal",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Given and received in equal measure.",
+  "syn": [
+   "mutual",
+   "corresponding",
+   "give-and-take"
+  ],
+  "ant": [
+   "one-sided",
+   "unilateral"
+  ],
+  "ex": "A reciprocal arrangement between the two schools.",
+  "id": 876,
+  "list": 6
+ },
+ {
+  "word": "recondite",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Obscure and understood by few.",
+  "syn": [
+   "abstruse",
+   "arcane",
+   "esoteric"
+  ],
+  "ant": [
+   "accessible",
+   "familiar"
+  ],
+  "ex": "A recondite branch of number theory.",
+  "id": 877,
+  "list": 6
+ },
+ {
+  "word": "redolent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Strongly suggestive or reminiscent of something.",
+  "syn": [
+   "evocative",
+   "suggestive",
+   "reminiscent"
+  ],
+  "ant": [
+   "unevocative"
+  ],
+  "ex": "Prose redolent of the nineteenth century.",
+  "id": 878,
+  "list": 6
+ },
+ {
+  "word": "redoubtable",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Formidable, especially as an opponent.",
+  "syn": [
+   "formidable",
+   "daunting",
+   "awe-inspiring"
+  ],
+  "ant": [
+   "feeble",
+   "unimpressive"
+  ],
+  "ex": "A redoubtable defender of civil liberties.",
+  "id": 879,
+  "list": 6
+ },
+ {
+  "word": "refractory",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Stubbornly resistant to treatment or control.",
+  "syn": [
+   "intractable",
+   "recalcitrant",
+   "unmanageable"
+  ],
+  "ant": [
+   "responsive",
+   "tractable"
+  ],
+  "ex": "A refractory infection resistant to three drugs.",
+  "id": 880,
+  "list": 6
+ },
+ {
+  "word": "refute",
+  "pos": "verb",
+  "level": "BOTH",
+  "def": "To prove a statement wrong.",
+  "syn": [
+   "disprove",
+   "rebut",
+   "confute"
+  ],
+  "ant": [
+   "confirm",
+   "corroborate"
+  ],
+  "ex": "A single counterexample refutes the rule.",
+  "id": 881,
+  "list": 6
+ },
+ {
+  "word": "relegate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To move to a lower position or rank.",
+  "syn": [
+   "demote",
+   "downgrade",
+   "consign"
+  ],
+  "ant": [
+   "promote",
+   "elevate"
+  ],
+  "ex": "The finding was relegated to a footnote.",
+  "id": 882,
+  "list": 6
+ },
+ {
+  "word": "remiss",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Careless about a duty.",
+  "syn": [
+   "negligent",
+   "lax",
+   "derelict"
+  ],
+  "ant": [
+   "conscientious",
+   "diligent"
+  ],
+  "ex": "It would be remiss not to mention the cost.",
+  "id": 883,
+  "list": 6
+ },
+ {
+  "word": "remonstrate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To protest or object forcefully.",
+  "syn": [
+   "protest",
+   "expostulate",
+   "object"
+  ],
+  "ant": [
+   "acquiesce",
+   "assent"
+  ],
+  "ex": "Staff remonstrated with the management.",
+  "id": 884,
+  "list": 6
+ },
+ {
+  "word": "renege",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To go back on a promise or agreement.",
+  "syn": [
+   "default",
+   "backtrack",
+   "break faith"
+  ],
+  "ant": [
+   "honour",
+   "fulfil"
+  ],
+  "ex": "The buyer reneged on the contract.",
+  "id": 885,
+  "list": 6
+ },
+ {
+  "word": "replete",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Filled or well supplied with something.",
+  "syn": [
+   "abounding",
+   "brimming",
+   "teeming"
+  ],
+  "ant": [
+   "devoid",
+   "lacking"
+  ],
+  "ex": "A report replete with unsupported claims.",
+  "id": 886,
+  "list": 6
+ },
+ {
+  "word": "reprehensible",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Deserving strong condemnation.",
+  "syn": [
+   "blameworthy",
+   "culpable",
+   "disgraceful"
+  ],
+  "ant": [
+   "praiseworthy",
+   "admirable"
+  ],
+  "ex": "Reprehensible conduct by senior staff.",
+  "id": 887,
+  "list": 6
+ },
+ {
+  "word": "reprove",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To tell someone off, usually gently.",
+  "syn": [
+   "rebuke",
+   "admonish",
+   "chide"
+  ],
+  "ant": [
+   "praise",
+   "applaud"
+  ],
+  "ex": "She reproved him for interrupting.",
+  "id": 888,
+  "list": 6
+ },
+ {
+  "word": "repudiate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To refuse to accept or be associated with.",
+  "syn": [
+   "disown",
+   "reject",
+   "renounce"
+  ],
+  "ant": [
+   "embrace",
+   "endorse"
+  ],
+  "ex": "The party repudiated its own manifesto.",
+  "id": 889,
+  "list": 6
+ },
+ {
+  "word": "rescind",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To officially cancel a law or decision.",
+  "syn": [
+   "revoke",
+   "annul",
+   "repeal"
+  ],
+  "ant": [
+   "enact",
+   "uphold"
+  ],
+  "ex": "The order was rescinded after protests.",
+  "id": 890,
+  "list": 6
+ },
+ {
+  "word": "resolute",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Firmly determined.",
+  "syn": [
+   "steadfast",
+   "unwavering",
+   "dogged"
+  ],
+  "ant": [
+   "irresolute",
+   "wavering"
+  ],
+  "ex": "A resolute refusal to raise prices.",
+  "id": 891,
+  "list": 6
+ },
+ {
+  "word": "reticent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Unwilling to speak about one's thoughts.",
+  "syn": [
+   "reserved",
+   "taciturn",
+   "guarded"
+  ],
+  "ant": [
+   "forthcoming",
+   "talkative"
+  ],
+  "ex": "Reticent about his role in the decision.",
+  "id": 892,
+  "list": 6
+ },
+ {
+  "word": "reverent",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing deep respect.",
+  "syn": [
+   "respectful",
+   "deferential",
+   "awed"
+  ],
+  "ant": [
+   "irreverent",
+   "disrespectful"
+  ],
+  "ex": "A reverent silence filled the hall.",
+  "id": 893,
+  "list": 6
+ },
+ {
+  "word": "rhetoric",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "The art of persuasive speech; language with little substance.",
+  "syn": [
+   "oratory",
+   "eloquence",
+   "bombast"
+  ],
+  "ant": [
+   "plain speech",
+   "action"
+  ],
+  "ex": "Rhetoric outran policy at every turn.",
+  "id": 894,
+  "list": 6
+ },
+ {
+  "word": "ribald",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Humorous in a coarse, irreverent way.",
+  "syn": [
+   "bawdy",
+   "earthy",
+   "crude"
+  ],
+  "ant": [
+   "decorous",
+   "refined"
+  ],
+  "ex": "Ribald verses circulated in manuscript.",
+  "id": 895,
+  "list": 6
+ },
+ {
+  "word": "rife",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Widespread, usually of something bad.",
+  "syn": [
+   "prevalent",
+   "rampant",
+   "endemic"
+  ],
+  "ant": [
+   "rare",
+   "scarce"
+  ],
+  "ex": "Speculation was rife before the ruling.",
+  "id": 896,
+  "list": 6
+ },
+ {
+  "word": "rudimentary",
+  "pos": "adjective",
+  "level": "BOTH",
+  "def": "Basic and undeveloped.",
+  "syn": [
+   "elementary",
+   "primitive",
+   "embryonic"
+  ],
+  "ant": [
+   "sophisticated",
+   "advanced"
+  ],
+  "ex": "Only rudimentary sanitation was available.",
+  "id": 897,
+  "list": 6
+ },
+ {
+  "word": "ruminate",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To think deeply about something over time.",
+  "syn": [
+   "ponder",
+   "mull",
+   "contemplate"
+  ],
+  "ant": [
+   "ignore",
+   "dismiss"
+  ],
+  "ex": "He ruminated on the offer for a week.",
+  "id": 898,
+  "list": 6
+ }
+]

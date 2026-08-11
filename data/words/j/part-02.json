@@ -1,0 +1,108 @@
+[
+ {
+  "word": "jargon",
+  "pos": "noun",
+  "level": "BOTH",
+  "def": "Specialised vocabulary hard for outsiders to follow.",
+  "syn": [
+   "terminology",
+   "argot",
+   "cant"
+  ],
+  "ant": [
+   "plain language"
+  ],
+  "ex": "The report drowns its findings in jargon.",
+  "id": 748,
+  "list": 6
+ },
+ {
+  "word": "jettison",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To abandon or discard something no longer wanted.",
+  "syn": [
+   "discard",
+   "abandon",
+   "shed"
+  ],
+  "ant": [
+   "retain",
+   "keep"
+  ],
+  "ex": "The party jettisoned its most costly pledge.",
+  "id": 749,
+  "list": 6
+ },
+ {
+  "word": "jingoism",
+  "pos": "noun",
+  "level": "GRE",
+  "def": "Aggressive nationalism, especially favouring war.",
+  "syn": [
+   "chauvinism",
+   "belligerence"
+  ],
+  "ant": [
+   "internationalism",
+   "pacifism"
+  ],
+  "ex": "Wartime jingoism silenced dissent.",
+  "id": 750,
+  "list": 6
+ },
+ {
+  "word": "jocular",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Fond of joking; humorous in tone.",
+  "syn": [
+   "jovial",
+   "playful",
+   "waggish"
+  ],
+  "ant": [
+   "solemn",
+   "dour"
+  ],
+  "ex": "A jocular aside broke the tension.",
+  "id": 751,
+  "list": 6
+ },
+ {
+  "word": "judicious",
+  "pos": "adjective",
+  "level": "GRE",
+  "def": "Showing good sense and careful judgement.",
+  "syn": [
+   "prudent",
+   "sagacious",
+   "discerning"
+  ],
+  "ant": [
+   "rash",
+   "injudicious"
+  ],
+  "ex": "A judicious use of limited funds.",
+  "id": 752,
+  "list": 6
+ },
+ {
+  "word": "juxtapose",
+  "pos": "verb",
+  "level": "GRE",
+  "def": "To place things side by side to show contrast.",
+  "syn": [
+   "contrast",
+   "set side by side",
+   "collocate"
+  ],
+  "ant": [
+   "separate",
+   "isolate"
+  ],
+  "ex": "The exhibit juxtaposes the two eras.",
+  "id": 753,
+  "list": 6
+ }
+]
