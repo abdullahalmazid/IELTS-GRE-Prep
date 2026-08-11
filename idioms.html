@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Phrases &amp; Idioms — with Bengali meanings</title>
+<meta name="description" content="English phrases and idioms with Bengali and English meanings. Search, filter by letter, and practise with the meanings hidden.">
+<style>
+/* ==========================================================================
+   Self-contained. If you drop this next to style.css and link it, delete the
+   :root block below and the page will inherit your site's tokens instead.
+   ========================================================================== */
+:root{
+  --canvas:#fff; --tint:#f7f7f7; --ink:#1c1c1c; --ink-soft:#3d3d3d;
+  --muted:#8a8a8a; --rule:#ddd; --rule-soft:#ececec;
+  --red:#8b1a1a; --link:#1a4d8f; --green:#2c6e49;
+  --font-head:Georgia,'Times New Roman',serif;
+  --font-body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  --font-mono:ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:#f0f0f0;color:var(--ink);font-family:var(--font-body);
+     font-size:15px;line-height:1.6}
+.wrap{max-width:1100px;margin:0 auto;padding:0 18px}
+
+/* masthead */
+.site-header{background:var(--canvas);border-bottom:1px solid var(--rule);padding:22px 0;text-align:center}
+.brand{font-family:var(--font-head);font-size:30px;color:var(--ink);text-decoration:none}
+.brand .dot{color:var(--red)}
+.tagline{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:6px 0 0}
+main{padding:22px 0 50px}
+.panel{background:var(--canvas);border:1px solid var(--rule);padding:20px}
+
+.page-head h1{font-family:var(--font-head);font-size:26px;margin:0 0 6px}
+.page-head p{margin:0 0 18px;color:var(--ink-soft);font-size:14px}
+
+/* letter rail */
+.rail{display:flex;flex-wrap:wrap;gap:4px;padding:12px;background:var(--tint);
+      border:1px solid var(--rule);border-bottom:0}
+.rail button{font-family:var(--font-head);font-size:14px;width:32px;height:30px;
+      border:1px solid var(--rule);background:var(--canvas);color:var(--ink);cursor:pointer}
+.rail button:hover:not(:disabled){border-color:var(--red);color:var(--red)}
+.rail button[aria-pressed="true"]{background:var(--red);border-color:var(--red);color:#fff}
+.rail button:disabled{color:#c8c8c8;background:var(--tint);cursor:default}
+.rail .all{width:auto;padding:0 12px;font-family:var(--font-body);font-size:12px}
+
+/* toolbar */
+.toolbar{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:10px;
+      padding:12px;background:var(--tint);border:1px solid var(--rule)}
+.toolbar input,.toolbar select{font:inherit;font-size:14px;width:100%;padding:8px 10px;
+      border:1px solid var(--rule);background:var(--canvas);color:var(--ink)}
+.resultline{display:flex;justify-content:space-between;align-items:baseline;gap:12px;
+      flex-wrap:wrap;font-size:12.5px;color:var(--muted);padding:9px 0;
+      border-bottom:1px solid var(--rule);margin-bottom:16px}
+.resultline strong{color:var(--ink)}
+
+/* cards */
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.card{border:1px solid var(--rule);background:var(--canvas);padding:14px 16px}
+.card:hover{border-color:var(--red)}
+.idiom{font-family:var(--font-head);font-size:18px;color:var(--ink);margin:0 0 8px;line-height:1.3}
+.bn{font-size:16px;color:var(--green);margin:0 0 4px;line-height:1.7}
+.en{font-size:13.5px;color:var(--ink-soft);margin:0}
+.card.hide .bn,.card.hide .en{filter:blur(5px);cursor:pointer;user-select:none}
+.card.hide.open .bn,.card.hide.open .en{filter:none}
+
+.more{text-align:center;margin-top:20px}
+.btn{font:inherit;font-size:13px;padding:9px 20px;border:1px solid var(--rule);
+      background:var(--canvas);color:var(--ink);cursor:pointer}
+.btn:hover{border-color:var(--red);color:var(--red)}
+.empty{border:1px solid var(--rule);background:var(--tint);padding:26px;text-align:center;color:var(--ink-soft)}
+footer{text-align:center;font-size:12px;color:var(--muted);padding:24px 0 40px}
+
+@media(max-width:820px){
+  .grid{grid-template-columns:minmax(0,1fr)}
+  .toolbar{grid-template-columns:minmax(0,1fr)}
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="#">Phrases &amp; Idioms<span class="dot">.</span></a>
+    <p class="tagline">with Bengali &amp; English meanings</p>
+  </div>
+</header>
+
+<main>
+<div class="wrap">
+  <div class="panel">
+
+    <div class="page-head">
+      <h1>Idiom bank</h1>
+      <p>Every entry carries the Bengali sense and a short English gloss. Search any of the three, filter by first letter, or switch on practice mode to hide the meanings and test yourself.</p>
+    </div>
+
+    <div class="rail" id="rail"></div>
+
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="Search an idiom, or a Bengali / English meaning" aria-label="Search">
+      <select id="mode" aria-label="Display mode">
+        <option value="show">Show meanings</option>
+        <option value="hide">Practice — hide meanings</option>
+      </select>
+    </div>
+
+    <div class="resultline">
+      <span id="count">&nbsp;</span>
+      <span id="hint"></span>
+    </div>
+
+    <div class="grid" id="grid"></div>
+    <div class="more" id="moreWrap" hidden><button class="btn" id="more">Show 60 more</button></div>
+
+  </div>
+</div>
+</main>
+
+<footer>Tap a blurred card to reveal it. Compiled for personal study.</footer>
+
+<script>
+/* Each entry: [ idiom, Bengali meaning, English meaning ] */
+var DATA = [
+["ABC","প্রাথমিক জ্ঞান","the rudiments; the most basic knowledge"],
+["Add up","বৃদ্ধি পাওয়া / যুক্তিসঙ্গত হওয়া","to make sense"],
+["A bolt from the blue","বিনা মেঘে বজ্রপাত","an unexpected calamity"],
+["A cock and bull story","আষাঢ়ে গল্প","a false, made-up story"],
+["A green horn","অনভিজ্ঞ লোক","an inexperienced person"],
+["An early bird","যে সকালে দ্রুত ঘুম থেকে ওঠে","an early riser"],
+["A hair-breadth escape","অল্পের জন্য রক্ষা","a narrow escape"],
+["A host in oneself","একাই একশ","one person worth many"],
+["A man of letters","বিদ্বান ব্যক্তি","an educated, highly respected person"],
+["A man of word","এক কথার লোক","one who keeps his promise at any cost"],
+["A man of parts","গুণী ব্যক্তি","a talented person"],
+["A sleeping partner","ব্যবসায়ে নিষ্ক্রিয় অংশীদার","a partner who takes no active part"],
+["A turn coat","নীতি পরিবর্তনকারী ব্যক্তি","one who changes his principles"],
+["A utopian scheme","অবাস্তব পরিকল্পনা","a fanciful, unrealistic plan"],
+["A weather cock","সুযোগ সন্ধানী লোক","one who behaves according to circumstances"],
+["A white lie","নির্দোষ মিথ্যা","a small, harmless lie"],
+["A wolf in sheep's clothing","ভন্ড","a hypocrite"],
+["Above all","সর্বোপরি","chiefly; more than anything else"],
+["Above board","সন্দেহের অতীত","open and beyond reproach"],
+["Above one's station","পদমর্যাদার বাইরে","above one's social position"],
+["According to","অনুসারে","in accordance with"],
+["Achilles' heel","ছোট অথচ গুরুত্বপূর্ণ দুর্বলতা","a weak but crucial point"],
+["Acid test","অগ্নি পরীক্ষা","a decisive test beyond dispute"],
+["Add fuel to the flame","ইন্ধন যোগান","to make matters worse"],
+["Add insult to injury","খারাপ অবস্থাকে আরও খারাপ করা","to worsen an already bad situation"],
+["After all","তৎসত্ত্বেও / মোটের ওপর","in spite of everything"],
+["Against one's will","কারো ইচ্ছার বিরুদ্ধে","without a person's consent"],
+["Ahead of time","নির্ধারিত সময়ের পূর্বে","before the appointed time"],
+["Air one's grievances","অভিযোগ করা","to complain publicly"],
+["All along","সব সময়","always"],
+["All and sundry","সবাই","one and all"],
+["All at once","হঠাৎ","suddenly"],
+["All at sea","কিংকর্তব্যবিমূঢ়","completely confused"],
+["All but","প্রায়","almost; nearly"],
+["All in","ক্লান্ত / সর্বসাকুল্যে","exhausted; with everything included"],
+["All in all","সর্বেসর্বা","all powerful"],
+["All in one breath","এক নিঃশ্বাসে","spoken rapidly, in excitement"],
+["All in one piece","নিরাপদে","safely, without damage"],
+["All of a sudden","সম্পূর্ণ আকস্মিকভাবে","unexpectedly"],
+["All over","সর্বত্র","everywhere"],
+["All over with","সবশেষ","finished"],
+["All the same","একই কথা","unchanged; the same result"],
+["An open question","অমীমাংসিত বিষয়","an undecided matter"],
+["An open secret","আপাতঃ গোপন কিন্তু সবার জানা","a secret everybody actually knows"],
+["Apple of discord","কলহের হেতু","the subject of a quarrel"],
+["Apple of one's eye","চোখের মণি","one's dearest person or thing"],
+["At daggers drawn","বিবাদমান অবস্থায়","at bitter enmity"],
+["A foregone conclusion","অপেক্ষিত ফলাফল","a result known in advance"],
+["A round dozen","এক ডজন","a full dozen"],
+["A bone of contention","ঝগড়া বিবাদের বিষয়","a matter of dispute"],
+["A stone's throw","খুব কাছে","a very short distance"],
+["Arm in arm","হাত ধরাধরি করে","linked together by the arms"],
+["As a matter of fact","প্রকৃতপক্ষে","in fact"],
+["As for","সম্বন্ধে","as regards; about"],
+["As it were","ঠিক যেন","so to say"],
+["As the crow flies","সোজাসুজি","in a straight line"],
+["As usual","যথারীতি","as commonly happens"],
+["As warm as toast","আরামদায়ক উষ্ণতা","comfortably warm"],
+["Asleep at the wheel","সঠিক সময়ে দায়িত্ব পালনে ব্যর্থ","failing one's duty at the proper time"],
+["At a deadlock","পুরোপুরি অচল অবস্থায়","completely stalled"],
+["At a discount","অনাদৃত","not valued or encouraged"],
+["At a low ebb","হ্রাস পাওয়া","declining"],
+["At a loss","কিংকর্তব্যবিমূঢ়","confused, unable to decide"],
+["At a pinch","প্রয়োজনের তাগিদে","in an emergency"],
+["At a snail's pace","খুবই ধীরগতিতে","very slowly"],
+["At a stretch","একটানা","continuously, without a break"],
+["At all costs","যেভাবেই হোক","regardless of the cost"],
+["At all events","যাই ঘটুক না কেন","in any case"],
+["At all hazards","শত বাধাবিপত্তি সত্ত্বেও","despite every obstacle"],
+["At any cost","যে কোন উপায়ে","by any means"],
+["At any rate","যেভাবেই হোক","whatever happens"],
+["At arm's length","দূরে","at a distance"],
+["At bay","কোণঠাসা অবস্থা","cornered, unable to escape"],
+["At best","বড়জোর","at the very most"],
+["At bottom","মূলত","in essential character"],
+["At ease","শান্তিতে, আরামে","in comfort and peace"],
+["At every step","প্রতি পদক্ষেপে","at every stage"],
+["At first glance","প্রথম দর্শনে","when first examined"],
+["At first hand","সরাসরি","directly from the source"],
+["At first sight","প্রথম দেখাতেই","at the first meeting"],
+["At hand","নিকটে","near, within reach"],
+["At home","দক্ষ","expert; thoroughly familiar with"],
+["At large","সাধারণত / মুক্ত","in general; at liberty"],
+["At last","অবশেষে","finally"],
+["At least","কমপক্ষে","at the lowest estimate"],
+["At length","অবশেষে / সবিস্তারে","in the end; in full detail"],
+["At loggerheads","বিবাদে লিপ্ত","in a quarrel, at an impasse"],
+["At one's back","গোপনে / অসাক্ষাতে","behind one's back"],
+["At one's beck and call","কারো আজ্ঞাধীন","always ready to serve"],
+["At one's disposal","কারো নিয়ন্ত্রণে","under one's control"],
+["At one's elbow","হাতের কাছে","near at hand"],
+["At one's finger-ends","নখদর্পণে","thoroughly familiar with"],
+["At one's heels","পিছু পিছু","just behind"],
+["At one's sweet will","কারো অভিরুচিতে","exactly as one pleases"],
+["At one's wit's end","সম্পূর্ণ বিভ্রান্ত","utterly perplexed"],
+["At random","এলোপাথাড়ি","without plan or order"],
+["At sixes and sevens","বিশৃঙ্খলভাবে","in complete disorder"],
+["At stake","বিপন্ন","in danger, at risk"],
+["At the eleventh hour","শেষ মুহূর্তে","at the last possible moment"],
+["At the heat of the moment","উত্তেজনার মুহূর্তে","in a moment of excitement"],
+["At the latest","কিছুতেই পরে নয়","not later than"],
+["At the outset","শুরুতেই","at the beginning"],
+["At the verge of","সন্নিকটে","very near to"],
+["At times","মাঝে মাঝে","occasionally"],
+["At variance with","বিরোধী / মিলহীন","inconsistent with"],
+["All Greek","দুর্বোধ্য","completely unintelligible"],
+["A verbose speech","বহু শব্দে তৈরি দীর্ঘ বক্তব্য","a speech full of too many words"],
+["A dark horse","অপরিচিত অথচ মেধাবী ব্যক্তি","an unknown person of surprising ability"],
+
+["Back out","প্রতিশ্রুতি ভঙ্গ করা / পিছনে হটা","to withdraw from a promise"],
+["Back up","সমর্থন করা","to support, to help"],
+["Bad book","অনুগ্রহহীনতা","out of favour with someone"],
+["Bad blood","বিদ্বেষ","ill feeling, enmity"],
+["Bag and baggage","তল্পিতল্পাসহ","with all one's belongings"],
+["Bare word","সাক্ষী প্রমাণহীন কথা","words without any witness"],
+["Be a cold fish","অনুভূতিহীন মানুষ","a distant, unfeeling person"],
+["Be a copy-cat","অনুকরণপ্রবণ","one who merely copies others"],
+["Be a dead duck","মৃতপ্রায় / পরাজিত","finished; already failed"],
+["Be-all and end-all","একমাত্র লক্ষ্য","the sole purpose"],
+["Be on one's last legs","পতনের মুখে","about to collapse"],
+["Bear up","সহ্য করা","to endure, to hold up"],
+["Bear the brunt","তীব্রতা সহ্য করা","to withstand the worst of something"],
+["Beat about the bush","অন্ধকারে ঢিল ছোঁড়া","to avoid coming to the point"],
+["Beat black and blue","বেদম প্রহার করা","to beat severely"],
+["Beat the air","নিষ্ফল চেষ্টা করা","to labour without result"],
+["Beaten track","প্রচলিত ও পরিচিত ধারা","the familiar, well-worn way"],
+["Because of","জন্য","on account of"],
+["Bee line","সোজা পথ","the most direct route"],
+["Beggar description","বর্ণনাতীত হওয়া","to be impossible to describe"],
+["Before long","শীঘ্রই","soon"],
+["Below the belt","অন্যায়ভাবে","unfairly, against the rules"],
+["Below the mark","আদর্শমানের চেয়ে কম","below the standard"],
+["Beside the mark","অপ্রাসঙ্গিক","irrelevant"],
+["Between the cup and the lip","আশা ও বাস্তবতার মাঝখানে","between hope and reality"],
+["Between the devil and the deep sea","উভয় সংকট","faced with two equally bad choices"],
+["Betwixt and between","সিদ্ধান্তহীন","undecided, not settled"],
+["Beyond doubt","নিঃসন্দেহে","undoubtedly"],
+["Beyond measure","অপরিমিত","immeasurable"],
+["Beyond the pale","অগ্রহণযোগ্য","unacceptable, outside the limits"],
+["Bid adieu","বিদায় নেওয়া","to bid farewell"],
+["Bid fair","উন্নতির ইঙ্গিত দেওয়া","to show signs of promise"],
+["Bird's-eye view","সংক্ষিপ্ত পর্যবেক্ষণ","a brief overall survey"],
+["Bite the dust","পরাজিত বা নিহত হওয়া","to be defeated or killed"],
+["Black and white","লিখিতভাবে","in writing"],
+["Black art","জাদুবিদ্যা","magic, sorcery"],
+["Black sheep","কুলাঙ্গার","a person of bad reputation in a family"],
+["Block head","বোকা লোক","a fool"],
+["Blood feud","পুরুষানুক্রমিক বিবাদ","a feud carried down generations"],
+["Blow one's own trumpet","নিজের ঢাক নিজে বাজানো","to boast about oneself"],
+["Blow over","স্মরণে না থাকা","to pass by and be forgotten"],
+["Blue blood","আভিজাত্য","noble birth"],
+["Bolt from the blue","বিনা মেঘে বজ্রপাত","a sudden shock"],
+["Bone of contention","কলহের কারণ","the subject of a dispute"],
+["Book worm","গ্রন্থকীট","one who does nothing but read"],
+["Bosom friend","অন্তরঙ্গ বন্ধু","a most intimate, trusted friend"],
+["Bow and scrape","অতিশয় বিনয় দেখানো","to be excessively humble"],
+["Break open","জোর করে ভাঙ্গা","to open by force"],
+["Break the news","দুঃসংবাদ দেওয়া","to be the first to tell bad news"],
+["Breathe one's last","শেষ নিঃশ্বাস ত্যাগ করা","to die"],
+["Bring into play","কাজে লাগানো","to bring into action"],
+["Bring to book","কৈফিয়ত চাওয়া","to call to account"],
+["Bring to light","প্রকাশ করা","to reveal to the public"],
+["Bring to mind","স্মরণ করা","to remember"],
+["Bring to pass","ঘটানো","to cause to happen"],
+["Broken reed","অবিশ্বস্ত ব্যক্তি","an unreliable person"],
+["Brown study","দিবাস্বপ্ন","idle daydreaming"],
+["Build castles in the air","আকাশ কুসুম কল্পনা করা","to cherish plans that can never happen"],
+["Bull in a China shop","নন্দন কাননের দানব","a reckless destroyer"],
+["Burning question","অতীব গুরুত্বপূর্ণ বিষয়","a topic of keen public interest"],
+["Bury the hatchet","বিবাদ বন্ধ করা","to end a quarrel"],
+["By all appearances","আপাতদৃষ্টিতে","apparently, from what one can see"],
+["By and by","ক্রমশ / অচিরে","gradually; before long"],
+["By all means","সর্বতোভাবে","in every possible way"],
+["By chance","দৈবক্রমে","accidentally"],
+["By degrees","একটু একটু করে","gradually"],
+["By dint of","বদৌলতে","by means of"],
+["By far","অত্যধিক পরিমাণে","by a great margin"],
+["By fair means or foul","যে কোনভাবেই হোক","by any means, honest or not"],
+["By fits and starts","অনিয়মিতভাবে","irregularly, with much stopping"],
+["By hook or crook","ছলে-বলে-কৌশলে","by any means whatever"],
+["By leaps and bounds","অতি দ্রুতগতিতে","very rapidly"],
+["By no means","কিছুতেই নয়","not at all"],
+["By the by","প্রসঙ্গক্রমে","incidentally"],
+["By the sweat of one's brow","কঠোর পরিশ্রম দ্বারা","by hard labour"],
+["By turns","পালাক্রমে","one after another"],
+["By virtue of","বদৌলতে / কারণে","because of"],
+["By way of","স্বরূপ","in the form of"],
+
+["Call a spade a spade","অকপটে সত্য কথা বলা","to speak plainly, however unpleasant"],
+["Call in question","সন্দেহ করা","to doubt"],
+["Call into play","কাজে লাগানো","to bring into action"],
+["Call to account","কৈফিয়ত দাবি করা","to demand an explanation"],
+["Call to mind","স্মরণ করা","to remember"],
+["Carry coal to New Castle","তেলা মাথায় তেল দেওয়া","to do something wholly redundant"],
+["Carry into effect","সম্পাদন করা","to execute, to carry out"],
+["Carry the day","জয়লাভ করা","to win"],
+["Carry weight","গুরুত্বপূর্ণ হওয়া","to have influence"],
+["Carte blanche","সম্পূর্ণ স্বাধীনতা","complete freedom to act as one pleases"],
+["Case in point","প্রাসঙ্গিক উদাহরণ","a relevant example"],
+["Cast pearls before swine","উলুবনে মুক্তা ছড়ানো","to offer something fine to those who cannot value it"],
+["Catch a turtle","শক্ত লোকের পাল্লায় পড়া","to take on far too tough an opponent"],
+["Cats and dogs","মুষলধারে","raining very heavily"],
+["Cat's paw","কারো খেলার পুতুল","a person used as a tool by another"],
+["Caught red-handed","হাতেনাতে ধরা পড়া","caught in the very act"],
+["Chapter and verse","বিশদ সূত্র","detailed sources for a statement"],
+["Cheek by jowl","পাশাপাশি","side by side, close together"],
+["Chew the cud","গভীরভাবে চিন্তা করা","to ponder deeply"],
+["Chicken-hearted man","ভীরু","a coward"],
+["Chip of the old block","বাপ কা বেটা","a worthy son of a worthy father"],
+["Clam up","নিশ্চুপ থাকা","to refuse to say anything"],
+["Clamp down","কঠোর হওয়া","to become strict"],
+["Cloak-and-dagger","গোপনীয়তা ও ষড়যন্ত্র","involving secrecy and plotting"],
+["Close-fisted man","কঞ্জুস","a miser"],
+["Cock and bull story","আষাঢ়ে গল্প","a silly, made-up story"],
+["Come down in the world","সামাজিক বা অর্থনৈতিক অবনতি হওয়া","to lose one's social or financial standing"],
+["Come home to roost","ঝামেলা পাকানো","to return and cause trouble"],
+["Come in handy","উপযোগী হওয়া","to prove useful"],
+["Come off with flying colours","জয়লাভ করা","to win handsomely"],
+["Come round","আরোগ্য লাভ করা","to recover"],
+["Come to a pretty pass","জটিল পরিস্থিতিতে পড়া","to reach an unfortunate state"],
+["Come to grief","ব্যর্থ হওয়া","to fail; to meet misfortune"],
+["Come to light","জানাজানি হওয়া","to become known"],
+["Come to the fore","গুরুত্বপূর্ণ হয়ে ওঠা","to become prominent"],
+["Come true","সত্য বলে প্রমাণিত হওয়া","to be realised"],
+["Come to terms","বশ্যতা স্বীকার করা","to reach agreement; to learn to accept"],
+["Come to a head","চরম অবস্থায় পৌঁছানো","to reach a crisis"],
+["Come to nothing","ব্যর্থ হওয়া","to fail entirely"],
+["Come to the point","আসল কথায় আসা","to reach the important part"],
+["Come what may","যাই ঘটুক না কেন","whatever happens"],
+["Crocodile tears","মায়াকান্না","insincere sorrow"],
+["Curry favour","তোষামোদ করে প্রিয় হওয়া","to win favour by flattery"],
+["Crying need","গুরুতর প্রয়োজন","an urgent necessity"],
+["Cut a dash","জাঁক দেখানো","to make a showy impression"],
+["Cut a sorry figure","হাস্যকর অবস্থা তৈরি করা","to make a poor, ridiculous impression"],
+["Cut and dried","সুনির্দিষ্ট / অনাকর্ষণীয়","settled beforehand; routine and dull"],
+["Cut and thrust","উত্তেজনাকর প্রতিযোগিতা","intense competition"],
+["Cut the corner","সোজা পথে যাওয়া","to take a shortcut"],
+["Cut one's wisdom teeth","বুদ্ধিমান হওয়া","to grow wise with experience"],
+["Cut short","সংক্ষেপ করা","to shorten, to break off"],
+["Cut to the quick","মর্মাহত হওয়া","to hurt someone deeply"],
+
+["Daily grind","নিত্যদিনের কর্মসূচি","the everyday work routine"],
+["Dark horse","অজ্ঞাত ব্যক্তি","a person whose abilities are unknown"],
+["Day after day","দিনের পর দিন","every day without a break"],
+["Dead against","তীব্র বিরোধী","bitterly opposed to"],
+["Dead language","যে ভাষা এখন আর কথ্য নয়","a language no longer spoken"],
+["Dead letter","অকার্যকর আইন","a law or custom no longer enforced"],
+["Dead of night","গভীর রাত্রি","the middle of the night"],
+["Die in harness","কর্মরত অবস্থায় মারা যাওয়া","to die while still at work"],
+["Die out","নিঃশেষ হয়ে যাওয়া","to disappear gradually"],
+["Dilly dally","গড়িমসি করা","to waste time, to loiter"],
+["Do away with","রহিত করা / হত্যা করা","to abolish; to kill"],
+["Do yeoman's service","বিশেষ উপকার করা","to render valuable service"],
+["Dog-in-the-manger policy","নিজেও নেবে না অন্যকেও দেবে না","needlessly denying others what one cannot use"],
+["Draw a blank","খুঁজে না পাওয়া","to find nothing; to get no response"],
+["Drive into a corner","কোণঠাসা করা","to force into a difficult position"],
+["Dyed-in-the-wool","অমোচনীয় / একগুঁয়ে","thoroughgoing and unchanging"],
+
+["Eagle eye","তীক্ষ্ণ দৃষ্টি","a keenly watchful eye"],
+["Eat humble pie","অপমান হজম করে ক্ষমা চাওয়া","to act humbly after being proved wrong"],
+["Eat into vitals","জীবনী শক্তি নষ্ট করা","to sap the vitality of"],
+["Eat one's words","কথা প্রত্যাহার করা","to withdraw what one has said"],
+["Elbow-grease","কঠোর পরিশ্রম","hard physical work"],
+["End in smoke","ফলপ্রসূ না হওয়া","to come to nothing"],
+["Equal to","সমাধা করতে সমর্থ","able to handle or deal with"],
+["Ever and anon","মাঝে মাঝে","every now and then"],
+["Every inch","পুরোপুরি","completely, in every way"],
+["Every now and then","মাঝে মাঝে","occasionally"],
+["Every other day","একদিন অন্তর একদিন","on alternate days"],
+["Eye-wash","প্রতারণার জন্য কিছু করা বা বলা","something said or done merely to deceive"],
+
+["Face the music","শাস্তিভোগ করা","to face the consequences of one's actions"],
+["Face to face","মুখোমুখি","in each other's presence"],
+["Fair and square","সৎ","honest and just"],
+["Fair weather friend","সুসময়ের বন্ধু","a friend only in good times"],
+["Fall a prey to","শিকারে পরিণত হওয়া","to become a victim of"],
+["Fall about","হাসিতে ফেটে পড়া","to laugh heartily"],
+["Fall flat","সম্পূর্ণ ব্যর্থ হওয়া","to fail completely"],
+["Fall foul of","কলহ করা","to quarrel with"],
+["Fall in","যোগ দেওয়া / সম্মত হওয়া","to join with; to agree to"],
+["Fall short of","ঘাটতি পড়া","to fail to reach a goal"],
+["Far and away","সবদিক বিবেচনা করে","by a great margin"],
+["Far and wide","চতুর্দিকে","all around"],
+["Far cry","বিরাট পার্থক্য","a great difference"],
+["Few and far between","বিরল","rare and widely scattered"],
+["Fight shy of","এড়িয়ে চলা","to avoid"],
+["Find fault with","খুঁত ধরা","to complain about"],
+["Fine kettle of fish","অসন্তোষজনক পরিস্থিতি","a real mess"],
+["Fire and fury","প্রচণ্ড রোষ ও উত্তেজনা","violent passion"],
+["First and foremost","প্রথম ও সর্বাধিক গুরুত্বপূর্ণ","of the very greatest importance"],
+["Fish in troubled water","ঘোলা পানিতে মাছ শিকার","to profit from a disturbed situation"],
+["Fish out of water","অস্বস্তিকর অবস্থায় পতিত","a person quite out of their element"],
+["Fit like a glove","মানানসই হওয়া","to fit perfectly"],
+["Flare up","ক্ষণিকের জন্য উত্তেজিত হওয়া","to blaze up briefly in anger"],
+["Flesh and blood","রক্ত-মাংস / আত্মীয়","human nature; one's own kin"],
+["Fool's paradise","মূর্খের স্বর্গ","happiness built on vain hopes"],
+["For good","চিরতরে","for ever"],
+["For the sake of","নিমিত্তে","on account of"],
+["For the time being","বর্তমান সময়ের জন্য","for the present"],
+["Forty winks","স্বল্প সময়ের ঘুম","a short nap"],
+["Fresh blood","উদ্যমী তরুণ সম্প্রদায়","new and enthusiastic people"],
+["Free and easy","উদার ও সহজ","unrestrained, informal"],
+["From bad to worse","ক্রমে খারাপের দিকে","getting steadily worse"],
+["From hand to mouth","দিন এনে দিন খাওয়া","living with nothing to spare"],
+["From head to foot","আপাদমস্তক","the whole body"],
+["From pillar to post","এক আশ্রয় হতে অন্য আশ্রয়ে","from one place to another"],
+["Full-fledged","পূর্ণাঙ্গ","fully developed"],
+
+["Gain ground","অগ্রসর হওয়া","to make progress"],
+["Gala day","আনন্দোৎসবের দিন","a day of festivity"],
+["Get a red face","লজ্জায় রক্তিম হওয়া","to blush with embarrassment"],
+["Get around","অভিজ্ঞতা অর্জন করা","to move about; to know a lot of life"],
+["Get by heart","মুখস্থ করা","to memorise"],
+["Get cold feet","ভয় পাওয়া","to lose one's nerve"],
+["Get off","নামা / পার পাওয়া","to descend; to escape punishment"],
+["Get on one's nerves","বিচলিত করা","to irritate someone"],
+["Get rid of","মুক্ত হওয়া","to free oneself of"],
+["Get the better of","প্রাধান্য লাভ করা","to gain the upper hand over"],
+["Get the brush-off","প্রত্যাখ্যাত হওয়া","to be rebuffed or ignored"],
+["Get wind of","তথ্য পাওয়া","to hear a rumour of"],
+["Gift of the gab","বাকপটুতা","a natural talent for speaking"],
+["Gild the lily","সুন্দরকে অকারণে সাজানো","to needlessly adorn what is already fine"],
+["Give oneself airs","যা নয় তাই ভান করা","to put on false pretensions"],
+["Give up","ত্যাগ করা / আত্মসমর্পণ করা","to surrender; to abandon"],
+["Give up the ghost","মরে যাওয়া","to die"],
+["Go astray","গোল্লায় যাওয়া / হারিয়ে যাওয়া","to leave the proper path; to get lost"],
+["Go hard","কারো পক্ষে কঠিন হওয়া","to turn out badly for someone"],
+["Go in for","অংশগ্রহণ করা","to take part in"],
+["Go into details","বিস্তারিত বর্ণনা করা","to describe at length"],
+["Go to the dogs","গোল্লায় যাওয়া","to be ruined"],
+["Go to the wall","পরাজিত হওয়া","to fail; to be defeated"],
+["Golden age","স্বর্ণযুগ","an age when art and letters flourish"],
+["Golden opportunity","সুবর্ণ সুযোগ","an excellent chance"],
+["Greek to (someone)","দুর্বোধ্য","completely unintelligible"],
+["Green revolution","সবুজ বিপ্লব","a great rise in crop yields"],
+["Grey matter","বুদ্ধি","intelligence, brains"],
+
+["Hail from","কোন স্থান হতে আসা","to come originally from"],
+["Hand in glove","ঘনিষ্ঠ","in very close association"],
+["Hand over fist","দ্রুত","very rapidly"],
+["Hand to hand","হাতে হাতে / মুখোমুখি","at close quarters"],
+["Hang fire","অমীমাংসিত থাকা","to remain undecided"],
+["Hang in the balance","অনিশ্চয়তার মধ্যে থাকা","to be in suspense"],
+["Hang together","সঙ্গতিপূর্ণ হওয়া","to be consistent"],
+["Hard and fast","বাধা-ধরা","fixed and rigid"],
+["Hard nut to crack","জটিল প্রকৃতির মানুষ বা বিষয়","a difficult person or problem"],
+["Hard times","দুঃসহ সময়","times of difficulty"],
+["Hard up","অভাবগ্রস্ত","short of money"],
+["Haunted house","ভুতুড়ে বাড়ি","a house said to be haunted"],
+["Have a ball","আনন্দে সময় কাটানো","to have a really enjoyable time"],
+["Have an axe to grind","স্বার্থ থাকা","to have a private interest to serve"],
+["Have sticky fingers","চুরির মনোবৃত্তিসম্পন্ন হওয়া","to have a tendency to steal"],
+["Have the gift of the gab","বাকপটু হওয়া","to be a fluent, effective speaker"],
+["Head and ears","সম্পূর্ণরূপে","completely"],
+["Head and tail","মাথামুন্ডু","the whole sense of a thing"],
+["Heart and soul","সর্বান্তঃকরণে","earnestly, with total commitment"],
+["Helter skelter","দিগ্বিদিক","in disorderly haste"],
+["Henpecked husband","স্ত্রৈণ স্বামী","a husband ruled by his wife"],
+["Here and there","সর্বত্র","from place to place"],
+["High and low","ধনী ও গরীব","all classes of people"],
+["High time","উপযুক্ত সময়","the proper, even overdue, time"],
+["Hither and thither","এখানে সেখানে","here and there"],
+["Hold forth","চালিয়ে যাওয়া","to speak at length"],
+["Hold good","বলবৎ থাকা","to remain valid"],
+["Hold one's tongue","চুপ করে থাকা","to keep silent"],
+["Hold water","পরীক্ষায় উতরে যাওয়া","to stand up to scrutiny"],
+["Hole and corner","গোপন","secret and underhand"],
+["Holier-than-thou","অতিরিক্ত ধার্মিক হওয়ার ভান","self-righteous"],
+["Horns of a dilemma","উভয় সংকট","a choice between two evils"],
+["Hotch-potch","জগাখিচুড়ি","a disorderly mixture"],
+["Hue and cry","শোরগোল","a loud public protest"],
+["Hush money","ঘুষ","a bribe paid to keep something quiet"],
+
+["Ill-gotten gains","অসৎ পথে উপার্জন","wealth acquired dishonestly"],
+["In a body","একত্রে","all together as a group"],
+["In a dead heat","ঠিক একই সময়ে","exactly tied"],
+["In a flash","তাৎক্ষণিকভাবে","instantly"],
+["In a fix","মুশকিলে পতিত","in a difficult situation"],
+["In a hurry","তাড়াহুড়ার মধ্যে","hastily"],
+["In a jiffy","খুব দ্রুত","very soon indeed"],
+["In a nutshell","সংক্ষেপে","briefly, in a few words"],
+["In accordance with","অনুসারে","according to"],
+["In arrears","বকেয়াসহ","overdue in payment"],
+["Inasmuch as","যেহেতু","since, because"],
+["In black and white","লিখিতভাবে","in writing"],
+["In broad daylight","প্রকাশ্য দিবালোকে","openly, in the daytime"],
+["In case of","হেতু / ক্ষেত্রে","in the event of"],
+["In cold blood","স্থির মস্তিষ্কে","deliberately and without feeling"],
+["In defence of","সমর্থনে","in support of"],
+["In detail","সবিস্তারে","leaving nothing out"],
+["In fine","উপসংহারে","in short, to sum up"],
+["In favour of","অনুকূলে","in support of"],
+["In force","বলবৎ","in effect, operative"],
+["In full swing","পুরোদমে","in full progress"],
+["In good faith","সরল বিশ্বাসে","with honest intent"],
+["In good stead","বিশেষ কাজে লাগা","to prove useful when needed"],
+["In keeping with","সামঞ্জস্যপূর্ণ","consistent with"],
+["In league","ষড়যন্ত্রে সহযোগী","in conspiracy with"],
+["In lieu of","পরিবর্তে","instead of"],
+["In no time","অতি শীঘ্র","very quickly"],
+["In one's teens","কিশোর বয়সে","between thirteen and nineteen years old"],
+["In order to","উদ্দেশ্যে","for the purpose of"],
+["In regard to","সম্পর্কে","about, concerning"],
+["In respect of","বিষয়ে","with reference to"],
+["In queer street","অর্থাভাবে জটিল পরিস্থিতিতে","in difficulty, especially over money"],
+["Instead of","পরিবর্তে","in place of"],
+["In search of","সন্ধানে","seeking"],
+["In season and out of season","সময়ে অসময়ে","at all times"],
+["In spite of","সত্ত্বেও","notwithstanding"],
+["In the dark","অজ্ঞ","kept uninformed"],
+["In the event of","ঘটনাচক্রে","in case of"],
+["In the face of","সরাসরি বিরোধিতার মুখে","in direct opposition to"],
+["In the good books of","সুনজরে","in favour with"],
+["In the guise of","ছদ্মবেশে","disguised as"],
+["In the long run","পরিণামে","ultimately, over a long period"],
+["In the nick of time","ঠিক সময়মত","just at the right moment"],
+["In the teeth of","প্রত্যক্ষ বিরোধিতা সত্ত্বেও","in direct opposition to"],
+["In the twinkling of an eye","চোখের পলকে","in an instant"],
+["In the wake of","ফলে / পশ্চাতে","following, as a result of"],
+["In vain","বৃথা","without success"],
+["In view of","বিবেচনায়","in consideration of"],
+["In vogue","প্রচলিত","currently in fashion"],
+["Inferiority complex","হীনমন্যতা","a sense of one's own inferiority"],
+["Ins and outs","খুঁটিনাটি","the full details"],
+["Iron will","দৃঢ় সংকল্প","firm determination"],
+["Irony of fate","ভাগ্যের পরিহাস","a cruel twist of fortune"],
+
+["Jack of all trades","সবজান্তা","one who can do many things but excels at none"],
+["Jam tomorrow","কখনও না আসা সুদিনের প্রতিশ্রুতি","good things always promised but never arriving"],
+["Jaundiced eye","পক্ষপাতদুষ্ট দৃষ্টি","a prejudiced view"],
+["Jekyll and Hyde","দ্বৈতসত্তা","a person with two opposite natures"],
+["Joking apart","রসিকতা বাদ দিয়ে","speaking seriously now"],
+["Jump the gun","সংকেতের আগেই শুরু করা","to start before the proper signal"],
+
+["Keel over","মূর্ছা যাওয়া","to fall over in a faint"],
+["Keep a good table","অতিথি সেবাপরায়ণ হওয়া","to be hospitable"],
+["Keep abreast of","সমান তালে থাকা","to keep pace with"],
+["Keep an eye out","নজর রাখা","to watch for"],
+["Keep body and soul together","কোনমতে বেঁচে থাকা","to survive with great difficulty"],
+["Keep house","গৃহের তত্ত্বাবধান করা","to manage a household"],
+["Keep on an even keel","শান্ত থাকা","to remain calm and steady"],
+["Keep the wolf from the door","অনশন ঠেকানো","to keep starvation away"],
+["Kill time","সময় অপচয় করা","to pass idle time"],
+["Kill two birds with one stone","এক ঢিলে দুই পাখি মারা","to gain two ends with a single act"],
+["Kith and kin","জ্ঞাতি-কুটুম্ব","relatives"],
+["Kiss the dust","নিহত হওয়া / নত হওয়া","to be defeated or killed"],
+["Know no bounds","সীমাহীন হওয়া","to be boundless"],
+
+["Lame excuse","বাজে অজুহাত","a poor, unconvincing plea"],
+["Land a blow","ঘুষি মারা","to strike with the fist"],
+["Landslide victory","বিশাল ব্যবধানে জয়","a victory by an enormous margin"],
+["Last-ditch effort","শেষ চেষ্টা","a final, desperate attempt"],
+["Laughing stock","উপহাসের পাত্র","an object of ridicule"],
+["Lay bare","প্রকাশ করা","to expose"],
+["Lay heads together","একত্রে পরামর্শ করা","to confer together"],
+["Lay waste","বিধ্বস্ত করা","to devastate"],
+["Lead by the nose","নাকে দড়ি দিয়ে ঘোরানো","to control completely"],
+["Lead a cat and dog life","কলহপূর্ণ জীবনযাপন করা","to live constantly quarrelling"],
+["Leading light","খ্যাতিমান ব্যক্তি","a prominent and respected figure"],
+["Lead off","শুরু করা","to begin"],
+["Leap in the dark","অবিবেচকের মত ঝুঁকি নেওয়া","a risky step taken blindly"],
+["Learn by heart","মুখস্থ করা","to memorise thoroughly"],
+["Learn the ropes","কাজের কৌশল রপ্ত করা","to learn how a job is done"],
+["Leave no stone unturned","চেষ্টার ত্রুটি না করা","to try every possible means"],
+["Let the cat out of the bag","অনিচ্ছাকৃতভাবে গোপন কথা প্রকাশ করা","to give away a secret unintentionally"],
+["Lie in wait","ওঁৎ পেতে থাকা","to wait quietly in ambush"],
+["Lie low","ঘাপটি মেরে থাকা","to keep out of sight"],
+["Life of the party","প্রাণবন্ত ব্যক্তি","the liveliest person present"],
+["Like a bolt out of the blue","বিনা মেঘে বজ্রপাত","suddenly and without warning"],
+["Like a house on fire","অত্যন্ত দ্রুত / চমৎকারভাবে","very rapidly; extremely well"],
+["Like crazy","পাগলের মত","furiously, very fast"],
+["Lion's share","সিংহভাগ","the largest portion"],
+["Listen to reason","যুক্তি মানা","to yield to sensible argument"],
+["Live fast","উচ্ছৃঙ্খল জীবনযাপন করা","to lead a dissolute life"],
+["Live from hand to mouth","দিন এনে দিন খাওয়া","to live with nothing to spare"],
+["Loaves and fishes","সুযোগ-সুবিধা","the material benefits of office"],
+["Long and short","মোট কথা","the plain truth of the matter"],
+["Look after","খেয়াল রাখা","to take care of"],
+["Look daggers at","কটমট করে তাকানো","to look at angrily"],
+["Look down upon","অবজ্ঞা করা","to despise"],
+["Look sharp","ত্বরান্বিত হওয়া","to make haste"],
+["Loom large","গুরুত্বপূর্ণ হয়ে দেখা দেওয়া","to appear large and threatening"],
+["Lose heart","নিরাশ হওয়া","to lose courage"],
+["Lose ground","স্থানচ্যুত হওয়া","to fall behind, to become less powerful"],
+
+["Maiden speech","প্রথম বক্তৃতা","a first public speech"],
+["Make a clean breast of","অকপটে দোষ স্বীকার করা","to confess everything"],
+["Make a clean sweep","সম্পূর্ণরূপে বাতিল করে নতুন করা","to clear something out completely"],
+["Make a living","জীবিকা অর্জন করা","to earn one's living"],
+["Make a mess of","তালগোল পাকানো","to manage badly"],
+["Make believe","ভান করা","to pretend"],
+["Make both ends meet","অল্প আয়ে সংসার চালানো","to live within slender means"],
+["Make good","ক্ষতিপূরণ দেওয়া / সফল হওয়া","to compensate for; to succeed"],
+["Make one's mark","খ্যাতি লাভ করা","to become distinguished"],
+["Make sure of","নিশ্চিত হওয়া","to be certain about"],
+["Man about town","কেতাদুরস্ত ব্যক্তি","a fashionable, sophisticated man"],
+["Man in the moon","অসম্ভব বস্তু","an imaginary person or thing"],
+["Man in the street","সাধারণ মানুষ","the ordinary person"],
+["Man of letters","বিদ্বান / সাহিত্যিক","a learned man; a writer"],
+["Man of parts","মেধাবী ব্যক্তি","a talented person"],
+["Man of straw","অকেজো লোক","a worthless person"],
+["Mealy-mouthed","সরাসরি নয় এমন","not frank or direct"],
+["Meet one's Waterloo","চূড়ান্ত পরাজয়ের মুখোমুখি হওয়া","to meet one's final, insurmountable defeat"],
+["Mend one's ways","আচরণের পরিবর্তন করা","to improve one's conduct"],
+["Mind one's own business","নিজের কাজে ব্যস্ত থাকা","to attend only to one's own affairs"],
+["Moot point","অমীমাংসিত বিষয়","an undecided question"],
+["Mope around","হতাশাগ্রস্ত অবস্থায় ঘোরা","to move about in a dejected state"],
+["More or less","কম-বেশি","approximately"],
+["Move heaven and earth","যথাসাধ্য চেষ্টা করা","to try every possible means"],
+["Mug's game","নির্বোধের কাজ","a foolish undertaking"],
+["Muster strong","জমায়েত হওয়া","to gather in large numbers"],
+
+["Narrow escape","অল্পের জন্য রক্ষা","a very close escape"],
+["Neck and crop","সম্পূর্ণভাবে","completely"],
+["Neck and neck","সমানে সমানে","exactly even in a contest"],
+["Neither fish nor fowl","এটাও না ওটাও না","neither one thing nor the other"],
+["Next to nothing","প্রায় কিছুই না","hardly anything at all"],
+["Nip in the bud","অঙ্কুরে বিনাশ করা","to destroy at the very outset"],
+["No matter what happens","যাই ঘটুক না কেন","in any event"],
+["No spring chicken","আর তরুণ নয়","no longer young"],
+["Nonetheless","তা সত্ত্বেও","in spite of that"],
+["Not cricket","অন্যায়","unfair play"],
+["Not hold water","যুক্তিতে না টেকা","to make no sense, to be illogical"],
+["Not up to scratch","যথেষ্ট নয় এমন","not adequate"],
+["Now and then","মাঝে মাঝে","occasionally"],
+["Null and void","বাতিল","invalid, cancelled"],
+["Nuts and bolts","খুঁটিনাটি বিষয়","the basic practical details"],
+
+["Odds and ends","টুকিটাকি জিনিস","miscellaneous small items"],
+["Odour of sanctity","ভাবগম্ভীর পবিত্র পরিবেশ","an air of excessive holiness"],
+["Of course","স্বভাবতই","naturally"],
+["Of late","সম্প্রতি","recently"],
+["Of no avail","নিষ্ফল","of no use"],
+["Of one's own accord","স্বেচ্ছাপ্রণোদিত হয়ে","voluntarily, without being asked"],
+["Of the first water","উত্তম","of the very finest quality"],
+["Off and on","মাঝে মাঝে","occasionally"],
+["Off colour","অসুস্থ / রুচিহীন","slightly unwell; in bad taste"],
+["Off the beaten track","অপরিচিত স্থানে","away from the usual route"],
+["Off the cuff","প্রস্তুতিবিহীন","spontaneous, without preparation"],
+["Old head on young shoulders","অল্প বয়সে পরিণত বুদ্ধি","young in years but mature in judgement"],
+["On a par with","সমকক্ষ","equal to"],
+["On behalf of","পক্ষে","as representative of"],
+["On cloud nine","অত্যন্ত খুশি","extremely happy"],
+["On foot","পায়ে হেঁটে","by walking"],
+["On one's last legs","বিলীয়মান","near collapse or death"],
+["On pain of","শাস্তির ভয় দেখিয়ে","subject to the penalty of"],
+["On schedule","নির্ধারিত সময়ে","at the expected time"],
+["On the alert","সতর্ক","watchful and attentive"],
+["On the blink","অচল","not working properly"],
+["On the eve of","পূর্বক্ষণে","just before"],
+["On the lookout for","সন্ধানে","searching for"],
+["On the mend","ক্রমে সুস্থ হওয়ার পথে","getting well again"],
+["On the point of","কিছু করার মুহূর্তে","just about to"],
+["On the whole","মোটের উপর","generally, considering everything"],
+["On the score of","কারণে","on account of"],
+["On the sly","গোপনে","secretly, sneakily"],
+["On the spur of the moment","ক্ষণিকের উত্তেজনাবশে","on a sudden impulse"],
+["On the verge of","দ্বারপ্রান্তে","just about to happen"],
+["On the wane","হ্রাসমান","declining"],
+["On tiptoe","পায়ের আঙ্গুলে ভর দিয়ে","standing or walking on the toes"],
+["Once and again","একাধিকবার","repeatedly"],
+["Once for all","শেষবারের মত","finally and irreversibly"],
+["Once in a blue moon","কালেভদ্রে","very rarely indeed"],
+["Once in a while","কদাচিৎ","occasionally"],
+["One and all","প্রত্যেকে","everyone, individually and together"],
+["Open secret","সবার জানা গোপন কথা","a secret known to all"],
+["Out and out","সম্পূর্ণরূপে","thoroughly, completely"],
+["Out of date","সেকেলে","old-fashioned, obsolete"],
+["Out of doors","খোলা জায়গায়","in the open air"],
+["Out of gear","অচল","out of order"],
+["Out of pocket","কপর্দকহীন","having lost money; penniless"],
+["Out of sorts","অসুস্থ","not feeling well"],
+["Over again","পুনরায়","once more"],
+["Over and above","অধিকন্তু","besides, in addition to"],
+["Over and again","বারংবার","repeatedly"],
+["Over head and ears","গভীরভাবে জড়িত","deeply involved"],
+
+["Palmy days","সুসময়","days of prosperity"],
+["Parrot-fashion","না বুঝে মুখস্থ বলা","repeating without any understanding"],
+["Part and parcel","অপরিহার্য অংশ","an integral part"],
+["Pass muster","নির্ধারিত মান বজায় রাখা","to meet the required standard"],
+["Pass the buck","দায়িত্ব অন্যের ঘাড়ে চাপানো","to shift the blame to someone else"],
+["Past master","দক্ষ ব্যক্তি","an expert"],
+["Pay one's debt to society","প্রায়শ্চিত্ত করা","to serve one's sentence for a crime"],
+["Pay the piper","ব্যয় বহন করা","to bear the cost"],
+["Penny wise and pound foolish","বজ্র আঁটুনি ফস্কা গেরো","careful in small things, wasteful in large"],
+["Perish the thought","চিন্তাও করা উচিত নয়","do not even consider it"],
+["Pick holes in","দোষ ধরা","to find fault with"],
+["Pick one's pocket","পকেট মারা","to steal from someone's pocket"],
+["Pin money","হাতখরচ","a small allowance for personal spending"],
+["Pinch and scrape","কষ্ট করে সঞ্চয় করা","to live on very little in order to save"],
+["Pipe dream","অবাস্তব পরিকল্পনা","a hope impossible to realise"],
+["Play ducks and drakes","ছিনিমিনি খেলা","to squander recklessly"],
+["Play fast and loose","খেলা করা","to act unreliably with someone"],
+["Play gooseberry","প্রেমিক জুটির সঙ্গ নষ্ট করা","to be the unwanted third person"],
+["Play one false","ছলনা করা","to betray or cheat"],
+["Play possum","মরার ভান করা","to feign sleep or death"],
+["Play to the gallery","সস্তা জনপ্রিয়তা চাওয়া","to seek cheap popular applause"],
+["Play tricks","প্রতারণা করা","to deceive or confuse someone"],
+["Poke one's nose in","অনধিকার চর্চা করা","to interfere in others' affairs"],
+["Point blank","সরাসরি","bluntly and directly"],
+["Pop off","চলে যাওয়া / মরে যাওয়া","to leave suddenly; to die"],
+["Prevail upon","বুঝিয়ে রাজি করানো","to persuade"],
+["Pros and cons","পক্ষে ও বিপক্ষে যুক্তি","the arguments for and against"],
+["Provide against","দুঃসময়ের জন্য সঞ্চয় করা","to lay something by for hard times"],
+["Pull strings","প্রভাব খাটানো","to use influence behind the scenes"],
+["Puppet in the hand","হাতের পুতুল","one wholly controlled by another"],
+
+["Rag day","কলেজজীবনের হৈচৈপূর্ণ দিন","a boisterous college festival day"],
+["Rank and file","সাধারণ সদস্য","the ordinary members, not the leaders"],
+["Rant and rave","ক্রুদ্ধ হয়ে চিৎকার করা","to shout angrily and wildly"],
+["Read between the lines","গূঢ় অর্থ বোঝার চেষ্টা করা","to find the hidden meaning"],
+["Ready money","নগদ টাকা","cash"],
+["Red handed","হাতেনাতে","caught in the very act"],
+["Red letter day","উল্লেখযোগ্য দিবস","a memorable day"],
+["Red tape","লাল ফিতার দৌরাত্ম্য","excessive official formality"],
+["Right and left","এলোপাথাড়ি","on all sides, indiscriminately"],
+["Ring the changes","বৈচিত্র্যের জন্য ভিন্নভাবে উপস্থাপন করা","to vary the way something is done"],
+["Rise to the occasion","পরিস্থিতির সাথে তাল মিলিয়ে কর্মতৎপর হওয়া","to meet a challenge well"],
+["Road-hog","অবিবেচক চালক","a selfish, careless driver"],
+["Rock the boat","ঝামেলা পাকানো","to disturb a settled situation"],
+["Romp home","সহজেই জয়লাভ করা","to win easily"],
+["Rope of sand","বালির বাঁধ","a bond easily broken"],
+["Root and branch","সমূলে","completely, thoroughly"],
+["Run short","ফুরিয়ে যাওয়া","to come to an end"],
+["Run the risk of","ঝুঁকি নেওয়া","to incur a danger"],
+["Run through","দ্রুত শেষ করা","to use up rapidly"],
+
+["Safe and sound","নিরাপদে","safe and unharmed"],
+["Sail under false colours","ছদ্মবেশ ধারণ করা","to pretend to be what one is not"],
+["Salt of the earth","শ্রেষ্ঠ ব্যক্তিগণ","people of the highest worth"],
+["Save the day","খারাপ পরিস্থিতিতেও ভাল ফল করা","to rescue a situation expected to go badly"],
+["Scapegoat","বলির পাঁঠা","one blamed for the faults of others"],
+["Second thoughts","পুনর্বিবেচনার পর গৃহীত মত","an opinion formed on reconsideration"],
+["Second to none","অদ্বিতীয়","surpassed by no other"],
+["Scream blue murder","তীব্র চিৎকার করা","to protest very loudly"],
+["Scrimp and save","কষ্ট করে সঞ্চয় করা","to be extremely thrifty"],
+["Scylla and Charybdis","দুই দিকেই বিপদ","danger on both sides"],
+["See the light","স্পষ্ট বুঝতে পারা","to understand clearly at last"],
+["Set off","যাত্রা করা","to begin a journey"],
+["Sharp practice","অসৎ আচরণ","dishonest dealing"],
+["Sheet anchor","শেষ অবলম্বন","the final support"],
+["Shirk one's duty","কর্তব্যে অবহেলা করা","to neglect one's task"],
+["Short temper","রগচটা লোক","a quick-tempered person"],
+["Shoulder to shoulder","কাঁধে কাঁধ রেখে","side by side, with a shared purpose"],
+["Show off","জাঁক দেখানো","to display ostentatiously"],
+["Simmer down","শান্ত হওয়া","to grow calm and quiet"],
+["Sit on the fence","নিরপেক্ষ থাকা","to remain neutral in a dispute"],
+["Skeleton in the closet","গোপন লজ্জাকর বিষয়","a hidden and shameful secret"],
+["Skin and bone","অস্থিচর্মসার","extremely thin"],
+["Slip of the tongue","অনিচ্ছাকৃত ভুল","an unintended error in speech"],
+["Slow coach","ধীর স্বভাবের লোক","a person slow in action"],
+["Small fry","চুনোপুঁটি","unimportant people or things"],
+["Snake in the grass","গুপ্ত শত্রু","a secret and deceitful enemy"],
+["So to speak","বলতে কি","as it were"],
+["Soaked to the skin","ভিজে জবজবে","wet right through one's clothes"],
+["Sooner or later","আগে অথবা পরে","eventually"],
+["Sow one's wild oats","যৌবনের বন্যতা প্রদর্শন করা","to behave wildly in one's youth"],
+["Spick and span","ঝকঝকে পরিষ্কার","spotlessly clean and neat"],
+["Square deal","স্বচ্ছ লেনদেন","a fair and honest transaction"],
+["Square meal","পেট ভরা আহার","a full, satisfying meal"],
+["Stand to","অবিচলিতভাবে লেগে থাকা","to stick firmly to"],
+["Steer clear of","এড়িয়ে যাওয়া","to avoid"],
+["Stick-in-the-mud","সেকেলে মানুষ","one stubbornly old-fashioned"],
+["Stir one's stumps","দ্রুত কাজ শুরু করা","to get moving quickly"],
+["Stir up a hornets' nest","ঝামেলা পাকানো","to create a storm of trouble"],
+["Storm in a teacup","সামান্য বিষয়ে প্রচণ্ড হৈচৈ","a great fuss over a trifle"],
+["Stone's throw away","অতি নিকটে","a very short distance away"],
+["Subject to","নির্ভরশীল / প্রবণ","dependent on; liable to"],
+["Sum and substance","সারমর্ম","the essence of the matter"],
+["Superiority complex","উঁচু মনোভাব","an exaggerated sense of one's superiority"],
+["Swan song","শেষ কাজ","a final performance or work"],
+["Sweat of one's brow","কঠোর পরিশ্রম","hard labour"],
+
+["Take a fancy to","পছন্দ হওয়া","to develop a liking for"],
+["Take forty winks","ঘুমিয়ে পড়া","to take a short nap"],
+["Take heart","উৎসাহিত হওয়া","to take courage"],
+["Take into account","বিবেচনায় নেওয়া","to take into consideration"],
+["Take to heart","মানসিকভাবে আঘাত পাওয়া","to be deeply affected by"],
+["Take to one's heels","পলায়ন করা","to run away"],
+["Take the bit between one's teeth","সাহসিকতার সাথে মোকাবিলা করা","to take charge of a task boldly"],
+["Take the bull by the horns","সরাসরি মোকাবিলা করা","to face a difficulty head on"],
+["Take the floor","বক্তৃতা দেওয়া","to rise to speak in a debate"],
+["Taken aback","অবাক ও দ্বিধান্বিত হওয়া","surprised and disconcerted"],
+["Talk big","বড় বড় কথা বলা","to boast"],
+["Talk through one's hat","বোকার মত কথা বলা","to talk nonsense"],
+["Talk turkey","খোলামেলা আলাপ করা","to talk frankly and to the point"],
+["Tall talk","বড় বড় কথা","boastful, high-sounding talk"],
+["Take for granted","সত্য বলে ধরে নেওয়া","to assume without question"],
+["Take one to task","তীব্রভাবে ভর্ৎসনা করা","to rebuke severely"],
+["Take with a grain of salt","কিছুটা সন্দেহের সাথে গ্রহণ করা","to accept with some reservation"],
+["Tar and feather","কঠোরভাবে শাস্তি দেওয়া","to punish severely"],
+["Tell upon","ক্ষতি করা","to affect adversely"],
+["Ten to one","খুব সম্ভব","very likely"],
+["The dogs of war","ধ্বংসলীলা","the ravages of war"],
+["The heavens open","মুষলধারে বৃষ্টি হওয়া","to rain very heavily"],
+["The three R's","প্রাথমিক শিক্ষা","elementary education"],
+["Throw a fit","ক্রুদ্ধ হওয়া","to become very angry"],
+["Through and through","সম্পূর্ণভাবে","completely, in every part"],
+["Throw cold water","নিরুৎসাহ করা","to discourage"],
+["Throw dust in one's eyes","প্রতারণা করা","to deceive"],
+["Throw someone to the wolves","বিপদের মধ্যে ফেলা","to sacrifice someone to save oneself"],
+["Through thick and thin","বিপদে আপদে সব অবস্থাতেই","under all conditions, good or bad"],
+["Tie the knot","বিয়ে করা","to get married"],
+["Tittle-tattle","অলস খোশগল্প","idle gossip"],
+["To a fault","মাত্রা ছাড়িয়ে","excessively"],
+["To a T","সঠিকভাবে","exactly, perfectly"],
+["To and fro","এদিক সেদিক","backwards and forwards"],
+["To one's heart's content","মনের সাধ মিটিয়ে","as much as one could wish"],
+["To the backbone","হাড়ে হাড়ে","thoroughly, in one's inmost being"],
+["To the contrary","বিপরীতে","in opposition to what was said"],
+["To the core","মূলত","all the way through"],
+["To the last","শেষ পর্যন্ত","to the very end"],
+["To the letter","অক্ষরে অক্ষরে","exactly as instructed"],
+["Tongue-in-cheek","কৌতুকময়","said jokingly, not meant seriously"],
+["Tooth and nail","উঠে পড়ে লাগা","with all one's might"],
+["Trial and error","বার বার চেষ্টা","repeated attempts until success"],
+["Trump card","তুরুপের তাস","a decisive winning move"],
+["Trumped up","মিথ্যা / প্রতারণামূলক","fabricated, falsely devised"],
+["Turn a deaf ear","কানে না শোনা","to ignore what is said"],
+["Turn down","প্রত্যাখ্যান করা","to refuse"],
+["Turn over a new leaf","জীবনে নতুন অধ্যায় শুরু করা","to begin afresh with better intentions"],
+["Turn tail","পালিয়ে যাওয়া","to run away"],
+["Turn the other cheek","অপমান সহ্য করা","to accept insult without retaliating"],
+["Turn turtle","উল্টে যাওয়া","to capsize, to turn upside down"],
+["Two a penny","সহজলভ্য","very common and therefore cheap"],
+
+["Under a cloud","সন্দেহভাজন","under suspicion"],
+["Under one's very nose","কারো উপস্থিতিতে","right in front of someone"],
+["Up a blind alley","দিশেহারা","at a dead end, leading nowhere"],
+["Up a gum tree","ভয়াবহ পরিস্থিতিতে","in a difficulty with no way out"],
+["Up and doing","কর্মঠ ও প্রাণবন্ত","active and lively"],
+["Up to date","বর্তমান সময়ের","current and modern"],
+["Up to the mark","মানসম্মত","up to the required standard"],
+["Upper crust","সমাজের উচ্চতম শ্রেণী","the highest class of society"],
+["Ups and downs","উত্থান পতন","good and bad fortune by turns"],
+["Upset the apple cart","পরিকল্পনা ভণ্ডুল করা","to spoil a plan"],
+
+["Vanish into thin air","চিহ্ন না রেখে অদৃশ্য হওয়া","to disappear without a trace"],
+["Value judgement","ব্যক্তিগত দৃষ্টিভঙ্গি থেকে রায়","a judgement based on personal views"],
+["Vexed question","জটিল অমীমাংসিত প্রশ্ন","a much-argued problem with no settled answer"],
+
+["Watery grave","সলিল সমাধি","death by drowning"],
+["Weal and woe","সুখ ও দুঃখ","joy and sorrow together"],
+["Wear and tear","নিত্য ব্যবহারে ক্ষয়","damage caused by everyday use"],
+["Well and good","উত্তম","that is quite acceptable"],
+["Well off","সচ্ছল","having plenty of money"],
+["Well-to-do","অবস্থাপন্ন","prosperous"],
+["Well up","দক্ষ","skilled, well informed"],
+["What not","আর কত কি","and so forth"],
+["White elephant","অত্যন্ত ব্যয়বহুল ও অকেজো বস্তু","a costly possession that is of no use"],
+["Whoop it up","হৈ-হুল্লোড় করে উপভোগ করা","to celebrate noisily"],
+["Wide of the mark","লক্ষ্যভ্রষ্ট","far from the target"],
+["Widow's mite","দরিদ্রের ক্ষুদ্র দান","a small gift from someone who has little"],
+["Wild goose chase","পণ্ডশ্রম","a hopeless, futile pursuit"],
+["Willy-nilly","বাধ্য হয়ে","whether one wishes it or not"],
+["Wipe the slate clean","কুকীর্তি বিলোপ করা","to forget past faults and start again"],
+["With a vengeance","প্রচণ্ড শক্তিতে","with great force and energy"],
+["With a view to","উদ্দেশ্যে","with the intention of"],
+["With an eye to","দৃষ্টি রেখে","with regard to"],
+["With the exception of","ব্যতীত","apart from"],
+["With flying colours","কৃতিত্বের সাথে","with conspicuous success"],
+["Without fail","অবশ্যই","for certain, definitely"],
+["Without rhyme or reason","অযৌক্তিকভাবে","for no sensible reason at all"],
+["With one voice","এক বাক্যে","unanimously"],
+["Worn to a shadow","অতি পরিশ্রমে ক্লান্ত ও শীর্ণকায়","worn thin and exhausted by overwork"],
+
+["Yeoman's service","মূল্যবান সাহায্য","valuable and loyal help"]
+];
+
+(function(){
+  var PAGE = 60, shown = PAGE, letter = "*", view = [];
+  var $ = function(id){ return document.getElementById(id); };
+  var esc = function(s){
+    return String(s).replace(/[&<>"]/g,function(c){
+      return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];
+    });
+  };
+
+  // First letter of an idiom, skipping a leading "A "/"An "/"The ".
+  function key(idiom){
+    var w = idiom.replace(/^(An?|The)\s+/i,"");
+    var c = w.charAt(0).toUpperCase();
+    return /[A-Z]/.test(c) ? c : idiom.charAt(0).toUpperCase();
+  }
+
+  var LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+  var counts = {};
+  DATA.forEach(function(d){ var k = key(d[0]); counts[k] = (counts[k]||0)+1; });
+
+  // rail
+  $("rail").innerHTML = '<button class="all" data-l="*">All</button>' +
+    LETTERS.map(function(L){
+      return '<button data-l="'+L+'"'+(counts[L]?'':' disabled')+
+             ' title="'+(counts[L]||0)+'">'+L+'</button>';
+    }).join("");
+
+  $("rail").addEventListener("click", function(e){
+    var b = e.target.closest("button[data-l]");
+    if(!b || b.disabled) return;
+    letter = b.getAttribute("data-l");
+    $("q").value = "";
+    shown = PAGE;
+    render();
+  });
+
+  function searching(){ return $("q").value.trim() !== ""; }
+
+  function render(){
+    var q = $("q").value.trim().toLowerCase();
+    view = DATA.filter(function(d){
+      if(q) return (d[0]+" "+d[1]+" "+d[2]).toLowerCase().indexOf(q) > -1;
+      return letter === "*" || key(d[0]) === letter;
+    });
+
+    var hide = $("mode").value === "hide";
+    var slice = view.slice(0, shown);
+
+    $("grid").innerHTML = slice.map(function(d){
+      return '<article class="card'+(hide?' hide':'')+'">' +
+             '<h2 class="idiom">'+esc(d[0])+'</h2>' +
+             '<p class="bn">'+esc(d[1])+'</p>' +
+             '<p class="en">'+esc(d[2])+'</p></article>';
+    }).join("") ||
+      '<div class="empty"><strong>No match.</strong><br>Try a shorter word, or part of a meaning.</div>';
+
+    var n = view.length;
+    $("count").innerHTML = "<strong>"+n+"</strong> "+(n===1?"idiom":"idioms")+
+      (searching() ? " matching your search"
+                   : (letter === "*" ? " in all" : " beginning with "+letter));
+    $("hint").textContent = hide ? "Tap a card to reveal it" : "";
+    $("moreWrap").hidden = shown >= view.length;
+
+    Array.prototype.forEach.call($("rail").querySelectorAll("button[data-l]"), function(b){
+      b.setAttribute("aria-pressed", String(!searching() && b.getAttribute("data-l") === letter));
+    });
+  }
+
+  $("grid").addEventListener("click", function(e){
+    var c = e.target.closest(".card.hide");
+    if(c) c.classList.toggle("open");
+  });
+  $("q").addEventListener("input", function(){ shown = PAGE; render(); });
+  $("mode").addEventListener("change", function(){ render(); });
+  $("more").addEventListener("click", function(){ shown += PAGE; render(); });
+
+  render();
+})();
+</script>
+</body>
+</html>
