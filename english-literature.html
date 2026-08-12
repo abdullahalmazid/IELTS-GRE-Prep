@@ -1,0 +1,1237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>History of English Literature — periods, authors, works</title>
+<meta name="description" content="A period-by-period history of English literature from Beowulf to the present: dates, characteristics, major authors, key works and the epithets examiners ask about.">
+<style>
+/* ==========================================================================
+   Self-contained. Drop it next to style.css and delete the :root block if you
+   want the page to inherit your site's tokens instead.
+   ========================================================================== */
+:root{
+  --canvas:#fff; --tint:#f7f7f7; --ink:#1c1c1c; --ink-soft:#3d3d3d;
+  --muted:#8a8a8a; --rule:#ddd; --rule-soft:#ececec;
+  --red:#8b1a1a; --link:#1a4d8f; --green:#2c6e49; --gold:#8a6d1f;
+  --font-head:Georgia,'Times New Roman',serif;
+  --font-body:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  --font-mono:ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:#f0f0f0;color:var(--ink);font-family:var(--font-body);font-size:15px;line-height:1.65}
+.wrap{max-width:1150px;margin:0 auto;padding:0 18px}
+
+.site-header{background:var(--canvas);border-bottom:1px solid var(--rule);padding:24px 0;text-align:center}
+.brand{font-family:var(--font-head);font-size:31px;color:var(--ink);text-decoration:none}
+.brand .dot{color:var(--red)}
+.tagline{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:6px 0 0}
+main{padding:22px 0 50px}
+.panel{background:var(--canvas);border:1px solid var(--rule);padding:22px 24px}
+
+/* tabs */
+.tabs{display:flex;flex-wrap:wrap;border:1px solid var(--rule);margin-bottom:18px}
+.tabs button{flex:1 1 auto;font:inherit;font-size:12px;font-weight:bold;letter-spacing:.09em;
+  text-transform:uppercase;padding:12px 14px;background:var(--tint);color:var(--ink-soft);
+  border:0;border-right:1px solid var(--rule);cursor:pointer}
+.tabs button:last-child{border-right:0}
+.tabs button:hover{color:var(--red)}
+.tabs button[aria-selected="true"]{background:var(--red);color:#fff}
+
+/* period rail */
+.rail{display:flex;flex-wrap:wrap;gap:5px;padding:12px;background:var(--tint);border:1px solid var(--rule);margin-bottom:16px}
+.rail button{font:inherit;font-size:12.5px;padding:7px 12px;border:1px solid var(--rule);
+  background:var(--canvas);color:var(--ink);cursor:pointer}
+.rail button:hover{border-color:var(--red);color:var(--red)}
+.rail button[aria-pressed="true"]{background:var(--red);border-color:var(--red);color:#fff}
+
+.searchbar{display:flex;gap:10px;margin-bottom:18px}
+.searchbar input{flex:1;font:inherit;font-size:14px;padding:9px 12px;border:1px solid var(--rule);background:var(--canvas)}
+.hint{font-size:12.5px;color:var(--muted);padding-bottom:10px;border-bottom:1px solid var(--rule);margin-bottom:20px}
+.hint strong{color:var(--ink)}
+
+/* period header */
+.period-head{border-bottom:3px solid var(--red);padding-bottom:12px;margin-bottom:20px}
+.period-kicker{font-size:11px;font-weight:bold;letter-spacing:.14em;text-transform:uppercase;color:var(--red);margin:0 0 4px}
+.period-head h2{font-family:var(--font-head);font-size:30px;margin:0;line-height:1.2}
+.period-head .bn{font-family:var(--font-head);font-size:17px;color:var(--muted);margin:2px 0 0}
+.period-dates{font-family:var(--font-mono);font-size:13px;color:var(--muted);margin-top:6px}
+
+h3{font-family:var(--font-head);font-size:21px;margin:26px 0 10px;padding-top:4px}
+h4{font-family:var(--font-head);font-size:17px;margin:20px 0 8px}
+p{margin:0 0 12px;color:var(--ink-soft)}
+.lead{font-size:16px;color:var(--ink)}
+
+.traits{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;list-style:none;padding:0;margin:0 0 16px}
+.traits li{background:var(--tint);border-left:3px solid var(--red);padding:8px 12px;font-size:13.5px}
+.traits b{color:var(--ink)}
+
+table{width:100%;border-collapse:collapse;margin:0 0 18px;font-size:13.5px}
+th,td{border:1px solid var(--rule);padding:9px 11px;text-align:left;vertical-align:top}
+th{background:#2b2b2b;color:#fff;font-size:11px;letter-spacing:.08em;text-transform:uppercase;font-weight:bold}
+tbody tr:nth-child(even){background:#fafafa}
+td .w{font-family:var(--font-head);font-size:14.5px}
+
+/* author card */
+.author{border:1px solid var(--rule);border-left:4px solid var(--red);padding:15px 17px;margin:0 0 15px;background:var(--canvas)}
+.author-top{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:4px}
+.author-name{font-family:var(--font-head);font-size:20px;margin:0}
+.author-dates{font-family:var(--font-mono);font-size:12px;color:var(--muted)}
+.epithet{display:inline-block;background:#f4efe2;border:1px solid #e0d5b8;color:var(--gold);
+  font-size:11.5px;padding:2px 8px;margin:0 5px 5px 0}
+.works{margin:10px 0 0;padding:0;list-style:none;font-size:13.5px}
+.works li{padding:4px 0;border-top:1px dotted var(--rule)}
+.works .t{font-family:var(--font-head);font-size:14.5px;color:var(--ink)}
+.works .y{font-family:var(--font-mono);font-size:11.5px;color:var(--muted);margin-left:6px}
+.works .g{color:var(--muted)}
+
+.plot{background:var(--tint);border:1px solid var(--rule);padding:13px 16px;margin:0 0 16px}
+.plot h5{font-family:var(--font-head);font-size:16px;margin:0 0 6px;color:var(--red)}
+.plot p{font-size:13.5px;margin-bottom:8px}
+.plot p:last-child{margin-bottom:0}
+.quote{border-left:3px solid var(--red);padding:4px 0 4px 14px;margin:12px 0;font-family:var(--font-head);
+  font-style:italic;font-size:14.5px;color:var(--ink-soft)}
+
+.callout{background:#f4f7fa;border:1px solid #d3e0ec;padding:13px 16px;margin:16px 0;font-size:13.5px}
+.callout b{color:var(--link)}
+
+/* quick reference */
+.qr-controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+.btn{font:inherit;font-size:13px;padding:8px 16px;border:1px solid var(--rule);background:var(--canvas);color:var(--ink);cursor:pointer}
+.btn:hover{border-color:var(--red);color:var(--red)}
+table.hideAns td.ans{color:transparent;background:#efefef;cursor:pointer;user-select:none}
+table.hideAns td.ans.open{color:inherit;background:inherit}
+
+.empty{border:1px solid var(--rule);background:var(--tint);padding:26px;text-align:center;color:var(--ink-soft)}
+.is-hidden{display:none!important}
+footer{text-align:center;font-size:12px;color:var(--muted);padding:24px 0 40px}
+mark{background:#fff2a8;color:inherit}
+
+@media(max-width:860px){
+  .traits{grid-template-columns:minmax(0,1fr)}
+  .tabs button{flex:1 1 50%}
+  .period-head h2{font-size:24px}
+  table{font-size:12.5px}
+  th,td{padding:7px 8px}
+}
+</style>
+</head>
+<body id="top">
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="#top">History of English Literature<span class="dot">.</span></a>
+    <p class="tagline">Beowulf to the present — periods, authors, works</p>
+  </div>
+</header>
+
+<main>
+<div class="wrap">
+  <div class="panel">
+
+    <div class="tabs" role="tablist">
+      <button role="tab" id="tab-periods" aria-selected="true">Periods</button>
+      <button role="tab" id="tab-timeline" aria-selected="false">Timeline</button>
+      <button role="tab" id="tab-ref" aria-selected="false">Quick reference</button>
+    </div>
+
+    <!-- PERIODS ============================================================ -->
+    <section id="panel-periods">
+      <div class="rail" id="rail"></div>
+      <div class="searchbar">
+        <input type="search" id="q" placeholder="Search an author, work, epithet or term — e.g. Chaucer, Faerie Queene, Father of English Prose">
+      </div>
+      <p class="hint" id="hint">&nbsp;</p>
+      <div id="content"></div>
+    </section>
+
+    <!-- TIMELINE =========================================================== -->
+    <section id="panel-timeline" class="is-hidden">
+      <div class="period-head">
+        <p class="period-kicker">At a glance</p>
+        <h2>The periods and their dates</h2>
+        <p class="period-dates">Following the division set out by M. H. Abrams in <em>A Glossary of Literary Terms</em></p>
+      </div>
+      <p>Period boundaries are conveniences, not facts. Historians disagree by a decade here or there, and the same stretch of years often carries two names at once — the Shakespearean Age sits inside the Elizabethan, the Puritan Age overlaps the Caroline and the Commonwealth. The dates below are the ones most commonly set in examinations.</p>
+      <table>
+        <thead><tr><th style="width:44px">#</th><th>Period</th><th style="width:120px">Dates</th><th>Named after</th></tr></thead>
+        <tbody id="tl"></tbody>
+      </table>
+      <div class="callout">
+        <b>Why the names differ.</b> English literary periods are named in three ways: after a monarch (Elizabethan, Jacobean, Caroline, Victorian, Edwardian), after a dominant writer (the Age of Chaucer, of Dryden, of Pope, of Johnson), or after a movement or historical condition (Renaissance, Restoration, Romantic, Modern). Where a period has two names, an examiner may use either.
+      </div>
+    </section>
+
+    <!-- QUICK REFERENCE ==================================================== -->
+    <section id="panel-ref" class="is-hidden">
+      <div class="period-head">
+        <p class="period-kicker">High-yield</p>
+        <h2>Epithets, firsts and fathers</h2>
+        <p class="period-dates">The titles and "firsts" that questions turn on</p>
+      </div>
+      <div class="qr-controls">
+        <button class="btn" id="toggleAns">Hide the answers</button>
+        <span style="font-size:12.5px;color:var(--muted)" id="qrHint">Tap a hidden cell to reveal it</span>
+      </div>
+
+      <h3>Titles given to writers</h3>
+      <table id="t-epithets"><thead><tr><th style="width:46%">Title</th><th>Writer</th></tr></thead><tbody></tbody></table>
+
+      <h3>Firsts in English literature</h3>
+      <table id="t-firsts"><thead><tr><th style="width:46%">The first…</th><th>Answer</th></tr></thead><tbody></tbody></table>
+
+      <h3>Who wrote what</h3>
+      <table id="t-works"><thead><tr><th style="width:46%">Work</th><th>Author</th></tr></thead><tbody></tbody></table>
+
+      <h3>Famous lines and their source</h3>
+      <table id="t-quotes"><thead><tr><th style="width:56%">Line</th><th>Source</th></tr></thead><tbody></tbody></table>
+    </section>
+
+  </div>
+</div>
+</main>
+
+<footer>Compiled for examination preparation. Dates follow the conventional divisions.</footer>
+
+<script>
+/* ==========================================================================
+   All content lives in PERIODS. Add an author by pushing to a period's
+   `authors` array; add a period by pushing to PERIODS.
+   ========================================================================== */
+var PERIODS = [
+{
+id:"old", nav:"Old English", title:"The Old English Period", bn:"প্রাচীন যুগ / অ্যাংলো-স্যাক্সন যুগ",
+dates:"450 – 1066", also:"Also called the Anglo-Saxon Period",
+named:"The Angles and Saxons, Germanic tribes who settled Britain",
+intro:[
+"English literature does not begin with England. It begins with three Germanic tribes — the Angles, the Saxons and the Jutes — who crossed the North Sea in the fifth century, defeated the native Britons, and imposed their own language, law and religion on the island. The word <em>English</em> itself descends from the Angles. This is why the period carries two names: Old English, after the language, and Anglo-Saxon, after the people.",
+"For its first two centuries the literature was spoken rather than written. Poems were composed and carried in memory by the <em>scop</em>, a court poet who recited to the harp in the mead-hall. Only after the Christian mission of St Augustine in 597 did monasteries begin committing this oral inheritance to parchment, which is why almost everything that survives reaches us filtered through a monastic scribe. The period closes decisively in 1066, when William of Normandy defeated Harold at Hastings and a French-speaking aristocracy took the country.",
+"The verse of this age has no rhyme. It works instead by <strong>alliteration</strong> — repeated opening consonants across a line split by a caesura — and by <strong>kennings</strong>, compressed metaphorical compounds in which the sea becomes the <em>whale-road</em> and the body the <em>bone-house</em>. The tone is grave, fatalistic and preoccupied with loyalty between a lord and his warriors."
+],
+traits:[
+["Heroic deeds","the warrior ideal, courage measured in battle"],
+["Love of sea adventure","voyaging, exile and the cold northern ocean"],
+["Savagery","a harsh world of feud, vengeance and violent death"],
+["Intense love of glory","fame after death as the only immortality"],
+["Strong belief in fate","<em>wyrd</em> — an impersonal destiny no man escapes"],
+["Christian overlay","pagan material recorded, and softened, by monks"]
+],
+authors:[
+{name:"Anonymous", dates:"c. 8th–10th century", ep:[],
+ note:"The greatest Old English poetry is nameless. The manuscripts were copied by monks who recorded the verse without recording its makers.",
+ works:[["Beowulf","c. 8th c.","epic — the foundation of English literature"],
+        ["The Seafarer","","elegy — exile and the pull of the ocean"],
+        ["The Wanderer","","elegy — a lordless warrior remembering the hall"],
+        ["The Wife's Lament","","elegy spoken by a woman in exile"],
+        ["The Dream of the Rood","","dream vision told by the Cross itself"]]},
+{name:"Caedmon", dates:"fl. 657–684", ep:["The Milton of the Anglo-Saxon Age","First English poet known by name"],
+ note:"An illiterate herdsman at Whitby Abbey who, according to Bede, received the gift of song in a dream and thereafter turned scripture into English verse. Only his nine-line <em>Hymn</em> is securely his.",
+ works:[["Caedmon's Hymn","c. 658","the earliest surviving English poem"],
+        ["Paraphrase","","biblical verse traditionally ascribed to him"],
+        ["Genesis, Exodus, Judith","","scriptural poems of his school"]]},
+{name:"Cynewulf", dates:"9th century", ep:[],
+ note:"One of the few named poets of the age; he signed four poems in runic letters woven into the closing lines.",
+ works:[["Juliana","","verse life of a Christian martyr"],
+        ["Elene","","the finding of the True Cross"],
+        ["The Fates of the Apostles","",""],
+        ["Christ II","",""]]},
+{name:"Venerable Bede", dates:"673 – 735", ep:["The Father of English History","First English historian","Doctor of the Church"],
+ note:"A Northumbrian monk at Jarrow who wrote in Latin. His history is the single most important source for early English Christianity, and gives us the story of Caedmon.",
+ works:[["The Ecclesiastical History of the English People","731","in Latin; the first true history of the nation"]]},
+{name:"King Alfred the Great", dates:"849 – 899 (reigned 871–899)", ep:["The Father of English Prose"],
+ note:"King of Wessex, the only English monarch called 'the Great'. He held off the Danes, then set about rebuilding learning by translating Latin works into English himself and commissioning a national record.",
+ works:[["The Anglo-Saxon Chronicle","begun c. 890","the first history and first prose work in English"],
+        ["Translations of Boethius, Bede and Gregory","","learning made available in the vernacular"]]}
+],
+plots:[
+{t:"Beowulf — the first English epic",
+ p:["Composed orally perhaps in the eighth century and written down around the tenth, <em>Beowulf</em> survives in a single fire-damaged manuscript now in the British Library. It runs to 3,182 lines, making it the longest poem in Old English, and although it is the foundation of English literature not one line of it is set in England — the action takes place in Denmark and southern Sweden among the Danes and the Geats.",
+    "Hrothgar, king of the Danes, builds a great hall called Heorot, but cannot enjoy it: the monster Grendel raids it nightly and devours his men. Beowulf, a prince of the Geats, sails to Denmark and tears off Grendel's arm in a wrestling match. Grendel's mother comes for revenge and kills a counsellor; Beowulf pursues her into her underwater lair and kills her with a giant's sword he finds there.",
+    "The second movement of the poem leaps forward fifty years. Beowulf, now an old king, faces a fire-breathing dragon roused by a stolen cup. He kills it, but takes a mortal wound in doing so, and the poem ends with his funeral pyre and the lament of his people. The structure — youth and triumph, then age and death — gives the epic its elegiac weight."]}
+],
+extra:""
+},
+
+{
+id:"middle", nav:"Middle English", title:"The Middle English Period", bn:"মধ্যযুগ",
+dates:"1066 – 1500", also:"Divided into the Anglo-Norman Period, the Age of Chaucer and the Barren Age",
+named:"The transitional state of the language between Old and Modern English",
+intro:[
+"The Norman Conquest of 1066 did to English what no invasion has done since: it removed the language from public life. For roughly three hundred years the court spoke French, the church and the scholars wrote Latin, and English survived as the unwritten speech of the conquered majority. When it re-emerged as a literary language in the fourteenth century it had been transformed — its inflections worn away, its vocabulary flooded with French words, its poetry newly willing to rhyme.",
+"The period is conventionally divided in three. The <strong>Anglo-Norman Period</strong> (1066–1350) produced little in English itself. The <strong>Age of Chaucer</strong> (1340–1400) is the summit, when Geoffrey Chaucer proved that the London dialect could carry poetry equal to anything in Europe. The <strong>Barren Age</strong> (1400–1485) that follows is a genuine trough: Chaucer's imitators had his manner without his intelligence, and little of lasting value was written until the Renaissance arrived.",
+"Two forces shape the writing. Religion remains dominant, but after about 1350 a secular literature emerges alongside it — Chaucer's pilgrims are on a religious journey and tell almost entirely worldly tales. And the code of <strong>chivalry</strong>, imported with the Normans, supplies the romance: knights, quests, courtly love and the matter of King Arthur."
+],
+traits:[
+["Love","courtly love — the knight's idealised service to a lady"],
+["Religion","church-centred writing, allegory, saints' lives"],
+["Chivalry","the knightly code, quest romance, Arthurian matter"],
+["French and Latin influence","vocabulary, verse forms and subject matter"],
+["The rise of rhyme","alliterative verse gives way to rhymed stanzas"],
+["Emerging realism","Chaucer's pilgrims as observed social types"]
+],
+authors:[
+{name:"Geoffrey Chaucer", dates:"c. 1340 – 1400", ep:["The Father of English Poetry","The Father of English Literature","First National Poet of England","The Morning Star of the Renaissance"],
+ note:"Born in London, a soldier under Edward III, later a customs official and diplomat whose travels took him to Italy, where Dante, Petrarch and Boccaccio changed his idea of what poetry could do. He was the first writer buried in what became Poets' Corner, Westminster Abbey — his tomb is why it exists.",
+ works:[["The Canterbury Tales","c. 1387–1400","his masterpiece; unfinished"],
+        ["Troilus and Criseyde","c. 1385","his first complete long work"],
+        ["The Book of the Duchess","c. 1370","elegy for Blanche of Lancaster"],
+        ["The House of Fame","c. 1380","dream vision"],
+        ["The Parliament of Fowls","c. 1382","dream vision; birds choose mates"],
+        ["The Legend of Good Women","c. 1386",""]]},
+{name:"William Langland", dates:"c. 1332 – 1386", ep:[],
+ note:"A poet of protest who wrote in the old alliterative measure rather than the new rhymed verse. His target was the corruption of the clergy and the neglect of the poor.",
+ works:[["Piers Plowman","1362","allegorical dream vision; social satire"]]},
+{name:"John Wycliffe", dates:"c. 1320 – 1384", ep:["The Morning Star of the Reformation","Father of English Prose (a title also given to Alfred)"],
+ note:"A theologian who attacked the wealth and authority of the church and insisted that ordinary people should be able to read scripture themselves. His followers were called Lollards; his bones were later dug up and burned.",
+ works:[["The first complete English Bible","c. 1382","translated from the Latin Vulgate"]]},
+{name:"John Gower", dates:"c. 1330 – 1408", ep:["The Moral Gower"],
+ note:"Chaucer's friend and contemporary, and unusual in writing substantial works in all three languages of the age — English, French and Latin.",
+ works:[["Confessio Amantis","1390","a lover's confession, in English"],
+        ["Vox Clamantis","","in Latin"],
+        ["Mirour de l'Omme","","in French"]]},
+{name:"Sir Thomas Malory", dates:"c. 1415 – 1471", ep:[],
+ note:"Compiled the scattered French and English Arthurian romances into a single continuous story while himself in prison. Printed by Caxton in 1485.",
+ works:[["Le Morte d'Arthur","1485","the first prose romance in English"]]},
+{name:"William Caxton", dates:"c. 1422 – 1491", ep:["The first English printer"],
+ note:"Not a poet but decisive for literature: he set up the first printing press in England at Westminster in 1476, and by choosing the London dialect for his editions helped fix standard written English.",
+ works:[["The Recuyell of the Historyes of Troye","1473","first book printed in English"],
+        ["Printed editions of Chaucer, Gower and Malory","",""]]},
+{name:"Other writers of the period", dates:"", ep:[],
+ note:"",
+ works:[["Geoffrey Gaimar — Estorie des Engleis","c. 1140","history in Anglo-Norman"],
+        ["Thomas of Britain — Tristan","c. 1170","romance"],
+        ["Anonymous — Sir Gawain and the Green Knight","c. 1375","the finest alliterative romance"],
+        ["John Lydgate — Troy Book; Siege of Thebes","",""],
+        ["William Dunbar — The Dance of the Seven Deadly Sins","",""]]}
+],
+plots:[
+{t:"The Canterbury Tales",
+ p:["Thirty pilgrims meet at the Tabard Inn in Southwark, bound for the shrine of Thomas Becket at Canterbury. Harry Bailly, the host, proposes that each tell two tales going and two returning, with a free supper for the best. That would have produced some 120 tales; Chaucer completed twenty-four, and no pilgrim tells more than one. The frame is left unfinished, but the fragment runs to roughly 17,000 lines.",
+    "What makes the work revolutionary is the General Prologue, which introduces the pilgrims one by one — knight, miller, prioress, wife of Bath, pardoner, cook — as individuals rather than types, observed with an irony that never quite hardens into contempt. Chaucer includes himself among them, and gives himself the worst tale on purpose. Six hundred years later the portraits remain the most alive thing in medieval English."]},
+{t:"Piers Plowman",
+ p:["The poet falls asleep in the Malvern Hills and dreams of a field full of folk — lords, labourers, merchants, friars — assembled between a tower (Truth) and a dungeon (Falsehood). They wish to go on pilgrimage to Truth but have no guide, until a humble ploughman named Piers offers to lead them on one condition: that each first help him plough his half-acre. Most refuse, or slip away from the work.",
+    "The dreamer then searches for the truly good, and finds almost none among the clergy. By the poem's close Piers has become identified with Christ himself. It is at once a religious allegory and the fiercest social criticism written in medieval England."]}
+],
+extra:"<div class='callout'><b>The Barren Age (1400–1485).</b> The eighty-five years between Chaucer's death and the accession of the Tudors are called the Barren Age or Dark Age of English literature. Chaucer had no successor of comparable power; his followers reproduced his forms without his substance, and the Wars of the Roses consumed the country's energies. The one great exception is Malory's <em>Le Morte d'Arthur</em>, completed at the very end of the period.</div>"
+},
+
+{
+id:"renaissance", nav:"Renaissance", title:"The Renaissance Period", bn:"রেনেসাঁর যুগ",
+dates:"1500 – 1660", also:"Preparation · Elizabethan · Jacobean · Caroline · Commonwealth",
+named:"The French <em>renaissance</em> — rebirth, the revival of classical learning",
+intro:[
+"<em>Renaissance</em> means rebirth, and what was reborn was classical antiquity. The movement began in fourteenth-century Florence and reached England late, arriving with the new learning of Greek, the printing press, the Reformation and the discovery of the Americas. Its effect on literature was total: writers turned from anonymous devotion to individual ambition, from allegory to observation, from Latin to a confident vernacular.",
+"The period is subdivided by reign. The <strong>Preparation</strong> (1500–1558) lays foundations — the sonnet is imported, blank verse invented, the first English comedy and tragedy written. The <strong>Elizabethan Age</strong> (1558–1603) is the summit, the Golden Age of English Literature, called <em>a nest of singing birds</em>. The <strong>Jacobean</strong> (1603–1625) turns darker and more inward. The <strong>Caroline</strong> (1625–1649) belongs to Charles I and the approaching civil war, and the <strong>Commonwealth</strong> (1649–1660) to Cromwell, whose Puritan government closed the theatres in 1642 and ended a great age of drama at a stroke.",
+"Two literary developments matter above all: the arrival of <strong>drama</strong> as the dominant form, carried by Marlowe, Shakespeare and Jonson, and the arrival of the <strong>sonnet</strong>, imported from Petrarch by Wyatt and Surrey and remade into the English or Shakespearean form of three quatrains and a couplet."
+],
+traits:[
+["Passion for knowledge","the revival of Greek and Latin learning"],
+["Desire for wealth and power","ambition as a subject, not a sin"],
+["Love of adventure","voyages, exploration, the New World"],
+["Patriotism","national feeling after the Armada of 1588"],
+["Love of beauty","sensuous imagery, the cult of the sonnet"],
+["Humanism","man as the measure; life on earth worth living"]
+],
+authors:[
+{name:"Sir Thomas More", dates:"1478 – 1535", ep:[],
+ note:"Lawyer, Lord Chancellor and finally martyr — executed by Henry VIII for refusing to accept the king as head of the church. He wrote <em>Utopia</em> in Latin; it appeared in English only after his death.",
+ works:[["Utopia","1516","Latin; English translation 1551. The Greek means 'no place'"]]},
+{name:"Sir Thomas Wyatt", dates:"1503 – 1542", ep:["Introduced the sonnet into English"],
+ note:"Diplomat and lyric poet who brought the Petrarchan sonnet back from Italy. Nothing was published in his lifetime; his poems appeared fifteen years after his death.",
+ works:[["Songs and Sonnets (Tottel's Miscellany)","1557","with the Earl of Surrey"]]},
+{name:"Henry Howard, Earl of Surrey", dates:"1517 – 1547", ep:["Introduced blank verse into English"],
+ note:"Wyatt's collaborator, and the man who gave English poetry its most important metre — unrhymed iambic pentameter — in his translation of the <em>Aeneid</em>. Executed at thirty.",
+ works:[["Translation of Virgil's Aeneid, Books II and IV","c. 1540","first English blank verse"],
+        ["Poems in Tottel's Miscellany","1557",""]]},
+{name:"Nicholas Udall", dates:"1504 – 1556", ep:["Wrote the first English comedy"],
+ note:"Headmaster of Eton, and author of the play generally counted the first true comedy in English.",
+ works:[["Ralph Roister Doister","c. 1553","the first English comedy"]]},
+{name:"Thomas Sackville & Thomas Norton", dates:"1536–1608 · 1532–1584", ep:["Wrote the first English tragedy"],
+ note:"Their <em>Gorboduc</em> is the first English tragedy and the first English play in blank verse — a British king divides his kingdom between two sons, who destroy each other and the state. Shakespeare would use the same premise in <em>King Lear</em>.",
+ works:[["Gorboduc, or Ferrex and Porrex","1561","first English tragedy; first play in blank verse"]]},
+{name:"Edmund Spenser", dates:"1552 – 1599", ep:["The Poet's Poet","The Prince of Poets"],
+ note:"Born in London, educated at Cambridge, and buried near Chaucer in Westminster Abbey. He invented the nine-line <strong>Spenserian stanza</strong>, later used by Byron, Keats and Shelley.",
+ works:[["The Faerie Queene","1590–96","his masterpiece; unfinished epic allegory"],
+        ["The Shepheardes Calender","1579","pastoral; dedicated to Sidney"],
+        ["Amoretti","1595","sonnet sequence"],
+        ["Epithalamion","1595","marriage ode"],
+        ["Astrophel","1596","elegy for Sidney"]]},
+{name:"Sir Philip Sidney", dates:"1554 – 1586", ep:["The first English critic"],
+ note:"Soldier, courtier and the age's ideal of the complete gentleman; he died at thirty-one of a wound at Zutphen. None of his work was published in his lifetime.",
+ works:[["An Apology for Poetry","1595","also called The Defence of Poesie; first major English criticism"],
+        ["Astrophel and Stella","1591","108 sonnets; the first English sonnet sequence"],
+        ["Arcadia","1590","prose pastoral romance"]]},
+{name:"Francis Bacon", dates:"1561 – 1626", ep:["The Father of the English Essay","Master of aphorism and terseness"],
+ note:"Lawyer, philosopher, Lord Chancellor, and finally disgraced for taking bribes. His essays are famously compressed — argument stripped to its bones. He also gave scientific method its early modern statement.",
+ works:[["Essays","1597, expanded 1625","Of Studies, Of Truth, Of Revenge, Of Marriage and Single Life, Of Great Place, Of Death, Of Friendship"],
+        ["The Advancement of Learning","1605",""],
+        ["Novum Organum","1620","in Latin; inductive method"],
+        ["The New Atlantis","1626","utopia"]]},
+{name:"Christopher Marlowe", dates:"1564 – 1593", ep:["The Father of English Tragedy","True founder of English drama","Pioneer of blank verse in drama"],
+ note:"Born in Canterbury two months before Shakespeare; killed in a tavern brawl at Deptford at twenty-nine, probably as a government agent. His 'mighty line' made blank verse the natural speech of the English stage.",
+ works:[["Doctor Faustus","c. 1592","the scholar who sells his soul"],
+        ["Tamburlaine the Great","1587","the shepherd who conquers the East"],
+        ["The Jew of Malta","c. 1589",""],
+        ["Edward II","c. 1592","history play"],
+        ["The Passionate Shepherd to His Love","1599","pastoral lyric"]]},
+{name:"William Shakespeare", dates:"1564 – 1616", ep:["The Bard of Avon","The Swan of Avon","England's national poet"],
+ note:"Born and died at Stratford-upon-Avon, on 23 April in both cases. He came to London as an actor with the Lord Chamberlain's Men, later the King's Men, and wrote some 37 plays and 154 sonnets. Though he wrote a dozen plays under James I, he is counted an Elizabethan. Most of his verse is blank verse — unrhymed iambic pentameter.",
+ works:[["Tragedies","","Hamlet · Macbeth · King Lear · Othello · Romeo and Juliet · Julius Caesar · Antony and Cleopatra · Coriolanus · Timon of Athens · Titus Andronicus · Troilus and Cressida"],
+        ["Comedies","","Twelfth Night · The Merchant of Venice · As You Like It · A Midsummer Night's Dream · Much Ado About Nothing · The Comedy of Errors · The Taming of the Shrew · All's Well That Ends Well · Measure for Measure · Love's Labour's Lost · The Merry Wives of Windsor"],
+        ["Romances / late plays","","The Tempest · The Winter's Tale · Cymbeline · Pericles"],
+        ["Histories","","Richard II · Richard III · King John · Henry IV, V, VI, VIII"],
+        ["Poetry","","154 Sonnets · Venus and Adonis · The Rape of Lucrece · A Lover's Complaint · The Phoenix and the Turtle"]]},
+{name:"Ben Jonson", dates:"1572 – 1637", ep:["Father of the Comedy of Humours","Poet Laureate"],
+ note:"Bricklayer, soldier, actor and dramatist; he killed a fellow actor in a duel and escaped hanging by pleading benefit of clergy. His followers called themselves the Sons of Ben. His gravestone in Westminster Abbey reads <em>O Rare Ben Jonson</em>.",
+ works:[["Volpone, or The Fox","1606","satire on greed built on beast fable"],
+        ["The Alchemist","1610",""],
+        ["Every Man in His Humour","1598","Shakespeare acted in it"],
+        ["Epicoene, or The Silent Woman","1609",""],
+        ["Bartholomew Fair","1614",""]]},
+{name:"The University Wits", dates:"1580s–1590s", ep:[],
+ note:"A group of young Oxford and Cambridge men who professionalised the English stage in the decade before Shakespeare: <strong>Christopher Marlowe, Thomas Kyd, Robert Greene, Thomas Nashe, John Lyly, George Peele</strong> and <strong>Thomas Lodge</strong>. Kyd is strictly not a graduate, but is always counted with them.",
+ works:[["Thomas Kyd — The Spanish Tragedy","c. 1587","the first revenge tragedy; model for Hamlet"],
+        ["John Lyly — Euphues: The Anatomy of Wit","1578","gave the language the word 'euphuism'"],
+        ["Robert Greene — Friar Bacon and Friar Bungay","c. 1589",""],
+        ["Thomas Nashe — The Unfortunate Traveller","1594","early picaresque fiction"],
+        ["George Peele — The Arraignment of Paris","1584",""],
+        ["Thomas Lodge — Rosalynde","1590","source of As You Like It"]]},
+{name:"John Donne", dates:"1572 – 1631", ep:["The Poet of Love","Leader of the Metaphysical Poets"],
+ note:"Born Catholic, converted to Anglicanism, and rose to be Dean of St Paul's. His poetry broke with smooth Elizabethan sweetness — abrupt, argumentative, learned, and yoking the most unlikely things together in the <strong>metaphysical conceit</strong>, as when two lovers become the twin legs of a compass.",
+ works:[["The Good Morrow","","aubade"],
+        ["The Sun Rising","","'Busy old fool, unruly sun'"],
+        ["The Canonization","","'For God's sake hold your tongue, and let me love'"],
+        ["A Valediction: Forbidding Mourning","","the compass conceit"],
+        ["Death be not Proud","","Holy Sonnet X"],
+        ["The Flea","",""]]},
+{name:"John Webster", dates:"c. 1580 – 1634", ep:[],
+ note:"The greatest tragedian after Shakespeare, and the darkest — his plays are studies in corruption, cruelty and the terror of death.",
+ works:[["The Duchess of Malfi","1614","revenge tragedy"],
+        ["The White Devil","1612","revenge tragedy"]]},
+{name:"The Cavalier Poets", dates:"1620s–1640s", ep:["Sons of Ben"],
+ note:"Courtly, secular, elegant poets who supported Charles I against Parliament: <strong>Robert Herrick, Thomas Carew, Sir John Suckling, Richard Lovelace</strong> and <strong>Abraham Cowley</strong>. They followed Ben Jonson, wrote short polished lyrics, and returned again and again to <em>carpe diem</em> — seize the day.",
+ works:[["Robert Herrick — To Daffodils; Hesperides","1648","'Gather ye rosebuds while ye may'"],
+        ["Richard Lovelace — To Althea, from Prison","1642","'Stone walls do not a prison make'"],
+        ["Sir John Suckling — Ballad upon a Wedding","",""],
+        ["Thomas Carew — An Elegy upon the Death of Dr Donne","",""]]},
+{name:"George Herbert", dates:"1593 – 1633", ep:["The saint of the Metaphysical school"],
+ note:"Cambridge orator turned country parson, persuaded to religion partly by Donne. His devotional poems, none published in his lifetime, include shaped or pattern poems printed in the outline of their subject.",
+ works:[["The Temple","1633","posthumous collection"],
+        ["Easter Wings","","a pattern poem shaped like wings"],
+        ["The Collar","","rebellion and submission"],
+        ["The Pulley","",""]]},
+{name:"John Milton", dates:"1608 – 1674", ep:["The greatest English epic poet","The Master of the Grand Style"],
+ note:"Cambridge-educated, met Galileo in Italy, then gave twenty years to political prose as Latin Secretary to Cromwell's republic. He went completely blind in 1652 and composed <em>Paradise Lost</em> by dictation. At the Restoration his books were burned and he narrowly escaped execution.",
+ works:[["Paradise Lost","1667","epic in blank verse; the Fall of Man"],
+        ["Paradise Regained","1671","Christ's temptation in the wilderness"],
+        ["Samson Agonistes","1671","tragedy on the Greek model"],
+        ["Lycidas","1637","pastoral elegy for Edward King"],
+        ["Areopagitica","1644","prose; against censorship"],
+        ["On His Blindness","c. 1655","sonnet — 'They also serve who only stand and wait'"]]},
+{name:"Andrew Marvell", dates:"1621 – 1678", ep:["The last of the Metaphysical Poets"],
+ note:"Milton's assistant as Latin Secretary, and later the man who probably saved Milton's life at the Restoration. Most of his poetry appeared only after his death.",
+ works:[["To His Coy Mistress","","the great carpe diem poem"],
+        ["The Definition of Love","",""],
+        ["The Garden","",""],
+        ["An Horatian Ode upon Cromwell's Return from Ireland","1650",""]]},
+{name:"Other writers", dates:"", ep:[],
+ note:"",
+ works:[["King James I — the Authorised Version of the Bible","1611","the King James Bible; James was called 'the wisest fool in Christendom'"],
+        ["Thomas Hobbes — Leviathan","1651","political philosophy"],
+        ["Henry Vaughan — Silex Scintillans; The Retreat","1650","metaphysical; influenced Wordsworth"],
+        ["Cyril Tourneur — The Revenger's Tragedy","1607",""],
+        ["Jeremy Taylor — Holy Living; Holy Dying","1650–51",""]]}
+],
+plots:[
+{t:"The Faerie Queene",
+ p:["Spenser planned twelve books, one for each of twelve moral virtues, each following a knight sent out by Gloriana, Queen of Fairyland, on one day of her twelve-day festival. He finished six and part of a seventh. The poem works on several allegorical levels at once — moral, political, religious and chivalric.",
+    "In Book I the Redcrosse Knight, representing Holiness and England's St George, is accompanied by Una — the one true faith — and deceived by Duessa, who stands for the Roman church and falsehood; he finally slays the dragon. Book II follows Sir Guyon, Temperance, who overcomes the enchantress Acrasia. Later books give us Britomart (Chastity), Sir Artegall (Justice) and Sir Calidore (Courtesy). Gloriana herself is Elizabeth I, and Prince Arthur, who rescues the other knights, represents Magnificence."]},
+{t:"Doctor Faustus",
+ p:["A brilliant scholar exhausts logic, medicine, law and theology, finds them all insufficient, and turns to necromancy. He signs a contract in his own blood with Lucifer, through the devil Mephistophilis: twenty-four years of unlimited knowledge and power, after which his soul is forfeit.",
+    "What he does with that power is the tragedy. He plays tricks on the Pope, conjures Helen of Troy — 'Was this the face that launch'd a thousand ships?' — and squanders godlike power on entertainment. A Good Angel and an Evil Angel contend for him throughout, and he repeatedly tries to repent, but cannot. The final soliloquy, as the clock strikes toward midnight, is among the most terrifying speeches in English drama."]},
+{t:"Hamlet",
+ p:["Prince Hamlet returns to Elsinore to find his father dead, his uncle Claudius on the throne, and his mother Gertrude married to Claudius within a month — 'Frailty, thy name is woman!' His father's ghost reveals that Claudius poisoned him and demands revenge.",
+    "Hamlet feigns madness while he seeks proof, staging a play, <em>The Murder of Gonzago</em>, whose plot mirrors the crime; Claudius's reaction confirms his guilt. But Hamlet delays, and the delay destroys everyone around him: Polonius killed by accident, Ophelia driven mad and drowned, Laertes turned into an instrument of revenge. In the final duel the poisoned foil and poisoned cup kill Gertrude, Laertes, Claudius and Hamlet himself.",
+    "It belongs to the tradition of <strong>revenge tragedy</strong> founded by Kyd's <em>The Spanish Tragedy</em>, but Shakespeare turns the form inward: the obstacle is not an external enemy but the hero's own consciousness."]},
+{t:"Macbeth",
+ p:["Three witches greet Macbeth, a Scottish general, as Thane of Glamis, Thane of Cawdor, and king hereafter. When the second title arrives that same day, the third becomes an ambition. Urged on by Lady Macbeth, he murders King Duncan under his own roof at Inverness.",
+    "The crown brings no security. Macbeth kills Banquo, whose descendants the witches promised the throne, and is haunted by his ghost; he slaughters Macduff's family; Scotland becomes a charnel house. Lady Macbeth, who had been the stronger of the two, disintegrates into sleepwalking guilt — 'All the perfumes of Arabia will not sweeten this little hand' — and dies by her own hand.",
+    "The witches' final prophecies destroy him by being literally true and entirely misleading: no man of woman born can harm him, and he is safe till Birnam Wood comes to Dunsinane. The wood comes as camouflage, and Macduff was delivered by caesarean section."]},
+{t:"Paradise Lost",
+ p:["Milton's stated purpose is to 'justify the ways of God to men'. The epic opens not in Eden but in Hell, with Satan and his rebel angels lying on the burning lake after their defeat — a beginning <em>in medias res</em>, as classical epic requires. Satan rouses them, builds Pandemonium, and resolves on revenge through God's new creation, declaring it 'Better to reign in Hell, than serve in Heaven'.",
+    "He makes his way to Eden, tempts Eve in the form of a serpent, and she and then Adam eat the forbidden fruit. They are expelled, but the ending is not despair: the archangel Michael shows Adam the future redemption, and the pair leave Paradise hand in hand with 'the world all before them'. Blake's remark that Milton was 'of the Devil's party without knowing it' points to the poem's central puzzle — Satan's magnificent energy in the early books."]}
+],
+extra:"<div class='callout'><b>The Metaphysical Poets.</b> The name was Dr Johnson's, and he meant it as a criticism: in these poets, he said, 'the most heterogeneous ideas are yoked by violence together'. The group — <strong>Donne, Herbert, Marvell, Vaughan, Crashaw and Cowley</strong> — is marked by intellectual argument in verse, abrupt colloquial openings, elaborate conceits drawn from science and geography, and a fusion of passion with logic. Largely dismissed for two centuries, they were restored to the first rank by T. S. Eliot in 1921.</div>"
+},
+
+{
+id:"neoclassical", nav:"Neo-classical", title:"The Neo-Classical Period", bn:"নিওক্ল্যাসিক্যাল যুগ",
+dates:"1660 – 1798", also:"Restoration · Augustan · Age of Sensibility",
+named:"Its imitation of classical Greek and Roman models",
+intro:[
+"With the monarchy restored in 1660 the theatres reopened, and English writing changed character completely. The new ideal was classical: order, balance, correctness, reason, decorum. Writers took Horace, Virgil and Juvenal as models and aimed not at inspiration but at judgement. The characteristic verse form is the <strong>heroic couplet</strong> — rhymed iambic pentameter, closed and epigrammatic — and the characteristic mode is <strong>satire</strong>.",
+"The age divides in three. The <strong>Restoration</strong> (1660–1700) is dominated by Dryden and by the comedy of manners, witty and sexually frank. The <strong>Augustan Age</strong> (1700–1745), named for the Roman emperor under whom Latin literature flourished, belongs to Pope and Swift, and is also called the Age of Pope. The <strong>Age of Sensibility</strong> (1745–1798), or Age of Johnson, sees the classical temper give way to feeling, melancholy and an interest in the primitive — a transition into Romanticism, which is why it is also called the Pre-Romantic Age.",
+"The period's other great event has nothing to do with poetry. Between Defoe in 1719 and Richardson, Fielding, Sterne and Smollett in the 1740s and 1750s, the <strong>English novel</strong> comes into being as a serious literary form — realistic, prose, concerned with ordinary private lives."
+],
+traits:[
+["Reason over emotion","judgement, good sense, restraint"],
+["Satire","the dominant mode — Dryden, Pope, Swift"],
+["The heroic couplet","closed, balanced, epigrammatic verse"],
+["Imitation of the classics","Horace, Virgil, Juvenal as models"],
+["Urban and social","the city, the coffee house, society as subject"],
+["The rise of the novel","Defoe, Richardson, Fielding, Sterne"]
+],
+authors:[
+{name:"John Dryden", dates:"1631 – 1700", ep:["The Father of English Criticism","First Poet Laureate (1668)","The age is called the Age of Dryden"],
+ note:"He dominated every form of his age — verse satire, drama, translation and criticism — and made the heroic couplet the standard measure of English poetry for the next century.",
+ works:[["Absalom and Achitophel","1681","political satire on a biblical frame"],
+        ["Mac Flecknoe","1682","mock-heroic satire"],
+        ["An Essay of Dramatic Poesy","1668","criticism, in dialogue"],
+        ["All for Love","1677","blank-verse Antony and Cleopatra"],
+        ["The Hind and the Panther","1687",""]]},
+{name:"John Bunyan", dates:"1628 – 1688", ep:[],
+ note:"A tinker's son and Nonconformist preacher who spent twelve years in Bedford jail for preaching without a licence, and wrote there. His allegory has been said to stand next to the Bible in English-speaking households.",
+ works:[["The Pilgrim's Progress","1678","religious allegory"],
+        ["The Holy War","1682",""],
+        ["Grace Abounding to the Chief of Sinners","1666","spiritual autobiography"]]},
+{name:"Daniel Defoe", dates:"1660 – 1731", ep:["Father of the English novel (a title shared with Fielding and Richardson)","Father of English journalism"],
+ note:"Merchant, pamphleteer, spy and prolific journalist who turned to fiction late and wrote it as though it were fact — his novels present themselves as authentic memoirs.",
+ works:[["Robinson Crusoe","1719","often called the first English novel"],
+        ["Moll Flanders","1722",""],
+        ["A Journal of the Plague Year","1722",""],
+        ["Captain Singleton","1720",""],
+        ["Roxana","1724",""]]},
+{name:"Jonathan Swift", dates:"1667 – 1745", ep:["The greatest prose satirist in English"],
+ note:"Born in Dublin, Dean of St Patrick's Cathedral there. His satire is savage rather than genial — where Pope mocks, Swift attacks. He lost his reason in later life. His own epitaph speaks of savage indignation that could no longer tear his heart.",
+ works:[["Gulliver's Travels","1726","satire on humanity in four voyages"],
+        ["A Tale of a Tub","1704","satire on religious corruption"],
+        ["The Battle of the Books","1704",""],
+        ["A Modest Proposal","1729","the most ferocious irony in English"]]},
+{name:"Alexander Pope", dates:"1688 – 1744", ep:["The greatest of English mock-heroic poets","Master of the heroic couplet"],
+ note:"Catholic, self-educated, and permanently crippled by tuberculosis of the spine, standing four foot six. He is the most quoted English poet after Shakespeare, and the first to live entirely on the earnings of his writing — his Homer translation made him independent.",
+ works:[["The Rape of the Lock","1712, expanded 1714","mock-heroic on a stolen lock of hair"],
+        ["An Essay on Criticism","1711","'A little learning is a dangerous thing'"],
+        ["An Essay on Man","1733–34","'The proper study of mankind is man'"],
+        ["The Dunciad","1728","satire on dullness"],
+        ["Translations of the Iliad and Odyssey","1715–26",""]]},
+{name:"Samuel Richardson", dates:"1689 – 1761", ep:["Father of the English novel of character"],
+ note:"A printer who began by compiling a book of model letters and discovered a novel inside it. His works are <strong>epistolary</strong> — told entirely through letters — and gave English fiction its first sustained interior life.",
+ works:[["Pamela, or Virtue Rewarded","1740","the first modern English novel by some accounts"],
+        ["Clarissa","1748","his masterpiece; one of the longest novels in English"],
+        ["Sir Charles Grandison","1753",""]]},
+{name:"Henry Fielding", dates:"1707 – 1754", ep:["The Father of the English Novel"],
+ note:"Playwright, magistrate and founder of the Bow Street Runners. He began writing fiction to ridicule Richardson's <em>Pamela</em>, and produced in <em>Tom Jones</em> the first great comic novel in English.",
+ works:[["Tom Jones","1749","his masterpiece"],
+        ["Joseph Andrews","1742","began as a parody of Pamela"],
+        ["Shamela","1741","direct burlesque of Pamela"],
+        ["Amelia","1751",""],
+        ["Jonathan Wild","1743",""]]},
+{name:"Samuel Johnson", dates:"1709 – 1784", ep:["Dr Johnson — the age is called the Age of Johnson","The greatest English lexicographer"],
+ note:"Poet, essayist, critic, biographer and dictionary-maker, and the most formidable conversationalist of his century — preserved for us by Boswell's biography, generally called the finest in the language.",
+ works:[["A Dictionary of the English Language","1755","nine years' work, largely single-handed"],
+        ["Preface to Shakespeare","1765","criticism"],
+        ["Lives of the Poets","1779–81",""],
+        ["Rasselas","1759","philosophical tale"],
+        ["London","1738","verse satire"]]},
+{name:"Thomas Gray", dates:"1716 – 1771", ep:["The Graveyard Poet"],
+ note:"A retiring Cambridge professor who published very little, and secured immortality with a single poem — the most quoted in English before Wordsworth.",
+ works:[["Elegy Written in a Country Churchyard","1751","'Full many a flower is born to blush unseen'"],
+        ["The Bard","1757",""],
+        ["Ode on a Distant Prospect of Eton College","1747",""]]},
+{name:"Restoration and 18th-century dramatists", dates:"", ep:[],
+ note:"Restoration comedy — the <strong>comedy of manners</strong> — is witty, cynical and sexually frank, and was attacked for immorality by Jeremy Collier in 1698. Later in the century Goldsmith and Sheridan revived stage comedy in a gentler key.",
+ works:[["William Congreve — The Way of the World","1700","the finest comedy of manners"],
+        ["William Wycherley — The Country Wife","1675",""],
+        ["Aphra Behn — Oroonoko; The Rover","1688, 1677","the first professional woman writer in English"],
+        ["Oliver Goldsmith — She Stoops to Conquer","1773",""],
+        ["Richard Brinsley Sheridan — The School for Scandal; The Rivals","1777, 1775",""]]},
+{name:"Other writers", dates:"", ep:[],
+ note:"",
+ works:[["Joseph Addison & Richard Steele — The Tatler; The Spectator","1709, 1711","the periodical essay"],
+        ["Laurence Sterne — Tristram Shandy","1759–67","experimental fiction two centuries early"],
+        ["Tobias Smollett — Roderick Random","1748","picaresque"],
+        ["Edward Gibbon — The Decline and Fall of the Roman Empire","1776–89",""],
+        ["James Boswell — The Life of Samuel Johnson","1791","the greatest English biography"],
+        ["Oliver Goldsmith — The Vicar of Wakefield; The Deserted Village","1766, 1770",""],
+        ["Thomas Percy — Reliques of Ancient English Poetry","1765","ballad revival; pre-Romantic"],
+        ["William Collins — Odes","1746","pre-Romantic"]]}
+],
+plots:[
+{t:"The Pilgrim's Progress",
+ p:["Christian, burdened by a load on his back and the knowledge that his city is doomed, sets out for the Celestial City on the advice of Evangelist. His wife and children refuse to come. He struggles through the Slough of Despond, is directed at the Wicket Gate, and loses his burden at the sight of the Cross.",
+    "The journey is a map of the Christian life drawn as a landscape: the Palace Beautiful, the Valley of Humiliation where he fights the fiend Apollyon, the Valley of the Shadow of Death, Vanity Fair where his companion Faithful is martyred, Doubting Castle and its Giant Despair, the Delectable Mountains, and at last the River of Death, crossed with Hopeful, into the Celestial City. A second part follows his wife Christiana and their children on the same road."]},
+{t:"Gulliver's Travels",
+ p:["Four voyages, each a different angle of attack on human self-importance. In <strong>Lilliput</strong> Gulliver is a giant among six-inch people whose politics consist of a war over which end of an egg to break and whose court appointments are decided by rope-dancing — English party politics in miniature.",
+    "In <strong>Brobdingnag</strong> the proportions reverse: he is a doll among giants, and when he proudly describes European government to their philosopher king, the king concludes that Gulliver's countrymen are the most pernicious race of little vermin on the earth. In <strong>Laputa</strong> Swift turns on abstract science — projectors labour to extract sunbeams from cucumbers while their country falls into ruin.",
+    "In the fourth voyage he reaches the land of the <strong>Houyhnhnms</strong>, rational horses, who keep as beasts the filthy human-shaped <strong>Yahoos</strong>. Gulliver comes to loathe his own species so completely that on returning home he cannot bear the smell of his wife. The book is read as a children's story and written as one of the bleakest indictments of humanity ever composed."]},
+{t:"The Rape of the Lock",
+ p:["A real quarrel between two Catholic families — a young lord cut a lock of hair from a society beauty — gave Pope the occasion for a mock-heroic poem: the full machinery of classical epic applied to a trivial subject, so that the mismatch becomes the joke and the criticism.",
+    "Belinda sails up the Thames guarded by sylphs commanded by Ariel; her dressing table is described as an altar and her hairpins as armour; the Baron sacrifices to Love and then, at the card table over coffee, severs the lock with a pair of scissors. A mock battle follows, and the lock ascends to become a star. The poem mocks the vanity of fashionable society while conveying its glitter exactly."]}
+],
+extra:""
+},
+
+{
+id:"romantic", nav:"Romantic", title:"The Romantic Period", bn:"রোমান্টিক যুগ",
+dates:"1798 – 1832", also:"Opens with Lyrical Ballads, closes with the Reform Act and Scott's death",
+named:"The Romantic movement — imagination, nature and individual feeling",
+intro:[
+"The Romantic period has the tidiest boundaries in English literature. It begins in 1798 with the publication of <em>Lyrical Ballads</em> by Wordsworth and Coleridge, and ends in 1832 with the first Reform Act and the death of Sir Walter Scott. In between, poetry was remade.",
+"Everything the neo-classical age valued, the Romantics reversed. Where Pope wrote for a drawing room, Wordsworth wrote about a leech-gatherer in the language 'really used by men'. Reason gave way to <strong>imagination</strong>, the city to <strong>nature</strong>, society to the <strong>solitary individual</strong>, classical order to <strong>spontaneity</strong> — Wordsworth's famous definition is that poetry is 'the spontaneous overflow of powerful feelings recollected in tranquillity'. Childhood became a serious subject, the supernatural a legitimate one, and the poet a kind of prophet.",
+"The engine behind it was political. The French Revolution of 1789 convinced a generation that the world could be made new — 'Bliss was it in that dawn to be alive', wrote Wordsworth — and its collapse into terror and Napoleonic empire drove many of them inward. The period is usually described in two generations: the older Wordsworth, Coleridge, Blake and Scott; the younger Byron, Shelley and Keats, all three of whom died abroad and young."
+],
+traits:[
+["Imagination","the supreme faculty, superior to reason"],
+["Nature","not scenery but a moral and spiritual presence"],
+["The individual","solitude, subjectivity, the poet's own mind"],
+["Simplicity of language","ordinary speech, ordinary rural subjects"],
+["The supernatural","the Gothic, the strange, the visionary"],
+["Medievalism and the past","ballads, romance, the Middle Ages"],
+["Melancholy and longing","yearning for the unattainable"],
+["Revolutionary politics","liberty, and disillusion after France"]
+],
+authors:[
+{name:"William Blake", dates:"1757 – 1827", ep:["Pre-Romantic; poet, painter and engraver"],
+ note:"An engraver by trade who saw visions from childhood, printed his own illuminated books, and was thought mad by most who knew him. He belongs before the Romantic movement proper but anticipates all of it.",
+ works:[["Songs of Innocence","1789","'The Lamb'"],
+        ["Songs of Experience","1794","'The Tyger', 'London'"],
+        ["The Marriage of Heaven and Hell","1790–93",""],
+        ["Jerusalem; Milton","","'And did those feet in ancient time'"]]},
+{name:"William Wordsworth", dates:"1770 – 1850", ep:["The Poet of Nature","The High Priest of Nature","Poet Laureate 1843"],
+ note:"With Coleridge he launched the movement, and in the Preface to the second edition of <em>Lyrical Ballads</em> wrote its manifesto. He is one of the <strong>Lake Poets</strong>, with Coleridge and Southey, named for the Lake District where they settled.",
+ works:[["Lyrical Ballads","1798","with Coleridge; opens the Romantic age"],
+        ["The Prelude","1850","autobiographical epic, published posthumously"],
+        ["Tintern Abbey","1798",""],
+        ["I Wandered Lonely as a Cloud","1807","'the daffodils'"],
+        ["Ode: Intimations of Immortality","1807",""],
+        ["The Solitary Reaper; Michael; The World Is Too Much with Us","",""]]},
+{name:"Samuel Taylor Coleridge", dates:"1772 – 1834", ep:["Poet of the supernatural","Founder of English Romantic criticism"],
+ note:"Wordsworth's collaborator, a critic and philosopher of the first rank, and an opium addict whose greatest poems are all unfinished or nearly so. In their division of labour Wordsworth took the ordinary and made it strange; Coleridge took the supernatural and made it believable.",
+ works:[["The Rime of the Ancient Mariner","1798","opens Lyrical Ballads"],
+        ["Kubla Khan","1816","'a vision in a dream'; a fragment"],
+        ["Christabel","1816","unfinished"],
+        ["Biographia Literaria","1817","criticism; 'willing suspension of disbelief'"],
+        ["Dejection: An Ode","1802",""]]},
+{name:"Lord Byron", dates:"1788 – 1824", ep:["Creator of the Byronic hero"],
+ note:"The most famous writer in Europe in his lifetime — 'I awoke one morning and found myself famous' — and the most scandalous. He left England in 1816 amid rumours of incest, and died of fever at Missolonghi while fighting for Greek independence.",
+ works:[["Don Juan","1819–24","satiric epic; unfinished"],
+        ["Childe Harold's Pilgrimage","1812–18",""],
+        ["She Walks in Beauty","1814",""],
+        ["The Prisoner of Chillon","1816",""],
+        ["Manfred","1817",""]]},
+{name:"Percy Bysshe Shelley", dates:"1792 – 1822", ep:["The poet of revolt and hope"],
+ note:"Expelled from Oxford for a pamphlet on atheism, a lifelong radical, and drowned in a boating accident off Italy a month before his thirtieth birthday. His declaration that poets are 'the unacknowledged legislators of the world' closes his <em>Defence of Poetry</em>.",
+ works:[["Ode to the West Wind","1819","'If Winter comes, can Spring be far behind?'"],
+        ["To a Skylark","1820",""],
+        ["Prometheus Unbound","1820","lyrical drama"],
+        ["Adonais","1821","elegy for Keats"],
+        ["Ozymandias","1818",""],
+        ["A Defence of Poetry","1821","prose"]]},
+{name:"John Keats", dates:"1795 – 1821", ep:["The Poet of Beauty","The Poet of Sensuousness"],
+ note:"Trained as a surgeon, abandoned it for poetry, produced his greatest work in a single astonishing year — 1819 — and died of tuberculosis in Rome at twenty-five. His self-composed epitaph reads: 'Here lies one whose name was writ in water.'",
+ works:[["Ode on a Grecian Urn","1819","'Beauty is truth, truth beauty'"],
+        ["Ode to a Nightingale","1819",""],
+        ["To Autumn","1819",""],
+        ["Ode on Melancholy; Ode to Psyche","1819",""],
+        ["The Eve of St Agnes","1820",""],
+        ["Endymion","1818","'A thing of beauty is a joy for ever'"],
+        ["La Belle Dame sans Merci","1819","ballad"]]},
+{name:"Sir Walter Scott", dates:"1771 – 1832", ep:["The Father of the historical novel"],
+ note:"Began as a poet and turned to fiction, inventing the historical novel and making Scotland a subject for European literature. He published the novels anonymously as 'the author of Waverley'.",
+ works:[["Waverley","1814","the first historical novel"],
+        ["Ivanhoe","1819",""],
+        ["Rob Roy","1817",""],
+        ["The Lady of the Lake","1810","narrative poem"]]},
+{name:"Jane Austen", dates:"1775 – 1817", ep:["Mistress of irony and the novel of manners"],
+ note:"She wrote during the Romantic period but is not of it — no wild nature, no revolution, no visionary excess, but the comedy of three or four families in a country village, observed with unmatched precision. All her novels were published anonymously.",
+ works:[["Pride and Prejudice","1813",""],
+        ["Sense and Sensibility","1811",""],
+        ["Emma","1815",""],
+        ["Mansfield Park","1814",""],
+        ["Northanger Abbey","1817","satire on the Gothic novel"],
+        ["Persuasion","1817",""]]},
+{name:"Essayists and other novelists", dates:"", ep:[],
+ note:"",
+ works:[["Charles Lamb — Essays of Elia","1823","under the pen name Elia"],
+        ["William Hazlitt — Table Talk; The Spirit of the Age","1821, 1825","criticism"],
+        ["Thomas De Quincey — Confessions of an English Opium-Eater","1821",""],
+        ["Mary Shelley — Frankenstein","1818","the Gothic novel's masterpiece"],
+        ["Robert Southey — Poet Laureate 1813","","the third Lake Poet"]]}
+],
+plots:[
+{t:"The Rime of the Ancient Mariner",
+ p:["An old sailor stops a guest on his way to a wedding and compels him to hear his story. On a voyage south the ship is driven into ice, and an albatross appears and is greeted as a good omen — whereupon the Mariner shoots it, for no reason the poem ever supplies. That motiveless act is the centre of everything that follows.",
+    "The wind dies, the ship is becalmed under a burning sun — 'Water, water, every where, / Nor any drop to drink' — and the crew hang the dead bird around his neck. A spectral ship arrives carrying Death and Life-in-Death, who dice for the crew; all two hundred die, and the Mariner alone lives on among the corpses. Only when he blesses the water-snakes unawares does the spell break and the albatross fall from his neck. He is condemned to wander and retell the tale, and the moral he draws — that we must love all creatures — is famously too small for the horror that produced it."]},
+{t:"Ode on a Grecian Urn",
+ p:["Keats addresses a Greek vase, reading its carved scenes: lovers who will never kiss but whose love will never fade, a piper whose unheard melodies are sweeter than heard ones, a town emptied forever of the people going to sacrifice. Art holds life still at the moment of greatest intensity, and the cost of that permanence is that nothing in it can ever be completed.",
+    "The poem ends with the urn's own pronouncement — 'Beauty is truth, truth beauty, — that is all / Ye know on earth, and all ye need to know' — a line critics have argued over for two centuries."]}
+],
+extra:""
+},
+
+{
+id:"victorian", nav:"Victorian", title:"The Victorian Period", bn:"ভিক্টোরীয় যুগ",
+dates:"1832 – 1901", also:"Named for the reign of Queen Victoria (1837–1901)",
+named:"Queen Victoria",
+intro:[
+"The Victorian age is the age of the novel. A vastly expanded reading public, cheap serial publication in monthly parts and circulating libraries made fiction the dominant literary form for the first time, and the great Victorian novelists wrote for an audience that spanned the whole middle class.",
+"It is also an age of doubt. Industrialisation created enormous wealth and appalling cities; geology and then Darwin's <em>Origin of Species</em> (1859) undermined the literal authority of scripture; and the resulting crisis of faith runs through the period's best poetry, most explicitly in Tennyson's <em>In Memoriam</em> and Arnold's <em>Dover Beach</em>. The confident public surface — moral earnestness, respectability, imperial self-assurance — sits above a persistent private anxiety.",
+"Literature took on social work. Dickens attacked the workhouse, the debtors' prison and the law; Gaskell and Kingsley wrote industrial novels; Carlyle and Ruskin denounced the whole machinery of Victorian commerce. Toward the end of the century the mood shifts again with <strong>Aestheticism</strong> and the doctrine of art for art's sake, and with the pessimism of Hardy and the Decadents of the 1890s."
+],
+traits:[
+["The novel dominant","serial publication; a mass reading public"],
+["Social criticism","poverty, industry, education, class, reform"],
+["Faith and doubt","science, Darwin, and the crisis of belief"],
+["Moral earnestness","duty, respectability, the domestic ideal"],
+["Realism","detailed observation of contemporary society"],
+["The dramatic monologue","Browning's contribution to poetry"],
+["Imperialism","the empire as setting and assumption"],
+["Aestheticism at the close","art for art's sake; the Decadents"]
+],
+authors:[
+{name:"Alfred, Lord Tennyson", dates:"1809 – 1892", ep:["Poet Laureate 1850–1892","The representative voice of the age"],
+ note:"Laureate for forty-two years, the most popular poet England has had, and the one who gave Victorian doubt its most enduring expression in the long elegy for his friend Arthur Hallam.",
+ works:[["In Memoriam A.H.H.","1850","elegy in 133 sections; seventeen years' work"],
+        ["Idylls of the King","1859–85","Arthurian cycle"],
+        ["Ulysses","1842","'To strive, to seek, to find, and not to yield'"],
+        ["The Charge of the Light Brigade","1854",""],
+        ["The Lady of Shalott","1832",""],
+        ["Break, Break, Break; Crossing the Bar","",""]]},
+{name:"Robert Browning", dates:"1812 – 1889", ep:["Master of the dramatic monologue"],
+ note:"His characteristic form puts a single speaker in a charged moment and lets him reveal, unwittingly, far more than he intends. He eloped with Elizabeth Barrett to Italy in 1846.",
+ works:[["My Last Duchess","1842","the definitive dramatic monologue"],
+        ["The Ring and the Book","1868–69","a murder told twelve times over"],
+        ["Fra Lippo Lippi; Andrea del Sarto","1855",""],
+        ["Rabbi Ben Ezra","1864",""],
+        ["Pippa Passes","1841","'God's in his heaven — All's right with the world!'"]]},
+{name:"Matthew Arnold", dates:"1822 – 1888", ep:["The critic of the age"],
+ note:"Poet, school inspector and the most influential critic of his century, who argued that in the absence of religion, culture and poetry must do religion's work.",
+ works:[["Dover Beach","1867","'the melancholy, long, withdrawing roar' of faith"],
+        ["Culture and Anarchy","1869","criticism of society"],
+        ["The Scholar Gipsy; Thyrsis","1853, 1866",""],
+        ["Essays in Criticism","1865, 1888",""]]},
+{name:"Charles Dickens", dates:"1812 – 1870", ep:["The greatest Victorian novelist","Master of caricature and social protest"],
+ note:"Sent to work in a blacking factory at twelve when his father was imprisoned for debt — an experience that shaped everything he wrote. He published in monthly parts, which explains the cliffhangers and the enormous casts.",
+ works:[["Great Expectations","1861",""],
+        ["David Copperfield","1850","his own favourite; largely autobiographical"],
+        ["A Tale of Two Cities","1859","'It was the best of times, it was the worst of times'"],
+        ["Oliver Twist","1838",""],
+        ["Hard Times","1854","industrial England and utilitarian education"],
+        ["Bleak House","1853","the law's delays"],
+        ["The Pickwick Papers","1836","his first success"],
+        ["A Christmas Carol","1843",""]]},
+{name:"The Brontë sisters", dates:"Charlotte 1816–55 · Emily 1818–48 · Anne 1820–49", ep:[],
+ note:"Three sisters in an isolated Yorkshire parsonage who first published under the male pen names Currer, Ellis and Acton Bell. All three died young.",
+ works:[["Charlotte — Jane Eyre","1847","'Reader, I married him'"],
+        ["Emily — Wuthering Heights","1847","her only novel"],
+        ["Anne — The Tenant of Wildfell Hall","1848",""],
+        ["Charlotte — Villette; Shirley","1853, 1849",""]]},
+{name:"George Eliot", dates:"1819 – 1880", ep:["The most intellectual of Victorian novelists"],
+ note:"Mary Ann Evans wrote under a man's name to be taken seriously and to protect her private life — she lived openly with a married man for over twenty years. <em>Middlemarch</em> is regularly named the greatest novel in English.",
+ works:[["Middlemarch","1871–72","'a study of provincial life'"],
+        ["The Mill on the Floss","1860",""],
+        ["Silas Marner","1861",""],
+        ["Adam Bede","1859",""],
+        ["Daniel Deronda","1876",""]]},
+{name:"Thomas Hardy", dates:"1840 – 1928", ep:["The novelist of Wessex","Poet of pessimism"],
+ note:"He set his novels in a half-imagined 'Wessex' and was so wounded by the reception of <em>Jude the Obscure</em> that he abandoned fiction entirely and spent his last thirty years writing poetry, in which he is equally major.",
+ works:[["Tess of the d'Urbervilles","1891",""],
+        ["Far from the Madding Crowd","1874",""],
+        ["The Mayor of Casterbridge","1886",""],
+        ["Jude the Obscure","1895","his last novel"],
+        ["The Return of the Native","1878",""],
+        ["The Darkling Thrush; Poems 1912–13","","poetry"]]},
+{name:"Oscar Wilde", dates:"1854 – 1900", ep:["Leader of the Aesthetic movement","The wittiest man of his age"],
+ note:"Irish playwright, poet and aphorist, the public face of art for art's sake, ruined by imprisonment for homosexuality in 1895 and dead in Paris at forty-six.",
+ works:[["The Importance of Being Earnest","1895","'A trivial comedy for serious people'"],
+        ["The Picture of Dorian Gray","1890","his only novel"],
+        ["Lady Windermere's Fan; An Ideal Husband","1892, 1895",""],
+        ["The Ballad of Reading Gaol","1898",""],
+        ["De Profundis","1905","prose, written in prison"]]},
+{name:"Other Victorian writers", dates:"", ep:[],
+ note:"",
+ works:[["Elizabeth Barrett Browning — Sonnets from the Portuguese","1850","'How do I love thee? Let me count the ways'"],
+        ["Thomas Carlyle — Sartor Resartus; The French Revolution","1836, 1837",""],
+        ["John Ruskin — Modern Painters; Unto This Last","1843, 1862","art and social criticism"],
+        ["John Stuart Mill — On Liberty; The Subjection of Women","1859, 1869",""],
+        ["Dante Gabriel Rossetti & Christina Rossetti","","the Pre-Raphaelites; 'Goblin Market' 1862"],
+        ["Algernon Charles Swinburne — Poems and Ballads","1866",""],
+        ["W. M. Thackeray — Vanity Fair","1848","'a novel without a hero'"],
+        ["Elizabeth Gaskell — North and South; Mary Barton","1855, 1848","industrial novels"],
+        ["Anthony Trollope — Barchester Towers","1857",""],
+        ["Lewis Carroll — Alice's Adventures in Wonderland","1865",""],
+        ["Rudyard Kipling — Kim; The Jungle Book","1901, 1894","Nobel Prize 1907"],
+        ["Robert Louis Stevenson — Treasure Island; Dr Jekyll and Mr Hyde","1883, 1886",""],
+        ["Gerard Manley Hopkins","","'sprung rhythm'; published 1918, long after his death"]]}
+],
+plots:[
+{t:"My Last Duchess",
+ p:["The Duke of Ferrara shows an envoy a portrait of his previous wife, painted on the wall behind a curtain only he may draw. As he talks, he reveals that she smiled at everyone, thanked people for small kindnesses, and ranked his 'nine-hundred-years-old name' with anybody's gift — so he 'gave commands; / Then all smiles stopped together'.",
+    "He is negotiating for his next wife, and he says all this to her family's representative without any awareness of what he has confessed. That gap — between what the speaker intends to say and what the reader hears — is what the dramatic monologue exists to produce."]}
+],
+extra:""
+},
+
+{
+id:"modern", nav:"Modern", title:"The Modern Period", bn:"আধুনিক যুগ",
+dates:"1901 – 1939", also:"Edwardian (1901–1910) · Georgian (1910–1936)",
+named:"Modernism — the deliberate break with nineteenth-century form",
+intro:[
+"Modern literature is a literature of rupture. The First World War destroyed the moral confidence of the nineteenth century; Freud made the mind opaque to itself; Marx and Darwin had already unsettled society and species; Einstein unsettled space and time. Writers concluded that inherited forms could no longer hold experience, and set about breaking them.",
+"In fiction this produced the <strong>stream of consciousness</strong> — Joyce and Woolf abandoning external plot for the unedited flow of a mind — and the abandonment of the reliable narrator. In poetry it produced free verse, fragmentation, allusion and difficulty, above all in <em>The Waste Land</em> (1922), which remains the central document of English modernism. 1922 is the movement's annus mirabilis: <em>Ulysses</em> and <em>The Waste Land</em> in a single year.",
+"Two subordinate labels: the <strong>Edwardian</strong> period (1901–1910) covers the reign of Edward VII, when Shaw, Wells and Galsworthy still wrote confident social fiction and drama; the <strong>Georgian</strong> (1910–1936) covers George V, and includes both the pastoral Georgian poets and the War Poets who destroyed their idiom from the trenches."
+],
+traits:[
+["Break with tradition","inherited forms rejected as inadequate"],
+["Stream of consciousness","interior monologue; the unedited mind"],
+["Fragmentation","broken structure, juxtaposition, collage"],
+["Allusion and difficulty","the reader expected to work"],
+["Alienation","the isolated individual in the modern city"],
+["Loss of faith and certainty","no reliable narrator, no fixed truth"],
+["Myth as scaffolding","ancient patterns under modern chaos"],
+["War","the trenches as the century's defining experience"]
+],
+authors:[
+{name:"T. S. Eliot", dates:"1888 – 1965", ep:["The central figure of English modernism","Nobel Prize 1948"],
+ note:"American-born, later a British subject, and the poet-critic who reshaped both the writing and the reading of poetry in English. His criticism gave us the 'objective correlative' and the 'dissociation of sensibility', and restored the Metaphysical poets to favour.",
+ works:[["The Waste Land","1922","edited by Ezra Pound; the key modernist poem"],
+        ["The Love Song of J. Alfred Prufrock","1915",""],
+        ["Four Quartets","1943",""],
+        ["Murder in the Cathedral","1935","verse drama on Becket"],
+        ["The Hollow Men","1925","'This is the way the world ends / Not with a bang but a whimper'"],
+        ["Tradition and the Individual Talent","1919","criticism"]]},
+{name:"James Joyce", dates:"1882 – 1941", ep:["Master of the stream of consciousness"],
+ note:"An Irishman who left Dublin at twenty-two and wrote about nothing else for the rest of his life from Trieste, Zurich and Paris. <em>Ulysses</em> maps a single Dublin day — 16 June 1904, now Bloomsday — onto the structure of the <em>Odyssey</em>.",
+ works:[["Ulysses","1922","one day in Dublin; banned for obscenity for years"],
+        ["A Portrait of the Artist as a Young Man","1916",""],
+        ["Dubliners","1914","short stories, ending with 'The Dead'"],
+        ["Finnegans Wake","1939","seventeen years' work in a private language"]]},
+{name:"Virginia Woolf", dates:"1882 – 1941", ep:["Central figure of the Bloomsbury Group"],
+ note:"Novelist, essayist and critic who dissolved conventional plot into consciousness and time. <em>A Room of One's Own</em> is a founding text of feminist criticism — a woman needs money and a room of her own if she is to write fiction.",
+ works:[["Mrs Dalloway","1925","a single day in London"],
+        ["To the Lighthouse","1927",""],
+        ["Orlando","1928",""],
+        ["The Waves","1931",""],
+        ["A Room of One's Own","1929","essay"]]},
+{name:"W. B. Yeats", dates:"1865 – 1939", ep:["The greatest Irish poet","Nobel Prize 1923"],
+ note:"He began as a late Romantic writing Celtic twilight and remade himself in middle age into a hard, modern poet — the rare case of a writer whose best work is his last. Central to the Irish Literary Revival and the Abbey Theatre.",
+ works:[["The Second Coming","1919","'Things fall apart; the centre cannot hold'"],
+        ["Sailing to Byzantium","1928",""],
+        ["Easter, 1916","1916","'A terrible beauty is born'"],
+        ["The Lake Isle of Innisfree","1890",""],
+        ["Among School Children; Leda and the Swan","1928",""]]},
+{name:"George Bernard Shaw", dates:"1856 – 1950", ep:["Nobel Prize 1925","The greatest dramatist since Shakespeare, by his own estimate"],
+ note:"Irish playwright, critic and socialist who used the stage for argument — his plays come with prefaces longer than the plays. He is the only person to hold both a Nobel Prize and an Academy Award.",
+ works:[["Pygmalion","1913","later the source of My Fair Lady"],
+        ["Man and Superman","1903",""],
+        ["Saint Joan","1923",""],
+        ["Arms and the Man","1894",""],
+        ["Mrs Warren's Profession","1893",""]]},
+{name:"D. H. Lawrence", dates:"1885 – 1930", ep:[],
+ note:"A miner's son from Nottinghamshire whose novels of instinct, class and sexuality were repeatedly banned; the obscenity trial over <em>Lady Chatterley's Lover</em> came thirty years after his death.",
+ works:[["Sons and Lovers","1913",""],
+        ["Women in Love","1920",""],
+        ["The Rainbow","1915","suppressed on publication"],
+        ["Lady Chatterley's Lover","1928","unbanned in Britain only in 1960"]]},
+{name:"The War Poets", dates:"1914 – 1918", ep:[],
+ note:"Young officers who wrote from the Western Front and destroyed the patriotic rhetoric of the war from inside it. Owen's preface — 'My subject is War, and the pity of War. The Poetry is in the pity' — is their statement of intent. Owen was killed one week before the Armistice.",
+ works:[["Wilfred Owen — Dulce et Decorum Est; Anthem for Doomed Youth","1917–18","'The old Lie'"],
+        ["Siegfried Sassoon — Counter-Attack","1918",""],
+        ["Rupert Brooke — The Soldier","1914","'some corner of a foreign field'; the early, patriotic voice"],
+        ["Isaac Rosenberg — Break of Day in the Trenches","1916",""]]},
+{name:"Other modern writers", dates:"", ep:[],
+ note:"",
+ works:[["E. M. Forster — A Passage to India; Howards End","1924, 1910",""],
+        ["Joseph Conrad — Heart of Darkness; Lord Jim","1899, 1900","a Pole writing in his third language"],
+        ["H. G. Wells — The Time Machine; The War of the Worlds","1895, 1898","science fiction"],
+        ["Ezra Pound — Cantos; Hugh Selwyn Mauberley","","'Make it new'; edited The Waste Land"],
+        ["Aldous Huxley — Brave New World","1932","dystopia"],
+        ["W. H. Auden — The Age of Anxiety; September 1, 1939","","the leading poet of the 1930s"],
+        ["John Galsworthy — The Forsyte Saga","1922","Nobel Prize 1932"],
+        ["Katherine Mansfield — The Garden Party","1922","short stories"]]}
+],
+plots:[
+{t:"The Waste Land",
+ p:["Four hundred and thirty-four lines in five sections, built from fragments of dozens of texts in half a dozen languages, with the poet's own notes appended. There is no continuous narrative and no single speaker; voices surface and vanish — a Lithuanian aristocrat, a fortune teller, a pub conversation at closing time, a typist and a clerk, the Thames, the desert, the Ganges.",
+    "Underneath runs the myth of the Fisher King and the search for the Grail, taken from Jessie Weston and Frazer: a wounded king, a barren land, and a quest that might restore fertility. Eliot's post-war Europe is that barren land — 'A heap of broken images' — and the poem's closing Sanskrit benediction, <em>Shantih shantih shantih</em>, offers a peace it does not quite claim to have reached."]}
+],
+extra:""
+},
+
+{
+id:"postmodern", nav:"Postmodern", title:"The Postmodern Period", bn:"আধুনিকোত্তর যুগ",
+dates:"1939 – present", also:"Also called the Contemporary Period",
+named:"Its relation to, and reaction against, modernism",
+intro:[
+"The conventional starting point is 1939 — the outbreak of the Second World War and the deaths of Yeats and Freud in the same year. What follows is less a single movement than a set of conditions: the war and the Holocaust, the atomic bomb, the collapse of the British Empire, the rise of mass media, and the arrival in English literature of writers from the countries Britain once ruled.",
+"Where modernism mourned the loss of order, postmodernism treats the loss as a given and often as an opportunity. Its habits are playful and self-aware — <strong>metafiction</strong> that admits it is fiction, unreliable narrators, pastiche, irony, mixing of high and popular forms, and a scepticism about any grand explanatory story. Absurdist drama arrives with Beckett, whose <em>Waiting for Godot</em> is a play in which, as one early critic said, nothing happens, twice.",
+"The most consequential development is <strong>postcolonial literature</strong>. Writers from Africa, the Caribbean, South Asia and elsewhere took the English novel and made it carry their own histories — Achebe, Rushdie, Naipaul, Walcott, Soyinka, Gordimer, Coetzee, Adichie — so that English literature ceased to be the literature of England."
+],
+traits:[
+["Metafiction","fiction that draws attention to its own fictiveness"],
+["Irony and playfulness","parody, pastiche, black comedy"],
+["Scepticism of grand narratives","no single explanatory story is trusted"],
+["Fragmentation embraced","not lamented, as in modernism"],
+["High and popular culture mixed","genre and literary boundaries dissolve"],
+["Postcolonial voices","English literature written from everywhere"],
+["Absurdism in drama","Beckett, Pinter, the Theatre of the Absurd"],
+["Magic realism","the marvellous treated as ordinary"]
+],
+authors:[
+{name:"Samuel Beckett", dates:"1906 – 1989", ep:["Central figure of the Theatre of the Absurd","Nobel Prize 1969"],
+ note:"An Irishman who wrote first in French and translated himself into English, stripping drama and fiction down toward silence.",
+ works:[["Waiting for Godot","1953","two men wait for someone who never comes"],
+        ["Endgame","1957",""],
+        ["Krapp's Last Tape","1958",""],
+        ["Molloy; Malone Dies; The Unnamable","1951–53","the trilogy"]]},
+{name:"George Orwell", dates:"1903 – 1950", ep:[],
+ note:"Eric Blair, born in Bengal, educated at Eton, a policeman in Burma and a fighter in Spain. His two late books gave the language <em>Big Brother</em>, <em>doublethink</em>, <em>thoughtcrime</em> and <em>Orwellian</em>.",
+ works:[["Nineteen Eighty-Four","1949","dystopia"],
+        ["Animal Farm","1945","political allegory"],
+        ["Homage to Catalonia","1938",""],
+        ["Politics and the English Language","1946","essay"]]},
+{name:"Harold Pinter", dates:"1930 – 2008", ep:["Nobel Prize 2005","The 'Pinter pause'"],
+ note:"Master of menace in ordinary rooms and ordinary speech; his silences carry as much as his dialogue, and the adjective <em>Pinteresque</em> entered the language in his lifetime.",
+ works:[["The Birthday Party","1957",""],
+        ["The Caretaker","1960",""],
+        ["The Homecoming","1965",""]]},
+{name:"Chinua Achebe", dates:"1930 – 2013", ep:["The father of modern African literature"],
+ note:"His first novel answered the European view of Africa from inside it, and is among the most widely read books ever written by an African author. The title comes from Yeats.",
+ works:[["Things Fall Apart","1958",""],
+        ["No Longer at Ease","1960",""],
+        ["Arrow of God","1964",""]]},
+{name:"Salman Rushdie", dates:"b. 1947", ep:["Booker Prize 1981; Booker of Bookers"],
+ note:"Indian-born British writer whose blend of history, myth and magic realism reshaped the English novel — and whose fourth novel brought a fatwa and years in hiding.",
+ works:[["Midnight's Children","1981",""],
+        ["The Satanic Verses","1988",""],
+        ["Shame","1983",""]]},
+{name:"Poets after 1945", dates:"", ep:[],
+ note:"",
+ works:[["Philip Larkin — The Whitsun Weddings; High Windows","1964, 1974","the Movement"],
+        ["Ted Hughes — The Hawk in the Rain; Crow","1957, 1970","Poet Laureate 1984"],
+        ["Sylvia Plath — Ariel; The Bell Jar","1965, 1963","confessional poetry"],
+        ["Seamus Heaney — Death of a Naturalist; North","1966, 1975","Nobel Prize 1995"],
+        ["Dylan Thomas — Do Not Go Gentle into That Good Night","1951",""],
+        ["Derek Walcott — Omeros","1990","Nobel Prize 1992"]]},
+{name:"Novelists and dramatists after 1945", dates:"", ep:[],
+ note:"",
+ works:[["William Golding — Lord of the Flies","1954","Nobel Prize 1983"],
+        ["Doris Lessing — The Golden Notebook","1962","Nobel Prize 2007"],
+        ["V. S. Naipaul — A House for Mr Biswas","1961","Nobel Prize 2001"],
+        ["Iris Murdoch — The Sea, The Sea","1978",""],
+        ["John Fowles — The French Lieutenant's Woman","1969","metafiction"],
+        ["Tom Stoppard — Rosencrantz and Guildenstern Are Dead","1966",""],
+        ["John Osborne — Look Back in Anger","1956","the Angry Young Men"],
+        ["Kazuo Ishiguro — The Remains of the Day","1989","Nobel Prize 2017"],
+        ["Wole Soyinka","","Nobel Prize 1986; first African laureate"],
+        ["J. M. Coetzee — Disgrace","1999","Nobel Prize 2003"],
+        ["Chimamanda Ngozi Adichie — Half of a Yellow Sun","2006",""]]}
+],
+plots:[],
+extra:"<div class='callout'><b>Movements and labels worth knowing.</b> <strong>The Angry Young Men</strong> (1950s) — working-class dissatisfaction in Osborne, Amis and Sillitoe. <strong>The Movement</strong> (1950s) — plain, formal, anti-romantic verse; Larkin its central figure. <strong>The Theatre of the Absurd</strong> — Beckett, Pinter, Ionesco; the term is Martin Esslin's. <strong>Confessional poetry</strong> — Plath, Lowell, Sexton; private trauma as public subject. <strong>Magic realism</strong> — the marvellous narrated as fact; reached English through Rushdie.</div>"
+}
+];
+
+var REF = {
+epithets:[
+["Father of English Poetry / Father of English Literature","Geoffrey Chaucer"],
+["Father of English Prose","King Alfred the Great (also John Wycliffe)"],
+["Father of English Tragedy","Christopher Marlowe"],
+["Father of the English Essay","Francis Bacon"],
+["Father of the English Novel","Henry Fielding"],
+["Father of English Criticism","John Dryden"],
+["Father of English History","The Venerable Bede"],
+["Father of the Historical Novel","Sir Walter Scott"],
+["Father of Modern African Literature","Chinua Achebe"],
+["The Bard of Avon / Swan of Avon","William Shakespeare"],
+["The Poet's Poet","Edmund Spenser"],
+["The Poet of Nature","William Wordsworth"],
+["The Poet of Beauty","John Keats"],
+["The Poet of Love","John Donne"],
+["The Graveyard Poet","Thomas Gray"],
+["The Milton of the Anglo-Saxon Age","Caedmon"],
+["The Morning Star of the Reformation","John Wycliffe"],
+["The Morning Star of the Renaissance","Geoffrey Chaucer"],
+["The Last of the Metaphysical Poets","Andrew Marvell"],
+["Master of the Dramatic Monologue","Robert Browning"],
+["Master of Aphorism and Terseness","Francis Bacon"],
+["The Wisest Fool in Christendom","King James I"],
+["O Rare — (epitaph in Westminster Abbey)","Ben Jonson"]
+],
+firsts:[
+["First epic in English","Beowulf"],
+["First English poet known by name","Caedmon"],
+["First history and first prose work in English","The Anglo-Saxon Chronicle"],
+["First national poet of England","Geoffrey Chaucer"],
+["First complete English translation of the Bible","John Wycliffe, c. 1382"],
+["First romance in English prose","Le Morte d'Arthur, Sir Thomas Malory"],
+["First book printed in English","The Recuyell of the Historyes of Troye, Caxton 1473"],
+["First English comedy","Ralph Roister Doister, Nicholas Udall"],
+["First English tragedy","Gorboduc, Sackville and Norton"],
+["First English play in blank verse","Gorboduc"],
+["Introduced the sonnet into English","Sir Thomas Wyatt"],
+["Introduced blank verse into English","Henry Howard, Earl of Surrey"],
+["First English sonnet sequence","Astrophel and Stella, Sir Philip Sidney"],
+["First major work of English criticism","An Apology for Poetry, Sidney"],
+["First revenge tragedy","The Spanish Tragedy, Thomas Kyd"],
+["First Poet Laureate","John Dryden, 1668"],
+["First English novel (commonly said)","Robinson Crusoe, Defoe 1719"],
+["First English dictionary of note","Samuel Johnson, 1755"],
+["First historical novel","Waverley, Sir Walter Scott 1814"],
+["First professional woman writer in English","Aphra Behn"]
+],
+works:[
+["The Canterbury Tales","Geoffrey Chaucer"],
+["Piers Plowman","William Langland"],
+["Utopia","Sir Thomas More"],
+["The Faerie Queene","Edmund Spenser"],
+["Doctor Faustus","Christopher Marlowe"],
+["Volpone","Ben Jonson"],
+["The Duchess of Malfi","John Webster"],
+["Paradise Lost","John Milton"],
+["The Pilgrim's Progress","John Bunyan"],
+["Absalom and Achitophel","John Dryden"],
+["Gulliver's Travels","Jonathan Swift"],
+["The Rape of the Lock","Alexander Pope"],
+["Tom Jones","Henry Fielding"],
+["Pamela","Samuel Richardson"],
+["Elegy Written in a Country Churchyard","Thomas Gray"],
+["Lyrical Ballads","Wordsworth and Coleridge"],
+["The Rime of the Ancient Mariner","S. T. Coleridge"],
+["Ode on a Grecian Urn","John Keats"],
+["Ozymandias","P. B. Shelley"],
+["Don Juan","Lord Byron"],
+["Pride and Prejudice","Jane Austen"],
+["In Memoriam","Alfred, Lord Tennyson"],
+["My Last Duchess","Robert Browning"],
+["Dover Beach","Matthew Arnold"],
+["Great Expectations","Charles Dickens"],
+["Wuthering Heights","Emily Brontë"],
+["Jane Eyre","Charlotte Brontë"],
+["Middlemarch","George Eliot"],
+["Tess of the d'Urbervilles","Thomas Hardy"],
+["The Importance of Being Earnest","Oscar Wilde"],
+["The Waste Land","T. S. Eliot"],
+["Ulysses","James Joyce"],
+["Mrs Dalloway","Virginia Woolf"],
+["The Second Coming","W. B. Yeats"],
+["Pygmalion","G. B. Shaw"],
+["Sons and Lovers","D. H. Lawrence"],
+["Waiting for Godot","Samuel Beckett"],
+["Nineteen Eighty-Four","George Orwell"],
+["Things Fall Apart","Chinua Achebe"],
+["Midnight's Children","Salman Rushdie"]
+],
+quotes:[
+["To be, or not to be, that is the question","Hamlet — Shakespeare"],
+["Frailty, thy name is woman!","Hamlet — Shakespeare"],
+["All the world's a stage","As You Like It — Shakespeare"],
+["What's in a name?","Romeo and Juliet — Shakespeare"],
+["All that glitters is not gold","The Merchant of Venice — Shakespeare"],
+["Life's but a walking shadow","Macbeth — Shakespeare"],
+["Cowards die many times before their deaths","Julius Caesar — Shakespeare"],
+["Reading makes a full man…","Of Studies — Francis Bacon"],
+["Better to reign in Hell, than serve in Heaven","Paradise Lost — Milton"],
+["They also serve who only stand and wait","On His Blindness — Milton"],
+["A little learning is a dangerous thing","An Essay on Criticism — Pope"],
+["To err is human, to forgive divine","An Essay on Criticism — Pope"],
+["Water, water, every where, nor any drop to drink","The Ancient Mariner — Coleridge"],
+["A thing of beauty is a joy for ever","Endymion — Keats"],
+["Beauty is truth, truth beauty","Ode on a Grecian Urn — Keats"],
+["If Winter comes, can Spring be far behind?","Ode to the West Wind — Shelley"],
+["Full many a flower is born to blush unseen","Elegy in a Country Churchyard — Gray"],
+["Things fall apart; the centre cannot hold","The Second Coming — Yeats"],
+["Not with a bang but a whimper","The Hollow Men — T. S. Eliot"],
+["It was the best of times, it was the worst of times","A Tale of Two Cities — Dickens"]
+]
+};
+
+(function(){
+  var $=function(id){return document.getElementById(id);};
+  var esc=function(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});};
+  var cur=0, tab="periods";
+
+  /* --- period rail ------------------------------------------------- */
+  $("rail").innerHTML = PERIODS.map(function(p,i){
+    return '<button data-i="'+i+'">'+esc(p.nav)+'</button>';
+  }).join("");
+  $("rail").addEventListener("click",function(e){
+    var b=e.target.closest("button[data-i]");
+    if(!b) return;
+    cur=+b.getAttribute("data-i"); $("q").value=""; draw();
+  });
+
+  function authorHTML(a){
+    var eps=(a.ep||[]).map(function(e){return '<span class="epithet">'+esc(e)+'</span>';}).join("");
+    var works=(a.works||[]).map(function(w){
+      return '<li><span class="t">'+esc(w[0])+'</span>'+
+             (w[1]?'<span class="y">'+esc(w[1])+'</span>':'')+
+             (w[2]?'<br><span class="g">'+esc(w[2])+'</span>':'')+'</li>';
+    }).join("");
+    return '<div class="author">'+
+      '<div class="author-top"><h4 class="author-name" style="margin:0">'+esc(a.name)+'</h4>'+
+      (a.dates?'<span class="author-dates">'+esc(a.dates)+'</span>':'')+'</div>'+
+      (eps?'<div>'+eps+'</div>':'')+
+      (a.note?'<p style="font-size:13.5px;margin:6px 0 0">'+a.note+'</p>':'')+
+      (works?'<ul class="works">'+works+'</ul>':'')+
+    '</div>';
+  }
+
+  function periodHTML(p){
+    var h='<div class="period-head">'+
+      '<p class="period-kicker">'+esc(p.dates)+'</p>'+
+      '<h2>'+esc(p.title)+'</h2>'+
+      (p.bn?'<p class="bn">'+esc(p.bn)+'</p>':'')+
+      (p.also?'<p class="period-dates">'+p.also+'</p>':'')+
+    '</div>';
+    h+=p.intro.map(function(t,i){return '<p'+(i===0?' class="lead"':'')+'>'+t+'</p>';}).join("");
+    if(p.traits && p.traits.length){
+      h+='<h3>Characteristics of the age</h3><ul class="traits">'+
+        p.traits.map(function(t){return '<li><b>'+t[0]+'</b> — '+t[1]+'</li>';}).join("")+'</ul>';
+    }
+    h+='<h3>Writers and their works</h3>'+p.authors.map(authorHTML).join("");
+    if(p.plots && p.plots.length){
+      h+='<h3>Major works in outline</h3>'+p.plots.map(function(x){
+        return '<div class="plot"><h5>'+esc(x.t)+'</h5>'+x.p.map(function(t){return '<p>'+t+'</p>';}).join("")+'</div>';
+      }).join("");
+    }
+    if(p.extra) h+=p.extra;
+    return h;
+  }
+
+  /* --- search ------------------------------------------------------ */
+  function search(term){
+    var t=term.toLowerCase(), hits=[];
+    PERIODS.forEach(function(p,pi){
+      p.authors.forEach(function(a){
+        var hay=(a.name+" "+(a.ep||[]).join(" ")+" "+(a.note||"")+" "+
+                 (a.works||[]).map(function(w){return w.join(" ");}).join(" ")).toLowerCase();
+        if(hay.indexOf(t)>-1) hits.push({p:p,pi:pi,a:a});
+      });
+    });
+    if(!hits.length){
+      $("content").innerHTML='<div class="empty"><strong>No match for “'+esc(term)+'”.</strong><br>'+
+        'Try a surname, a title, or a phrase like “father of”.</div>';
+      $("hint").innerHTML="&nbsp;"; return;
+    }
+    var by={};
+    hits.forEach(function(h){ (by[h.pi]=by[h.pi]||[]).push(h.a); });
+    var html="";
+    Object.keys(by).forEach(function(pi){
+      var p=PERIODS[pi];
+      html+='<div class="period-head" style="border-bottom-width:2px"><p class="period-kicker">'+esc(p.dates)+
+            '</p><h2 style="font-size:22px">'+esc(p.title)+'</h2></div>'+
+            by[pi].map(authorHTML).join("");
+    });
+    $("content").innerHTML=html;
+    $("hint").innerHTML='<strong>'+hits.length+'</strong> match'+(hits.length===1?'':'es')+
+      ' for “'+esc(term)+'” across '+Object.keys(by).length+' period'+(Object.keys(by).length===1?'':'s')+
+      ' — <button class="btn" style="padding:2px 10px;font-size:12px" id="clearS">clear</button>';
+    var c=$("clearS"); if(c) c.onclick=function(){ $("q").value=""; draw(); };
+    mark(term);
+  }
+
+  function mark(term){
+    var re=new RegExp("("+term.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","ig");
+    var walk=function(node){
+      for(var i=0;i<node.childNodes.length;i++){
+        var n=node.childNodes[i];
+        if(n.nodeType===3 && re.test(n.nodeValue)){
+          var span=document.createElement("span");
+          span.innerHTML=n.nodeValue.replace(re,"<mark>$1</mark>");
+          n.parentNode.replaceChild(span,n); i++;
+        } else if(n.nodeType===1 && n.tagName!=="MARK"){ walk(n); }
+      }
+    };
+    walk($("content"));
+  }
+
+  function draw(){
+    var t=$("q").value.trim();
+    Array.prototype.forEach.call($("rail").querySelectorAll("button"),function(b){
+      b.setAttribute("aria-pressed",String(!t && +b.getAttribute("data-i")===cur));
+    });
+    if(t){ search(t); return; }
+    $("content").innerHTML=periodHTML(PERIODS[cur]);
+    $("hint").innerHTML='Period <strong>'+(cur+1)+'</strong> of '+PERIODS.length+
+      ' — use the search box to find any author, work or title across the whole page.';
+    window.scrollTo({top:0,behavior:"smooth"});
+  }
+  $("q").addEventListener("input",draw);
+
+  /* --- timeline ---------------------------------------------------- */
+  var TL=[
+   ["1","The Old English Period (Anglo-Saxon)","450 – 1066","The Angles and Saxons"],
+   ["2","The Middle English Period","1066 – 1500","The state of the language"],
+   ["","&nbsp;&nbsp;The Anglo-Norman Period","1066 – 1350","The Norman conquerors"],
+   ["","&nbsp;&nbsp;The Age of Chaucer","1340 – 1400","Geoffrey Chaucer"],
+   ["","&nbsp;&nbsp;The Barren / Dark Age","1400 – 1485","Its own sterility"],
+   ["3","The Renaissance Period","1500 – 1660","The revival of learning"],
+   ["","&nbsp;&nbsp;Preparation for the Renaissance","1500 – 1558",""],
+   ["","&nbsp;&nbsp;The Elizabethan Age","1558 – 1603","Queen Elizabeth I"],
+   ["","&nbsp;&nbsp;The Shakespearean Age","1590 – 1616","Shakespeare's working life"],
+   ["","&nbsp;&nbsp;The Jacobean Age","1603 – 1625","James I (Latin <em>Jacobus</em>)"],
+   ["","&nbsp;&nbsp;The Caroline Age","1625 – 1649","Charles I (Latin <em>Carolus</em>)"],
+   ["","&nbsp;&nbsp;The Puritan Age","1620 – 1660","The Puritan ascendancy"],
+   ["","&nbsp;&nbsp;The Commonwealth Period","1649 – 1660","Cromwell's republic"],
+   ["4","The Neo-Classical Period","1660 – 1798","Imitation of the classics"],
+   ["","&nbsp;&nbsp;The Restoration Period","1660 – 1700","The restored monarchy"],
+   ["","&nbsp;&nbsp;The Augustan Age / Age of Pope","1700 – 1745","Emperor Augustus; Alexander Pope"],
+   ["","&nbsp;&nbsp;The Age of Sensibility / Age of Johnson","1745 – 1798","Feeling; Dr Johnson"],
+   ["5","The Romantic Period","1798 – 1832","The Romantic movement"],
+   ["6","The Victorian Period","1832 – 1901","Queen Victoria"],
+   ["7","The Modern Period","1901 – 1939","Modernism"],
+   ["","&nbsp;&nbsp;The Edwardian Period","1901 – 1910","Edward VII"],
+   ["","&nbsp;&nbsp;The Georgian Period","1910 – 1936","George V"],
+   ["8","The Postmodern Period","1939 – present","Its reaction to modernism"]
+  ];
+  $("tl").innerHTML=TL.map(function(r){
+    var main=r[0]!=="";
+    return '<tr'+(main?' style="font-weight:bold"':'')+'><td>'+r[0]+'</td><td class="w">'+r[1]+
+           '</td><td style="font-family:var(--font-mono);font-size:12px">'+r[2]+'</td><td>'+r[3]+'</td></tr>';
+  }).join("");
+
+  /* --- quick reference --------------------------------------------- */
+  function fill(id,rows){
+    $(id).querySelector("tbody").innerHTML=rows.map(function(r){
+      return '<tr><td class="w">'+esc(r[0])+'</td><td class="ans">'+esc(r[1])+'</td></tr>';
+    }).join("");
+  }
+  fill("t-epithets",REF.epithets);
+  fill("t-firsts",REF.firsts);
+  fill("t-works",REF.works);
+  fill("t-quotes",REF.quotes);
+
+  var hidden=false;
+  $("toggleAns").onclick=function(){
+    hidden=!hidden;
+    ["t-epithets","t-firsts","t-works","t-quotes"].forEach(function(id){
+      $(id).classList.toggle("hideAns",hidden);
+      Array.prototype.forEach.call($(id).querySelectorAll("td.ans"),function(td){td.classList.remove("open");});
+    });
+    this.textContent=hidden?"Show the answers":"Hide the answers";
+    $("qrHint").textContent=hidden?"Tap a hidden cell to reveal it":"";
+  };
+  $("panel-ref").addEventListener("click",function(e){
+    var td=e.target.closest("td.ans");
+    if(td && hidden) td.classList.toggle("open");
+  });
+
+  /* --- tabs -------------------------------------------------------- */
+  ["periods","timeline","ref"].forEach(function(k){
+    $("tab-"+k).addEventListener("click",function(){
+      tab=k;
+      ["periods","timeline","ref"].forEach(function(x){
+        $("tab-"+x).setAttribute("aria-selected",String(x===k));
+        $("panel-"+x).classList.toggle("is-hidden",x!==k);
+      });
+      window.scrollTo({top:0,behavior:"smooth"});
+    });
+  });
+
+  draw();
+})();
+</script>
+</body>
+</html>
